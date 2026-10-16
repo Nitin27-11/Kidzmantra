@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <title>Kidzmantra</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="Kidzmantra: an AI learning buddy for kids from KG to Class 8. Pick your class, open a chapter and ask any question.">
+<meta name="description" content="Kidzmantra: an AI learning buddy for kids from Nursery to Class 8. Pick your class, open a chapter and ask any question.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Mulish:wght@400;600;700&display=swap">
@@ -92,6 +92,28 @@ select{padding:6px 10px;font-weight:700}
 .msg.bot{justify-self:start;background:var(--paper);border:2px solid var(--line);border-bottom-left-radius:4px}
 .msg.bot::before{content:"Mantra Buddy";display:block;font-family:var(--display);font-weight:800;font-size:.85rem;color:var(--leaf);margin-bottom:2px}
 .msg.note{justify-self:stretch;max-width:none;background:color-mix(in srgb,var(--turmeric) 18%,var(--sheet));border:2px dashed var(--turmeric);font-size:.92rem}
+.voice-panel{display:grid;gap:8px;padding:10px 12px;border:2px dashed var(--line);border-radius:12px}
+.voice-bar{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.voice-bar[hidden]{display:none}
+.voice-panel .hint{min-width:118px;font-weight:700}
+.chip.sm{padding:4px 12px;font-size:.8rem}
+.listen-row{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.say{border:2px solid var(--line);background:var(--sheet);color:var(--ink);border-radius:999px;padding:3px 12px;font:inherit;font-size:.8rem;font-weight:700;cursor:pointer}
+.say:hover,.say[aria-pressed="true"]{border-color:var(--ink)}
+.say:disabled{opacity:.6;cursor:wait}
+.btn.listening{background:var(--rose);border-color:var(--rose);color:#fff}
+/* read-along: the paragraph being read glows, the word being spoken pops */
+.msg .body p,.msg .body li{border-radius:8px;transition:background .3s,box-shadow .3s}
+.msg .body .reading{background:color-mix(in srgb,var(--sky) 16%,transparent);box-shadow:-4px 0 0 var(--sky)}
+.w{display:inline-block;border-radius:5px;padding:0 1px;transition:opacity .3s,background .15s}
+.w.said{opacity:.7}
+.w.now{background:var(--turmeric);color:#141A33;opacity:1}
+@media (prefers-reduced-motion:no-preference){
+  .msg .body .reading{animation:glow 1.6s ease-in-out infinite alternate}
+  .w.now{animation:pop .35s ease-out both}
+}
+@keyframes pop{0%{transform:scale(1)}45%{transform:scale(1.28) translateY(-3px)}100%{transform:scale(1.1)}}
+@keyframes glow{from{box-shadow:-4px 0 0 var(--sky)}to{box-shadow:-4px 0 0 var(--sky),0 0 14px color-mix(in srgb,var(--sky) 45%,transparent)}}
 .sources{margin-top:8px;font-size:.78rem;color:var(--ink-soft)}
 .sources a{color:var(--sky);font-weight:700}
 .msg.note code{font-size:.85em;background:var(--sheet);padding:1px 5px;border-radius:4px}
@@ -178,7 +200,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 
 <footer>
   <div class="wrap">
-    <div>© 2026 Kidzmantra · An AI learning buddy for KG to Class 8</div>
+    <div>© 2026 Kidzmantra · An AI learning buddy for Nursery to Class 8</div>
     <div>Answers are made by AI. Check important facts with a teacher or parent.</div>
   </div>
 </footer>
@@ -190,6 +212,8 @@ footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
    and gets back:
      { answer: "text", sources:[{url,title}] }  or  { error: "message" } */
 const AI_ENDPOINT = "/api/ask";
+const TRANSLATE_ENDPOINT = "/api/translate";
+const SPEAK_ENDPOINT = "/api/speak";
 
 const SUBJ={
   english:{n:"English",c:"t-o"},
@@ -202,49 +226,59 @@ const SUBJ={
 };
 
 const GRADES=[
- {id:"kg",n:"KG",face:"KG",age:"Ages 4–6",c:"t-y",s:{
+ {id:"nursery",n:"Nursery",face:"N",age:"Ages 3–4",c:"t-y",s:{
+  english:"Letters A to J|Letter sounds|Nursery rhymes|Picture talk|Listening to stories",
+  maths:"Numbers 1 to 10|Counting with fingers|Shapes: circle, square, triangle|Big and small|Matching and sorting",
+  world:"Parts of my body|My family|Colours around us|Pet animals|Fruits|Vehicles|Good manners",
+  hindi:"स्वर (अ से अः)|बाल कविताएँ (Rhymes)|चित्र पहचानो (Know the pictures)"}},
+ {id:"lkg",n:"LKG",face:"LKG",age:"Ages 4–5",c:"t-o",s:{
+  english:"Capital letters A to Z|Small letters a to z|Phonics sounds|Matching pictures and words|Rhymes and songs",
+  maths:"Numbers 1 to 50|Counting and writing numbers|Before and after|More and less|Shapes and colours|Patterns",
+  world:"My body and senses|My home|Domestic and wild animals|Birds around us|Fruits and vegetables|Means of transport|Our helpers|Festivals of India",
+  hindi:"स्वर (Vowels)|व्यंजन क से ज्ञ (Consonants)|चित्र से शब्द (Picture words)|बाल कविताएँ (Rhymes)"}},
+ {id:"ukg",n:"UKG",face:"UKG",age:"Ages 5–6",c:"t-g",s:{
   english:"Letters A to Z|Letter sounds (phonics)|Rhyming words|First sight words|Listening to stories",
   maths:"Numbers 1 to 20|Counting objects|Shapes around us|Big and small, tall and short|Patterns|Before, after and between",
   world:"My body|My family|Animals and their homes|Fruits and vegetables|Colours|Weather and seasons|Good habits",
   hindi:"स्वर (Vowels)|व्यंजन (Consonants)|Simple words|कविताएँ (Rhymes)"}},
- {id:"class-1",n:"Class 1",face:"1",age:"Ages 6–7",c:"t-o",s:{
+ {id:"class-1",n:"Class 1",face:"1",age:"Ages 6–7",c:"t-b",s:{
   english:"Alphabet and phonics|Naming words|Action words|Simple sentences|Reading short stories|Poems and rhymes",
   maths:"Numbers up to 100|Addition|Subtraction|Shapes and space|Long and short|Days of the week|Coins and notes|Patterns",
   evs:"Myself|My family|My home|Plants around us|Animals around us|Food we eat|Water|Our helpers",
   hindi:"वर्णमाला|मात्राएँ (Matras)|छोटे शब्द|कविताएँ|कहानियाँ"}},
- {id:"class-2",n:"Class 2",face:"2",age:"Ages 7–8",c:"t-g",s:{
+ {id:"class-2",n:"Class 2",face:"2",age:"Ages 7–8",c:"t-r",s:{
   english:"Naming words (nouns)|Pronouns|Action words (verbs)|Describing words (adjectives)|Opposites|Singular and plural|Reading comprehension|Writing short paragraphs",
   maths:"Numbers up to 1000|Addition with carrying|Subtraction with borrowing|Introduction to multiplication|Shapes and lines|Length and weight|Time and calendar|Money|Data handling",
   evs:"Our body|Food and health|Plants|Animals|Water|Air|Our neighbourhood|Festivals of India|Transport|Safety rules",
   hindi:"मात्राएँ|संज्ञा|वचन|विलोम शब्द|कविताएँ|कहानियाँ"}},
- {id:"class-3",n:"Class 3",face:"3",age:"Ages 8–9",c:"t-b",s:{
+ {id:"class-3",n:"Class 3",face:"3",age:"Ages 8–9",c:"t-y",s:{
   english:"Nouns and articles|Pronouns|Verbs and tenses|Adjectives|Punctuation|Sentences and questions|Reading comprehension|Letter writing|Poems",
   maths:"Numbers up to 10,000|Addition and subtraction|Multiplication tables|Division|Fractions: halves and quarters|Shapes and designs|Measurement|Time|Money|Patterns|Data handling",
   evs:"Living and non-living things|Parts of a plant|Animals and their young|Food we eat|Our body|Water sources|Houses|Maps and directions|Means of travel|Communication",
   hindi:"संज्ञा|सर्वनाम|लिंग|वचन|विशेषण|पत्र लेखन|कविताएँ|कहानियाँ"}},
- {id:"class-4",n:"Class 4",face:"4",age:"Ages 9–10",c:"t-r",s:{
+ {id:"class-4",n:"Class 4",face:"4",age:"Ages 9–10",c:"t-o",s:{
   english:"Kinds of nouns|Pronouns|Tenses|Adverbs|Prepositions|Conjunctions|Reading comprehension|Paragraph and story writing|Poems",
   maths:"Large numbers|Addition and subtraction|Multiplication|Division|Factors and multiples|Fractions|Decimals|Lines and angles|Perimeter and area|Measurement|Time|Money|Data handling",
   evs:"Our senses|Food and digestion|Teeth|Plants and seeds|Animals and their habitats|Water and its uses|Air|Clothes we wear|Maps|Our country India|Families and work",
   hindi:"संज्ञा और भेद|सर्वनाम|क्रिया|विशेषण|काल|पर्यायवाची शब्द|निबंध लेखन|कहानियाँ"}},
- {id:"class-5",n:"Class 5",face:"5",age:"Ages 10–11",c:"t-y",s:{
+ {id:"class-5",n:"Class 5",face:"5",age:"Ages 10–11",c:"t-g",s:{
   english:"Parts of speech|Subject and predicate|Tenses|Active and passive voice|Direct and indirect speech|Reading comprehension|Letter and essay writing|Poems",
   maths:"Large numbers and place value|Four operations|Factors, multiples, HCF and LCM|Fractions|Decimals|Percentage|Angles|Triangles and quadrilaterals|Perimeter, area and volume|Time and speed|Data handling|Patterns",
   evs:"Human body systems|Food and nutrition|Diseases and health|Seeds and growth|Animal senses and adaptation|Saving water|Air and pollution|Earth and the solar system|Natural disasters|Forests and tribes|States and cultures of India",
   hindi:"संज्ञा|सर्वनाम|क्रिया|विशेषण|काल|मुहावरे|पत्र लेखन|निबंध लेखन|कविताएँ"}},
- {id:"class-6",n:"Class 6",face:"6",age:"Ages 11–12",c:"t-o",s:{
+ {id:"class-6",n:"Class 6",face:"6",age:"Ages 11–12",c:"t-b",s:{
   english:"Parts of speech review|Tenses|Modals|Active and passive voice|Reported speech|Reading comprehension|Formal letters|Notice and essay writing|Prose and poems",
   maths:"Knowing our numbers|Whole numbers|Playing with numbers|Basic geometrical ideas|Integers|Fractions|Decimals|Data handling|Mensuration|Algebra|Ratio and proportion|Symmetry",
   science:"Where food comes from|Components of food|Fibre to fabric|Sorting materials|Separation of substances|Changes around us|Plants: form and function|Body movements|Living things and surroundings|Motion and measurement|Light, shadows and reflection|Electricity and circuits|Magnets|Water|Air around us|Garbage and recycling",
   social:"History: early humans|History: the Harappan cities|History: kingdoms and the Vedas|History: Ashoka and the Mauryas|Geography: Earth in the solar system|Geography: latitudes and longitudes|Geography: maps|Geography: major landforms|Geography: India's climate and wildlife|Civics: diversity|Civics: what is government|Civics: local government|Civics: rural and urban livelihoods",
   hindi:"संज्ञा, सर्वनाम, विशेषण|क्रिया और काल|संधि (परिचय)|मुहावरे और लोकोक्तियाँ|पत्र लेखन|निबंध लेखन|कविताएँ|कहानियाँ"}},
- {id:"class-7",n:"Class 7",face:"7",age:"Ages 12–13",c:"t-g",s:{
+ {id:"class-7",n:"Class 7",face:"7",age:"Ages 12–13",c:"t-r",s:{
   english:"Tenses review|Clauses|Active and passive voice|Reported speech|Reading comprehension|Diary and letter writing|Story writing|Prose and poems",
   maths:"Integers|Fractions and decimals|Data handling|Simple equations|Lines and angles|Triangles and their properties|Congruence of triangles|Percentages, profit and loss|Rational numbers|Perimeter and area|Algebraic expressions|Exponents and powers|Symmetry|Visualising solid shapes",
   science:"Nutrition in plants|Nutrition in animals|Heat|Acids, bases and salts|Physical and chemical changes|Weather, climate and adaptations|Winds, storms and cyclones|Soil|Respiration in organisms|Transportation in animals and plants|Reproduction in plants|Motion and time|Electric current and its effects|Light|Water: a precious resource|Forests|Wastewater",
   social:"History: the medieval period|History: the Delhi Sultans|History: the Mughal Empire|History: rulers and buildings|History: towns, traders and crafts|Geography: our environment|Geography: inside our Earth|Geography: air and water|Geography: natural vegetation and wildlife|Geography: human environments|Civics: equality in democracy|Civics: state government|Civics: media and advertising|Civics: markets around us",
   hindi:"संज्ञा और भेद|उपसर्ग और प्रत्यय|समास (परिचय)|वाच्य|मुहावरे|पत्र और निबंध लेखन|गद्य पाठ|कविताएँ"}},
- {id:"class-8",n:"Class 8",face:"8",age:"Ages 13–14",c:"t-b",s:{
+ {id:"class-8",n:"Class 8",face:"8",age:"Ages 13–14",c:"t-y",s:{
   english:"Tenses and modals|Active and passive voice|Reported speech|Clauses and sentence types|Reading comprehension|Formal letters and emails|Essay and article writing|Prose and poems",
   maths:"Rational numbers|Linear equations in one variable|Understanding quadrilaterals|Data handling and probability|Squares and square roots|Cubes and cube roots|Interest, discount and tax|Algebraic expressions and identities|Mensuration|Exponents and powers|Direct and inverse proportion|Factorisation|Graphs|Playing with numbers",
   science:"Crop production and management|Microorganisms|Synthetic fibres and plastics|Metals and non-metals|Coal and petroleum|Combustion and flame|Conservation of plants and animals|Cell: structure and functions|Reproduction in animals|Reaching adolescence|Force and pressure|Friction|Sound|Chemical effects of electric current|Natural phenomena: lightning and earthquakes|Light|Stars and the solar system|Pollution of air and water",
@@ -273,7 +307,7 @@ function fmt(t){
 
 async function askAI(question,ctx,history){
   const r=await fetch(AI_ENDPOINT,{method:"POST",headers:{"Content-Type":"application/json"},
-    body:JSON.stringify({question,grade:ctx.grade,subject:ctx.subject||null,chapter:ctx.chapter||null,history})});
+    body:JSON.stringify({question,grade:ctx.grade,subject:ctx.subject||null,chapter:ctx.chapter||null,lang:VOICE.answer,history})});
   let j={};try{j=await r.json()}catch(e){}
   if(!r.ok)throw new Error(j.error||"Server said "+r.status);
   return j;
@@ -287,14 +321,269 @@ function sourcesHTML(list){
 }
 
 /* ---------- chat box ---------- */
+/* ---------- voice: answers read aloud in a warm tutor voice (Gemini, through /api/speak) with a
+   moving highlight; questions asked by speaking. The browser's own voice is the backup. ---------- */
+const VOICE={answer:"en",ask:"en",speed:1,auto:true};
+try{
+  const v=JSON.parse(localStorage.getItem("km-voice")||"{}");
+  for(const k of ["answer","ask"])if(v[k]==="hi"||v[k]==="en")VOICE[k]=v[k];
+  if([1,1.5,2].includes(v.speed))VOICE.speed=v.speed;
+  if(typeof v.auto==="boolean")VOICE.auto=v.auto;
+}catch(e){}
+const saveVoice=()=>{try{localStorage.setItem("km-voice",JSON.stringify(VOICE))}catch(e){}};
+const TTS="speechSynthesis" in window;
+const Recog=window.SpeechRecognition||window.webkitSpeechRecognition;
+const BASE_RATE=.8; // backup voice: "1x" is a little slower than normal speech so children can follow
+const EMOJI=/[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}\uFE0F]/gu;
+let tutorVoice=true; // turned off if the server has no voice set up
+const TUTOR_RATE=.9; // tutor voice at "1x" plays a little slower than normal, for children
+const player=new Audio();
+player.preservesPitch=true;
+// Safari only lets a page play sound it starts during a tap, so wake the player on the first tap.
+const unlockPlayer=()=>{player.src="data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAQB8AAIA+AAACABAAZGF0YQAAAAA=";player.play().catch(()=>{})};
+document.addEventListener("pointerdown",unlockPlayer,{once:true});
+document.addEventListener("keydown",unlockPlayer,{once:true});
+const DEVA=/[ऀ-ॿ]/;
+const langOf=t=>(t.match(/[ऀ-ॿ]/g)||[]).length>(t.match(/[A-Za-z]/g)||[]).length*.5?"hi":"en";
+if(TTS)speechSynthesis.getVoices(); // voices load in the background
+
+function pickVoice(code){
+  const want=code==="hi"?["hi"]:["en-in","en-gb","en-us","en"];
+  const vs=TTS?speechSynthesis.getVoices():[];
+  for(const w of want){
+    const m=vs.filter(v=>v.lang.replace("_","-").toLowerCase().startsWith(w));
+    // Voices on the device report each word as it is spoken, which drives the highlight.
+    if(m.length)return m.find(v=>v.localService)||m[0];
+  }
+  return null;
+}
+
+// Wrap every word of an answer in a span, remembering where each word sits in its
+// paragraph so the highlight can follow the voice.
+function prepareReading(body){
+  return [...body.querySelectorAll("p,li")].map(block=>{
+    const words=[],nodes=[],walker=document.createTreeWalker(block,NodeFilter.SHOW_TEXT);
+    let text="";
+    while(walker.nextNode())nodes.push(walker.currentNode);
+    for(const n of nodes){
+      const frag=document.createDocumentFragment();
+      for(const part of n.nodeValue.split(/(\s+)/)){
+        if(!part)continue;
+        if(/^\s+$/.test(part)){frag.appendChild(document.createTextNode(part));text+=part;continue}
+        const span=document.createElement("span");
+        span.className="w";span.textContent=part;
+        words.push({el:span,start:text.length,end:text.length+part.length});
+        text+=part;frag.appendChild(span);
+      }
+      n.replaceWith(frag);
+    }
+    return {block,words,text};
+  });
+}
+
+// Split a paragraph into sentences, and each sentence into Hindi and English runs,
+// so every piece is spoken by a voice of the right language.
+function piecesOf(r){
+  const out=[],spoken=r.text.replace(EMOJI,m=>" ".repeat(m.length));
+  const sentence=/[^.!?।\n]+[.!?।]*/g;let s;
+  while((s=sentence.exec(spoken))){
+    const run=/[ऀ-ॿ][ऀ-ॿ\s,;:'"()0-9-]*|[^ऀ-ॿ]+/g;let m;
+    while((m=run.exec(s[0])))
+      if(/[\p{L}\p{N}]/u.test(m[0]))out.push({text:m[0],at:s.index+m.index,code:DEVA.test(m[0])?"hi":"en"});
+  }
+  return out;
+}
+
+const reader={session:0,queue:[],i:0,u:null,timer:null,raf:0,onDone:null};
+function clearMarks(){
+  document.querySelectorAll(".w.now").forEach(e=>e.classList.remove("now"));
+  document.querySelectorAll(".reading").forEach(e=>e.classList.remove("reading"));
+}
+function stopSpeaking(){
+  const d=reader.onDone;
+  reader.session++;reader.onDone=null;reader.queue=[];reader.u=null;
+  clearTimeout(reader.timer);cancelAnimationFrame(reader.raf);
+  player.pause();
+  if(TTS)speechSynthesis.cancel();
+  clearMarks();
+  if(d)d();
+}
+function markWord(r,pos){
+  const k=r.words.findIndex(w=>pos<w.end);
+  if(k<0||r.words[k].el.classList.contains("now"))return;
+  r.block.querySelectorAll(".w.now").forEach(e=>e.classList.remove("now"));
+  for(let j=0;j<k;j++)r.words[j].el.classList.add("said");
+  r.words[k].el.classList.add("now");
+}
+// Highlight the paragraph and word at this point (0 to 1) of a piece of tutor audio. The voice
+// doesn't report word timings, so the place is worked out from the share of letters read.
+function markAt(c,frac){
+  let target=frac*c.total;
+  for(const r of c.blocks){
+    const weight=r.text.length+12; // a little extra for the pause after each paragraph
+    if(target<weight||r===c.blocks[c.blocks.length-1]){
+      if(!r.block.classList.contains("reading")){
+        clearMarks();r.block.classList.add("reading");
+        r.block.scrollIntoView({block:"nearest",behavior:"smooth"});
+      }
+      markWord(r,Math.min(r.text.length-1,Math.floor(target/weight*r.text.length)));
+      return;
+    }
+    target-=weight;
+  }
+}
+// The first paragraph is voiced on its own so speaking starts quickly; the rest in bigger pieces.
+function chunkBlocks(blocks){
+  const out=[];let cur=null;
+  blocks.forEach((r,i)=>{
+    if(!cur||i===1||cur.len+r.text.length>500){cur={blocks:[],len:0};out.push(cur)}
+    cur.blocks.push(r);cur.len+=r.text.length;
+  });
+  for(const c of out){
+    c.text=c.blocks.map(r=>r.text.replace(EMOJI,"")).join("\n");
+    c.total=c.blocks.reduce((a,r)=>a+r.text.length+12,0);
+  }
+  return out;
+}
+const voiceCache=new Map();
+function fetchVoice(text){
+  if(!voiceCache.has(text)){
+    const p=fetch(SPEAK_ENDPOINT,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({text})})
+      .then(r=>{if(r.status===501)tutorVoice=false;if(!r.ok)throw new Error("voice "+r.status);return r.blob()})
+      .then(b=>URL.createObjectURL(b));
+    p.catch(()=>voiceCache.delete(text));
+    voiceCache.set(text,p);
+  }
+  return voiceCache.get(text);
+}
+function readAloud(blocks,onDone,onPlay){
+  stopSpeaking();
+  blocks.forEach(r=>r.words.forEach(w=>w.el.classList.remove("said","now")));
+  reader.onDone=onDone||null;
+  const session=reader.session,live=()=>reader.session===session;
+  if(!tutorVoice){if(onPlay)onPlay();browserRead(blocks);return}
+  const chunks=chunkBlocks(blocks),audio=chunks.map(c=>fetchVoice(c.text));
+  audio.forEach(p=>p.catch(()=>{}));
+  const fallback=n=>{if(live()){if(onPlay)onPlay();browserRead(chunks.slice(n).flatMap(c=>c.blocks))}};
+  const play=async n=>{
+    if(!live())return;
+    if(n>=chunks.length){finishReading();return}
+    let url;
+    try{url=await audio[n]}catch(e){fallback(n);return}
+    if(!live())return;
+    const c=chunks[n];
+    player.src=url;
+    player.defaultPlaybackRate=player.playbackRate=TUTOR_RATE*VOICE.speed;
+    const follow=()=>{
+      if(!live())return;
+      if(player.duration&&isFinite(player.duration))markAt(c,player.currentTime/player.duration);
+      reader.raf=requestAnimationFrame(follow);
+    };
+    player.onplaying=()=>{if(live()){if(n===0&&onPlay)onPlay();cancelAnimationFrame(reader.raf);follow()}};
+    player.onended=()=>{if(live()){cancelAnimationFrame(reader.raf);play(n+1)}};
+    player.onerror=()=>fallback(n);
+    player.play().catch(()=>fallback(n));
+  };
+  play(0);
+}
+function finishReading(){
+  const d=reader.onDone;
+  reader.onDone=null;reader.u=null;cancelAnimationFrame(reader.raf);clearMarks();
+  if(d)d();
+}
+// Backup: the browser's own voice, one sentence at a time, so speed changes and Stop work straight away.
+function browserRead(blocks){
+  if(!TTS){finishReading();return}
+  reader.queue=blocks.flatMap(r=>piecesOf(r).map(p=>({...p,r})));
+  reader.i=0;
+  speakNext();
+}
+function speakNext(){
+  clearTimeout(reader.timer);
+  const p=reader.queue[reader.i++];
+  if(!p){finishReading();return}
+  document.querySelectorAll(".reading").forEach(e=>{if(e!==p.r.block)e.classList.remove("reading")});
+  p.r.block.classList.add("reading");
+  p.r.block.scrollIntoView({block:"nearest",behavior:"smooth"});
+  const u=new SpeechSynthesisUtterance(p.text),v=pickVoice(p.code);
+  if(v)u.voice=v;
+  u.lang=v?v.lang:(p.code==="hi"?"hi-IN":"en-IN");
+  u.rate=BASE_RATE*VOICE.speed;
+  let boundaries=false;
+  u.onstart=()=>{
+    markWord(p.r,p.at);
+    // Some voices never report words; then move the highlight along at an estimated pace.
+    const t0=Date.now(),msPerChar=1000/(14*u.rate);
+    const tick=()=>{
+      if(boundaries||reader.u!==u)return;
+      markWord(p.r,Math.min(p.at+p.text.length-1,p.at+Math.floor((Date.now()-t0)/msPerChar)));
+      reader.timer=setTimeout(tick,120);
+    };
+    reader.timer=setTimeout(tick,400);
+  };
+  u.onboundary=e=>{if(e.name&&e.name!=="word")return;boundaries=true;markWord(p.r,p.at+e.charIndex)};
+  u.onend=()=>{if(reader.u===u)speakNext()};
+  u.onerror=e=>{if(reader.u===u&&e.error!=="interrupted"&&e.error!=="canceled")speakNext()};
+  reader.u=u;
+  speechSynthesis.speak(u);
+}
+
+async function translateAI(text,to){
+  const r=await fetch(TRANSLATE_ENDPOINT,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({text,to})});
+  let j={};try{j=await r.json()}catch(e){}
+  if(!r.ok||!j.text)throw new Error(j.error||"Server said "+r.status);
+  return j.text;
+}
+
+// "🔊 English" and "🔊 हिंदी" under an answer. Picking the other language translates the
+// answer first, shows the translation, and reads it.
+function addListenButtons(msg,ans){
+  if(!TTS&&!tutorVoice)return null;
+  const body=msg.querySelector(".body"),texts={[langOf(ans)]:ans},btns={};
+  const label={en:"🔊 English",hi:"🔊 हिंदी"};
+  let shown=langOf(ans),blocks=prepareReading(body);
+  const row=document.createElement("div");
+  row.className="listen-row";
+  const idle=()=>{for(const k in btns){btns[k].textContent=label[k];btns[k].setAttribute("aria-pressed","false")}};
+  for(const code of ["en","hi"]){
+    const b=document.createElement("button");
+    b.type="button";b.className="say";btns[code]=b;row.appendChild(b);
+    b.addEventListener("click",async()=>{
+      if(b.getAttribute("aria-pressed")==="true"){stopSpeaking();return}
+      stopSpeaking();
+      if(!texts[code]){
+        b.textContent=code==="hi"?"⏳ हिंदी में बदल रहे हैं…":"⏳ Translating…";b.disabled=true;
+        try{texts[code]=await translateAI(texts[shown],code)}
+        catch(e){b.disabled=false;idle();b.textContent="⚠️ Try again";return}
+        b.disabled=false;
+      }
+      if(shown!==code){shown=code;body.innerHTML=fmt(texts[code]);body.lang=code;blocks=prepareReading(body)}
+      idle();
+      b.textContent=code==="hi"?"⏳ आवाज़ आ रही है…":"⏳ Getting the voice…";b.setAttribute("aria-pressed","true");
+      readAloud(blocks,idle,()=>{b.textContent="⏹ Stop"});
+    });
+  }
+  idle();
+  msg.appendChild(row);
+  return btns;
+}
+
 function chatHTML(placeholder,starters){
+  const opt=(set,val,text)=>`<button type="button" class="chip sm" data-set="${set}" data-val="${val}">${text}</button>`;
   return `<div class="thread" id="thread" aria-live="polite"></div>
   ${starters.length?`<div class="chips" id="starters">${starters.map(s=>`<button type="button" class="chip">${esc(s)}</button>`).join("")}</div>`:""}
+  <div class="voice-panel">
+    <div class="voice-bar"><span class="hint">Answer &amp; listen in</span>${opt("answer","en","English")}${opt("answer","hi","हिंदी")}</div>
+    <div class="voice-bar" id="askLangRow" hidden><span class="hint">Ask by voice in</span>${opt("ask","en","English")}${opt("ask","hi","हिंदी")}</div>
+    <div class="voice-bar" id="speedRow" hidden><span class="hint">Voice speed</span>${opt("speed","1","1x")}${opt("speed","1.5","1.5x")}${opt("speed","2","2x")}
+      <button type="button" class="chip sm" id="autoSpeak"></button></div>
+  </div>
   <form class="ask" id="askForm">
-    <label for="q" class="hint">Type your question</label>
+    <label for="q" class="hint">Type your question, or press Speak and ask out loud</label>
     <textarea id="q" placeholder="${esc(placeholder)}" required></textarea>
     <div class="ask-row"><span class="hint">Press Enter to ask · Shift+Enter for a new line</span>
-    <button class="btn btn-main" id="askBtn" type="submit">Ask Mantra Buddy</button></div>
+    <span class="voice-bar"><button class="btn btn-ghost" id="micBtn" type="button" hidden>🎤 Speak</button>
+    <button class="btn btn-main" id="askBtn" type="submit">Ask Mantra Buddy</button></span></div>
   </form>`;
 }
 function bindChat(getCtx){
@@ -313,7 +602,9 @@ function bindChat(getCtx){
     try{
       const res=await askAI(text,getCtx(),history.slice(-8));
       const ans=res.answer||"Hmm, I could not think of an answer. Try asking in a different way?";
-      wait.innerHTML=fmt(ans)+sourcesHTML(res.sources);
+      wait.innerHTML=`<div class="body">${fmt(ans)}</div>`+sourcesHTML(res.sources);
+      const listen=addListenButtons(wait,ans);
+      if(listen&&VOICE.auto)listen[VOICE.answer].click();
       history.push({role:"user",text},{role:"assistant",text:ans});
     }catch(e){
       wait.className="msg note";
@@ -321,6 +612,54 @@ function bindChat(getCtx){
     }finally{btn.disabled=false;thread.scrollTop=thread.scrollHeight}
   }
   form.addEventListener("submit",e=>{e.preventDefault();send(q.value)});
+
+  // Voice settings: answer language, voice-question language, speed, read aloud on/off.
+  const opts=document.querySelectorAll(".voice-panel [data-set]"),auto=document.getElementById("autoSpeak"),
+        mic=document.getElementById("micBtn"),placeholder0=q.placeholder;
+  const showVoice=()=>{
+    opts.forEach(b=>b.setAttribute("aria-pressed",String(String(VOICE[b.dataset.set])===b.dataset.val)));
+    auto.textContent=VOICE.auto?"🔊 Read answers aloud: On":"🔇 Read answers aloud: Off";
+    auto.setAttribute("aria-pressed",String(VOICE.auto));
+    q.placeholder=VOICE.answer==="hi"?"अपना सवाल यहाँ लिखो…":placeholder0;
+  };
+  opts.forEach(b=>b.addEventListener("click",()=>{
+    VOICE[b.dataset.set]=b.dataset.set==="speed"?+b.dataset.val:b.dataset.val;
+    if(b.dataset.set==="speed")player.playbackRate=TUTOR_RATE*VOICE.speed;
+    saveVoice();showVoice();
+  }));
+  document.getElementById("speedRow").hidden=false;
+  {
+    auto.addEventListener("click",()=>{VOICE.auto=!VOICE.auto;saveVoice();if(!VOICE.auto)stopSpeaking();showVoice()});
+  }
+  showVoice();
+
+  // Ask by speaking: listens in the chosen language, then asks what it heard.
+  let recog=null;
+  if(Recog){
+    mic.hidden=false;
+    document.getElementById("askLangRow").hidden=false;
+    mic.addEventListener("click",()=>{
+      if(recog){recog.stop();return}
+      stopSpeaking();
+      recog=new Recog();
+      recog.lang=VOICE.ask==="hi"?"hi-IN":"en-IN";
+      recog.interimResults=true;
+      let heard="",failed=false;
+      recog.onresult=e=>{heard=Array.from(e.results,r=>r[0].transcript).join("");q.value=heard};
+      recog.onerror=e=>{
+        failed=true;
+        if(e.error==="not-allowed"||e.error==="service-not-allowed")
+          add("note","<p>Mantra Buddy can't hear you. Please allow the microphone for this site in your browser, then press Speak again.</p>");
+        else if(e.error==="no-speech")add("note","<p>I didn't hear anything. Press Speak and try again!</p>");
+      };
+      recog.onend=()=>{
+        recog=null;mic.classList.remove("listening");mic.textContent="🎤 Speak";
+        if(!failed&&heard.trim())send(heard);
+      };
+      mic.classList.add("listening");mic.textContent="⏹ Stop listening";
+      recog.start();
+    });
+  }
   q.addEventListener("keydown",e=>{if(e.key==="Enter"&&!e.shiftKey){e.preventDefault();send(q.value)}});
   document.querySelectorAll("#starters .chip").forEach(c=>c.addEventListener("click",()=>send(c.textContent)));
 }
@@ -330,11 +669,11 @@ function home(){
   app.innerHTML=`
   <div class="wrap hero">
     <div>
-      <div class="eyebrow">KG to Class 8 · Every subject</div>
+      <div class="eyebrow">Nursery to Class 8 · Every subject</div>
       <h1>Ask anything. <em>Learn everything.</em></h1>
       <p class="lede">Kidzmantra is an AI learning buddy for school kids. Pick your class, open any chapter, and ask questions until it makes sense. Answers come at your level, in simple words.</p>
       <div class="trust">
-        <div><b>9</b> classes</div>
+        <div><b>${GRADES.length}</b> classes</div>
         <div><b>${GRADES.reduce((a,g)=>a+count(g),0)}</b> chapters</div>
         <div><b>English + Hindi</b></div>
       </div>
@@ -367,7 +706,7 @@ function home(){
     <div class="wrap">
       <div class="head"><div class="eyebrow">How it works</div><h2>Three easy steps</h2></div>
       <div class="steps">
-        <div class="step"><h3>Pick your class</h3><p>From KG to Class 8, choose where you study.</p></div>
+        <div class="step"><h3>Pick your class</h3><p>From Nursery to Class 8, choose where you study.</p></div>
         <div class="step"><h3>Open a chapter</h3><p>Every subject is split into chapters, just like your school book.</p></div>
         <div class="step"><h3>Ask anything</h3><p>Ask for an explanation, an example, or a quick quiz. Ask again until it clicks.</p></div>
       </div>
@@ -433,6 +772,7 @@ function chapterPage(g,k,n){
 
 /* ---------- router: #/  #/class-3  #/class-3/maths  #/class-3/maths/4 ---------- */
 function route(){
+  stopSpeaking();
   const [gid,k,n]=location.hash.replace(/^#\/?/,"").split("/");
   const g=gradeById(gid);
   jump.value=g?g.id:"";
