@@ -1,0 +1,236 @@
+@@ 1
+## Numbers up to 1000
+Now we count with **hundreds**, **tens** and **ones**.
+
+## Place value
+- 1 hundred = 10 tens = 100 ones
+- 345 = **3 hundreds + 4 tens + 5 ones**
+- 708 = 7 hundreds + 0 tens + 8 ones
+- 1000 = 10 hundreds (one thousand)
+
+## Number names
+- 125 – one hundred twenty-five
+- 460 – four hundred sixty
+- 999 – nine hundred ninety-nine
+
+## Comparing numbers
+Compare hundreds first. 452 > 398 because 4 hundreds is more than 3 hundreds.
+**>** means greater than, **<** means less than, **=** means equal.
+> 💡 The smallest 3-digit number is 100; the greatest is 999.
+
+## Let's check
+Q: Write 6 hundreds, 2 tens and 9 ones as a number.
+A: 629.
+Q: Which is greater: 589 or 598?
+A: 598.
+Q: What is the place value of 7 in 374?
+A: 70 (7 tens).
+
+@@ 2
+## Addition with carrying
+When the ones add up to **10 or more**, we **carry** 1 ten to the tens place.
+
+## Example
+  47
++ 35
+Step 1: Ones: 7 + 5 = 12. Write **2**, carry **1** ten.
+Step 2: Tens: 4 + 3 + 1 (carried) = **8**.
+Answer: **82**
+
+## Another example
+  168
++ 254
+Ones: 8 + 4 = 12 → write 2, carry 1.
+Tens: 6 + 5 + 1 = 12 → write 2, carry 1.
+Hundreds: 1 + 2 + 1 = 4.
+Answer: **422**
+> 💡 Always start adding from the ones place (the right side).
+
+## Let's check
+Q: 56 + 27 = ?
+A: 83.
+Q: 238 + 145 = ?
+A: 383.
+Q: A shop sold 65 pens on Monday and 48 on Tuesday. How many in all?
+A: 113 pens.
+
+@@ 3
+## Subtraction with borrowing
+When the top digit is **smaller** than the bottom digit, we **borrow** 1 ten from the tens place.
+
+## Example
+  52
+– 27
+Ones: 2 – 7? Not possible. Borrow 1 ten → 12 – 7 = **5**.
+Tens: 5 became 4. 4 – 2 = **2**.
+Answer: **25**
+
+## Another example
+  403
+– 156
+Ones: 3 – 6? Borrow. The tens is 0, so borrow from hundreds first: 4 hundreds → 3 hundreds, tens become 10, then 9 tens, ones become 13.
+13 – 6 = 7, 9 – 5 = 4, 3 – 1 = 2 → **247**
+> 💡 Check subtraction by adding: 247 + 156 = 403 ✔
+
+## Let's check
+Q: 61 – 34 = ?
+A: 27.
+Q: 500 – 125 = ?
+A: 375.
+Q: There were 90 children. 46 went home. How many are left?
+A: 44.
+
+@@ 4
+## Introduction to multiplication
+**Multiplication** is quick, repeated addition of equal groups. We use the sign **×**.
+
+## Equal groups
+3 plates with 4 laddoos each: 4 + 4 + 4 = 12
+So **3 × 4 = 12** (3 groups of 4).
+
+## Tables of 2, 3, 4 and 5
+- 2 × 1 = 2, 2 × 2 = 4, 2 × 3 = 6 … 2 × 10 = 20
+- 3 × 1 = 3, 3 × 2 = 6, 3 × 3 = 9 … 3 × 10 = 30
+- 5 × 1 = 5, 5 × 2 = 10 … 5 × 10 = 50
+- 10 × 1 = 10 … 10 × 10 = 100
+
+## Fun facts
+- Any number × 1 = the same number.
+- Any number × 0 = 0.
+- 2 × 5 = 5 × 2 (order doesn't change the answer).
+> 💡 The 5 table always ends in 5 or 0.
+
+## Let's check
+Q: 4 + 4 + 4 + 4 + 4 written as multiplication?
+A: 5 × 4 = 20.
+Q: 3 × 6 = ?
+A: 18.
+Q: A cycle has 2 wheels. How many wheels on 7 cycles?
+A: 14.
+
+@@ 5
+## Kinds of lines
+Lines and shapes are the building blocks of every drawing.
+- **Straight line** — like the edge of a ruler.
+- **Curved line** — like a rainbow.
+- **Standing (vertical) line** — like a pole.
+- **Sleeping (horizontal) line** — like the horizon.
+- **Slanting line** — like a slide in the park.
+
+## Flat shapes and their parts
+- **Triangle:** 3 sides, 3 corners.
+- **Square:** 4 equal sides, 4 corners.
+- **Rectangle:** 4 sides, opposite sides equal.
+- **Circle:** 1 curved line, no corners.
+
+## Solid shapes
+Cube, cuboid, sphere, cylinder, cone. A cube has **6 faces**, **12 edges** and **8 corners**.
+> 💡 A circle has a centre. Every point on the circle is the same distance from it.
+
+## Let's check
+Q: What kind of line is a rainbow?
+A: A curved line.
+Q: How many faces does a cube have?
+A: 6.
+Q: Which shape has 4 equal sides?
+A: A square.
+
+@@ 6
+## Length and weight
+We measure **length** to know how long something is, and **weight** to know how heavy it is.
+
+## Length
+- Small lengths are measured in **centimetres (cm)** using a ruler.
+- Big lengths are measured in **metres (m)**.
+- **1 metre = 100 centimetres**
+- A pencil is about 15 cm long. A door is about 2 m tall.
+
+## Weight
+- We measure weight in **grams (g)** and **kilograms (kg)**.
+- **1 kilogram = 1000 grams**
+- A packet of salt is 1 kg. A chocolate is about 50 g.
+- We use a **weighing balance** to compare weights.
+> 💡 Big things are not always heavy: a balloon is big but light!
+
+## Let's check
+Q: How many centimetres make 1 metre?
+A: 100.
+Q: What do we use to measure weight?
+A: A weighing balance (scale).
+Q: Which is heavier: 1 kg of cotton or 1 kg of iron?
+A: Both weigh the same – 1 kg!
+
+@@ 7
+## Reading a clock
+A clock has a **short hand** (hour hand) and a **long hand** (minute hand).
+- When the long hand is at **12**, it is "o'clock". Short hand at 3 → **3 o'clock**.
+- When the long hand is at **6**, it is "half past". Short hand between 3 and 4 → **half past 3** (3:30).
+- 1 hour = 60 minutes. 1 day = 24 hours.
+
+## The calendar
+- A year has **12 months** and **365 days** (366 in a leap year).
+- Months: January, February, March, April, May, June, July, August, September, October, November, December.
+- February has 28 days (29 in a leap year).
+> 💡 Knuckle trick: months on your knuckles have 31 days; months in the dips have 30 (except February).
+
+## Let's check
+Q: How many minutes are in an hour?
+A: 60.
+Q: Which is the first month of the year?
+A: January.
+Q: The long hand is at 12 and the short hand is at 8. What time is it?
+A: 8 o'clock.
+
+@@ 8
+## Rupees and paise
+- **₹1 = 100 paise**.
+- Coins: ₹1, ₹2, ₹5, ₹10, ₹20.
+- Notes: ₹10, ₹20, ₹50, ₹100, ₹200, ₹500.
+
+## Adding money
+A notebook costs ₹25 and a pen costs ₹12. Total = ₹25 + ₹12 = **₹37**.
+
+## Giving change
+You buy a toy for ₹35 and pay ₹50. Change = ₹50 – ₹35 = **₹15**.
+
+## Making amounts
+₹50 = ₹20 + ₹20 + ₹10 = five ₹10 notes = one ₹50 note.
+> 💡 Always check the price and count your change before leaving the shop.
+
+## Let's check
+Q: How many paise make ₹1?
+A: 100.
+Q: A banana costs ₹6. What do 4 bananas cost?
+A: ₹24.
+Q: You pay ₹100 for a book of ₹68. What change do you get?
+A: ₹32.
+
+@@ 9
+## Data handling
+**Data** is information we collect, like the number of children who like each fruit. We can show it with **tally marks** and **pictographs**.
+
+## Tally marks
+Each line stands for 1. The fifth line crosses the first four: |||| with a line across = 5.
+
+## Example: Favourite fruits in Class 2
+- Mango: 8 children
+- Banana: 5 children
+- Apple: 3 children
+
+## Pictograph
+Mango: 🥭🥭🥭🥭🥭🥭🥭🥭
+Banana: 🍌🍌🍌🍌🍌
+Apple: 🍎🍎🍎
+
+## Reading the data
+- Most liked: **Mango**. Least liked: **Apple**.
+- Children who like mango or banana: 8 + 5 = **13**.
+> 💡 A pictograph uses pictures to show numbers. It's quick to read!
+
+## Let's check
+Q: Which fruit is liked the most?
+A: Mango.
+Q: How many more children like mango than apple?
+A: 5 more (8 – 3).
+Q: How many children were asked in total?
+A: 16.

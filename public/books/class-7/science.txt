@@ -1,0 +1,497 @@
+@@ 1
+## Modes of nutrition
+**Nutrition** is the way organisms get and use food.
+- **Autotrophic:** organisms make their own food – green plants.
+- **Heterotrophic:** organisms depend on others for food – animals, fungi, most bacteria.
+
+## Photosynthesis
+Green plants make food (glucose) in their leaves using **carbon dioxide** (from air through **stomata**), **water** (from roots), **sunlight** and **chlorophyll** (green pigment). Oxygen is released.
+**Carbon dioxide + water → (sunlight, chlorophyll) → glucose + oxygen**
+Glucose is stored as **starch**. Testing a leaf with iodine shows a blue-black colour where starch is present.
+
+## Other modes in plants
+- **Parasitic:** Cuscuta (amarbel) – a yellow, leafless climber that takes food from its host plant.
+- **Insectivorous:** Pitcher plant – traps insects in its pitcher-shaped leaf and digests them for nitrogen.
+- **Saprotrophic:** Fungi (mushrooms, bread mould) – absorb nutrients from dead and decaying matter.
+- **Symbiotic:** Lichens – an alga makes food and a fungus gives shelter and water. **Rhizobium** bacteria in roots of pulses fix nitrogen for the plant.
+
+## Replenishing soil
+Farmers add **manure and fertilisers**, or grow pulses, to restore nitrogen in soil.
+> 💡 Some plants with red, brown or purple leaves also photosynthesise – they still have chlorophyll, hidden by other pigments.
+
+## Let's check
+Q: What are the raw materials for photosynthesis?
+A: Carbon dioxide and water, with sunlight and chlorophyll.
+Q: Give an example of a parasitic plant.
+A: Cuscuta (amarbel).
+Q: Why does the pitcher plant trap insects?
+A: To get nitrogen, which is lacking in the soil it grows in.
+
+@@ 2
+## Steps of nutrition in animals
+**Ingestion** (taking food in) → **Digestion** (breaking it down) → **Absorption** (into blood) → **Assimilation** (using it to build the body and give energy) → **Egestion** (removing undigested waste).
+
+## Human digestive system
+- **Mouth (buccal cavity):** teeth chew; **saliva** turns starch into sugar; the tongue mixes food and helps us taste.
+- **Oesophagus (food pipe):** moves food down by wave-like movements.
+- **Stomach:** releases **hydrochloric acid** (kills bacteria) and **digestive juices** that digest proteins; mucus protects the lining.
+- **Small intestine:** about 7.5 m long; receives **bile** from the **liver** (digests fats) and **pancreatic juice** from the pancreas. Digestion completes here. Finger-like **villi** absorb digested food into the blood.
+- **Large intestine:** absorbs water and salts; waste leaves through the **anus**.
+
+## Teeth
+Incisors (cutting), canines (tearing), premolars and molars (grinding). Milk teeth (20) are replaced by permanent teeth (32).
+
+## Digestion in grass-eaters
+**Ruminants** (cow, buffalo, goat) swallow grass quickly and store it in the **rumen**. Later they bring it back to the mouth in small lumps (**cud**) and chew again – this is called **rumination**. Bacteria help digest **cellulose**.
+
+## Amoeba
+A single-celled organism that captures food using finger-like **pseudopodia** and digests it in a **food vacuole**.
+> 💡 Glucose from food gives instant energy – that's why ORS (salt + sugar) helps during diarrhoea.
+
+## Let's check
+Q: Which organ produces bile?
+A: The liver.
+Q: What are villi?
+A: Finger-like projections in the small intestine that absorb digested food.
+Q: What is rumination?
+A: Chewing the cud – bringing back swallowed grass to the mouth and chewing it again.
+
+@@ 3
+## Hot and cold
+**Temperature** tells how hot or cold something is. Our touch can mislead us, so we use a **thermometer**.
+- **Clinical thermometer:** measures body temperature, range **35°C to 42°C**. Normal body temperature is about **37°C**. It has a kink to stop mercury from falling back.
+- **Laboratory thermometer:** range about **–10°C to 110°C**.
+Digital thermometers are now preferred, since mercury is toxic.
+
+## Transfer of heat
+Heat flows from a **hotter** object to a **colder** one.
+1. **Conduction:** through solids, from particle to particle – a steel spoon in hot tea gets hot.
+2. **Convection:** in liquids and gases; hot fluid rises and cold fluid sinks – boiling water, sea breeze and land breeze.
+3. **Radiation:** without any medium – heat from the Sun and a fire reaches us this way.
+
+## Conductors and insulators
+- **Conductors:** let heat pass easily – metals (copper, aluminium, iron).
+- **Insulators:** don't – wood, plastic, cloth, air.
+
+## Clothes and heat
+- Dark colours absorb more heat → wear dark clothes in winter.
+- Light colours reflect heat → wear light colours in summer.
+- Wool traps air (an insulator), keeping us warm. Layers of clothes keep us warmer than one thick layer.
+> 💡 Sea breeze (day): wind from sea to land. Land breeze (night): from land to sea.
+
+## Let's check
+Q: What is the normal human body temperature?
+A: About 37°C.
+Q: How does heat reach us from the Sun?
+A: By radiation.
+Q: Why are cooking pan handles made of plastic or wood?
+A: They are insulators and don't get hot.
+
+@@ 4
+## Acids and bases
+- **Acids** taste sour and turn **blue litmus red**. Examples: citric acid (lemon, orange), lactic acid (curd), acetic acid (vinegar), tartaric acid (tamarind), hydrochloric acid (stomach), formic acid (ant sting).
+- **Bases** taste bitter, feel soapy and turn **red litmus blue**. Examples: sodium hydroxide, calcium hydroxide (lime water), magnesium hydroxide (milk of magnesia), ammonium hydroxide.
+⚠️ Never taste or touch lab chemicals.
+
+## Indicators
+Substances that change colour in acids and bases:
+- **Litmus:** from lichens. Acid → red; base → blue.
+- **Turmeric:** stays yellow in acid; turns **red** in a base (soap).
+- **China rose (hibiscus):** turns **dark pink** in acid and **green** in base.
+- **Phenolphthalein:** colourless in acid; pink in base.
+
+## Neutralisation
+**Acid + base → salt + water + heat**. Examples:
+- **Indigestion:** too much stomach acid; an **antacid** (milk of magnesia) neutralises it.
+- **Ant sting:** formic acid; rub **baking soda** (a base).
+- **Acidic soil:** farmers add quicklime or slaked lime (bases); **basic soil** gets organic matter.
+- **Factory waste:** neutralised before being released into rivers.
+> 💡 Distilled water is neutral – it doesn't change litmus colour.
+
+## Let's check
+Q: Which acid is found in curd?
+A: Lactic acid.
+Q: What colour does turmeric turn in soap solution?
+A: Red.
+Q: What is neutralisation?
+A: The reaction of an acid with a base to form salt and water, with heat released.
+
+@@ 5
+## Physical changes
+Changes in **shape, size, colour or state** where **no new substance** forms. Usually reversible.
+Examples: melting ice, dissolving salt, cutting paper, folding cloth, boiling water.
+
+## Chemical changes
+**New substances** with different properties form. Usually not reversible. Signs: heat or light given out, gas produced, colour change, sound, smell.
+- **Burning:** magnesium ribbon burns with a bright white flame → magnesium oxide (white ash).
+- **Rusting of iron:** iron + oxygen + water → **iron oxide (rust)**.
+- **Baking soda + vinegar:** fizzing; carbon dioxide gas forms. CO₂ turns **lime water milky**.
+- Ripening of fruits, cooking food, digestion, photosynthesis.
+
+## Preventing rust
+Rusting needs both **oxygen** and **water**. Prevent it by painting, greasing, or **galvanisation** (coating iron with zinc).
+
+## Crystallisation
+Getting pure, large crystals from a solution – e.g. copper sulphate crystals; salt from sea water by evaporation gives impure salt.
+> 💡 Cut apples turn brown – a chemical change caused by oxygen in the air.
+
+## Let's check
+Q: Is melting wax a physical or chemical change?
+A: Physical.
+Q: What two things are needed for rusting?
+A: Oxygen and water (moisture).
+Q: What is galvanisation?
+A: Coating iron with zinc to prevent rusting.
+
+@@ 6
+## Weather and climate
+- **Weather:** day-to-day condition of the atmosphere – temperature, humidity, rainfall, wind speed. Measured by the **Meteorological Department**.
+- **Climate:** the average weather of a place over **25 years or more**.
+India's climate: hot and humid on the coasts and in the north-east (Kerala), hot and dry in the desert (Rajasthan), cold in Jammu & Kashmir.
+
+## Polar regions
+Very cold; snow covered for six months; **sun doesn't set for six months** and doesn't rise for the next six.
+**Adaptations:**
+- **Polar bear:** white fur (camouflage), thick fat layer, wide paws for walking and swimming, strong sense of smell.
+- **Penguin:** white and black body, thick skin and fat, huddles together for warmth, webbed feet for swimming, streamlined body.
+- Many birds **migrate** to warmer places in winter.
+
+## Tropical rainforests
+Hot and humid with heavy rain all year. Dense forests with many plants and animals.
+**Adaptations:**
+- **Red-eyed frog:** sticky pads to climb trees.
+- **Lion-tailed macaque** (Western Ghats): lives on trees, feeds on fruits.
+- **Toucan:** long, large beak to reach fruits on thin branches.
+- **Elephant:** trunk as a nose and hand; large ears to hear and to stay cool.
+> 💡 Animals living in hot, wet rainforests often have bright colours and loud calls.
+
+## Let's check
+Q: How long is the average taken for climate?
+A: 25 years or more.
+Q: How is a polar bear adapted to cold?
+A: White fur, thick fat layer, wide paws and strong smell.
+Q: Why does a toucan have a long beak?
+A: To reach fruits on thin branches.
+
+@@ 7
+## Air exerts pressure
+Air pushes on everything around it – this is **air pressure**. A balloon swells; a tin can crushes when air inside it is removed.
+
+## Wind
+Moving air is **wind**. It blows from a region of **high pressure** to **low pressure**. The greater the pressure difference, the faster the wind.
+
+## How winds form
+- **Uneven heating of land and water:** land heats faster than water by day → sea breeze; the opposite at night → land breeze.
+- **Uneven heating of Earth:** warm air near the equator rises; cool air from the poles moves in.
+- **Monsoon winds:** in summer, land is hotter than the ocean; moist winds blow from the ocean to land, bringing rain.
+
+## Thunderstorms and cyclones
+- **Thunderstorms:** warm, moist air rises fast, cools and forms tall clouds with lightning and rain.
+- **Cyclones:** huge low-pressure systems; warm, moist air spirals upward with very strong winds. The calm centre is the **eye**. They form over warm seas; the east coast of India (Odisha, Andhra Pradesh) is often hit.
+- Called **hurricanes** in America and **typhoons** in the Philippines and Japan.
+
+## Safety
+Follow weather warnings, move to safe shelters, keep emergency kits, don't go to the sea. Satellites and radar help forecast cyclones.
+> 💡 An anemometer measures wind speed.
+
+## Let's check
+Q: In which direction does wind blow?
+A: From high pressure to low pressure.
+Q: What is the calm centre of a cyclone called?
+A: The eye.
+Q: Why do monsoon winds bring rain?
+A: They carry moisture from the ocean to the land.
+
+@@ 8
+## Soil and its layers
+**Soil** forms when rocks break down by wind, water and climate (**weathering**), mixed with **humus** (decayed plants and animals).
+A vertical section showing layers is called a **soil profile**:
+- **A horizon (topsoil):** dark, rich in humus and minerals; soft and holds water.
+- **B horizon (subsoil):** less humus, more minerals; harder.
+- **C horizon:** small lumps of rock with cracks.
+- **Bedrock:** hard rock below.
+
+## Types of soil
+- **Sandy:** large particles, loose, drains water fast, holds little water and air spaces are big.
+- **Clayey:** fine particles, sticky, holds lots of water, less air.
+- **Loamy:** a mix of sand, clay and silt with humus – **best for plants**.
+
+## Soil and crops
+Clayey and loamy soils are good for wheat and gram; clayey soil holding water suits **paddy (rice)**; sandy loam suits lentils and pulses; cotton grows in loamy sand.
+
+## Soil erosion
+Removal of topsoil by wind and water, especially where there are no plants. Prevent it by planting trees, grass, and terrace farming on slopes.
+> 💡 Percolation rate = amount of water ÷ time taken. It's highest in sandy soil.
+
+## Let's check
+Q: Which soil is best for growing plants?
+A: Loamy soil.
+Q: What is humus?
+A: Decayed plant and animal matter in soil.
+Q: How can we prevent soil erosion?
+A: By planting trees and grass, and terrace farming.
+
+@@ 9
+## Why we respire
+**Respiration** breaks down food (glucose) in cells to release **energy**. It happens in every living cell.
+
+## Aerobic and anaerobic respiration
+- **Aerobic (with oxygen):** glucose → carbon dioxide + water + **energy**. Most plants and animals.
+- **Anaerobic (without oxygen):** glucose → alcohol + carbon dioxide + energy (in **yeast** – used to make bread and idli rise). In our **muscles** during heavy exercise, glucose → **lactic acid** + energy; lactic acid causes **muscle cramps**.
+
+## Breathing
+Taking in oxygen-rich air (**inhalation**) and giving out carbon-dioxide-rich air (**exhalation**).
+- Air goes: nostrils → nasal cavity → windpipe → **lungs**.
+- The **diaphragm** moves down and the ribs move up and out during inhalation; the chest expands.
+- An adult breathes about **15–18 times** a minute at rest.
+- Lime water turns milky with exhaled air – it has more carbon dioxide.
+
+## Breathing in other organisms
+- **Cockroach:** small openings called **spiracles** and air tubes (**tracheae**).
+- **Earthworm:** through its moist **skin**.
+- **Fish:** **gills** take oxygen dissolved in water.
+- **Plants:** leaves through **stomata**; roots take air from spaces in the soil.
+> 💡 We sneeze to push out dust and harmful particles from the nose.
+
+## Let's check
+Q: What is produced in muscles during anaerobic respiration?
+A: Lactic acid.
+Q: How does an earthworm breathe?
+A: Through its moist skin.
+Q: Why does lime water turn milky with exhaled air?
+A: Because exhaled air has more carbon dioxide.
+
+@@ 10
+## Circulatory system
+- **Blood** carries oxygen, food, waste and hormones. It has a fluid called **plasma**, **red blood cells** (contain **haemoglobin**, which carries oxygen), **white blood cells** (fight germs) and **platelets** (help clotting).
+- **Arteries** carry oxygen-rich blood **away** from the heart (thick, elastic walls). The **pulmonary artery** is an exception – it carries deoxygenated blood to the lungs.
+- **Veins** carry blood **to** the heart (thin walls, valves).
+- **Capillaries** are very thin tubes connecting arteries and veins.
+- **Heart:** has **four chambers** – two **atria** (upper) and two **ventricles** (lower). It beats about **72 times a minute**. A **stethoscope** helps doctors hear heartbeats. The **pulse** in the wrist shows the heartbeat.
+
+## Excretion
+Removing waste from the body. **Kidneys** filter blood and make **urine**, which goes through **ureters** to the **urinary bladder** and out. Sweat also removes water and salts.
+**Dialysis** is used when kidneys fail.
+
+## Transport in plants
+- **Xylem:** carries water and minerals **up** from roots to leaves.
+- **Phloem:** carries food made in leaves to all parts.
+- **Transpiration** (evaporation from leaves) creates a pull that helps water rise, and cools the plant.
+> 💡 Sponges and hydra have no circulatory system – water moving through their bodies carries food and oxygen.
+
+## Let's check
+Q: Which blood cells fight germs?
+A: White blood cells.
+Q: How many chambers does the human heart have?
+A: Four.
+Q: What does xylem carry?
+A: Water and minerals from roots to leaves.
+
+@@ 11
+## Asexual reproduction
+New plants grow from **one parent** without seeds.
+- **Vegetative propagation:** from roots, stems or leaves – rose and money plant (stem cuttings), potato (eyes/buds on tubers), bryophyllum (buds on leaf edges), sweet potato and dahlia (roots).
+- **Budding:** yeast forms small buds that become new cells.
+- **Fragmentation:** algae like Spirogyra break into pieces that grow into new algae.
+- **Spore formation:** fungi (bread mould), mosses and ferns make spores that grow in good conditions.
+
+## Sexual reproduction
+Needs male and female parts – in the **flower**.
+- **Stamen** (male): anther makes **pollen grains**.
+- **Pistil** (female): stigma, style, ovary (contains **ovules**).
+- **Unisexual flowers** have only stamens or only pistils (papaya, corn); **bisexual flowers** have both (mustard, rose).
+
+## Pollination and fertilisation
+- **Pollination:** transfer of pollen to the stigma, by wind, water or insects. **Self-pollination:** same flower/plant; **cross-pollination:** another plant.
+- **Fertilisation:** the male cell joins the egg in the ovule → **zygote** → **embryo**.
+- The ovule becomes a **seed**; the ovary becomes the **fruit**.
+
+## Seed dispersal
+Wind (drumstick, maple – winged; cotton – hairy), water (coconut – fibrous, floats), animals (xanthium – spiny), explosion (castor, balsam).
+> 💡 Dispersal prevents overcrowding and helps plants spread to new places.
+
+## Let's check
+Q: How does a potato reproduce vegetatively?
+A: Through buds (eyes) on its tuber.
+Q: What does the ovary become after fertilisation?
+A: The fruit.
+Q: Give an example of a unisexual flower.
+A: Papaya or corn.
+
+@@ 12
+## Slow or fast?
+We compare motion by **speed** – the distance covered per unit time.
+**Speed = Distance ÷ Time**
+SI unit: **metre per second (m/s)**; we also use km/h.
+- **Uniform motion:** equal distances in equal time intervals (a car at a steady speed on a highway).
+- **Non-uniform motion:** speed keeps changing (a car in traffic).
+
+## Measuring time
+- Earlier: sundials, water clocks, sand clocks.
+- **Simple pendulum:** a small metal ball (**bob**) hanging from a thread. The time for one complete swing is its **time period**; it stays the same for a given length.
+- SI unit of time: **second (s)**.
+
+## Distance–time graph
+Distance on the y-axis, time on the x-axis. A **straight line** means uniform motion; the steeper the line, the faster the motion.
+
+## Instruments in vehicles
+- **Speedometer:** shows speed in km/h.
+- **Odometer:** shows total distance travelled.
+> 💡 A train at 72 km/h moves 20 m every second (72 × 1000 ÷ 3600).
+
+## Let's check
+Q: A cyclist covers 600 m in 2 minutes. What is the speed in m/s?
+A: 5 m/s.
+Q: What does an odometer measure?
+A: Total distance travelled.
+Q: What does a straight-line distance–time graph show?
+A: Uniform motion.
+
+@@ 13
+## Circuit symbols
+Diagrams use symbols: cell (long line + and short line –), battery, bulb, switch (open/closed), wire. A **battery** is two or more cells joined + to –.
+
+## Heating effect
+When current flows through a wire, it gets **hot**. Used in electric heaters, irons, kettles, geysers and toasters, which have a coil called an **element** (made of **nichrome**).
+- Bulbs glow because their **filament** gets very hot.
+- **CFLs and LEDs** waste less energy as heat and save electricity.
+
+## Electric fuse and MCB
+A **fuse** has a wire that melts and breaks the circuit when too much current flows, preventing fires. Modern homes use **MCBs** (miniature circuit breakers), which switch off automatically.
+⚠️ Use only ISI-marked fuses.
+
+## Magnetic effect
+A wire carrying current behaves like a magnet – it deflects a compass needle (discovered by **Hans Christian Oersted**).
+- **Electromagnet:** a coil of wire around an iron core that becomes a magnet when current flows. Its magnetism can be switched on and off.
+- Uses: cranes lifting scrap iron, **electric bells**, loudspeakers, motors, MRI machines.
+> 💡 An electric bell works because an electromagnet pulls a hammer to strike the gong repeatedly.
+
+## Let's check
+Q: What is the heating element in a heater made of?
+A: Nichrome.
+Q: What does a fuse do?
+A: It melts and breaks the circuit when too much current flows, preventing damage or fire.
+Q: Name two uses of electromagnets.
+A: Cranes, electric bells, loudspeakers, motors.
+
+@@ 14
+## Light travels in a straight line
+That's why we see shadows and can't see around corners.
+
+## Reflection
+Light bouncing back from a surface.
+**Laws of reflection:** (1) the angle of incidence = the angle of reflection; (2) the incident ray, reflected ray and normal lie in the same plane.
+
+## Plane mirror image
+- **Virtual** (can't be caught on a screen) and **erect** (upright)
+- **Same size** as the object
+- **As far behind** the mirror as the object is in front
+- **Laterally inverted** (left–right swapped) – that's why "AMBULANCE" is written in reverse on ambulances.
+
+## Spherical mirrors
+- **Concave mirror** (curved inward): can form real, inverted images or enlarged virtual images. Used by dentists, in torches and car headlights.
+- **Convex mirror** (bulging outward): always forms smaller, upright, virtual images and gives a wide view. Used as **rear-view mirrors** in vehicles.
+
+## Lenses
+- **Convex lens** (thicker in the middle): converges light; used in magnifying glasses, microscopes, spectacles for long-sightedness.
+- **Concave lens** (thinner in the middle): diverges light; used for short-sightedness.
+
+## Sunlight is made of seven colours
+A **prism** splits white light into **VIBGYOR** (violet, indigo, blue, green, yellow, orange, red). A rainbow forms in a similar way. **Newton's disc** with seven colours appears white when spun fast.
+> 💡 Never look at the Sun through a lens – it can damage your eyes.
+
+## Let's check
+Q: State one law of reflection.
+A: The angle of incidence equals the angle of reflection.
+Q: Which mirror is used as a rear-view mirror?
+A: A convex mirror.
+Q: What does VIBGYOR stand for?
+A: Violet, indigo, blue, green, yellow, orange, red.
+
+@@ 15
+## Water on Earth
+About **71%** of Earth's surface is water, but only about **3%** is fresh water, and most of that is frozen. Water exists in three forms: **solid** (ice, snow), **liquid** (rivers, seas), **gas** (vapour).
+
+## Groundwater
+Rainwater seeps into the ground (**infiltration**) and fills spaces between rocks. The upper level of this water is the **water table**. Water stored between layers of hard rock is an **aquifer**. We draw it out using wells, tube wells and hand pumps.
+
+## Depletion of the water table
+- Growing population and cities
+- More farming and industries
+- Less rain soaking in because of concrete and cut forests
+
+## Distribution of water
+Water is unevenly distributed. Some places get floods while others face drought. In many places, people – often women and girls – walk long distances for water.
+
+## Managing water
+- **Rainwater harvesting:** rooftop collection; recharging groundwater.
+- **Bawris** (stepwells) – traditional water storage in Rajasthan and Gujarat.
+- **Drip irrigation** in farms.
+- Fixing leaks and avoiding waste.
+> 💡 22 March is World Water Day.
+
+## Let's check
+Q: What is the water table?
+A: The upper level of groundwater beneath the surface.
+Q: What is an aquifer?
+A: Groundwater stored between layers of hard rock.
+Q: Why is the water table falling?
+A: More use by people, farms and industry, and less rainwater soaking into the ground.
+
+@@ 16
+## Forests are an ecosystem
+A **forest** is a large area with many trees and other plants, animals and microbes, all depending on one another.
+- **Layers:** the **canopy** (top branches), understorey, shrubs and herbs, and the forest floor.
+- The **forest floor** has dead leaves that are broken down by **decomposers** (bacteria, fungi) into **humus**.
+
+## Food chains and food webs
+Grass → deer → lion. Plants are **producers**; herbivores are **primary consumers**; carnivores are **secondary consumers**. Many food chains linked together form a **food web**.
+
+## Why forests matter
+- Give oxygen and absorb carbon dioxide; help bring rain.
+- Prevent floods and soil erosion; recharge groundwater.
+- Provide wood, honey, gum, medicines, fruits, and homes for wildlife and tribal people.
+- Forests are called **"green lungs"**.
+
+## Deforestation
+Cutting forests leads to floods, droughts, soil erosion, loss of wildlife and global warming. We must protect forests through afforestation and wise use.
+> 💡 Forests are dynamic living entities – full of life and constantly growing and changing.
+
+## Let's check
+Q: What is the canopy?
+A: The top layer of a forest, made of tree branches and leaves.
+Q: Who are decomposers?
+A: Organisms like bacteria and fungi that break down dead matter into humus.
+Q: Why are forests called green lungs?
+A: Because they give oxygen and absorb carbon dioxide.
+
+@@ 17
+## Wastewater
+Water that has been used in homes, industries and farms is **wastewater** or **sewage**. It contains:
+- **Organic impurities:** human waste, food scraps, oil
+- **Inorganic impurities:** chemicals, metals
+- **Germs:** bacteria and viruses that cause cholera, typhoid and dysentery
+Sewage flows through underground pipes (**sewers**).
+
+## Wastewater treatment plant (WWTP)
+1. **Bar screens:** remove large objects (rags, sticks, plastic).
+2. **Grit and sand removal:** sand and pebbles settle.
+3. **Sedimentation:** solids (sludge) settle at the bottom; oil and grease (scum) are skimmed off.
+4. **Aeration:** air is pumped in to help helpful bacteria eat the remaining waste.
+5. **Disinfection:** with chlorine or ozone before releasing clean water into rivers.
+**Sludge** is used to make **biogas** and **manure**.
+
+## Good habits
+Don't throw oil, fat, plastics, medicines or chemicals down the drain. Use dustbins.
+
+## Sanitation
+Open defecation spreads disease. Toilets, **septic tanks**, **vermi-processing toilets** and **bio-toilets** help keep surroundings clean.
+> 💡 Clean water and sanitation are needed for good health – that's why Swachh Bharat focuses on toilets.
+
+## Let's check
+Q: What is sewage?
+A: Wastewater from homes, industries and other places.
+Q: What is done during aeration?
+A: Air is pumped in so bacteria can break down waste.
+Q: What can sludge be used for?
+A: To make biogas and manure.

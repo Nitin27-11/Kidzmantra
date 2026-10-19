@@ -1,0 +1,393 @@
+@@ 1
+## Integers review
+Integers: …, –3, –2, –1, 0, 1, 2, 3, … They can be shown on a number line.
+
+## Multiplying integers
+- (+) × (+) = **+** → 4 × 3 = 12
+- (–) × (–) = **+** → (–4) × (–3) = 12
+- (+) × (–) = **–** → 4 × (–3) = –12
+- An even number of negative factors gives a positive product; an odd number gives a negative product: (–1)³ = –1, (–1)⁴ = 1.
+
+## Dividing integers
+Same sign rules: (–20) ÷ (–4) = 5; 20 ÷ (–4) = –5. Division by 0 is not defined.
+
+## Properties
+- **Closure:** under +, –, × (not ÷).
+- **Commutative and associative:** for + and × (not – or ÷).
+- **Distributive:** a × (b + c) = ab + ac.
+- **Identity:** 0 for addition, 1 for multiplication.
+
+## Real-life example
+A submarine is at –120 m and rises 45 m, then dives 30 m. Final position: –120 + 45 – 30 = **–105 m**.
+> 💡 Temperature dropping 3°C every hour for 5 hours: change = 5 × (–3) = –15°C.
+
+## Let's check
+Q: (–6) × 7 = ?
+A: –42.
+Q: (–48) ÷ (–6) = ?
+A: 8.
+Q: (–2) × (–3) × (–5) = ?
+A: –30.
+
+@@ 2
+## Multiplying fractions
+Multiply numerators and denominators: ⅔ × ⁴⁄₅ = **⁸⁄₁₅**. Simplify before multiplying when possible: ³⁄₄ × ⁸⁄₉ = ²⁄₃.
+"Of" means multiply: ¾ of 60 = 45.
+
+## Dividing fractions
+Multiply by the **reciprocal** (flip the second fraction): ⅗ ÷ ⁹⁄₁₀ = ⅗ × ¹⁰⁄₉ = **⅔**.
+Reciprocal of ⁵⁄₇ is ⁷⁄₅. 0 has no reciprocal.
+
+## Multiplying decimals
+Multiply as whole numbers, then put as many decimal places as in both numbers together:
+2.5 × 1.3 = 3.25 (25 × 13 = 325; 1 + 1 = 2 places).
+
+## Dividing decimals
+Make the divisor a whole number by moving both points the same number of places:
+4.5 ÷ 0.15 = 450 ÷ 15 = **30**.
+> 💡 Multiplying by a proper fraction makes a number smaller; dividing by it makes it bigger.
+
+## Let's check
+Q: ⅝ × ⁴⁄₁₅ = ?
+A: ⅙.
+Q: ¾ ÷ ⅜ = ?
+A: 2.
+Q: 0.6 × 0.07 = ?
+A: 0.042.
+
+@@ 3
+## Measures of central tendency
+A single value that represents a whole set of data.
+- **Mean (average)** = sum of observations ÷ number of observations.
+  Marks 40, 55, 60, 65, 80 → mean = 300 ÷ 5 = **60**.
+- **Median** = the middle value when data is arranged in order. For 3, 7, 9, 12, 15 → **9**. If there is an even number of values, take the average of the two middle ones.
+- **Mode** = the value that occurs most often. For 2, 4, 4, 5, 4, 7 → **4**.
+
+## Range
+Range = highest – lowest. For 12, 18, 25, 9 → 25 – 9 = **16**.
+
+## Double bar graphs
+Show two sets of data side by side, like marks in Maths and Science for each student.
+
+## Chance and probability (introduction)
+Some events are certain (the Sun rises), some impossible, some may or may not happen. Tossing a coin: two equally likely outcomes – head or tail.
+> 💡 The mean can be affected by one very large or small value; the median isn't.
+
+## Let's check
+Q: Find the mean of 6, 8, 10, 12, 14.
+A: 10.
+Q: Find the median of 5, 1, 9, 3, 7.
+A: 5.
+Q: Find the mode of 3, 5, 5, 6, 3, 5.
+A: 5.
+
+@@ 4
+## What is an equation?
+An **equation** is a statement that two expressions are equal, with a variable: **3x + 4 = 19**. The value that makes it true is the **solution** (root).
+
+## Solving equations (balance method)
+Do the same thing to both sides to keep the balance.
+3x + 4 = 19
+3x = 19 – 4 = 15 (subtract 4 from both sides)
+x = 15 ÷ 3 = **5** (divide both sides by 3)
+**Check:** 3(5) + 4 = 19 ✔
+
+## Transposing
+Moving a term to the other side changes its operation: + becomes –, × becomes ÷.
+x/4 – 2 = 3 → x/4 = 5 → x = **20**.
+
+## Word problems
+"Four times a number plus 7 is 35." → 4n + 7 = 35 → 4n = 28 → n = **7**.
+"Raju's father is 4 years more than three times Raju's age. Father is 40." → 3r + 4 = 40 → r = **12**.
+> 💡 Always check your answer by putting it back into the equation.
+
+## Let's check
+Q: Solve: 5y – 3 = 22.
+A: y = 5.
+Q: Solve: 2(x + 3) = 18.
+A: x = 6.
+Q: The sum of a number and 15 is 42. Find the number.
+A: 27.
+
+@@ 5
+## Related angles
+- **Complementary angles:** add to **90°** (30° and 60°).
+- **Supplementary angles:** add to **180°** (110° and 70°).
+- **Adjacent angles:** share a common arm and vertex.
+- **Linear pair:** adjacent angles that are supplementary (form a straight line).
+- **Vertically opposite angles:** formed when two lines cross; they are **equal**.
+
+## Transversal and parallel lines
+A **transversal** is a line that cuts two or more lines. If the lines are **parallel**:
+- **Corresponding angles** are equal.
+- **Alternate interior angles** are equal.
+- **Interior angles on the same side** add to 180°.
+
+## Example
+Two lines cross; one angle is 65°. The vertically opposite angle is **65°**; each adjacent angle is 180° – 65° = **115°**.
+> 💡 Railway tracks and the sleepers across them show parallel lines and a transversal.
+
+## Let's check
+Q: Find the complement of 35°.
+A: 55°.
+Q: Find the supplement of 128°.
+A: 52°.
+Q: If two parallel lines are cut by a transversal and one corresponding angle is 72°, what is the other?
+A: 72°.
+
+@@ 6
+## Parts of a triangle
+3 sides, 3 angles, 3 vertices. Special lines:
+- **Median:** joins a vertex to the midpoint of the opposite side.
+- **Altitude:** perpendicular from a vertex to the opposite side.
+
+## Angle sum property
+The three angles add to **180°**. If two angles are 50° and 60°, the third is **70°**.
+
+## Exterior angle property
+An exterior angle equals the **sum of the two interior opposite angles**. If interior opposite angles are 40° and 75°, the exterior angle = **115°**.
+
+## Triangle inequality
+The sum of any two sides is **greater** than the third. Can 3 cm, 4 cm and 8 cm form a triangle? 3 + 4 = 7 < 8 → **No**.
+
+## Pythagoras theorem
+In a **right-angled triangle**: (hypotenuse)² = (base)² + (perpendicular)².
+Sides 3, 4 → hypotenuse = √(9 + 16) = √25 = **5**.
+**Pythagorean triplets:** (3, 4, 5), (5, 12, 13), (8, 15, 17).
+> 💡 The hypotenuse is always the longest side, opposite the right angle.
+
+## Let's check
+Q: Two angles of a triangle are 90° and 35°. Find the third.
+A: 55°.
+Q: Can 5 cm, 6 cm and 12 cm form a triangle?
+A: No, because 5 + 6 = 11 < 12.
+Q: Find the hypotenuse if the other sides are 6 cm and 8 cm.
+A: 10 cm.
+
+@@ 7
+## Congruent figures
+Figures that have **exactly the same shape and size** are **congruent** (≅). They fit exactly on top of each other. Example: two ₹10 coins.
+
+## Congruence rules for triangles
+Two triangles are congruent if:
+- **SSS:** all three sides are equal.
+- **SAS:** two sides and the **included** angle are equal.
+- **ASA:** two angles and the **included** side are equal.
+- **RHS:** in right triangles, the hypotenuse and one side are equal.
+
+## Corresponding parts
+If △ABC ≅ △PQR, then A ↔ P, B ↔ Q, C ↔ R, and AB = PQ, BC = QR, AC = PR. (CPCT: corresponding parts of congruent triangles are equal.)
+
+## Not a rule
+**AAA** does not prove congruence – triangles with the same angles can be different sizes (they are **similar**).
+> 💡 The order of letters matters: △ABC ≅ △PQR matches A with P.
+
+## Let's check
+Q: Which rule: AB = PQ, BC = QR, ∠B = ∠Q?
+A: SAS.
+Q: Does AAA prove two triangles congruent?
+A: No.
+Q: What does RHS stand for?
+A: Right angle–Hypotenuse–Side.
+
+@@ 8
+## Percentage review
+- x% = x/100.
+- Fraction to %: ³⁄₈ × 100 = 37.5%.
+- % of a quantity: 15% of 480 = 72.
+- Increase/decrease %: = (change ÷ original) × 100. Price rises from ₹200 to ₹250 → 25% increase.
+
+## Profit and loss
+- **Cost Price (CP):** price at which something is bought.
+- **Selling Price (SP):** price at which it is sold.
+- **Profit** = SP – CP (if SP > CP); **Loss** = CP – SP (if CP > SP).
+- **Profit %** = (Profit ÷ CP) × 100; **Loss %** = (Loss ÷ CP) × 100.
+Example: CP = ₹800, SP = ₹920 → profit ₹120 → profit % = 120/800 × 100 = **15%**.
+
+## Simple interest
+**SI = (P × R × T) ÷ 100**, where P = principal, R = rate % per year, T = time in years.
+**Amount = P + SI.**
+₹5,000 at 8% for 3 years → SI = 5,000 × 8 × 3 ÷ 100 = **₹1,200**; amount = ₹6,200.
+> 💡 Profit and loss percentages are always calculated on the cost price.
+
+## Let's check
+Q: CP = ₹500, SP = ₹450. Find the loss %.
+A: 10%.
+Q: Find SI on ₹2,000 at 5% for 2 years.
+A: ₹200.
+Q: What is 40% of 350?
+A: 140.
+
+@@ 9
+## What are rational numbers?
+A **rational number** can be written as **p/q**, where p and q are integers and **q ≠ 0**. Examples: ³⁄₄, –⁵⁄₇, 6 (= ⁶⁄₁), 0, 0.5 (= ½).
+- All integers and fractions are rational numbers.
+
+## Standard form
+Denominator positive, numerator and denominator have no common factor: –¹⁸⁄₄₈ = –⅜.
+
+## Equivalent rational numbers
+Multiply or divide both by the same non-zero number: ⅔ = –⁴⁄–₆ = ¹⁰⁄₁₅.
+
+## Comparing
+Make denominators the same: compare –⅔ and –¾ → –⁸⁄₁₂ and –⁹⁄₁₂ → –⅔ is greater.
+On the number line, positive rationals are to the right of 0, negative to the left.
+
+## Operations
+- –⅖ + ⅗ = **⅕**
+- ⅔ – (–¼) = ⅔ + ¼ = **¹¹⁄₁₂**
+- (–⅗) × ⁴⁄₇ = **–¹²⁄₃₅**
+- ⁴⁄₉ ÷ (–⅔) = ⁴⁄₉ × (–³⁄₂) = **–⅔**
+> 💡 There are infinitely many rational numbers between any two rational numbers.
+
+## Let's check
+Q: Write –²⁰⁄₃₆ in standard form.
+A: –⁵⁄₉.
+Q: Which is greater: –½ or –⅓?
+A: –⅓.
+Q: –⅚ + ⅓ = ?
+A: –½.
+
+@@ 10
+## Formulas
+- **Square:** P = 4a; A = a²
+- **Rectangle:** P = 2(l + b); A = l × b
+- **Parallelogram:** A = base × height
+- **Triangle:** A = ½ × base × height
+- **Circle:** circumference C = 2πr = πd; area A = πr² (π ≈ ²²⁄₇ or 3.14)
+
+## Examples
+- Parallelogram with base 12 cm and height 7 cm → A = **84 cm²**.
+- Triangle with base 10 cm, height 6 cm → A = **30 cm²**.
+- Circle of radius 7 cm → C = 2 × ²²⁄₇ × 7 = **44 cm**; A = ²²⁄₇ × 7 × 7 = **154 cm²**.
+
+## Paths and borders
+A garden 20 m × 15 m has a 2 m wide path outside it. Outer rectangle = 24 m × 19 m = 456 m². Path area = 456 – 300 = **156 m²**.
+
+## Unit conversions
+1 cm² = 100 mm²; 1 m² = 10,000 cm²; 1 hectare = 10,000 m².
+> 💡 A wheel of circumference 2 m covers 2 m in one full turn.
+
+## Let's check
+Q: Area of a triangle with base 14 cm and height 9 cm?
+A: 63 cm².
+Q: Circumference of a circle with diameter 21 cm?
+A: 66 cm.
+Q: Area of a circle of radius 14 cm?
+A: 616 cm².
+
+@@ 11
+## Terms, factors and coefficients
+In the expression **5x² – 3xy + 7**:
+- **Terms:** 5x², –3xy, 7
+- **Coefficient** of x² is 5; of xy is –3
+- **Constant term:** 7
+- **Like terms** have the same variables and powers (3a and –8a); **unlike terms** don't (3a and 3b).
+
+## Types of expressions
+- **Monomial:** one term – 7xy
+- **Binomial:** two terms – a + 5
+- **Trinomial:** three terms – x² + 2x + 1
+- **Polynomial:** one or more terms
+
+## Adding and subtracting
+Combine like terms only:
+(3x² + 5x – 2) + (2x² – 7x + 9) = **5x² – 2x + 7**
+(6a – 4b) – (2a + 3b) = 6a – 4b – 2a – 3b = **4a – 7b**
+
+## Finding the value
+If x = 2, then 3x² – 4x + 1 = 3(4) – 8 + 1 = **5**.
+> 💡 When subtracting, change the sign of every term in the bracket being subtracted.
+
+## Let's check
+Q: What is the coefficient of y in –9xy?
+A: –9x.
+Q: Add: 4m + 3n and 2m – 5n.
+A: 6m – 2n.
+Q: Find the value of a² + 2a when a = –3.
+A: 3.
+
+@@ 12
+## Exponents
+**aⁿ** means a multiplied by itself n times. 2⁵ = 2 × 2 × 2 × 2 × 2 = 32. Here 2 is the **base** and 5 is the **exponent (power)**.
+
+## Laws of exponents
+- aᵐ × aⁿ = **aᵐ⁺ⁿ** → 2³ × 2⁴ = 2⁷
+- aᵐ ÷ aⁿ = **aᵐ⁻ⁿ** → 5⁶ ÷ 5² = 5⁴
+- (aᵐ)ⁿ = **aᵐⁿ** → (3²)³ = 3⁶
+- aᵐ × bᵐ = **(ab)ᵐ** → 2³ × 5³ = 10³
+- **a⁰ = 1** (a ≠ 0)
+- (–1)^even = 1; (–1)^odd = –1
+
+## Standard form (scientific notation)
+Write big numbers as **k × 10ⁿ**, where 1 ≤ k < 10.
+- 5,90,00,000 = **5.9 × 10⁷**
+- Distance from Earth to Sun ≈ 150,000,000 km = **1.5 × 10⁸ km**
+> 💡 Prime factor numbers using exponents: 72 = 2³ × 3².
+
+## Let's check
+Q: Simplify 7⁵ ÷ 7³.
+A: 7² = 49.
+Q: What is (–1)¹⁰¹?
+A: –1.
+Q: Write 3,40,000 in standard form.
+A: 3.4 × 10⁵.
+
+@@ 13
+## Line symmetry review
+A figure has line symmetry if it can be folded along a line so the two halves match. Regular polygons have as many lines of symmetry as sides.
+
+## Rotational symmetry
+A figure has **rotational symmetry** if it looks exactly the same after a rotation of **less than 360°** about a fixed point (the **centre of rotation**).
+- **Angle of rotation:** the smallest angle that brings it back to the same look.
+- **Order of rotational symmetry:** how many times it looks the same in a full turn.
+
+## Examples
+- Square: order **4** (every 90°)
+- Equilateral triangle: order **3** (every 120°)
+- Rectangle: order **2** (every 180°)
+- Circle: infinite order
+- Letter **S**, **Z**, **N**: order 2 (no line symmetry!)
+- A windmill with four blades: order 4
+
+## Both kinds
+A square has 4 lines of symmetry and rotational symmetry of order 4. Letters H, I, O, X have both.
+> 💡 Order 1 means the figure only matches itself after a full 360° turn – it has no rotational symmetry.
+
+## Let's check
+Q: What is the order of rotational symmetry of a square?
+A: 4.
+Q: Does the letter Z have line symmetry?
+A: No (it has rotational symmetry of order 2).
+Q: What is the angle of rotation for an equilateral triangle?
+A: 120°.
+
+@@ 14
+## 2-D and 3-D shapes
+- **2-D (plane) shapes:** length and breadth – square, circle, triangle.
+- **3-D (solid) shapes:** length, breadth and height – cube, cuboid, cylinder, cone, sphere, pyramid.
+
+## Faces, edges and vertices
+- **Cube/cuboid:** 6 faces, 12 edges, 8 vertices
+- **Square pyramid:** 5 faces, 8 edges, 5 vertices
+- **Triangular pyramid (tetrahedron):** 4 faces, 6 edges, 4 vertices
+- **Triangular prism:** 5 faces, 9 edges, 6 vertices
+**Euler's formula:** F + V – E = 2 → for a cube, 6 + 8 – 12 = 2 ✔
+
+## Nets
+A **net** is a flat shape that folds into a solid. A cube's net has 6 squares joined in a certain way.
+
+## Views
+A solid looks different from the **front**, **side** and **top**. A cylinder's top view is a circle; its front view is a rectangle.
+
+## Cross-sections
+Slicing a solid gives a cross-section: a cube sliced straight gives a square; a cylinder sliced across gives a circle.
+> 💡 Isometric dot paper helps us draw 3-D shapes on paper.
+
+## Let's check
+Q: How many edges does a triangular prism have?
+A: 9.
+Q: Verify Euler's formula for a square pyramid.
+A: F + V – E = 5 + 5 – 8 = 2 ✔
+Q: What is the top view of a cone?
+A: A circle (with a point at the centre).

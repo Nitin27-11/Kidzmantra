@@ -1,0 +1,225 @@
+@@ 1
+## The tense system at a glance
+- **Simple present:** habits, facts – "The Earth revolves around the Sun."
+- **Present continuous:** now, or a fixed future plan – "We are leaving for Goa tomorrow."
+- **Present perfect:** past action, present result – "She has broken her arm."
+- **Present perfect continuous:** started in the past, still going – "I have been waiting for an hour."
+- **Simple past:** finished at a known time – "He visited Mysuru in 2024."
+- **Past continuous:** in progress at a past moment – "I was sleeping when the phone rang."
+- **Past perfect:** the earlier of two past actions – "The film had started before we arrived."
+- **Future forms:** will (decision/prediction), going to (plan/evidence), present continuous (arrangement).
+
+## Sequence of tenses
+If the main verb is in the past, the verb in the dependent clause is usually past too: "He said that he **was** tired." But universal truths stay present: "The teacher said that light **travels** faster than sound."
+
+## Common mistakes
+- ✗ I didn't went. ✓ I didn't **go**. (after did, use the base form)
+- ✗ He has came. ✓ He has **come**.
+- ✗ Since two years. ✓ **For** two years / **since** 2024.
+> 💡 Make a timeline: put events in order to choose the right tense.
+
+## Let's check
+Q: Correct: "Did you saw the match?"
+A: Did you see the match?
+Q: Fill in: "When I reached the station, the train ___ (leave)."
+A: had left.
+Q: Fill in: "Look at those clouds! It ___ (rain)."
+A: is going to rain.
+
+@@ 2
+## What is a clause?
+A **clause** is a group of words with a **subject and a verb**.
+- **Independent (main) clause:** makes complete sense alone – "I stayed home."
+- **Dependent (subordinate) clause:** can't stand alone – "because it was raining."
+
+## Kinds of dependent clauses
+- **Noun clause** – does the job of a noun: "**What she said** surprised me." "I know **that he is honest**."
+- **Adjective (relative) clause** – describes a noun, often begins with who, which, that, whose, where: "The boy **who won the race** is my cousin."
+- **Adverb clause** – tells when, where, why, how, or on what condition: "**When the bell rang**, we left." "I will come **if you invite me**."
+
+## Phrase vs clause
+A **phrase** has no subject–verb pair: "in the morning", "a very tall tree". A clause always has one.
+
+## Joining sentences with clauses
+"I met a girl. She speaks five languages." → "I met a girl **who speaks five languages**."
+> 💡 Use "who" for people, "which" for things, "whose" for possession, "where" for places.
+
+## Let's check
+Q: Identify the dependent clause: "Although he was tired, he finished the race."
+A: Although he was tired.
+Q: What kind of clause is "who lives next door" in "The man who lives next door is a doctor"?
+A: An adjective (relative) clause.
+Q: Is "under the old bridge" a phrase or a clause?
+A: A phrase.
+
+@@ 3
+## Active to passive – all patterns
+**Formula:** object → subject + be (tense) + past participle + by + agent
+- Present simple: They **build** houses. → Houses **are built** (by them).
+- Present continuous: He **is painting** the gate. → The gate **is being painted**.
+- Present perfect: She **has written** a poem. → A poem **has been written** by her.
+- Past simple: The dog **bit** the boy. → The boy **was bitten** by the dog.
+- Past continuous: They **were repairing** the road. → The road **was being repaired**.
+- Past perfect: He **had sold** the car. → The car **had been sold**.
+- Future: We **will announce** the results. → The results **will be announced**.
+- Modals: You **must finish** the work. → The work **must be finished**.
+
+## Questions and imperatives
+- **Who** wrote this? → **By whom** was this written?
+- **Did** she cook dinner? → **Was** dinner cooked by her?
+- Bring the book. → **Let** the book **be brought**. / You **are asked to** bring the book.
+
+## Verbs with two objects
+"The teacher gave **me** a **prize**." → "**I** was given a prize." or "A prize was given to me."
+> 💡 Intransitive verbs (no object) like "sleep, arrive, go" cannot be changed into passive.
+
+## Let's check
+Q: Change to passive: "Who broke the vase?"
+A: By whom was the vase broken?
+Q: Change to passive: "They will have finished the project."
+A: The project will have been finished by them.
+Q: Can "The baby sleeps" be changed to passive?
+A: No, "sleeps" has no object.
+
+@@ 4
+## Reporting statements, questions and commands
+**Reporting verbs:** said, told, asked, enquired, ordered, requested, advised, exclaimed.
+
+## Statements
+"I have finished my work," said Anu. → Anu said that she **had finished** her work.
+
+## Tense backshift table
+- is/am → was · are → were · has/have → had
+- did/past → had + V3 · will → would · can → could · may → might · must → had to
+
+## Questions
+- "Where are you going?" asked Mother. → Mother **asked** me **where I was going**. (no question mark; statement word order)
+- "Do you like music?" he said to me. → He **asked** me **if/whether** I liked music.
+
+## Commands and requests
+- "Stand up," said the teacher. → The teacher **ordered** us **to stand** up.
+- "Please lend me your pen," she said. → She **requested** me **to lend** her my pen.
+- "Don't touch the wire," he said. → He **warned** us **not to touch** the wire.
+
+## Exclamations
+"What a lovely day!" she said. → She **exclaimed** that it was a very lovely day.
+> 💡 Indirect questions have no question mark and use statement word order: "where he lived", not "where did he live".
+
+## Let's check
+Q: Report: "I can't come today," said Rohit.
+A: Rohit said that he couldn't come that day.
+Q: Report: "Are you hungry?" she asked me.
+A: She asked me if I was hungry.
+Q: Report: "Please help me," said the old man.
+A: The old man requested me to help him.
+
+@@ 5
+## Strategies for comprehension
+1. **Skim** to find the main idea.
+2. **Read the questions** before reading closely.
+3. **Scan** for key words to find specific answers.
+4. **Infer:** use clues to understand what is not said directly.
+5. **Vocabulary:** guess meanings from context.
+
+## Read the passage: The Monsoon
+For millions of Indian farmers, the monsoon is not just weather – it is life. Nearly half of India's farmland still depends on rain rather than canals. When the south-west monsoon arrives in Kerala around the first of June, the whole country watches. A good monsoon fills reservoirs, recharges wells and brings bumper harvests; prices of vegetables and grain fall. A weak monsoon can mean drought, debt and hardship.
+Yet heavy, unpredictable rain brings its own dangers – floods, landslides and crop damage. Scientists say climate change is making the monsoon more erratic: long dry spells broken by sudden, extreme downpours. Better water storage, crop insurance and accurate forecasts are now more important than ever.
+
+## Vocabulary
+- **reservoir:** a large natural or artificial lake used to store water
+- **erratic:** not regular or predictable
+- **bumper:** unusually large
+> 💡 Answer "why" questions with reasons from the passage, in your own words.
+
+## Let's check
+Q: Why is the monsoon called "life" for Indian farmers?
+A: Because nearly half of India's farmland depends on rain for crops.
+Q: How is climate change affecting the monsoon?
+A: It is making it more erratic – long dry spells and sudden heavy downpours.
+Q: Give the meaning of "erratic".
+A: Not regular or predictable.
+
+@@ 6
+## Diary entry
+A **diary** records personal experiences, thoughts and feelings.
+Format:
+- Day, date and time (top left)
+- Dear Diary,
+- Body – first person, informal, expressive; events and feelings
+- Name/signature at the end
+
+## Sample diary entry
+**Saturday, 14 November 2026, 9 p.m.**
+Dear Diary,
+Today was Children's Day and I'm still smiling! Our class performed a skit on saving water, and I played the role of a thirsty river. I was so nervous before going on stage that my hands were shaking, but when the audience laughed at my lines, I relaxed. Our principal praised us and said we should perform it for the whole district! I've learned that practice really does beat fear.
+Kavya
+
+## Informal letter
+Written to friends and family. Address, date, "Dear …", body, "Yours lovingly/With love", name. The tone is warm and personal.
+> 💡 A diary is written for yourself – be honest about your feelings.
+
+## Let's check
+Q: In which person is a diary written?
+A: The first person (I, me, my).
+Q: What is written at the top of a diary entry?
+A: The day, date and time.
+Q: How does an informal letter differ from a formal one?
+A: It is personal and friendly, with no subject line, and closes with words like "With love".
+
+@@ 7
+## Elements of a story
+- **Characters:** who the story is about.
+- **Setting:** where and when it happens.
+- **Plot:** the events – beginning, rising action, **climax** (turning point), falling action, resolution.
+- **Conflict:** the problem the main character faces.
+- **Theme/moral:** the message.
+
+## Writing a story from an outline
+Outline: a girl finds a wallet → it has a lot of money and an address → tempted, she decides to return it → the owner, an old man, is a retired teacher who had lost his pension → he blesses her; her school honours her honesty.
+
+## Tips
+- Begin with an interesting line: "It was the last thing Meera expected to find under the bus seat."
+- Use **dialogue** to bring characters alive.
+- Show feelings through actions: instead of "She was scared", write "Her heart thumped and her palms grew cold."
+- Give the story a title.
+> 💡 Past tense is usually used for story writing.
+
+## Let's check
+Q: What is the climax of a story?
+A: The turning point, where the conflict is most intense.
+Q: What does "setting" mean?
+A: Where and when a story takes place.
+Q: Give one tip to make a story lively.
+A: Use dialogue, describe feelings through actions, start with an interesting line.
+
+@@ 8
+## Reading literature
+When studying prose and poetry, think about: **What happens? Who are the characters? What is the message? How has the writer used language?**
+
+## Poem: The Road Not Taken (lines by Robert Frost)
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could…
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+
+## Understanding the poem
+The traveller must choose between two paths in a forest – a **metaphor** for choices in life. He picks the one "less traveled by" and believes this choice shaped his whole life. The poem reminds us that our decisions matter and we can't go back to try every path.
+
+## Literary devices
+- **Metaphor:** roads = life choices
+- **Imagery:** "yellow wood" (autumn forest)
+- **Rhyme scheme:** abaab
+> 💡 Support your answers about a poem with a line or phrase from it.
+
+## Let's check
+Q: What do the two roads stand for?
+A: Choices in life.
+Q: Which road did the poet take?
+A: The one less traveled by.
+Q: What does "yellow wood" suggest?
+A: A forest in autumn.

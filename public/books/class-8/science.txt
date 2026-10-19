@@ -1,0 +1,569 @@
+@@ 1
+## Agricultural practices
+Growing plants on a large scale for food is **agriculture**. Plants of the same kind grown in one place are a **crop**.
+- **Kharif crops:** sown in the rainy season (June–September) – rice, maize, soybean, cotton, groundnut.
+- **Rabi crops:** sown in winter (October–March) – wheat, gram, pea, mustard, linseed.
+
+## Steps in crop production
+1. **Preparing the soil:** **ploughing (tilling)** loosens soil so roots go deep and air reaches them; **levelling** prevents erosion. Tools: plough, hoe, cultivator.
+2. **Sowing:** choosing good, healthy seeds; using a **seed drill** to sow at the right depth and distance.
+3. **Adding manure and fertilisers:** **manure** (organic, from animal and plant waste) improves soil texture; **fertilisers** (chemicals like urea, NPK) give specific nutrients. Overuse of fertilisers harms soil. **Crop rotation** with pulses (legumes) restores nitrogen naturally.
+4. **Irrigation:** watering crops – traditional (moat/pulley, chain pump, dhekli, rahat) and modern (**sprinkler** and **drip** systems that save water).
+5. **Protecting from weeds:** **weeding** by hand, khurpi or **weedicides** (2,4-D).
+6. **Harvesting:** cutting the mature crop with a sickle or a **combine** (harvester + thresher). **Threshing** separates grain from chaff; **winnowing** removes chaff.
+7. **Storage:** dry grains are stored in **silos** and **granaries**; neem leaves protect against pests.
+
+## Animal husbandry
+Rearing animals for food – milk, eggs, meat, fish.
+> 💡 Harvest festivals: Pongal, Baisakhi, Holi, Diwali, Nabanya, Bihu.
+
+## Let's check
+Q: Give two examples of rabi crops.
+A: Wheat, gram, pea or mustard.
+Q: Why is ploughing important?
+A: It loosens the soil, lets roots go deep and lets air reach them.
+Q: How does drip irrigation save water?
+A: It delivers water drop by drop directly to the roots.
+
+@@ 2
+## Microorganisms
+Living things too small to see without a **microscope**. Main groups:
+- **Bacteria:** single-celled (e.g. Lactobacillus in curd).
+- **Fungi:** bread mould, yeast, mushrooms (some are big).
+- **Protozoa:** Amoeba, Paramecium.
+- **Algae:** Chlamydomonas, Spirogyra.
+- **Viruses:** reproduce only inside living cells; cause cold, flu, COVID-19, polio, chickenpox.
+
+## Friendly microorganisms
+- **Curd and bread:** Lactobacillus turns milk into curd; **yeast** makes dough rise (releases CO₂).
+- **Fermentation:** yeast converts sugar into alcohol – discovered by **Louis Pasteur**.
+- **Medicines:** **antibiotics** like penicillin (discovered by **Alexander Fleming** in 1929) kill bacteria – not viruses.
+- **Vaccines:** contain dead or weakened microbes that train the body to fight disease. **Edward Jenner** made the smallpox vaccine.
+- **Nitrogen fixation:** Rhizobium in root nodules of legumes.
+- **Cleaning the environment:** decomposers break down dead matter.
+
+## Harmful microorganisms
+- **Human diseases:** tuberculosis, typhoid (bacteria); malaria (protozoa, spread by female Anopheles mosquito); dengue (virus, Aedes mosquito).
+- **Animal diseases:** anthrax, foot-and-mouth disease.
+- **Plant diseases:** citrus canker, rust of wheat.
+- **Food poisoning:** from spoiled food.
+
+## Food preservation
+Salting, sugaring (jams), oil and vinegar (pickles), heating and cooling, **pasteurisation** (milk heated to 70°C for 15–30 seconds, then chilled), refrigeration, airtight packing.
+> 💡 Antibiotics don't work on colds and flu, which are caused by viruses.
+
+## Let's check
+Q: Which microorganism makes milk into curd?
+A: Lactobacillus (a bacterium).
+Q: Who discovered penicillin?
+A: Alexander Fleming.
+Q: What is pasteurisation?
+A: Heating milk to about 70°C for a short time and chilling it to kill microbes.
+
+@@ 3
+## Synthetic fibres
+Fibres made by humans from chemicals (petrochemicals). A synthetic fibre is a **polymer** – a long chain of small units (**monomers**). Cotton is a natural polymer made of cellulose.
+- **Rayon:** made from wood pulp; called **artificial silk**; used in bedsheets, carpets.
+- **Nylon:** first fully synthetic fibre (1931); strong, elastic, light; used in ropes, parachutes, socks, toothbrush bristles.
+- **Polyester:** doesn't wrinkle easily; **PET** is used to make bottles and films. **Terylene** is a polyester.
+- **Acrylic:** looks like wool; used in sweaters and blankets.
+
+## Characteristics
+Strong, durable, dry quickly, cheap, easy to maintain. But they **melt on heating** and stick to the body – dangerous near fire. Cotton clothes are safer in the kitchen.
+
+## Plastics
+Also polymers.
+- **Thermoplastics:** soften on heating and can be reshaped – polythene, PVC (toys, combs, pipes).
+- **Thermosetting plastics:** don't soften once set – **bakelite** (switches, pan handles – poor conductor of heat and electricity), **melamine** (fire-resistant; kitchenware).
+
+## Plastics and the environment
+Plastics are **non-biodegradable** – they take hundreds of years to break down. Burning them releases toxic gases. Follow the **4 Rs: Reduce, Reuse, Recycle, Recover**.
+> 💡 Teflon, a non-stick coating, is also a plastic.
+
+## Let's check
+Q: Why is rayon called artificial silk?
+A: Because it looks and feels like silk but is made from wood pulp.
+Q: Why should we not wear synthetic clothes in the kitchen?
+A: They melt on heating and stick to the body, causing burns.
+Q: Name a thermosetting plastic.
+A: Bakelite or melamine.
+
+@@ 4
+## Physical properties
+- **Metals:** lustrous (shiny), hard, **malleable** (beaten into sheets), **ductile** (drawn into wires), good conductors of heat and electricity, **sonorous** (ring when struck).
+- **Non-metals:** dull, brittle, soft, poor conductors, not sonorous.
+**Exceptions:** mercury is a liquid metal; sodium and potassium are soft; **graphite** (non-metal) conducts electricity; **iodine** is a lustrous non-metal; diamond (carbon) is the hardest natural substance.
+
+## Chemical properties
+- **With oxygen:** metals form **basic oxides** (magnesium oxide turns red litmus blue); non-metals form **acidic oxides** (sulphur dioxide turns blue litmus red).
+- **With water:** sodium reacts violently (kept in kerosene); iron rusts slowly in moist air.
+- **With acids:** metals release **hydrogen gas** (burns with a pop sound).
+- **Displacement:** a more reactive metal displaces a less reactive one from its compound – iron + copper sulphate → iron sulphate + copper (blue solution turns green).
+
+## Uses
+- Metals: utensils, machines, wires (copper, aluminium), jewellery (gold, silver), aircraft (aluminium).
+- Non-metals: oxygen (breathing), nitrogen (fertilisers), chlorine (water purification), iodine (antiseptic), carbon (fuels).
+> 💡 Gold and silver are less reactive, so they stay shiny for long.
+
+## Let's check
+Q: What does "ductile" mean?
+A: Can be drawn into thin wires.
+Q: Why is sodium stored in kerosene?
+A: It reacts violently with air and water.
+Q: Which non-metal conducts electricity?
+A: Graphite.
+
+@@ 5
+## Natural resources
+- **Inexhaustible:** unlimited – sunlight, air.
+- **Exhaustible:** limited and can be used up – coal, petroleum, natural gas, minerals, forests.
+
+## Coal
+Formed from dead plants buried under soil millions of years ago. High heat and pressure turned them into coal (**carbonisation**). Coal and petroleum are **fossil fuels**.
+Processing coal gives **coke** (used in steel making), **coal tar** (used for dyes, paints, mothballs, roads) and **coal gas**.
+
+## Petroleum
+Formed from dead marine organisms buried under the sea bed. Found trapped between rock layers; drilled out as a dark oily liquid.
+**Refining** separates it into: LPG, petrol, kerosene, diesel, lubricating oil, paraffin wax and bitumen. Petroleum is called **"black gold"**.
+
+## Natural gas
+Cleanest fossil fuel. Stored as **CNG** (Compressed Natural Gas) for vehicles and power plants. Found in Tripura, Rajasthan, Krishna-Godavari delta.
+
+## Saving fossil fuels
+They take millions of years to form and pollute the air. Tips by **PCRA** (Petroleum Conservation Research Association): drive at steady speed, switch off engines at red lights, keep tyre pressure correct, service vehicles regularly.
+> 💡 The first oil well in India was dug in Digboi, Assam, in 1867.
+
+## Let's check
+Q: What is carbonisation?
+A: The slow process by which dead plants turned into coal.
+Q: Why is petroleum called black gold?
+A: Because it is very valuable and dark in colour.
+Q: Name the cleanest fossil fuel.
+A: Natural gas.
+
+@@ 6
+## Combustion
+A chemical process in which a substance reacts with **oxygen** and gives off **heat** (and often light). Substances that burn are **combustible** (wood, paper, LPG); those that don't are **non-combustible** (stone, glass).
+
+## Conditions for combustion
+1. A **fuel**
+2. **Oxygen (air)**
+3. Heating to the **ignition temperature** – the lowest temperature at which it catches fire.
+Kerosene has a lower ignition temperature than wood, so it catches fire more easily. A match head has red phosphorus and potassium chlorate.
+
+## Types of combustion
+- **Rapid:** burns quickly with heat and light – LPG on a stove.
+- **Spontaneous:** catches fire on its own – phosphorus at room temperature; forest fires in dry season.
+- **Explosion:** sudden reaction with heat, light and sound – crackers.
+
+## Fire control
+Remove any one condition: cut off fuel, cut off air, or cool below ignition temperature.
+- **Water** cools – but **not** for electrical or oil fires.
+- **Carbon dioxide** extinguishers blanket the fire and are best for electrical and oil fires.
+
+## Flame
+A candle flame has three zones: **outermost** (blue, complete combustion, hottest), **middle** (yellow, partial combustion, moderately hot), **innermost** (dark, unburnt wax vapour, least hot). Goldsmiths use the outer zone.
+
+## Fuel efficiency
+A good fuel is cheap, easy to get, burns at a moderate rate, gives lots of heat and leaves no residue. **Calorific value** = heat produced by 1 kg of fuel (in kJ/kg). Hydrogen has the highest.
+
+## Pollution from burning
+Incomplete burning gives **carbon monoxide** (poisonous); fuels release **carbon dioxide** (global warming), **sulphur and nitrogen oxides** (acid rain).
+> 💡 Never burn coal or wood in a closed room – carbon monoxide can kill.
+
+## Let's check
+Q: What three things are needed for combustion?
+A: Fuel, oxygen and heat to reach the ignition temperature.
+Q: Why is water not used for electrical fires?
+A: Water conducts electricity and can cause shocks.
+Q: Which zone of a candle flame is hottest?
+A: The outermost (blue) zone.
+
+@@ 7
+## Biodiversity
+The variety of plants, animals and microorganisms in an area. **Deforestation** (for farming, homes, industries, roads) threatens biodiversity, causes **desertification**, floods, droughts and **global warming**.
+
+## Protected areas
+- **Wildlife sanctuary:** animals are protected; limited human activity allowed.
+- **National park:** larger areas protecting the whole ecosystem – e.g. **Satpura National Park** (Madhya Pradesh), Jim Corbett.
+- **Biosphere reserve:** large areas protecting biodiversity and the culture of local people – e.g. **Pachmarhi Biosphere Reserve**.
+
+## Key terms
+- **Flora** (plants) and **fauna** (animals) of an area.
+- **Endemic species:** found only in one area – e.g. the Indian giant squirrel and sal tree in Pachmarhi.
+- **Endangered species:** at risk of extinction – tiger, lion, rhino, snow leopard.
+- **Extinct species:** no longer living – the dodo.
+- The **Red Data Book** lists endangered species.
+
+## Conservation steps
+- **Project Tiger** (1973) to save tigers.
+- **Migratory birds** need protection on their routes.
+- **Reforestation:** planting new trees.
+- **Recycling paper:** saves trees (about 17 full-grown trees make one tonne of paper).
+> 💡 The Forest (Conservation) Act protects forests in India.
+
+## Let's check
+Q: What is an endemic species?
+A: A species found only in a particular area.
+Q: What does the Red Data Book contain?
+A: A record of endangered species.
+Q: Name a biosphere reserve in India.
+A: Pachmarhi (or Nilgiri, Sundarbans, Nanda Devi).
+
+@@ 8
+## The cell
+The **cell** is the basic structural and functional unit of life. Discovered by **Robert Hooke** in 1665 in a slice of cork.
+- **Unicellular** organisms: Amoeba, Paramecium, bacteria.
+- **Multicellular** organisms: plants, animals.
+Cells vary in shape and size: nerve cells are long; red blood cells are round; the hen's egg is a single large cell.
+
+## Parts of a cell
+- **Cell membrane (plasma membrane):** thin outer layer; controls what enters and leaves.
+- **Cytoplasm:** jelly-like fluid where cell activities happen; contains **organelles** like mitochondria.
+- **Nucleus:** the control centre; has **chromosomes** that carry **genes** (pass characters from parents to children). The **nucleolus** is inside the nucleus.
+
+## Plant vs animal cells
+- Plant cells have a **cell wall** (made of cellulose), large **vacuoles** and **chloroplasts** (green, for photosynthesis).
+- Animal cells don't have a cell wall or chloroplasts; vacuoles are small or absent.
+
+## Prokaryotes and eukaryotes
+- **Prokaryotes:** no well-defined nucleus (bacteria, blue-green algae).
+- **Eukaryotes:** have a clear nucleus with a nuclear membrane.
+
+## Organisation
+Cells → tissues → organs → organ systems → organism.
+> 💡 Ostrich eggs are among the largest single cells.
+
+## Let's check
+Q: Who discovered the cell?
+A: Robert Hooke.
+Q: Name two structures found only in plant cells.
+A: Cell wall and chloroplasts.
+Q: What are prokaryotes?
+A: Organisms whose cells don't have a well-defined nucleus, like bacteria.
+
+@@ 9
+## Modes of reproduction
+- **Asexual:** one parent – **binary fission** (Amoeba divides into two), **budding** (Hydra grows a bud).
+- **Sexual:** two parents – male and female **gametes** (sperm and egg) fuse.
+
+## Human reproductive system
+- **Male:** testes produce **sperms**.
+- **Female:** ovaries produce **eggs (ova)**; one egg is released every month.
+
+## Fertilisation
+The fusion of sperm and egg forms a **zygote**.
+- **Internal fertilisation:** inside the female's body – humans, cows, dogs, hens.
+- **External fertilisation:** outside the body, in water – frogs, fish. Frogs lay hundreds of eggs because many are lost.
+
+## Development
+- The zygote divides repeatedly to form an **embryo**, which grows in the mother's **uterus**. When body parts are recognisable, it is a **foetus**.
+- **Viviparous** animals give birth to young ones (humans, cats, dogs).
+- **Oviparous** animals lay eggs (hens, frogs, lizards, butterflies).
+
+## Metamorphosis
+A dramatic change from larva to adult:
+- **Frog:** egg → tadpole → adult frog.
+- **Silkworm/butterfly:** egg → larva → pupa → adult.
+
+## Cloning
+Producing an exact copy of an organism. **Dolly the sheep** (1996) was the first cloned mammal.
+> 💡 IVF ("test-tube babies") involves fertilisation outside the body, then placing the embryo in the uterus.
+
+## Let's check
+Q: What is a zygote?
+A: The cell formed when a sperm and an egg fuse.
+Q: Are hens viviparous or oviparous?
+A: Oviparous.
+Q: What is metamorphosis?
+A: A big change in form from a young stage (larva) to an adult.
+
+@@ 10
+## Adolescence and puberty
+**Adolescence** is the period between childhood and adulthood, roughly ages **11 to 19** (teenage years). **Puberty** is when the body becomes capable of reproduction.
+
+## Changes during puberty
+- **Increase in height** – sudden growth spurt.
+- **Change in body shape** – boys' shoulders broaden; girls' hips widen.
+- **Voice change** – the **larynx (voice box)** grows; boys' voices deepen (Adam's apple).
+- **Sweat and oil glands** become more active → pimples/acne.
+- Development of reproductive organs; menstruation begins in girls.
+- **Emotional and mental changes** – more independence, strong feelings, self-consciousness.
+
+## Hormones
+**Hormones** are chemicals released by **endocrine glands** into the blood.
+- **Testosterone** (boys) and **oestrogen** (girls) control changes.
+- The **pituitary gland** controls other glands.
+- **Thyroid** (thyroxine) – lack of iodine causes goitre.
+- **Pancreas** (insulin) – lack causes diabetes.
+- **Adrenal glands** (adrenaline) – help in stress and anger.
+
+## Sex determination
+Humans have 23 pairs of chromosomes. Females have **XX**; males have **XY**. The father's chromosome decides the child's sex.
+
+## Health in adolescence
+Balanced diet (iron and protein are important), personal hygiene, exercise, enough sleep. Say **no to drugs** – they are addictive and harmful.
+> 💡 Everyone grows at their own pace – there's no "right" time for every change.
+
+## Let's check
+Q: What is the voice box called?
+A: The larynx.
+Q: Which hormone controls changes in boys during puberty?
+A: Testosterone.
+Q: What are the sex chromosomes of a male?
+A: XY.
+
+@@ 11
+## Force
+A **push or pull** on an object is a **force**. Forces arise from **interaction** between objects.
+Effects of force:
+- Can **move** a stationary object or **stop** a moving one.
+- Can change **speed** or **direction**.
+- Can change **shape**.
+Force has **magnitude** and **direction**. Its SI unit is the **newton (N)**.
+
+## Types of forces
+- **Contact forces:** need touch – **muscular force**, **friction**.
+- **Non-contact forces:** act from a distance – **magnetic force**, **electrostatic force** (a charged comb attracts paper), **gravitational force** (Earth pulls everything towards it).
+
+## Pressure
+**Pressure = Force ÷ Area**. SI unit: **pascal (Pa)** = N/m².
+- Same force on a smaller area → **more** pressure. That's why knives are sharp and nails are pointed.
+- Wide bags straps and broad tyres on trucks spread force over a larger area → less pressure.
+
+## Pressure in liquids and gases
+- Liquids exert pressure on the walls and base of a container; pressure **increases with depth** (dams have thicker bottoms).
+- **Atmospheric pressure:** the air presses on us with great force; we don't feel it because our body's internal pressure balances it. A rubber sucker sticks to a wall because of air pressure.
+> 💡 Camels have broad feet so they don't sink in sand – less pressure on a bigger area.
+
+## Let's check
+Q: What is the SI unit of force?
+A: The newton (N).
+Q: Why are knives sharp?
+A: A small area gives more pressure for the same force, so it cuts easily.
+Q: Why are dam walls thicker at the bottom?
+A: Because water pressure increases with depth.
+
+@@ 12
+## Friction
+The force that **opposes motion** between two surfaces in contact. It acts opposite to the direction of motion.
+**Cause:** irregularities on surfaces interlock.
+
+## Factors
+- Rougher surfaces → more friction.
+- Heavier objects (pressed harder) → more friction.
+
+## Types
+- **Static friction:** when an object is at rest – greatest.
+- **Sliding friction:** when it slides – less.
+- **Rolling friction:** when it rolls – least. That's why wheels and **ball bearings** are used.
+- **Fluid friction (drag):** in liquids and gases. Streamlined shapes (fish, birds, aeroplanes, boats) reduce it.
+
+## Friction – friend and foe
+**Useful:** walking, writing, holding things, brakes, lighting a matchstick.
+**Harmful:** wears out shoe soles and tyres, produces heat in machines, wastes energy.
+
+## Increasing friction
+Treaded tyres, grooves on soles, gymnasts using powder on hands, sand on slippery roads.
+
+## Reducing friction
+**Lubricants** (oil, grease), polishing, ball bearings, wheels, streamlining. Powder on a carrom board.
+> 💡 Without friction, we couldn't even walk – our feet would slip!
+
+## Let's check
+Q: Which is the smallest kind of friction?
+A: Rolling friction.
+Q: Why are tyres treaded?
+A: To increase friction and grip on the road.
+Q: Name two ways to reduce friction.
+A: Lubricants, ball bearings, polishing, streamlining.
+
+@@ 13
+## Sound
+Sound is produced by **vibrating** objects – the to-and-fro motion of a vocal cord, a guitar string, a drum's skin.
+- Humans produce sound with the **larynx**; two vocal cords vibrate when air passes.
+- Sound needs a **medium** (solid, liquid, gas) to travel. It **cannot travel in vacuum** – that's why astronauts use radios. Sound travels fastest in solids.
+
+## Hearing
+Sound enters the ear and makes the **eardrum** vibrate; signals go to the brain.
+
+## Characteristics
+- **Amplitude:** the size of vibration; larger amplitude → **louder** sound. Loudness is measured in **decibels (dB)**.
+- **Frequency:** number of vibrations per second, in **hertz (Hz)**; higher frequency → higher **pitch** (shrill). A woman's voice usually has a higher pitch than a man's.
+- **Time period:** time for one vibration.
+
+## Audible range
+Humans hear **20 Hz to 20,000 Hz**. Below 20 Hz: **infrasonic**; above 20,000 Hz: **ultrasonic** (used by bats, in ultrasound scans).
+
+## Noise and music
+Unpleasant sound is **noise**; pleasant sound is **music**. **Noise pollution** (horns, loudspeakers, machines) causes stress, sleeplessness, high blood pressure and hearing loss. Reduce it with silencers, trees along roads, soundproofing and limits on loudspeakers.
+> 💡 Sound above 80 dB can damage hearing over time.
+
+## Let's check
+Q: Can sound travel in vacuum?
+A: No, it needs a medium.
+Q: What is the unit of frequency?
+A: Hertz (Hz).
+Q: What is the audible range of humans?
+A: 20 Hz to 20,000 Hz.
+
+@@ 14
+## Liquids and electricity
+Some liquids conduct electricity – tap water, salt water, lemon juice, vinegar. **Distilled water** is a poor conductor; adding salt makes it a good conductor. A **tester** with an LED or a compass needle can show weak currents.
+⚠️ Never touch electrical appliances with wet hands.
+
+## Chemical effects of current
+When current passes through a conducting solution, it causes **chemical reactions**:
+- Gas bubbles form at the electrodes.
+- Metal may be deposited.
+- The colour of the solution may change.
+(When current passes through water, **oxygen** forms at the positive electrode and **hydrogen** at the negative electrode.)
+
+## Electroplating
+Depositing a thin layer of one metal on another using electricity.
+- Copper plating: pass current through copper sulphate solution; copper from the positive plate deposits on the negative plate.
+- **Chromium plating** on car parts, taps and cycle handlebars – shiny and resists scratches.
+- **Tin** on iron for food cans (tin is less reactive).
+- **Zinc** on iron (**galvanisation**) to prevent rusting.
+- Gold/silver plating on cheaper jewellery.
+
+## Disposal
+Used solutions from electroplating factories pollute water and must be treated.
+> 💡 Electroplating is used to make cheap ornaments look like gold or silver.
+
+## Let's check
+Q: Is distilled water a good conductor of electricity?
+A: No, it is a poor conductor.
+Q: What is electroplating?
+A: Depositing a thin layer of a metal on another using electricity.
+Q: Why are food cans tin-plated?
+A: Tin is less reactive, so it doesn't react with food, and it protects the iron.
+
+@@ 15
+## Lightning
+- Clouds become **electrically charged** when air currents rub ice particles and water droplets. Positive charges collect at the top and negative charges at the bottom.
+- When the charge builds up, it jumps between clouds or from a cloud to the Earth – a giant **spark** called **lightning**. **Thunder** is the sound produced.
+- Rubbing a plastic comb on dry hair charges it (**static electricity**). Like charges repel; unlike charges attract.
+- **Earthing** sends excess charge to the ground.
+
+## Lightning safety
+- Go indoors; avoid open fields, tall trees, poles and metal objects.
+- Don't use corded phones or bathe during a thunderstorm.
+- If outdoors, squat low with feet together; don't lie flat.
+- Inside a car or bus (with windows closed) is safe.
+- **Lightning conductors** on tall buildings carry the charge safely to the ground.
+
+## Earthquakes
+A sudden shaking of the Earth caused by movements of **tectonic plates** in the Earth's crust. Weak zones are called **fault zones**; in India: Kashmir, the Himalayan region, Gujarat (Rann of Kutch), the North-East.
+- Measured on the **Richter scale** using a **seismograph**. A magnitude 7 earthquake is very destructive.
+- They can't be predicted accurately.
+
+## Earthquake safety
+- Build earthquake-resistant buildings; fix heavy objects.
+- During a quake: **Drop, Cover, Hold On** under a sturdy table; stay away from windows; if outside, go to an open area away from buildings and wires.
+> 💡 The 2001 Bhuj earthquake in Gujarat measured about 7.7.
+
+## Let's check
+Q: What causes lightning?
+A: The discharge of electric charges between clouds or between a cloud and the Earth.
+Q: What instrument records earthquakes?
+A: A seismograph.
+Q: What should you do indoors during an earthquake?
+A: Drop, cover and hold on under a sturdy table, away from windows.
+
+@@ 16
+## Reflection of light
+- **Laws:** (1) angle of incidence = angle of reflection; (2) the incident ray, reflected ray and normal lie in the same plane.
+- **Regular reflection:** from smooth surfaces like mirrors – parallel rays stay parallel.
+- **Diffused reflection:** from rough surfaces like paper – rays scatter. We see most objects this way.
+- **Multiple images:** two mirrors at an angle form many images. A **kaleidoscope** uses three mirrors; a **periscope** uses two (used in submarines).
+
+## Dispersion
+Sunlight splits into **seven colours** (VIBGYOR) when passed through a prism.
+
+## The human eye
+- **Cornea:** transparent front layer.
+- **Iris:** coloured part; controls the size of the **pupil**.
+- **Lens:** focuses light on the **retina**.
+- **Retina:** has **rods** (sensitive to dim light) and **cones** (sensitive to colour).
+- **Blind spot:** where the optic nerve leaves the eye – no image forms there.
+- The image stays on the retina for about **1/16 of a second** – that's why movies look continuous.
+
+## Eye care
+Read in good light, don't rub eyes, eat vitamin A-rich food (carrots, papaya, green leafy vegetables). Night blindness is caused by lack of vitamin A. **Cataract** makes the lens cloudy.
+
+## Braille
+Visually challenged people read **Braille** – a system of raised dots invented by **Louis Braille**.
+> 💡 You can donate your eyes after death to give sight to someone with corneal blindness.
+
+## Let's check
+Q: What controls the size of the pupil?
+A: The iris.
+Q: Which cells of the retina detect colour?
+A: Cones.
+Q: Who invented the Braille system?
+A: Louis Braille.
+
+@@ 17
+## The night sky
+**Celestial objects:** stars, planets, the Moon, comets. Stars twinkle; planets don't.
+
+## The Moon
+- It has no light of its own; it reflects sunlight.
+- **Phases:** the changing shapes we see over a month – new moon → crescent → half → gibbous → full moon and back. The cycle takes about **29.5 days**.
+- We always see the **same side** of the Moon.
+- Neil Armstrong was the first person on the Moon (20 July 1969).
+
+## Stars and constellations
+- Stars are huge, hot balls of gas, very far away. The Sun is the nearest star.
+- Distances are measured in **light years** – the distance light travels in a year (about 9.46 × 10¹² km).
+- **Constellations:** patterns of stars – **Ursa Major** (Big Dipper/Saptarishi), **Orion** (the Hunter), Cassiopeia.
+- The **Pole Star** (Dhruv tara) seems fixed and helps find north.
+
+## The solar system
+The Sun and eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Inner planets are rocky; outer planets are huge and gaseous. Venus is the brightest planet; Jupiter the largest.
+Others: **asteroids** (mostly between Mars and Jupiter), **comets** (bright tails pointing away from the Sun – **Halley's comet** returns every 76 years), **meteors** (shooting stars).
+
+## Satellites
+Natural (the Moon) and artificial (made by humans) – used for weather forecasting, communication, navigation and remote sensing. India's first satellite was **Aryabhata** (1975).
+> 💡 Chandrayaan-3 made India the first country to land near the Moon's south pole (2023).
+
+## Let's check
+Q: How long does the Moon take to complete its phases?
+A: About 29.5 days.
+Q: What is a light year?
+A: The distance light travels in one year.
+Q: Name India's first artificial satellite.
+A: Aryabhata.
+
+@@ 18
+## Air pollution
+Contamination of air by harmful substances (**pollutants**).
+**Sources:** vehicles, factories, power plants, burning of fuels and garbage, stubble burning, forest fires, dust.
+**Pollutants:**
+- **Carbon monoxide** – from incomplete burning; reduces oxygen in blood.
+- **Sulphur dioxide and nitrogen oxides** – cause **acid rain**, which has damaged the marble of the **Taj Mahal** ("marble cancer").
+- **CFCs** – from refrigerators and ACs – damage the **ozone layer**.
+- **Particulate matter (PM2.5, PM10)** – tiny particles that harm lungs.
+- **Smog** – smoke + fog.
+
+## Greenhouse effect and global warming
+Gases like **carbon dioxide** and **methane** trap the Sun's heat in the atmosphere (**greenhouse effect**). Too much of them causes **global warming** – melting glaciers, rising sea levels and extreme weather. The **Kyoto Protocol** and **Paris Agreement** aim to cut emissions.
+
+## Water pollution
+Contamination of water by sewage, factory waste, pesticides and fertilisers, garbage. Excess fertilisers cause algae to grow and use up oxygen, killing fish. The **Ganga Action Plan** (1985) and **Namami Gange** aim to clean the Ganga.
+
+## Safe drinking water
+**Potable water** is safe to drink. Purify by filtering, **boiling**, or **chlorination**.
+
+## What we can do
+Use public transport, plant trees, switch to CNG/electric vehicles, avoid burning waste, save electricity, follow the 3 Rs, don't throw waste in rivers.
+> 💡 The Air Quality Index (AQI) tells how clean the air is – lower is better.
+
+## Let's check
+Q: What damaged the marble of the Taj Mahal?
+A: Acid rain caused by sulphur dioxide and nitrogen oxides.
+Q: What is the greenhouse effect?
+A: The trapping of the Sun's heat by gases like carbon dioxide in the atmosphere.
+Q: What is potable water?
+A: Water that is safe to drink.

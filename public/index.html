@@ -103,13 +103,13 @@ select{padding:6px 10px;font-weight:700}
 .say:disabled{opacity:.6;cursor:wait}
 .btn.listening{background:var(--rose);border-color:var(--rose);color:#fff}
 /* read-along: the paragraph being read glows, the word being spoken pops */
-.msg .body p,.msg .body li{border-radius:8px;transition:background .3s,box-shadow .3s}
-.msg .body .reading{background:color-mix(in srgb,var(--sky) 16%,transparent);box-shadow:-4px 0 0 var(--sky)}
+.msg .body p,.msg .body li,.book p,.book li,.book h2{border-radius:8px;transition:background .3s,box-shadow .3s}
+.msg .body .reading,.book .reading{background:color-mix(in srgb,var(--sky) 16%,transparent);box-shadow:-4px 0 0 var(--sky)}
 .w{display:inline-block;border-radius:5px;padding:0 1px;transition:opacity .3s,background .15s}
 .w.said{opacity:.7}
 .w.now{background:var(--turmeric);color:#141A33;opacity:1}
 @media (prefers-reduced-motion:no-preference){
-  .msg .body .reading{animation:glow 1.6s ease-in-out infinite alternate}
+  .msg .body .reading,.book .reading{animation:glow 1.6s ease-in-out infinite alternate}
   .w.now{animation:pop .35s ease-out both}
 }
 @keyframes pop{0%{transform:scale(1)}45%{transform:scale(1.28) translateY(-3px)}100%{transform:scale(1.1)}}
@@ -132,6 +132,7 @@ section{padding-block:48px}
 .grades{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:18px}
 .grade{background:var(--sheet);border-radius:10px;box-shadow:var(--shadow);text-decoration:none;display:flex;flex-direction:column;overflow:hidden}
 .grade .face{font-family:var(--display);font-weight:800;font-size:2.2rem;color:var(--chip-ink);padding:18px 16px 10px;line-height:1}
+.grade .face.long{font-size:1.75rem;padding-top:22px}
 .grade .info{padding:10px 16px 14px;display:grid;gap:2px}
 .grade b{font-family:var(--display);font-size:1.2rem}
 .grade span{font-size:.82rem;color:var(--ink-soft);font-weight:600;line-height:1.35}
@@ -161,6 +162,43 @@ section{padding-block:48px}
 }
 
 /* chapter page */
+/* chapter ebook */
+.book{gap:6px}
+.book-head{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+.book-sec{display:grid;gap:10px;padding:14px 0;border-top:2px dashed var(--line)}
+.book-sec:first-of-type{border-top:0}
+.book-sec-head{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+.book-sec h2{font-size:1.45rem;color:var(--leaf)}
+.book p{margin:0;line-height:1.7}
+.book ul,.book ol{margin:0;padding-left:22px;display:grid;gap:6px;line-height:1.6}
+.book-box{background:color-mix(in srgb,var(--turmeric) 16%,var(--sheet));border:2px solid color-mix(in srgb,var(--turmeric) 60%,transparent);border-radius:12px;padding:12px 14px;display:grid;gap:6px}
+.book-q{border:2px solid var(--line);border-radius:12px;padding:10px 14px;display:grid;gap:6px}
+.book-q summary{cursor:pointer;font-weight:700;color:var(--sky);font-size:.9rem}
+.book-q .ans{margin-top:6px;font-weight:700;color:var(--leaf)}
+.book-quiz{display:grid;gap:12px;counter-reset:qz}
+.qz{border:2px solid var(--line);border-radius:14px;padding:12px 14px;display:grid;gap:8px;counter-increment:qz;transition:border-color .2s,background .2s}
+.qz-q{font-weight:700}
+.qz-q::before{content:counter(qz) ". "}
+.qz-opts{display:flex;flex-wrap:wrap;gap:8px}
+.qz-opt,.qz-check,.qz-again{border:2px solid var(--line);background:var(--sheet);color:var(--ink);border-radius:999px;padding:6px 14px;font:inherit;font-weight:700;cursor:pointer}
+.qz-opt:hover:not(:disabled),.qz-check:hover{border-color:var(--sky)}
+.qz-opt:disabled{cursor:default}
+.qz-opt.right{background:var(--leaf);border-color:var(--leaf);color:#141A33}
+.qz-opt.wrong{background:var(--rose);border-color:var(--rose);color:#fff}
+.qz.done-right{border-color:var(--leaf);background:color-mix(in srgb,var(--leaf) 10%,transparent)}
+.qz.done-wrong{border-color:var(--rose);background:color-mix(in srgb,var(--rose) 8%,transparent)}
+.qz-fill{display:flex;gap:8px;flex-wrap:wrap}
+.qz-fill input{padding:6px 12px;min-width:160px;flex:1;max-width:280px}
+.qz-why{font-size:.92rem;color:var(--ink-soft)}
+.qz-score{border-radius:14px;padding:14px;text-align:center;font-weight:800;font-family:var(--display);font-size:1.2rem;background:color-mix(in srgb,var(--turmeric) 18%,var(--sheet));display:grid;gap:8px;justify-items:center}
+.qz-stars{font-size:2rem;letter-spacing:4px}
+.qz-party{font-size:2.4rem}
+@media (prefers-reduced-motion:no-preference){.qz-party{animation:party .9s ease-out both}}
+@keyframes party{0%{transform:scale(.2) rotate(-20deg);opacity:0}60%{transform:scale(1.3) rotate(10deg);opacity:1}100%{transform:scale(1) rotate(0)}}
+.side .stars{margin-left:4px;font-size:.8rem}
+.book.young{font-size:1.18rem}
+.book.young h2{font-size:1.6rem}
+.book-empty{color:var(--ink-soft)}
 .chap-grid{display:grid;grid-template-columns:1fr 300px;gap:28px;align-items:start;padding-bottom:48px}
 .chap-grid > *{min-width:0}
 .side{display:grid;gap:16px}
@@ -226,7 +264,7 @@ const SUBJ={
 };
 
 const GRADES=[
- {id:"nursery",n:"Nursery",face:"N",age:"Ages 3–4",c:"t-y",s:{
+ {id:"nursery",n:"Nursery",face:"Nursery",age:"Ages 3–4",c:"t-y",s:{
   english:"Letters A to J|Letter sounds|Nursery rhymes|Picture talk|Listening to stories",
   maths:"Numbers 1 to 10|Counting with fingers|Shapes: circle, square, triangle|Big and small|Matching and sorting",
   world:"Parts of my body|My family|Colours around us|Pet animals|Fruits|Vehicles|Good manners",
@@ -267,11 +305,11 @@ const GRADES=[
   evs:"Human body systems|Food and nutrition|Diseases and health|Seeds and growth|Animal senses and adaptation|Saving water|Air and pollution|Earth and the solar system|Natural disasters|Forests and tribes|States and cultures of India",
   hindi:"संज्ञा|सर्वनाम|क्रिया|विशेषण|काल|मुहावरे|पत्र लेखन|निबंध लेखन|कविताएँ"}},
  {id:"class-6",n:"Class 6",face:"6",age:"Ages 11–12",c:"t-b",s:{
-  english:"Parts of speech review|Tenses|Modals|Active and passive voice|Reported speech|Reading comprehension|Formal letters|Notice and essay writing|Prose and poems",
-  maths:"Knowing our numbers|Whole numbers|Playing with numbers|Basic geometrical ideas|Integers|Fractions|Decimals|Data handling|Mensuration|Algebra|Ratio and proportion|Symmetry",
-  science:"Where food comes from|Components of food|Fibre to fabric|Sorting materials|Separation of substances|Changes around us|Plants: form and function|Body movements|Living things and surroundings|Motion and measurement|Light, shadows and reflection|Electricity and circuits|Magnets|Water|Air around us|Garbage and recycling",
-  social:"History: early humans|History: the Harappan cities|History: kingdoms and the Vedas|History: Ashoka and the Mauryas|Geography: Earth in the solar system|Geography: latitudes and longitudes|Geography: maps|Geography: major landforms|Geography: India's climate and wildlife|Civics: diversity|Civics: what is government|Civics: local government|Civics: rural and urban livelihoods",
-  hindi:"संज्ञा, सर्वनाम, विशेषण|क्रिया और काल|संधि (परिचय)|मुहावरे और लोकोक्तियाँ|पत्र लेखन|निबंध लेखन|कविताएँ|कहानियाँ"}},
+  english:"A Bottle of Dew|The Raven and the Fox|Rama to the Rescue|The Unlikely Best Friends|A Friend's Prayer|The Chair|Neem Baba|What a Bird Thought|Spices that Heal Us|Change of Heart|The Winner|Yoga – A Way of Life|Hamara Bharat – Incredible India!|The Kites|Ila Sachani: Embroidering Dreams with her Feet|National War Memorial",
+  maths:"Patterns in Mathematics|Lines and Angles|Number Play|Data Handling and Presentation|Prime Time|Perimeter and Area|Fractions|Playing with Constructions|Symmetry|The Other Side of Zero",
+  science:"The Wonderful World of Science|Diversity in the Living World|Mindful Eating: A Path to a Healthy Body|Exploring Magnets|Measurement of Length and Motion|Materials Around Us|Temperature and its Measurement|A Journey through States of Water|Methods of Separation in Everyday Life|Living Creatures: Exploring their Characteristics|Nature's Treasures|Beyond Earth",
+  social:"Locating Places on the Earth|Oceans and Continents|Landforms and Life|Timeline and Sources of History|India, That Is Bharat|The Beginnings of Indian Civilisation|India's Cultural Roots|Unity in Diversity, or 'Many in the One'|Family and Community|Grassroots Democracy – Part 1: Governance|Grassroots Democracy – Part 2: Local Government in Rural Areas|Grassroots Democracy – Part 3: Local Government in Urban Areas|The Value of Work|Economic Activities Around Us",
+  hindi:"मातृभूमि|गोल|पहली बूँद|हार की जीत|रहीम के दोहे|मेरी माँ|जलाते चलो|सत्रिया और बिहू नृत्य|मैया मैं नहिं माखन खायो|परीक्षा|चेतक की वीरता|हिंद महासागर में छोटा-सा हिंदुस्तान|पेड़ की बात"}},
  {id:"class-7",n:"Class 7",face:"7",age:"Ages 12–13",c:"t-r",s:{
   english:"Tenses review|Clauses|Active and passive voice|Reported speech|Reading comprehension|Diary and letter writing|Story writing|Prose and poems",
   maths:"Integers|Fractions and decimals|Data handling|Simple equations|Lines and angles|Triangles and their properties|Congruence of triangles|Percentages, profit and loss|Rational numbers|Perimeter and area|Algebraic expressions|Exponents and powers|Symmetry|Visualising solid shapes",
@@ -361,7 +399,7 @@ function pickVoice(code){
 // Wrap every word of an answer in a span, remembering where each word sits in its
 // paragraph so the highlight can follow the voice.
 function prepareReading(body){
-  return [...body.querySelectorAll("p,li")].map(block=>{
+  return [...body.querySelectorAll("h2,p,li")].filter(el=>!el.closest("details,.qz,.qz-score")).map(block=>{
     const words=[],nodes=[],walker=document.createTreeWalker(block,NodeFilter.SHOW_TEXT);
     let text="";
     while(walker.nextNode())nodes.push(walker.currentNode);
@@ -664,6 +702,138 @@ function bindChat(getCtx){
   document.querySelectorAll("#starters .chip").forEach(c=>c.addEventListener("click",()=>send(c.textContent)));
 }
 
+/* ---------- chapter ebooks: public/books/<class>/<subject>.txt, one "@@ <n>" block per chapter.
+   ## heading · > box · - list · 1. list · Q: / A: quiz · **bold** ---------- */
+const bookCache=new Map();
+function loadBook(gid,k){
+  const url=`books/${gid}/${k}.txt`;
+  if(!bookCache.has(url))bookCache.set(url,fetch(url).then(r=>{if(!r.ok)throw new Error("no book");return r.text()}).then(t=>{
+    const ch={};let n=null;
+    for(const line of t.split(/\r?\n/)){
+      const m=line.match(/^@@\s*(\d+)\s*$/);
+      if(m){n=+m[1];ch[n]=[];continue}
+      if(n!==null)ch[n].push(line);
+    }
+    return ch;
+  }).catch(e=>{bookCache.delete(url);throw e}));
+  return bookCache.get(url);
+}
+function bookHTML(lines){
+  const inline=t=>esc(t).replace(/\*\*(.+?)\*\*/g,"<b>$1</b>");
+  const secs=[];let sec=null,list=null,box=null,q=null;
+  const flush=()=>{list=null;box=null};
+  const body=()=>{if(!sec){sec={title:"",html:[]};secs.push(sec)}return sec.html};
+  for(const raw of lines){
+    const line=raw.trim();
+    if(!line){flush();continue}
+    let m;
+    if((m=line.match(/^##\s+(.*)/))){flush();q=null;sec={title:m[1],html:[]};secs.push(sec);continue}
+    if((m=line.match(/^(MCQ|TF|FILL):\s*(.*)/))){flush();q=null;body().push({quiz:m[1],raw:m[2]});continue}
+    if((m=line.match(/^Q:\s*(.*)/))){flush();q={q:m[1],a:""};body().push(q);continue}
+    if((m=line.match(/^A:\s*(.*)/))&&q){q.a=m[1];q=null;continue}
+    if((m=line.match(/^>\s*(.*)/))){list=null;if(!box){box={box:[]};body().push(box)}box.box.push(m[1]);continue}
+    const ul=line.match(/^[-•]\s+(.*)/),ol=line.match(/^\d+[.)]\s+(.*)/);
+    if(ul||ol){box=null;const kind=ul?"ul":"ol";if(!list||list.kind!==kind){list={kind,items:[]};body().push(list)}list.items.push((ul||ol)[1]);continue}
+    flush();body().push(`<p>${inline(line)}</p>`);
+  }
+  // MCQ: question | option | *right option | option || why
+  // TF: statement | true/false || why      FILL: sentence with ___ | answer;also-ok || why
+  const quiz=x=>{
+    const [main,why=""]=x.raw.split("||").map(t=>t.trim());
+    const [question,...rest]=main.split("|").map(t=>t.trim());
+    let inner;
+    if(x.quiz==="MCQ")inner=`<div class="qz-opts">${rest.map(o=>`<button type="button" class="qz-opt" data-ok="${o.startsWith("*")?1:0}">${inline(o.replace(/^\*/,""))}</button>`).join("")}</div>`;
+    else if(x.quiz==="TF"){const t=/^t/i.test(rest[0]||"");inner=`<div class="qz-opts"><button type="button" class="qz-opt" data-ok="${t?1:0}">✅ True</button><button type="button" class="qz-opt" data-ok="${t?0:1}">❌ False</button></div>`}
+    else inner=`<div class="qz-fill"><input type="text" autocomplete="off" aria-label="Your answer" data-answers="${esc(rest[0]||"")}"><button type="button" class="qz-check">Check</button></div>`;
+    return `<div class="qz">${`<p class="qz-q">${inline(question)}</p>`}${inner}${why?`<p class="qz-why" hidden>💡 ${inline(why)}</p>`:""}</div>`;
+  };
+  const group=html=>{const out=[];for(const x of html){if(x&&x.quiz){const last=out[out.length-1];if(last&&last.qs)last.qs.push(x);else out.push({qs:[x]})}else out.push(x)}return out};
+  const part=x=>typeof x==="string"?x
+    :x.qs?`<div class="book-quiz">${x.qs.map(quiz).join("")}<div class="qz-score" hidden></div></div>`
+    :x.box?`<div class="book-box">${x.box.map(t=>`<p>${inline(t)}</p>`).join("")}</div>`
+    :x.items?`<${x.kind}>${x.items.map(t=>`<li>${inline(t)}</li>`).join("")}</${x.kind}>`
+    :`<div class="book-q"><p>${inline(x.q)}</p>${x.a?`<details><summary>Show answer</summary><p class="ans">${inline(x.a)}</p></details>`:""}</div>`;
+  return secs.map(s=>`<section class="book-sec">
+    <div class="book-sec-head">${s.title?`<h2>${inline(s.title)}</h2>`:"<span></span>"}<button type="button" class="say" hidden>🔊 Listen</button></div>
+    <div class="book-body">${group(s.html).map(part).join("")}</div></section>`).join("");
+}
+// Stars a child earned on a chapter's quiz (best score), kept on this device.
+const starsKey=id=>"km-stars:"+id;
+function getStars(id){try{return +localStorage.getItem(starsKey(id))||0}catch(e){return 0}}
+function saveStars(id,n){try{if(n>getStars(id))localStorage.setItem(starsKey(id),n)}catch(e){}}
+const normAns=t=>t.toLowerCase().normalize("NFC").replace(/[\s.,!?'"।:;()-]/g,"");
+function bindQuiz(qb,id){
+  const items=[...qb.querySelectorAll(".qz")],score=qb.querySelector(".qz-score");
+  let right=0,answered=0;
+  const finish=(qz,ok)=>{
+    qz.classList.add(ok?"done-right":"done-wrong");
+    const why=qz.querySelector(".qz-why");if(why)why.hidden=false;
+    answered++;if(ok)right++;
+    if(answered<items.length)return;
+    const pct=right/items.length,stars=pct>=.9?3:pct>=.6?2:1;
+    saveStars(id,stars);
+    score.hidden=false;
+    score.innerHTML=`${pct===1?'<div class="qz-party">🎉</div>':""}<div>You got ${right} out of ${items.length}!</div>
+      <div class="qz-stars" aria-label="${stars} stars">${"⭐".repeat(stars)}${"☆".repeat(3-stars)}</div>
+      <div>${pct===1?"Perfect! You're a superstar!":pct>=.6?"Great job! Try again for 3 stars.":"Good try! Read the chapter once more and try again."}</div>
+      <button type="button" class="qz-again">🔁 Try again</button>`;
+    score.querySelector(".qz-again").addEventListener("click",()=>{
+      const fresh=qb.cloneNode(true);qb.replaceWith(fresh);
+      fresh.querySelectorAll(".qz").forEach(q=>{q.className="qz";q.querySelectorAll(".qz-opt").forEach(b=>{b.disabled=false;b.classList.remove("right","wrong")});const w=q.querySelector(".qz-why");if(w)w.hidden=true;const i=q.querySelector("input");if(i){i.value="";i.disabled=false;q.querySelector(".qz-check").disabled=false}});
+      const sc=fresh.querySelector(".qz-score");sc.hidden=true;sc.innerHTML="";
+      bindQuiz(fresh,id);
+    });
+    const side=document.querySelector(`.side a[aria-current="page"] .stars`);if(side)side.textContent="⭐".repeat(getStars(id));
+  };
+  items.forEach(qz=>{
+    const opts=qz.querySelectorAll(".qz-opt");
+    opts.forEach(b=>b.addEventListener("click",()=>{
+      const ok=b.dataset.ok==="1";
+      opts.forEach(o=>{o.disabled=true;if(o.dataset.ok==="1")o.classList.add("right")});
+      if(!ok)b.classList.add("wrong");
+      finish(qz,ok);
+    }));
+    const input=qz.querySelector("input"),check=qz.querySelector(".qz-check");
+    if(input){
+      const go=()=>{
+        if(!input.value.trim())return;
+        const answers=input.dataset.answers.split(";").map(normAns),ok=answers.includes(normAns(input.value));
+        input.disabled=true;check.disabled=true;
+        if(!ok){const w=qz.querySelector(".qz-why"),p=document.createElement("p");p.className="qz-why";p.textContent="✔ Answer: "+input.dataset.answers.split(";")[0];qz.insertBefore(p,w||null)}
+        finish(qz,ok);
+      };
+      check.addEventListener("click",go);
+      input.addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();go()}});
+    }
+  });
+}
+async function showBook(el,g,k,n){
+  try{
+    const ch=await loadBook(g.id,k);
+    if(!ch[n])throw new Error("no chapter");
+    el.innerHTML=bookHTML(ch[n]);
+    el.querySelectorAll(".book-quiz").forEach(qb=>bindQuiz(qb,`${g.id}/${k}/${n}`));
+  }catch(e){
+    el.innerHTML=`<p class="book-empty">This chapter's book is coming soon. You can still ask Mantra Buddy about it below!</p>`;
+    return;
+  }
+  // Listen to one section at a time, with the same tutor voice and highlight as answers.
+  if(!TTS&&!tutorVoice)return;
+  el.querySelectorAll(".book-sec").forEach(sec=>{
+    const b=sec.querySelector(".say"),label="🔊 Listen";
+    b.hidden=false;
+    const idle=()=>{b.textContent=label;b.setAttribute("aria-pressed","false")};
+    b.addEventListener("click",()=>{
+      if(b.getAttribute("aria-pressed")==="true"){stopSpeaking();return}
+      stopSpeaking();
+      b.textContent="⏳ Getting the voice…";b.setAttribute("aria-pressed","true");
+      sec.querySelectorAll(".w").forEach(w=>w.replaceWith(w.textContent));
+      sec.normalize();
+      readAloud(prepareReading(sec),idle,()=>{b.textContent="⏹ Stop"});
+    });
+  });
+}
+
 /* ---------- pages ---------- */
 function home(){
   app.innerHTML=`
@@ -689,7 +859,7 @@ function home(){
       <div class="head"><div class="eyebrow">Pick your class</div><h2>Learn by class and chapter</h2>
       <p class="lede">Every class is split into subjects, and every subject into chapters. Open a chapter to learn it with AI.</p></div>
       <div class="grades">${GRADES.map(g=>`<a class="grade" href="#/${g.id}">
-        <div class="face ${g.c}">${g.face}</div>
+        <div class="face ${g.c}${g.face.length>3?" long":""}">${g.face}</div>
         <div class="info"><b>${g.n}</b><span class="age">${g.age}</span><span>${count(g)} chapters</span></div></a>`).join("")}</div>
     </div>
   </section>
@@ -750,9 +920,13 @@ function chapterPage(g,k,n){
     <nav class="crumbs" aria-label="Breadcrumb"><a href="#/">Home</a> › <a href="#/${g.id}">${g.n}</a> › <a href="#/${g.id}/${k}">${S}</a> › <span>Chapter ${n}</span></nav>
     <div class="page-head"><div class="eyebrow">${g.n} · ${S} · Chapter ${n}</div><h1>${esc(title)}</h1></div>
     <div class="chap-grid">
-      <div>
+      <div style="display:grid;gap:20px">
+        <article class="panel book${["nursery","lkg","ukg","class-1","class-2"].includes(g.id)?" young":""}" lang="${k==="hindi"?"hi":"en"}">
+          <div class="book-head"><h3>📖 Chapter book</h3><span class="hint">Tap 🔊 Listen to hear any part</span></div>
+          <div id="book"><p class="book-empty">Opening the book…</p></div>
+        </article>
         <div class="panel">
-          <h3>Learn this chapter with Mantra Buddy</h3>
+          <h3>Have a question? Ask Mantra Buddy</h3>
           ${chatHTML(`Ask anything about “${title}”`,[
             `Explain “${title}” in simple words`,
             "Give me an example from daily life",
@@ -763,11 +937,12 @@ function chapterPage(g,k,n){
       </div>
       <aside class="side">
         <div class="panel"><h3>${S} chapters</h3>
-          <ol>${list.map((t,j)=>`<li><a href="#/${g.id}/${k}/${j+1}"${j===i?' aria-current="page"':""}>${esc(t)}</a></li>`).join("")}</ol>
+          <ol>${list.map((t,j)=>`<li><a href="#/${g.id}/${k}/${j+1}"${j===i?' aria-current="page"':""}>${esc(t)}<span class="stars">${"⭐".repeat(getStars(`${g.id}/${k}/${j+1}`))}</span></a></li>`).join("")}</ol>
         </div>
       </aside>
     </div></div>`;
   bindChat(()=>({grade:g.n,subject:S,chapter:title}));
+  showBook(document.getElementById("book"),g,k,n);
 }
 
 /* ---------- router: #/  #/class-3  #/class-3/maths  #/class-3/maths/4 ---------- */

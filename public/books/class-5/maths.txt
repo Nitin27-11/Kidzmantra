@@ -1,0 +1,334 @@
+@@ 1
+## Big numbers
+- 1,00,000 = one lakh
+- 10,00,000 = ten lakh (1 million)
+- 1,00,00,000 = one crore (10 million)
+
+## Place value and face value
+In 4,73,58,216:
+- The **face value** of 7 is just **7**.
+- The **place value** of 7 is **70,00,000** (seventy lakh), because it is in the ten-lakhs place.
+- Read as: **four crore seventy-three lakh fifty-eight thousand two hundred sixteen**.
+
+## Indian and international systems
+- Indian: 4,73,58,216
+- International: 47,358,216 – forty-seven million three hundred fifty-eight thousand two hundred sixteen
+
+## Greatest and smallest numbers
+Using digits 5, 0, 8, 2, 7 once each: greatest = **87,520**; smallest = **20,578** (0 can't come first).
+> 💡 1 crore = 100 lakh = 10 million.
+
+## Let's check
+Q: Place value of 5 in 3,52,416?
+A: 50,000.
+Q: Write "two crore five lakh" in numbers.
+A: 2,05,00,000.
+Q: How many lakh make one crore?
+A: 100.
+
+@@ 2
+## Order of operations
+When a problem has more than one operation, follow **BODMAS**:
+**B**rackets → **O**f → **D**ivision → **M**ultiplication → **A**ddition → **S**ubtraction
+
+## Examples
+- 8 + 4 × 3 = 8 + 12 = **20** (multiply first, not 12 × 3!)
+- (8 + 4) × 3 = 12 × 3 = **36**
+- 50 – 20 ÷ 5 = 50 – 4 = **46**
+
+## Word problems with two steps
+A school bought 25 boxes of chalk at ₹48 each and paid with ₹2,000. How much change?
+Cost = 25 × 48 = ₹1,200. Change = 2,000 – 1,200 = **₹800**.
+
+## Checking answers
+- Addition ↔ subtraction are inverse operations.
+- Multiplication ↔ division are inverse operations.
+> 💡 Estimate first: 25 × 48 ≈ 25 × 50 = 1,250, so ₹1,200 makes sense.
+
+## Let's check
+Q: 15 + 6 × 2 = ?
+A: 27.
+Q: (15 + 6) × 2 = ?
+A: 42.
+Q: 100 – 36 ÷ 4 = ?
+A: 91.
+
+@@ 3
+## HCF – Highest Common Factor
+The **HCF** is the biggest number that divides two or more numbers exactly.
+Factors of 12: 1, 2, 3, 4, **6**, 12
+Factors of 18: 1, 2, 3, **6**, 9, 18
+Common factors: 1, 2, 3, 6 → **HCF = 6**
+
+## LCM – Lowest Common Multiple
+The **LCM** is the smallest number that is a multiple of two or more numbers.
+Multiples of 4: 4, 8, **12**, 16, 20, 24…
+Multiples of 6: 6, **12**, 18, 24…
+**LCM = 12**
+
+## Prime factorisation method
+12 = 2 × 2 × 3; 18 = 2 × 3 × 3
+- HCF = common primes = 2 × 3 = **6**
+- LCM = all primes, as many times as they appear most = 2 × 2 × 3 × 3 = **36**
+
+## Where we use them
+- **HCF:** cutting ribbons of 12 m and 18 m into the longest equal pieces → 6 m pieces.
+- **LCM:** two bells ring every 4 and 6 minutes; they ring together every 12 minutes.
+> 💡 HCF × LCM = product of the two numbers (for two numbers): 6 × 36 = 12 × 18 = 216.
+
+## Let's check
+Q: HCF of 16 and 24?
+A: 8.
+Q: LCM of 3 and 5?
+A: 15.
+Q: Two lights blink every 6 and 8 seconds. After how many seconds do they blink together?
+A: 24 seconds (LCM).
+
+@@ 4
+## Comparing fractions
+- Same denominator: bigger numerator is bigger. ⁵⁄₉ > ²⁄₉.
+- Same numerator: smaller denominator is bigger. ³⁄₄ > ³⁄₈.
+- Different: make the denominators the same using LCM. Compare ⅔ and ¾: ⁸⁄₁₂ and ⁹⁄₁₂ → ¾ is bigger.
+
+## Adding and subtracting unlike fractions
+½ + ⅓ = ³⁄₆ + ²⁄₆ = **⁵⁄₆**
+¾ – ⅔ = ⁹⁄₁₂ – ⁸⁄₁₂ = **¹⁄₁₂**
+
+## Multiplying fractions
+Multiply tops, multiply bottoms: ⅔ × ¾ = ⁶⁄₁₂ = **½**.
+Fraction of a number: ¾ of 20 = ¾ × 20 = **15**.
+
+## Simplest form
+Divide top and bottom by their HCF: ¹²⁄₁₈ → HCF 6 → **⅔**.
+
+## Mixed numbers
+2⅓ = (2 × 3 + 1)⁄3 = ⁷⁄₃.
+> 💡 Always give answers in the simplest form.
+
+## Let's check
+Q: ⅖ + ⅓ = ?
+A: ¹¹⁄₁₅.
+Q: Simplify ¹⁵⁄₂₅.
+A: ⅗.
+Q: What is ⅔ of 27?
+A: 18.
+
+@@ 5
+## Decimal place value
+In 36.482: 3 tens, 6 ones, **4 tenths**, **8 hundredths**, **2 thousandths**.
+
+## Adding and subtracting decimals
+Line up the decimal points; fill empty places with zeros.
+  12.50
++  3.75
+= **16.25**
+
+  10.00
+–  4.36
+= **5.64**
+
+## Multiplying decimals
+- By 10, 100, 1000: move the point right 1, 2, 3 places: 4.56 × 100 = 456.
+- By a whole number: 2.5 × 4 = **10.0**
+- Two decimals: 0.3 × 0.2 = 0.06 (count decimal places: 1 + 1 = 2).
+
+## Dividing decimals
+By 10, 100: move the point left: 45.6 ÷ 10 = 4.56.
+> 💡 Converting: ½ = 0.5, ¼ = 0.25, ¾ = 0.75, ⅕ = 0.2.
+
+## Let's check
+Q: 7.8 + 2.45 = ?
+A: 10.25.
+Q: 3.14 × 100 = ?
+A: 314.
+Q: Write ¾ as a decimal.
+A: 0.75.
+
+@@ 6
+## What is percentage?
+**Per cent** means "out of 100". The sign is **%**.
+- 25% = ²⁵⁄₁₀₀ = ¼
+- 50% = ½
+- 75% = ¾
+- 100% = the whole
+
+## Converting
+- Fraction → %: multiply by 100. ⅖ = ⅖ × 100 = **40%**
+- Decimal → %: 0.35 = **35%**
+- % → decimal: 8% = **0.08**
+
+## Percentage of a number
+20% of 150 = ²⁰⁄₁₀₀ × 150 = **30**
+
+## In daily life
+- Marks: 45 out of 50 = ⁴⁵⁄₅₀ × 100 = **90%**
+- Discount: a ₹500 shirt at 10% off saves ₹50.
+> 💡 10% of any number: just move the decimal point one place left. 10% of 340 = 34.
+
+## Let's check
+Q: Write ⅕ as a percentage.
+A: 20%.
+Q: What is 25% of 80?
+A: 20.
+Q: Asha got 36 out of 40. What is her percentage?
+A: 90%.
+
+@@ 7
+## Measuring angles
+An angle is measured in **degrees (°)** with a **protractor**.
+
+## Types of angles
+- **Acute:** less than 90°
+- **Right:** exactly 90°
+- **Obtuse:** between 90° and 180°
+- **Straight:** exactly 180°
+- **Reflex:** between 180° and 360°
+- **Complete:** 360° (a full turn)
+
+## Angles on a clock
+- At 3 o'clock, the hands make a **right angle** (90°).
+- At 6 o'clock, a **straight angle** (180°).
+- Each hour mark is 30° apart (360° ÷ 12).
+
+## Using a protractor
+1. Place the centre point on the vertex.
+2. Line up the base line with one arm.
+3. Read the scale where the other arm crosses, starting from 0°.
+> 💡 A quarter turn = 90°, a half turn = 180°, a full turn = 360°.
+
+## Let's check
+Q: What kind of angle is 150°?
+A: Obtuse.
+Q: What angle do clock hands make at 9 o'clock?
+A: 90° (right angle).
+Q: How many degrees in a full turn?
+A: 360°.
+
+@@ 8
+## Triangles
+A triangle has 3 sides, 3 angles and 3 vertices. **The angles always add up to 180°.**
+By sides:
+- **Equilateral:** all 3 sides equal (each angle 60°).
+- **Isosceles:** 2 sides equal.
+- **Scalene:** no sides equal.
+By angles:
+- **Acute-angled**, **right-angled** (one 90° angle), **obtuse-angled**.
+
+## Quadrilaterals
+Four-sided shapes. **Angles add up to 360°.**
+- **Square:** 4 equal sides, 4 right angles.
+- **Rectangle:** opposite sides equal, 4 right angles.
+- **Parallelogram:** opposite sides equal and parallel.
+- **Rhombus:** 4 equal sides; opposite sides parallel.
+- **Trapezium:** one pair of parallel sides.
+
+## Example
+A triangle has angles 50° and 70°. The third angle = 180° – 50° – 70° = **60°**.
+> 💡 Every square is a rectangle and a rhombus, but not every rectangle is a square.
+
+## Let's check
+Q: What do the angles of a triangle add up to?
+A: 180°.
+Q: A triangle with two equal sides is called?
+A: Isosceles.
+Q: Which quadrilateral has exactly one pair of parallel sides?
+A: A trapezium.
+
+@@ 9
+## Perimeter and area
+- **Rectangle:** perimeter = 2 × (l + b); area = l × b
+- **Square:** perimeter = 4 × side; area = side × side
+- **Triangle (right-angled):** area = ½ × base × height
+Example: a rectangular field 30 m × 20 m: perimeter = 100 m; area = **600 sq m**.
+
+## Volume
+**Volume** is the space a solid takes up, measured in **cubic units** (cm³, m³).
+- **Cuboid:** volume = length × breadth × height
+- **Cube:** volume = side × side × side
+Example: a box 5 cm × 4 cm × 3 cm → volume = **60 cm³**.
+
+## Capacity
+1 cm³ holds 1 mL. 1,000 cm³ = 1 litre.
+> 💡 Area is flat (2-D); volume is solid (3-D).
+
+## Let's check
+Q: Area of a square with side 9 cm?
+A: 81 sq cm.
+Q: Volume of a cube with side 4 cm?
+A: 64 cm³.
+Q: Area of a right triangle with base 10 cm and height 6 cm?
+A: 30 sq cm.
+
+@@ 10
+## Time
+- 1 hour = 60 minutes; 1 minute = 60 seconds; so 1 hour = 3,600 seconds.
+- 24-hour clock: 7:45 p.m. = 19:45.
+- Duration: 10:40 to 14:15 → 3 h 35 min.
+
+## Speed
+**Speed** tells how fast something moves – the distance covered in one unit of time.
+**Speed = Distance ÷ Time**
+A car covers 180 km in 3 hours → speed = 180 ÷ 3 = **60 km/h**.
+
+## Finding distance and time
+- Distance = Speed × Time: a cyclist at 12 km/h for 2 hours goes **24 km**.
+- Time = Distance ÷ Speed: 240 km at 80 km/h takes **3 hours**.
+> 💡 Remember the triangle: D on top, S and T at the bottom. Cover what you need!
+
+## Let's check
+Q: A train travels 300 km in 5 hours. What is its speed?
+A: 60 km/h.
+Q: How far does a bus go in 4 hours at 45 km/h?
+A: 180 km.
+Q: How many seconds in 5 minutes?
+A: 300 seconds.
+
+@@ 11
+## Collecting and reading data
+We collect data, put it in a **table**, and show it with **graphs**.
+
+## Mean (average)
+**Average = total ÷ number of items**
+Marks: 70, 80, 90, 60, 100 → total 400 → average = 400 ÷ 5 = **80**.
+
+## Graphs
+- **Bar graph:** compares amounts.
+- **Line graph:** shows change over time, like temperature through a week.
+- **Pie chart:** shows parts of a whole. A full circle = 360° = 100%.
+
+## Reading a pie chart
+If ½ of the class likes cricket, that slice is half the circle (180°).
+> 💡 Always read the title, labels and scale before answering.
+
+## Let's check
+Q: Find the average of 10, 20 and 30.
+A: 20.
+Q: Which graph is best to show temperature changing over a week?
+A: A line graph.
+Q: In a pie chart, what does a quarter of the circle stand for?
+A: 25% (90°).
+
+@@ 12
+## Patterns in numbers
+- **Square numbers:** 1, 4, 9, 16, 25, 36 … (1×1, 2×2, 3×3 …)
+- **Triangular numbers:** 1, 3, 6, 10, 15 … (add 2, then 3, then 4 …)
+- **Odd numbers add up to squares:** 1 + 3 = 4, 1 + 3 + 5 = 9, 1 + 3 + 5 + 7 = 16.
+
+## Magic patterns
+- 1 × 1 = 1; 11 × 11 = 121; 111 × 111 = 12,321
+- 9 × 1 + 2 = 11; 9 × 12 + 3 = 111; 9 × 123 + 4 = 1,111
+
+## Shape patterns
+Patterns can **grow** (each step adds more), **repeat**, or **turn** (rotate by 90°).
+
+## Find the rule
+2, 6, 18, 54, … → multiply by 3 → **162**
+> 💡 Patterns are everywhere: in sunflower seeds, honeycombs and rangoli designs.
+
+## Let's check
+Q: What is the next square number after 49?
+A: 64.
+Q: 1, 3, 6, 10, ___?
+A: 15.
+Q: 5, 10, 20, 40, ___?
+A: 80.

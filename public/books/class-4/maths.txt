@@ -1,0 +1,343 @@
+@@ 1
+## Five- and six-digit numbers
+After 9,999 comes **10,000** (ten thousand). After 99,999 comes **1,00,000** (one lakh).
+
+## Indian place value chart
+In 3,45,627:
+- 3 lakhs, 4 ten thousands, 5 thousands, 6 hundreds, 2 tens, 7 ones
+- Read as: **three lakh forty-five thousand six hundred twenty-seven**
+
+## International system
+The same number is written 345,627 and read as **three hundred forty-five thousand six hundred twenty-seven**.
+- 1 lakh = 100 thousand
+- 10 lakh = 1 million
+
+## Rounding off
+Round 3,468 to the nearest hundred: look at the tens digit (6). 6 ≥ 5 → round up → **3,500**.
+Round 3,421 to the nearest hundred: tens digit 2 < 5 → round down → **3,400**.
+> 💡 In the Indian system, commas come after the first 3 digits from the right, then after every 2 digits.
+
+## Let's check
+Q: Write "two lakh five thousand ten" in numbers.
+A: 2,05,010.
+Q: Round 7,850 to the nearest thousand.
+A: 8,000.
+Q: What is the place value of 6 in 6,24,315?
+A: 6,00,000 (6 lakh).
+
+@@ 2
+## Adding big numbers
+Line up the digits by place value and add from the ones, carrying when needed.
+  45,678
++ 23,947
+= **69,625**
+
+## Subtracting big numbers
+  80,000
+– 36,452
+= **43,548** (borrow across the zeros)
+
+## Estimation
+To check if an answer makes sense, round first: 45,678 + 23,947 ≈ 46,000 + 24,000 = 70,000. Our answer 69,625 is close ✔
+
+## Word problem
+A town had 52,340 people. 8,765 moved away. How many are left?
+52,340 – 8,765 = **43,575 people**.
+> 💡 Check subtraction by adding the answer to the number you subtracted.
+
+## Let's check
+Q: 34,567 + 12,345 = ?
+A: 46,912.
+Q: 50,000 – 23,456 = ?
+A: 26,544.
+Q: Estimate 3,890 + 6,120 to the nearest thousand.
+A: 4,000 + 6,000 = 10,000.
+
+@@ 3
+## Multiplying by one digit
+  1,234
+×     6
+= **7,404**
+
+## Multiplying by two digits
+  346
+×  27
+Step 1: 346 × 7 = 2,422
+Step 2: 346 × 20 = 6,920
+Step 3: Add: 2,422 + 6,920 = **9,342**
+
+## Multiplying by 10, 100, 1000
+Add zeros: 57 × 10 = 570; 57 × 100 = 5,700; 57 × 1,000 = 57,000.
+
+## Word problem
+One bus carries 48 children. How many children can 35 buses carry?
+48 × 35 = **1,680 children**.
+> 💡 Break numbers to multiply in your head: 25 × 12 = 25 × 10 + 25 × 2 = 250 + 50 = 300.
+
+## Let's check
+Q: 213 × 4 = ?
+A: 852.
+Q: 125 × 16 = ?
+A: 2,000.
+Q: A box has 24 mangoes. How many mangoes in 15 boxes?
+A: 360.
+
+@@ 4
+## Long division
+Division by one digit, step by step: **Divide, Multiply, Subtract, Bring down**.
+
+## Example: 756 ÷ 6
+- 7 ÷ 6 = 1, 1 × 6 = 6, 7 – 6 = 1. Bring down 5 → 15.
+- 15 ÷ 6 = 2, 2 × 6 = 12, 15 – 12 = 3. Bring down 6 → 36.
+- 36 ÷ 6 = 6, 6 × 6 = 36, 36 – 36 = 0.
+Answer: **126**
+
+## With a remainder
+845 ÷ 4 = **211 remainder 1**. Check: 211 × 4 + 1 = 845 ✔
+
+## Dividing by 10 and 100
+When a number ends in zeros: 4,500 ÷ 10 = 450; 4,500 ÷ 100 = 45.
+> 💡 Remember "Does McDonald's Sell Burgers?" – Divide, Multiply, Subtract, Bring down.
+
+## Let's check
+Q: 648 ÷ 8 = ?
+A: 81.
+Q: 1,000 ÷ 7 = ?
+A: 142 remainder 6.
+Q: 96 pencils are shared among 8 children. How many each?
+A: 12 pencils.
+
+@@ 5
+## Factors
+**Factors** of a number are numbers that divide it exactly (no remainder).
+Factors of 12: **1, 2, 3, 4, 6, 12** (because 1×12, 2×6, 3×4).
+
+## Multiples
+**Multiples** of a number are what you get when you multiply it by 1, 2, 3, …
+Multiples of 4: **4, 8, 12, 16, 20, …** (they go on forever).
+
+## Prime and composite numbers
+- **Prime number:** has exactly two factors – 1 and itself. 2, 3, 5, 7, 11, 13, 17, 19…
+- **Composite number:** has more than two factors. 4, 6, 8, 9, 10…
+- 1 is neither prime nor composite. 2 is the only even prime.
+
+## Divisibility rules
+- By **2**: last digit is even.
+- By **5**: last digit is 0 or 5.
+- By **10**: last digit is 0.
+- By **3**: sum of digits divisible by 3 (e.g. 123 → 1+2+3 = 6 ✔).
+> 💡 Every number is a factor and a multiple of itself.
+
+## Let's check
+Q: List the factors of 18.
+A: 1, 2, 3, 6, 9, 18.
+Q: Write the first five multiples of 7.
+A: 7, 14, 21, 28, 35.
+Q: Is 15 prime or composite?
+A: Composite (factors 1, 3, 5, 15).
+
+@@ 6
+## What is a fraction?
+A **fraction** shows a part of a whole. In ¾, **3** is the **numerator** (parts taken) and **4** is the **denominator** (equal parts in all).
+
+## Kinds of fractions
+- **Proper fraction:** numerator < denominator – ²⁄₅
+- **Improper fraction:** numerator ≥ denominator – ⁷⁄₄
+- **Mixed fraction:** a whole and a part – 1¾ (= ⁷⁄₄)
+- **Like fractions:** same denominator – ²⁄₇, ⁵⁄₇
+- **Unlike fractions:** different denominators – ½, ⅓
+
+## Equivalent fractions
+Multiply or divide top and bottom by the same number: ½ = ²⁄₄ = ³⁄₆ = ⁴⁄₈.
+
+## Adding and subtracting like fractions
+Add or subtract the numerators; keep the denominator: ²⁄₇ + ³⁄₇ = ⁵⁄₇; ⁵⁄₈ – ²⁄₈ = ³⁄₈.
+> 💡 With the same denominator, the bigger numerator is the bigger fraction.
+
+## Let's check
+Q: In ⁵⁄₉, what is the denominator?
+A: 9.
+Q: Write two equivalent fractions of ⅓.
+A: ²⁄₆ and ³⁄₉.
+Q: ³⁄₁₀ + ⁴⁄₁₀ = ?
+A: ⁷⁄₁₀.
+
+@@ 7
+## Tenths and hundredths
+A **decimal** is another way to write fractions with denominators 10, 100, 1000.
+- ¹⁄₁₀ = **0.1** (one tenth)
+- ¹⁄₁₀₀ = **0.01** (one hundredth)
+- ⁷⁵⁄₁₀₀ = **0.75**
+
+## Decimal point
+In 23.45: 23 is the **whole number part**, and .45 is the **decimal part** (4 tenths and 5 hundredths).
+
+## Decimals in daily life
+- Money: ₹12.50 = 12 rupees 50 paise.
+- Length: 1.5 m = 1 m 50 cm.
+- Weight: 2.25 kg = 2 kg 250 g.
+
+## Comparing decimals
+Compare whole parts first, then tenths, then hundredths: 3.42 > 3.4 because 3.42 = 3.42 and 3.4 = 3.40.
+> 💡 Adding zeros at the end of a decimal doesn't change it: 0.5 = 0.50.
+
+## Let's check
+Q: Write ³⁄₁₀ as a decimal.
+A: 0.3.
+Q: Write 0.07 as a fraction.
+A: ⁷⁄₁₀₀.
+Q: Which is greater: 0.6 or 0.58?
+A: 0.6.
+
+@@ 8
+## Lines
+- **Line segment:** has two end points. AB.
+- **Ray:** has one end point and goes on forever in one direction, like a sunbeam.
+- **Line:** goes on forever in both directions.
+- **Parallel lines:** never meet, like railway tracks.
+- **Intersecting lines:** cross each other at a point.
+- **Perpendicular lines:** meet at a right angle, like the corner of a book.
+
+## Angles
+An **angle** is made when two rays meet at a point called the **vertex**.
+- **Right angle:** exactly 90°, like the corner of a page.
+- **Acute angle:** less than 90°.
+- **Obtuse angle:** more than 90° but less than 180°.
+- **Straight angle:** 180°.
+> 💡 We measure angles in degrees (°) using a protractor.
+
+## Let's check
+Q: Which lines never meet?
+A: Parallel lines.
+Q: What is the measure of a right angle?
+A: 90°.
+Q: Is a 120° angle acute or obtuse?
+A: Obtuse.
+
+@@ 9
+## Perimeter
+**Perimeter** is the total length of the boundary of a shape.
+- Rectangle: perimeter = 2 × (length + breadth)
+- Square: perimeter = 4 × side
+Example: a rectangle 8 cm by 5 cm → perimeter = 2 × (8 + 5) = **26 cm**.
+
+## Area
+**Area** is the amount of surface a shape covers. It is measured in **square units** (sq cm, cm²).
+- Rectangle: area = length × breadth
+- Square: area = side × side
+Example: rectangle 8 cm by 5 cm → area = 8 × 5 = **40 sq cm**.
+
+## Perimeter vs area
+Fencing a garden needs **perimeter**. Covering a floor with tiles needs **area**.
+> 💡 Count squares on squared paper to find area of any shape.
+
+## Let's check
+Q: Perimeter of a square with side 6 cm?
+A: 24 cm.
+Q: Area of a rectangle 7 m long and 4 m wide?
+A: 28 sq m.
+Q: To put a fence around a park, do we need area or perimeter?
+A: Perimeter.
+
+@@ 10
+## Units of measurement
+- **Length:** 10 mm = 1 cm; 100 cm = 1 m; 1,000 m = 1 km
+- **Weight (mass):** 1,000 mg = 1 g; 1,000 g = 1 kg
+- **Capacity:** 1,000 mL = 1 L
+
+## Converting
+- Big unit → small unit: **multiply**. 4 km = 4 × 1,000 = 4,000 m.
+- Small unit → big unit: **divide**. 3,500 g = 3,500 ÷ 1,000 = 3.5 kg.
+
+## Adding measurements
+  5 kg 450 g
++ 2 kg 800 g
+= 7 kg 1,250 g = **8 kg 250 g**
+> 💡 Always convert to the same unit before adding or comparing.
+
+## Let's check
+Q: 7 m = ___ cm
+A: 700 cm.
+Q: 2,500 mL = ___ L
+A: 2.5 L.
+Q: Which is heavier: 1.5 kg or 1,400 g?
+A: 1.5 kg (1,500 g).
+
+@@ 11
+## 24-hour clock
+Railways and airports use the 24-hour clock so there is no confusion between a.m. and p.m.
+- 9:00 a.m. = **09:00**
+- 12:00 noon = **12:00**
+- 3:30 p.m. = **15:30** (add 12 to p.m. hours)
+- 11:45 p.m. = **23:45**
+- Midnight = **00:00**
+
+## Elapsed time
+A train leaves at 08:45 and reaches at 13:15. Time taken: from 08:45 to 12:45 is 4 hours; 12:45 to 13:15 is 30 minutes → **4 h 30 min**.
+
+## Calendar
+- 7 days = 1 week, about 4 weeks = 1 month, 12 months = 1 year.
+- Leap years come every 4 years; February then has 29 days. 2024 and 2028 are leap years.
+> 💡 A century is 100 years; a decade is 10 years.
+
+## Let's check
+Q: Write 6:20 p.m. in 24-hour time.
+A: 18:20.
+Q: What is 21:00 in 12-hour time?
+A: 9:00 p.m.
+Q: How many years in a decade?
+A: 10.
+
+@@ 12
+## Money and bills
+Money is written with rupees and paise: ₹45.75 = 45 rupees 75 paise.
+
+## Making a bill
+- Notebook: 4 × ₹35 = ₹140
+- Pencil box: 1 × ₹85 = ₹85
+- Pens: 3 × ₹12.50 = ₹37.50
+- **Total: ₹262.50**
+
+## Unit price
+If 6 pens cost ₹90, one pen costs ₹90 ÷ 6 = **₹15**.
+
+## Profit and loss (introduction)
+If a shopkeeper buys a toy for ₹200 and sells it for ₹250, he makes a **profit** of ₹50. If he sells it for ₹180, he has a **loss** of ₹20.
+> 💡 Always check the bill and count your change.
+
+## Let's check
+Q: 5 notebooks cost ₹225. What does 1 cost?
+A: ₹45.
+Q: A pen bought for ₹40 is sold for ₹55. Profit or loss, and how much?
+A: Profit of ₹15.
+Q: ₹100 – ₹63.50 = ?
+A: ₹36.50.
+
+@@ 13
+## Collecting and showing data
+**Data** is information collected to answer a question. We organise it in tables and graphs.
+
+## Bar graph
+A bar graph shows data using bars.
+Example – books read in a month:
+- Asha: 6
+- Ben: 4
+- Chitra: 8
+- Dev: 5
+The tallest bar (Chitra, 8) shows who read the most.
+
+## Pie chart (introduction)
+A circle divided into parts shows how a whole is shared – e.g. how you spend your day.
+
+## Reading data
+- Total books = 6 + 4 + 8 + 5 = **23**.
+- Chitra read 4 more than Ben.
+> 💡 Always label the axes and give your graph a title.
+
+## Let's check
+Q: Who read the fewest books?
+A: Ben.
+Q: How many more books did Asha read than Ben?
+A: 2.
+Q: What does a taller bar show?
+A: A larger amount.

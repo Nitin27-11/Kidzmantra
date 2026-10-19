@@ -1,0 +1,390 @@
+@@ 1
+## Rational numbers
+Numbers of the form **p/q**, where p, q are integers and q ≠ 0. Natural numbers, whole numbers, integers and fractions are all rational.
+
+## Properties
+- **Closure:** rational numbers are closed under addition, subtraction and multiplication (and division, except by 0).
+- **Commutative** and **associative** for + and ×.
+- **Distributive:** a(b + c) = ab + ac.
+- **Additive identity:** 0. **Multiplicative identity:** 1.
+- **Additive inverse** of ⅗ is –⅗. **Multiplicative inverse (reciprocal)** of –⅔ is –³⁄₂. 0 has no reciprocal.
+
+## Rational numbers between two numbers
+There are infinitely many. Between ¼ and ½: write them as ²⁄₈ and ⁴⁄₈ → ³⁄₈ lies between. Or take the **mean**: (¼ + ½) ÷ 2 = ⅜.
+
+## Using properties to simplify
+²⁄₅ × ³⁄₇ – ¹⁄₁₄ – ³⁄₇ × ³⁄₅ → rearrange: ³⁄₇ × (²⁄₅ – ³⁄₅) – ¹⁄₁₄ = ³⁄₇ × (–⅕) – ¹⁄₁₄ = –³⁄₃₅ – ¹⁄₁₄ = **–¹¹⁄₇₀**
+> 💡 On a number line, rationals fill the gaps between integers, but there are still gaps (like √2) that rationals can't fill.
+
+## Let's check
+Q: What is the multiplicative inverse of –⁵⁄₉?
+A: –⁹⁄₅.
+Q: Find a rational number between ⅓ and ½.
+A: ⁵⁄₁₂ (their mean).
+Q: Which rational number has no reciprocal?
+A: 0.
+
+@@ 2
+## Linear equations in one variable
+An equation with one variable whose highest power is 1: **2x + 3 = 11**.
+
+## Solving
+- **Transpose** terms: 5x – 7 = 3x + 9 → 5x – 3x = 9 + 7 → 2x = 16 → **x = 8**.
+- **Brackets:** 3(x – 2) = 2(x + 1) → 3x – 6 = 2x + 2 → **x = 8**.
+- **Fractions:** multiply by the LCM: x/3 + x/4 = 7 → 4x + 3x = 84 → 7x = 84 → **x = 12**.
+- **Cross-multiplication:** (x + 1)/(2x – 3) = ⅗ → 5x + 5 = 6x – 9 → **x = 14**.
+
+## Word problems
+- **Ages:** A father is 3 times as old as his son. In 12 years, he'll be twice as old. Son = x, father = 3x → 3x + 12 = 2(x + 12) → **x = 12**; father is 36.
+- **Numbers:** Two numbers differ by 15; one is 4 times the other. 4x – x = 15 → x = 5; numbers **5 and 20**.
+- **Perimeter:** A rectangle's length is 4 cm more than its breadth; perimeter 48 cm → 2(b + 4 + b) = 48 → **b = 10**, l = 14.
+> 💡 Always check by substituting your answer in the original equation.
+
+## Let's check
+Q: Solve: 7x – 5 = 4x + 16.
+A: x = 7.
+Q: Solve: (x – 3)/5 = 2.
+A: x = 13.
+Q: The sum of three consecutive integers is 54. Find them.
+A: 17, 18 and 19.
+
+@@ 3
+## Polygons
+A **polygon** is a simple closed figure made of line segments.
+- **Convex:** all diagonals inside; **concave:** at least one diagonal outside.
+- **Regular:** all sides and angles equal.
+- **Sum of interior angles** = (n – 2) × 180°. Quadrilateral: 360°; pentagon: 540°; hexagon: 720°.
+- **Sum of exterior angles** of any polygon = **360°**. Each exterior angle of a regular n-gon = 360° ÷ n.
+
+## Kinds of quadrilaterals
+- **Trapezium:** one pair of parallel sides.
+- **Kite:** two pairs of equal adjacent sides; diagonals perpendicular.
+- **Parallelogram:** opposite sides parallel and equal; opposite angles equal; adjacent angles supplementary; diagonals **bisect each other**.
+- **Rhombus:** parallelogram with all sides equal; diagonals are **perpendicular bisectors**.
+- **Rectangle:** parallelogram with all right angles; diagonals **equal**.
+- **Square:** all sides equal and all angles 90°; diagonals equal and perpendicular bisectors.
+
+## Example
+A regular polygon has each exterior angle 45°. Number of sides = 360 ÷ 45 = **8** (octagon).
+> 💡 Every square is a rectangle, a rhombus and a parallelogram.
+
+## Let's check
+Q: Find the sum of interior angles of a heptagon (7 sides).
+A: 900°.
+Q: Each exterior angle of a regular polygon is 30°. How many sides does it have?
+A: 12.
+Q: In a parallelogram, one angle is 70°. Find the adjacent angle.
+A: 110°.
+
+@@ 4
+## Grouping data
+Large data is organised into **class intervals** (e.g. 0–10, 10–20) with **frequencies**. The **class size** is the width (10).
+A **histogram** shows grouped data with bars touching each other (no gaps).
+
+## Pie charts
+A **pie chart** shows how a whole is divided. Angle of a sector = (value ÷ total) × 360°.
+Example: of 60 students, 15 like football → (15/60) × 360° = **90°**.
+
+## Probability
+- An **experiment** has **outcomes**; an **event** is a set of outcomes.
+- **Equally likely outcomes:** each has the same chance (tossing a fair coin).
+- **Probability of an event = (number of favourable outcomes) ÷ (total number of outcomes)**
+- Tossing a coin: P(head) = ½. Rolling a die: P(even number) = 3/6 = ½. P(getting 7) = 0 (impossible). P(number < 7) = 1 (certain).
+Probability is always between **0 and 1**.
+> 💡 Weather forecasts ("70% chance of rain") use probability.
+
+## Let's check
+Q: In a pie chart of 360°, what angle shows 25% of the data?
+A: 90°.
+Q: A bag has 3 red and 5 blue balls. What is the probability of picking a red ball?
+A: ⅜.
+Q: What is the probability of an impossible event?
+A: 0.
+
+@@ 5
+## Squares
+A **square number** (perfect square) is a number multiplied by itself: 1, 4, 9, 16, 25, …
+Properties:
+- Squares end in 0, 1, 4, 5, 6 or 9 – never in 2, 3, 7 or 8.
+- The square of an even number is even; of an odd number is odd.
+- Sum of the first n odd numbers = n²: 1 + 3 + 5 + 7 = 16 = 4².
+- **Pythagorean triplets:** for any m > 1, (2m, m² – 1, m² + 1) – e.g. m = 4 → (8, 15, 17).
+
+## Square roots
+√ is the inverse of squaring: √49 = 7.
+**Prime factorisation method:** √324 → 324 = 2 × 2 × 3 × 3 × 3 × 3 → pair them → 2 × 3 × 3 = **18**.
+**Long division method** is used for big numbers and decimals.
+
+## Making perfect squares
+Find the smallest number to multiply 180 by to get a perfect square: 180 = 2² × 3² × 5 → multiply by **5** → 900 = 30².
+
+## Estimating
+√250 lies between 15 (225) and 16 (256), closer to 16.
+> 💡 A number ending in an odd number of zeros (like 1000) is never a perfect square.
+
+## Let's check
+Q: Find √1764 by prime factorisation.
+A: 42.
+Q: Is 2,352 a perfect square?
+A: No, it ends in 2.
+Q: Find the Pythagorean triplet with 6 as one number (2m = 6).
+A: (6, 8, 10).
+
+@@ 6
+## Cubes
+A **cube number** is a number multiplied by itself three times: 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000.
+- Cubes of even numbers are even; of odd numbers are odd.
+- Cubes of negative numbers are negative: (–3)³ = –27.
+- **Hardy–Ramanujan number:** 1729 = 1³ + 12³ = 9³ + 10³ – the smallest number expressible as a sum of two cubes in two different ways.
+
+## Cube roots
+∛ is the inverse of cubing. **Prime factorisation:** ∛3375 → 3375 = 3 × 3 × 3 × 5 × 5 × 5 → group in threes → 3 × 5 = **15**.
+∛(–216) = –6.
+
+## Making perfect cubes
+Smallest number to multiply 392 by for a perfect cube: 392 = 2³ × 7² → multiply by **7** → 2,744 = 14³.
+
+## Estimating cube roots of perfect cubes
+For 17,576: the last digit 6 → cube root ends in 6 (6³ = 216). The leading part 17 lies between 2³ = 8 and 3³ = 27 → tens digit 2 → **26**.
+> 💡 Last digit of a cube root: 2↔8, 3↔7 swap; others match their own (1,4,5,6,9,0).
+
+## Let's check
+Q: Find ∛512.
+A: 8.
+Q: Is 243 a perfect cube?
+A: No (243 = 3⁵).
+Q: Find the cube of –5.
+A: –125.
+
+@@ 7
+## Ratios and percentages review
+Percentage increase/decrease = (change ÷ original) × 100.
+A population rises from 20,000 to 23,000 → **15% increase**.
+
+## Discount
+Discount is a reduction on the **marked price (MP)**.
+- **Discount = MP – SP**; **Discount % = (Discount ÷ MP) × 100**.
+A shirt marked ₹1,200 is sold at 15% off → discount ₹180 → SP = **₹1,020**.
+
+## Profit, loss and overheads
+Cost price includes **overhead expenses** (repairs, transport). Profit % and loss % are on the CP.
+
+## GST
+**Goods and Services Tax (GST)** is added to the selling price. A ₹500 item with 12% GST costs 500 + 60 = **₹560**.
+
+## Compound interest
+Interest is added to the principal each year, so interest is earned on interest.
+**A = P(1 + R/100)ⁿ**, CI = A – P.
+₹10,000 at 10% for 2 years → A = 10,000 × 1.1 × 1.1 = ₹12,100 → **CI = ₹2,100** (vs SI = ₹2,000).
+- Half-yearly compounding: rate R/2, time 2n.
+- **Growth/depreciation:** population growth or machine value falling use the same formula (with – for depreciation).
+> 💡 Compound interest grows faster than simple interest over time.
+
+## Let's check
+Q: MP = ₹800, discount 25%. Find SP.
+A: ₹600.
+Q: Find CI on ₹5,000 at 10% per year for 2 years.
+A: ₹1,050.
+Q: A ₹2,000 item has 18% GST. What is the total price?
+A: ₹2,360.
+
+@@ 8
+## Algebraic expressions
+Terms, coefficients, like and unlike terms; monomials, binomials, trinomials, polynomials.
+
+## Multiplying
+- Monomial × monomial: 3x × 4xy = **12x²y**
+- Monomial × polynomial: 2a(3a – 5b) = **6a² – 10ab**
+- Binomial × binomial: (x + 3)(x – 5) = x² – 5x + 3x – 15 = **x² – 2x – 15**
+
+## Standard identities
+1. **(a + b)² = a² + 2ab + b²**
+2. **(a – b)² = a² – 2ab + b²**
+3. **(a + b)(a – b) = a² – b²**
+4. **(x + a)(x + b) = x² + (a + b)x + ab**
+
+## Using identities for quick calculations
+- 103² = (100 + 3)² = 10,000 + 600 + 9 = **10,609**
+- 98² = (100 – 2)² = 10,000 – 400 + 4 = **9,604**
+- 51 × 49 = (50 + 1)(50 – 1) = 2,500 – 1 = **2,499**
+- (2x + 3y)² = 4x² + 12xy + 9y²
+> 💡 An identity is true for all values of the variables; an equation is true only for some.
+
+## Let's check
+Q: Expand (3m – 4)².
+A: 9m² – 24m + 16.
+Q: Find 105 × 95 using an identity.
+A: 9,975.
+Q: Multiply (x + 4)(x + 7).
+A: x² + 11x + 28.
+
+@@ 9
+## Area of plane figures
+- **Trapezium:** ½ × (sum of parallel sides) × height
+- **Rhombus:** ½ × d₁ × d₂ (product of diagonals)
+- **General quadrilateral:** split into two triangles using a diagonal: ½ × d × (h₁ + h₂)
+- **Polygon:** split into triangles, rectangles and trapeziums.
+Example: trapezium with parallel sides 10 cm and 6 cm, height 4 cm → area = ½ × 16 × 4 = **32 cm²**.
+
+## Surface area of solids
+- **Cuboid:** 2(lb + bh + hl); lateral surface area = 2h(l + b)
+- **Cube:** 6a²; lateral surface area = 4a²
+- **Cylinder:** curved surface = 2πrh; total = 2πr(r + h)
+
+## Volume
+- **Cuboid:** l × b × h
+- **Cube:** a³
+- **Cylinder:** πr²h
+1 m³ = 1,000 L; 1 L = 1,000 cm³.
+Example: a cylindrical tank with r = 7 m, h = 10 m → V = ²²⁄₇ × 49 × 10 = **1,540 m³** = 15,40,000 L.
+> 💡 Surface area tells how much paint or paper is needed; volume tells how much it can hold.
+
+## Let's check
+Q: Area of a rhombus with diagonals 12 cm and 16 cm?
+A: 96 cm².
+Q: Total surface area of a cube of side 5 cm?
+A: 150 cm².
+Q: Volume of a cuboid 8 cm × 5 cm × 3 cm?
+A: 120 cm³.
+
+@@ 10
+## Negative exponents
+**a⁻ⁿ = 1 ÷ aⁿ** (a ≠ 0). 2⁻³ = ⅛; (⅔)⁻² = ⁹⁄₄.
+
+## Laws of exponents (for integer exponents)
+- aᵐ × aⁿ = aᵐ⁺ⁿ → 5⁻² × 5⁴ = 5² = 25
+- aᵐ ÷ aⁿ = aᵐ⁻ⁿ
+- (aᵐ)ⁿ = aᵐⁿ
+- aᵐ × bᵐ = (ab)ᵐ
+- aᵐ ÷ bᵐ = (a/b)ᵐ
+- a⁰ = 1
+
+## Very small numbers in standard form
+- 0.000035 = **3.5 × 10⁻⁵**
+- Size of a red blood cell ≈ 0.000007 m = **7 × 10⁻⁶ m**
+- Thickness of a paper ≈ 1 × 10⁻⁴ m
+
+## Comparing very large and small numbers
+Diameter of the Sun ≈ 1.4 × 10⁹ m; diameter of the Earth ≈ 1.2756 × 10⁷ m → the Sun is about **100 times** wider.
+> 💡 Moving the decimal point right makes the exponent of 10 more negative.
+
+## Let's check
+Q: Find the value of 3⁻².
+A: ⅑.
+Q: Simplify (2⁻¹ + 3⁻¹)⁻¹.
+A: ⁶⁄₅.
+Q: Write 0.00045 in standard form.
+A: 4.5 × 10⁻⁴.
+
+@@ 11
+## Direct proportion
+Two quantities are in **direct proportion** if, when one increases, the other increases in the **same ratio**. **x/y = k (constant)**.
+- Cost and number of items; distance and petrol used.
+Example: 5 kg of sugar costs ₹225. 8 kg costs (225 ÷ 5) × 8 = **₹360**.
+
+## Inverse proportion
+Two quantities are in **inverse proportion** if, when one increases, the other decreases in the same ratio. **x × y = k (constant)**.
+- Number of workers and days needed; speed and time for a fixed distance.
+Example: 12 workers build a wall in 10 days. 15 workers take (12 × 10) ÷ 15 = **8 days**.
+
+## Checking the type
+Ask: "If one doubles, does the other double (direct) or halve (inverse)?"
+
+## Map scales
+Map scale 1 : 25,000,000 → 3 cm on the map = 75,000,000 cm = **750 km**.
+> 💡 Not all relationships are proportional – your age and height aren't!
+
+## Let's check
+Q: 6 pens cost ₹90. What do 10 pens cost?
+A: ₹150.
+Q: A car at 60 km/h takes 5 hours. How long at 75 km/h?
+A: 4 hours.
+Q: Are "number of taps filling a tank" and "time taken" in direct or inverse proportion?
+A: Inverse.
+
+@@ 12
+## What is factorisation?
+Writing an expression as a **product of its factors**. It's the reverse of expanding.
+
+## Methods
+1. **Common factor:** 6x² + 9x = **3x(2x + 3)**
+2. **Regrouping:** ax + bx + ay + by = x(a + b) + y(a + b) = **(a + b)(x + y)**
+3. **Identities:**
+- a² + 2ab + b² = (a + b)² → x² + 10x + 25 = **(x + 5)²**
+- a² – 2ab + b² = (a – b)² → 4y² – 12y + 9 = **(2y – 3)²**
+- a² – b² = (a + b)(a – b) → 49m² – 16 = **(7m + 4)(7m – 4)**
+4. **x² + px + q:** find two numbers that **add to p** and **multiply to q**. x² + 7x + 12 → 3 and 4 → **(x + 3)(x + 4)**. x² – x – 20 → –5 and 4 → **(x – 5)(x + 4)**.
+
+## Dividing polynomials
+(10x³ – 25x²) ÷ 5x = **2x² – 5x**. (x² + 7x + 12) ÷ (x + 3) = **x + 4** (factorise first).
+
+## Spotting errors
+- ✗ 3x + 2x = 5x² ✓ 5x
+- ✗ (a + b)² = a² + b² ✓ a² + 2ab + b²
+> 💡 Always look for a common factor first.
+
+## Let's check
+Q: Factorise: 25a² – 9b².
+A: (5a + 3b)(5a – 3b).
+Q: Factorise: x² + 9x + 20.
+A: (x + 4)(x + 5).
+Q: Factorise: 12xy + 8x.
+A: 4x(3y + 2).
+
+@@ 13
+## Types of graphs
+- **Bar graph:** compares categories.
+- **Pie chart:** parts of a whole.
+- **Histogram:** grouped data.
+- **Line graph:** change over time (temperature over a day).
+- **Linear graph:** a line graph that is a straight line.
+
+## Cartesian plane
+- Two perpendicular number lines: **x-axis** (horizontal) and **y-axis** (vertical). They meet at the **origin (0, 0)**.
+- A point is written **(x, y)** – x-coordinate (abscissa) first, then y-coordinate (ordinate).
+- (3, 0) lies on the x-axis; (0, –2) lies on the y-axis.
+
+## Plotting linear relationships
+- **Simple interest** at 10% on ₹100: after 1 year ₹10, 2 years ₹20 … → straight line through the origin.
+- **Perimeter of a square** P = 4s: (1, 4), (2, 8), (3, 12) → straight line.
+- **Distance–time** for constant speed is a straight line; the steeper, the faster.
+
+## Reading graphs
+Find the value on one axis, move to the line, and read across to the other axis.
+> 💡 René Descartes, a French mathematician, gave us the coordinate system.
+
+## Let's check
+Q: What are the coordinates of the origin?
+A: (0, 0).
+Q: On which axis does the point (0, 5) lie?
+A: The y-axis.
+Q: What kind of graph shows directly proportional quantities?
+A: A straight line through the origin.
+
+@@ 14
+## Numbers in general form
+- A 2-digit number **ab** = 10a + b. A 3-digit number **abc** = 100a + 10b + c.
+- **Reversing digits:** (10a + b) + (10b + a) = 11(a + b) → always divisible by 11.
+- (10a + b) – (10b + a) = 9(a – b) → always divisible by 9.
+
+## Letters for digits (cryptarithms)
+Find A in: 3A + 25 = B2 (two-digit numbers) → A + 5 ends in 2 → A = 7; 37 + 25 = 62 → **B = 6**.
+
+## Divisibility – why the rules work
+- **10:** last digit 0 (because 100a + 10b + c is divisible by 10 only if c = 0).
+- **5:** last digit 0 or 5.
+- **2:** last digit even.
+- **9 and 3:** 100a + 10b + c = 99a + 9b + (a + b + c) → divisible by 9 (or 3) if the **sum of digits** is.
+- **11:** difference between sums of alternate digits is 0 or a multiple of 11 – e.g. 2,728 → (2 + 2) – (7 + 8) = –11 ✔.
+
+## Puzzles
+Think of a number, double it, add 10, halve it, subtract the original → always **5**! Algebra: (2x + 10)/2 – x = 5.
+> 💡 Algebra explains why number tricks always work.
+
+## Let's check
+Q: Is 7,425 divisible by 9?
+A: Yes; the sum of its digits is 7 + 4 + 2 + 5 = 18, which is divisible by 9.
+Q: Why is 47 + 74 divisible by 11?
+A: Because (10a + b) + (10b + a) = 11(a + b).
+Q: If 31z5 is divisible by 9, find z.
+A: z = 0 or 9 (3 + 1 + z + 5 = 9 or 18).

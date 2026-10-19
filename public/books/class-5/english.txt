@@ -1,0 +1,219 @@
+@@ 1
+## The eight parts of speech
+Every word in a sentence does a job. These jobs are called **parts of speech**.
+1. **Noun** – names a person, place, thing or idea: Asha, Delhi, kite, honesty.
+2. **Pronoun** – replaces a noun: she, they, it, mine.
+3. **Verb** – shows action or being: run, is, think.
+4. **Adjective** – describes a noun: tall, red, five.
+5. **Adverb** – describes a verb, adjective or another adverb: quickly, very, never.
+6. **Preposition** – shows relation: in, on, under, after.
+7. **Conjunction** – joins words or sentences: and, but, because.
+8. **Interjection** – shows sudden feeling: Wow! Oh! Alas! Hurray!
+
+## One sentence, many parts
+"**Wow!** (interjection) **The** (article/adjective) **little** (adjective) **girl** (noun) **danced** (verb) **gracefully** (adverb) **on** (preposition) **the stage** (noun) **and** (conjunction) **everyone** (pronoun) **clapped** (verb)."
+
+## Same word, different jobs
+- "I **light** the lamp." (verb) / "The box is **light**." (adjective) / "Switch on the **light**." (noun)
+> 💡 A word's part of speech depends on how it is used in the sentence.
+
+## Let's check
+Q: Which part of speech is "Hurray!"?
+A: An interjection.
+Q: In "She runs fast", what is "fast"?
+A: An adverb.
+Q: In "The light is bright", what is "light"?
+A: A noun.
+
+@@ 2
+## Two parts of a sentence
+Every sentence has two parts:
+- **Subject** – who or what the sentence is about.
+- **Predicate** – what the subject does or is; everything else.
+
+## Examples
+- **The old man** | walked slowly to the temple.
+- **My little brother** | loves chocolates.
+- **The sun** | rises in the east.
+
+## Finding the subject
+Ask "**Who?**" or "**What?**" before the verb.
+"The birds sang sweetly." – Who sang? **The birds** (subject).
+
+## Hidden subject
+In commands, the subject "you" is hidden: "(You) Shut the door."
+
+## Inverted sentences
+Sometimes the subject comes later: "Into the room ran **the dog**."
+> 💡 The subject and the verb must agree: "The boy **plays**" but "The boys **play**".
+
+## Let's check
+Q: Find the subject: "A cool breeze was blowing."
+A: A cool breeze.
+Q: Find the predicate: "Rina writes neatly."
+A: writes neatly.
+Q: What is the subject in "Please sit down"?
+A: "You" (hidden).
+
+@@ 3
+## The twelve tenses
+Each of the three times (present, past, future) has four forms:
+- **Simple:** I write. / I wrote. / I will write.
+- **Continuous:** I am writing. / I was writing. / I will be writing.
+- **Perfect:** I have written. / I had written. / I will have written.
+- **Perfect continuous:** I have been writing. / I had been writing. / I will have been writing.
+
+## When to use the perfect tense
+- **Present perfect:** an action just completed or with an effect now – "I **have finished** my homework."
+- **Past perfect:** the earlier of two past actions – "The train **had left** before we **reached**."
+
+## Since and for
+- **Since** + a point of time: since Monday, since 2020.
+- **For** + a length of time: for two hours, for five years.
+"She has been studying **for** two hours / **since** 4 o'clock."
+> 💡 Present perfect never goes with "yesterday" or "last year" – use simple past instead.
+
+## Let's check
+Q: Name the tense: "They have gone home."
+A: Present perfect tense.
+Q: Fill in: "I have lived here ___ 2019." (since/for)
+A: since.
+Q: Change to past continuous: "He reads."
+A: He was reading.
+
+@@ 4
+## Active and passive voice
+- **Active voice:** the subject **does** the action. "Ravi **wrote** a letter."
+- **Passive voice:** the subject **receives** the action. "A letter **was written** by Ravi."
+
+## How to change active to passive
+1. Make the **object** the new subject.
+2. Use the correct form of **be** + **past participle** (3rd form) of the verb.
+3. Put the old subject after **by**.
+
+## Examples
+- The cat **chased** the mouse. → The mouse **was chased** by the cat.
+- Mother **cooks** food. → Food **is cooked** by Mother.
+- They **will paint** the wall. → The wall **will be painted** by them.
+
+## When we use passive
+When the doer is unknown or less important: "My bag **was stolen**." "Rice **is grown** in Punjab."
+> 💡 Pronouns change in passive: I → me, he → him, they → them, we → us.
+
+## Let's check
+Q: Change to passive: "Sita sings a song."
+A: A song is sung by Sita.
+Q: Change to passive: "The boys played football."
+A: Football was played by the boys.
+Q: Is "The window was broken" active or passive?
+A: Passive.
+
+@@ 5
+## Direct and indirect speech
+- **Direct speech:** the speaker's **exact words** in quotation marks. Rohan said, "**I am hungry.**"
+- **Indirect (reported) speech:** we **report** what was said, without quotation marks. Rohan said that **he was hungry**.
+
+## Rules for changing
+1. Remove the quotation marks; add **that** (for statements).
+2. Change pronouns to fit: I → he/she, my → his/her, we → they.
+3. If the reporting verb is in the past, move the tense back: am/is → was, are → were, will → would, can → could.
+4. Change words of time and place: now → then, today → that day, here → there, tomorrow → the next day.
+
+## Questions and commands
+- He asked, "Where do you live?" → He asked **where I lived**.
+- She said to me, "Close the door." → She **told me to close** the door.
+> 💡 If the reporting verb is in the present ("says"), the tense doesn't change.
+
+## Let's check
+Q: Change to indirect: Meena said, "I am tired."
+A: Meena said that she was tired.
+Q: Change to indirect: Teacher said, "Sit down."
+A: The teacher told us to sit down.
+Q: What does "tomorrow" become in indirect speech?
+A: The next day.
+
+@@ 6
+## Read the passage: The Green Revolution of a Village
+Pipli was a dry village in Rajasthan. Rain fell for only a few weeks each year, and the wells dried up by summer. Women walked kilometres every day to fetch water.
+One day, the villagers decided to act. Led by the old schoolteacher, they built small check dams across the streams and dug ponds to catch rainwater. They planted thousands of trees on the bare hills.
+In three years, the wells were full again. Farmers grew two crops a year instead of one. Children, especially girls, could go to school instead of fetching water. Today, people visit Pipli to learn how a village saved itself through **teamwork**.
+
+## Vocabulary
+- **check dam** – a small wall built across a stream to slow down and store water
+- **bare** – without plants or trees
+
+## How to answer
+- Questions about facts: find the exact line.
+- "Why" questions: look for reasons and use "because".
+- Questions about meaning: think about the whole passage.
+> 💡 A good title sums up the main idea of the passage.
+
+## Let's check
+Q: What problem did Pipli face?
+A: It had very little water; the wells dried up and women walked far to fetch water.
+Q: Name two things the villagers did.
+A: They built check dams, dug ponds and planted trees.
+Q: How did the change help girls?
+A: They could go to school instead of fetching water.
+
+@@ 7
+## Formal letters
+Formal letters are written to officials, like a principal, an editor or a company.
+
+## Format
+1. Sender's address and date
+2. Receiver's designation and address
+3. **Subject** line
+4. Salutation: Sir/Madam,
+5. Body – short and polite
+6. Closing: Yours obediently / Yours faithfully, with name
+
+## Sample: leave application
+The Principal
+Green Valley School, Lucknow
+12 July 2026
+**Subject: Application for sick leave**
+Respected Ma'am,
+I am Aditya Verma of Class 5-B. I have high fever and the doctor has advised me to rest for three days. Kindly grant me leave from 12 to 14 July.
+Thanking you,
+Yours obediently,
+Aditya Verma, Class 5-B
+
+## Writing an essay
+An essay has an **introduction**, a **body** of two or three paragraphs, and a **conclusion**. Topics: "My Favourite Book", "Save Trees", "A Visit to a Zoo".
+> 💡 Formal letters must be polite and to the point – no slang.
+
+## Let's check
+Q: What line tells the reader what a formal letter is about?
+A: The subject line.
+Q: How do you close a letter to your principal?
+A: Yours obediently, followed by your name.
+Q: Name the three parts of an essay.
+A: Introduction, body and conclusion.
+
+@@ 8
+## Where the Mind is Without Fear (lines by Rabindranath Tagore)
+Where the mind is without fear and the head is held high;
+Where knowledge is free;
+Where the world has not been broken up into fragments
+By narrow domestic walls;
+Into that heaven of freedom, my Father, let my country awake.
+
+## What the poem means
+Tagore wishes for an India where people are **fearless** and proud, where everyone can **learn freely**, and where people are not divided by caste, religion or language ("narrow domestic walls"). He prays that his country wakes up into true freedom.
+
+## About the poet
+Rabindranath Tagore wrote India's national anthem, "Jana Gana Mana". He won the **Nobel Prize for Literature** in 1913 – the first Asian to do so.
+
+## Poetic devices
+- **Metaphor:** "narrow domestic walls" stands for small-minded divisions.
+- **Repetition:** "Where…" begins many lines for effect.
+> 💡 Read the poem slowly and think about what freedom means to you.
+
+## Let's check
+Q: Who wrote this poem?
+A: Rabindranath Tagore.
+Q: What do "narrow domestic walls" stand for?
+A: Divisions among people, like caste, religion or language.
+Q: Which prize did Tagore win in 1913?
+A: The Nobel Prize for Literature.

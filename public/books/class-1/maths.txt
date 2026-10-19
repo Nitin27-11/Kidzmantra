@@ -1,0 +1,216 @@
+@@ 1
+## Numbers up to 100
+We can count all the way to **100**! Numbers from 1 to 100 are made of **tens** and **ones**.
+
+## Count in tens
+10, 20, 30, 40, 50, 60, 70, 80, 90, **100**
+
+## Tens and ones
+- 23 = **2 tens** and **3 ones**
+- 47 = 4 tens and 7 ones
+- 90 = 9 tens and 0 ones
+- 100 = 10 tens
+
+## Number names
+21 twenty-one, 35 thirty-five, 58 fifty-eight, 76 seventy-six, 99 ninety-nine, 100 one hundred.
+> 💡 Bundles of 10 sticks make counting big numbers easy.
+
+## Let's check
+Q: How many tens and ones in 64?
+A: 6 tens and 4 ones.
+Q: What comes after 79?
+A: 80.
+Q: Write "fifty-two" in numbers.
+A: 52.
+
+@@ 2
+## Addition
+**Addition** means putting things together to find **how many in all**. We use the sign **+**.
+
+## Adding with objects
+🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎
+**3 + 2 = 5**
+
+## Counting on
+Start from the bigger number and count on.
+6 + 3 → start at 6, count 7, 8, 9 → **9**
+
+## Adding tens and ones
+  23
++ 14
+= 37 (add ones: 3 + 4 = 7; add tens: 2 + 1 = 3)
+
+## Word problem
+Riya has 4 pencils. Her mother gives her 5 more. How many now?
+4 + 5 = **9 pencils**.
+> 💡 Adding 0 changes nothing: 7 + 0 = 7.
+
+## Let's check
+Q: 8 + 2 = ?
+A: 10.
+Q: 21 + 5 = ?
+A: 26.
+Q: 3 birds sit on a tree. 4 more come. How many birds?
+A: 7 birds.
+
+@@ 3
+## Subtraction
+**Subtraction** means taking away. It tells us **how many are left**. We use the sign **–**.
+
+## Taking away
+🎈🎈🎈🎈🎈 – 2 balloons fly away → 🎈🎈🎈
+**5 – 2 = 3**
+
+## Counting back
+9 – 3 → start at 9, count back 8, 7, 6 → **6**
+
+## Subtracting tens and ones
+  48
+– 15
+= 33 (ones: 8 – 5 = 3; tens: 4 – 1 = 3)
+
+## Word problem
+There were 10 laddoos. Aman ate 3. How many are left?
+10 – 3 = **7 laddoos**.
+> 💡 Taking away 0 changes nothing: 6 – 0 = 6.
+
+## Let's check
+Q: 9 – 4 = ?
+A: 5.
+Q: 37 – 12 = ?
+A: 25.
+Q: You have 6 sweets and give 2 to a friend. How many are left?
+A: 4.
+
+@@ 4
+## Shapes and space
+Shapes are all around us. We also learn words for **where** things are.
+
+## Flat shapes
+- **Circle** – no corners
+- **Triangle** – 3 sides, 3 corners
+- **Square** – 4 equal sides, 4 corners
+- **Rectangle** – 4 sides, opposite sides equal
+
+## Solid shapes
+- **Cube** (dice), **cuboid** (brick, box), **sphere** (ball), **cylinder** (tin), **cone** (birthday cap)
+
+## Position words
+- The cat is **on** the table.
+- The ball is **under** the chair.
+- The bag is **inside** the cupboard.
+- The tree is **near** the house; the hill is **far**.
+- Riya sits **between** Aman and Neha.
+> 💡 A brick is a cuboid; a dice is a cube.
+
+## Let's check
+Q: How many corners does a rectangle have?
+A: 4.
+Q: A birthday cap is which solid shape?
+A: A cone.
+Q: Fill in: The ball is ___ the bed. (under/sky)
+A: under.
+
+@@ 5
+## Long and short
+We **measure** to find how long or short something is.
+
+## Comparing
+- A pencil is **longer** than a crayon.
+- A snake is **long**; a worm is **short**.
+- A pole is **tall**; a stool is **short**.
+
+## Measuring with hands and feet
+We can measure using a **hand span**, **steps** or **paper clips**.
+The table is 6 hand spans long.
+The room is 10 steps long.
+> 💡 Different people's hand spans are different. That is why we use a ruler for exact measuring.
+
+## Let's check
+Q: Which is longer: a train or a bus?
+A: A train.
+Q: Name one thing you can use to measure length without a ruler.
+A: Hand span, steps or paper clips.
+
+@@ 6
+## Days of the week
+A **week** has **7 days**.
+
+## The seven days
+1. Sunday
+2. Monday
+3. Tuesday
+4. Wednesday
+5. Thursday
+6. Friday
+7. Saturday
+
+## Today, yesterday, tomorrow
+If today is **Monday**:
+- yesterday was **Sunday**
+- tomorrow will be **Tuesday**
+
+## Morning, afternoon, evening, night
+We wake up in the morning, eat lunch in the afternoon, play in the evening and sleep at night.
+> 💡 A year has 12 months and about 52 weeks.
+
+## Let's check
+Q: How many days are in a week?
+A: 7.
+Q: Which day comes after Wednesday?
+A: Thursday.
+Q: If today is Friday, what was yesterday?
+A: Thursday.
+
+@@ 7
+## Coins and notes
+We use **money** to buy things. Indian money is called the **rupee (₹)**.
+
+## Coins
+₹1, ₹2, ₹5, ₹10 and ₹20 coins.
+
+## Notes
+₹10, ₹20, ₹50, ₹100, ₹200 and ₹500 notes.
+
+## Making amounts
+- ₹5 + ₹5 = **₹10**
+- ₹10 + ₹10 = **₹20**
+- ₹2 + ₹2 + ₹1 = **₹5**
+
+## Shopping
+A pencil costs ₹5 and an eraser costs ₹3. Together they cost **₹8**.
+> 💡 Keep money safe and always count your change.
+
+## Let's check
+Q: What is the symbol for rupee?
+A: ₹
+Q: How many ₹2 coins make ₹10?
+A: 5.
+Q: A toy costs ₹7 and you pay ₹10. How much change?
+A: ₹3.
+
+@@ 8
+## Patterns
+A **pattern** is an arrangement that repeats in a fixed way.
+
+## Shape and colour patterns
+- ⬛⬜⬛⬜ → next ⬛
+- 🔺🔺⚪🔺🔺⚪ → next 🔺
+
+## Number patterns
+- 2, 4, 6, 8, **10** (add 2)
+- 5, 10, 15, 20, **25** (add 5)
+- 10, 20, 30, **40** (add 10)
+- 20, 18, 16, **14** (take away 2)
+
+## Patterns in life
+Days of the week repeat. Seasons repeat. Rangoli and mehendi designs have patterns.
+> 💡 Find the rule first. Then the next part is easy.
+
+## Let's check
+Q: 3, 6, 9, 12, ___?
+A: 15.
+Q: 50, 40, 30, ___?
+A: 20.
+Q: Circle, square, circle, square, ___?
+A: Circle.

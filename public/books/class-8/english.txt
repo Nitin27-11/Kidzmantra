@@ -1,0 +1,229 @@
+@@ 1
+## Tenses – advanced use
+- **Present perfect vs simple past:** "I **have visited** Ladakh" (experience, time not stated) vs "I **visited** Ladakh in 2023" (time stated).
+- **Past perfect continuous:** an action going on before another past action – "She **had been studying** for three hours when the power went out."
+- **Future perfect:** completed before a future time – "By June, they **will have built** the bridge."
+- **Future continuous:** in progress at a future time – "This time tomorrow, I **will be flying** to Chennai."
+
+## Modals – deeper meanings
+- **Ability:** can, could, be able to – "She **will be able to** swim soon."
+- **Permission:** may, can, could – "**May** I leave early?"
+- **Obligation:** must (speaker's view), have to (external rule) – "I **must** call Mum." "We **have to** wear uniforms."
+- **Deduction:** must (sure yes), can't (sure no), might/may (possible) – "He **must** be at home; the lights are on." "That **can't** be true."
+- **Advice:** should, ought to, had better – "You **had better** leave now."
+- **Past possibility/regret:** should have, could have, might have + V3 – "You **should have told** me."
+
+## Semi-modals
+need, dare, used to – "You **needn't** worry." "He **used to** live in Pune."
+> 💡 "Must not" = prohibited; "don't have to" = not necessary.
+
+## Let's check
+Q: Fill in: "By next year, she ___ (complete) her course."
+A: will have completed.
+Q: Which modal shows logical certainty that something is NOT true?
+A: can't.
+Q: Correct: "You must to submit the form."
+A: You must submit the form.
+
+@@ 2
+## Voice – all forms
+**Active → passive:** object becomes subject + be (in tense) + V3 + (by agent).
+- Simple present: They **speak** English. → English **is spoken**.
+- Present continuous: She **is cleaning** the room. → The room **is being cleaned**.
+- Present perfect: He **has repaired** the bike. → The bike **has been repaired**.
+- Simple past: Edison **invented** the bulb. → The bulb **was invented** by Edison.
+- Past continuous: They **were building** a dam. → A dam **was being built**.
+- Past perfect: She **had posted** the letter. → The letter **had been posted**.
+- Future: They **will open** the mall. → The mall **will be opened**.
+- Modal: We **should save** water. → Water **should be saved**.
+
+## Passive in formal writing
+Used in reports, science and news, where the action matters more than the doer:
+"The solution **was heated** for five minutes." "Three people **were injured** in the accident."
+
+## Impersonal passive
+"People say that he is rich." → "**It is said** that he is rich." / "He **is said to be** rich."
+> 💡 Continuous tenses with "being" exist only in present and past in passive; "will be being" isn't used.
+
+## Let's check
+Q: Change to passive: "The police arrested the thief."
+A: The thief was arrested by the police.
+Q: Change to passive: "We must follow the rules."
+A: The rules must be followed.
+Q: Rewrite: "People believe that the house is haunted." (It is…)
+A: It is believed that the house is haunted.
+
+@@ 3
+## Reported speech – complete guide
+**Reporting verb in the past → backshift** tenses, change pronouns and time/place words.
+- "I **am** working **now**," he said. → He said that he **was** working **then**.
+- "We **went** there **yesterday**," they said. → They said that they **had gone** there **the previous day**.
+- "I **will** finish it **tomorrow**," she said. → She said that she **would** finish it **the next day**.
+
+## Questions
+- "Have you seen my keys?" Dad asked. → Dad asked me **whether I had seen** his keys.
+- "Why are you crying?" the teacher asked. → The teacher asked **why I was crying**.
+
+## Commands, requests, advice
+- "Switch off the lights," Mother said. → Mother **told** us **to switch off** the lights.
+- "You should rest," the doctor said. → The doctor **advised** me **to rest**.
+- "Let's go for a walk," he said. → He **suggested going** for a walk / **suggested that we should go** for a walk.
+
+## Exclamations and wishes
+- "Hurrah! We've won!" they said. → They **exclaimed with joy** that they had won.
+- "May you live long!" Grandma said. → Grandma **blessed** me **that I might live long**.
+
+## No backshift when…
+- the reporting verb is present: She **says**, "I'm tired." → She says that she **is** tired.
+- the statement is a universal truth or still true.
+> 💡 Choose a precise reporting verb: advised, warned, begged, suggested, promised, complained.
+
+## Let's check
+Q: Report: "I can't find my phone," said Priya.
+A: Priya said that she couldn't find her phone.
+Q: Report: "Did you call me?" he asked.
+A: He asked whether/if I had called him.
+Q: Report: "Don't go near the fire," Mother said to the child.
+A: Mother warned the child not to go near the fire.
+
+@@ 4
+## Types of sentences by structure
+- **Simple:** one independent clause – "The rain stopped."
+- **Compound:** two or more independent clauses joined by and, but, or, so, yet – "The rain stopped, **and** the children ran out."
+- **Complex:** one independent + one or more dependent clauses – "**When the rain stopped**, the children ran out."
+- **Compound-complex:** two independent + at least one dependent – "When the rain stopped, the children ran out, but their parents stayed inside."
+
+## Dependent clauses
+- **Noun clause:** "I wonder **whether he will come**."
+- **Relative (adjective) clause:** "The book **that you lent me** was exciting."
+- **Adverb clause:** time (when, after), reason (because, since), condition (if, unless), contrast (although, though), purpose (so that).
+
+## Conditionals
+- **Zero:** facts – If you heat ice, it **melts**.
+- **First:** real future – If it rains, we **will stay** in.
+- **Second:** unreal present – If I **were** a bird, I **would fly**.
+- **Third:** unreal past – If you **had studied**, you **would have passed**.
+
+## Transforming sentences
+"He is poor. He is honest." → Simple: "**Despite being** poor, he is honest." Compound: "He is poor **but** honest." Complex: "**Although** he is poor, he is honest."
+> 💡 Varying sentence types makes writing more interesting.
+
+## Let's check
+Q: Identify the type: "Because she was ill, she missed the exam."
+A: Complex sentence.
+Q: Complete the second conditional: "If I had wings, I ___."
+A: would fly.
+Q: Combine into a compound sentence: "The bell rang. The students left."
+A: The bell rang, and the students left.
+
+@@ 5
+## Critical reading
+Beyond finding answers, good readers think about **purpose, tone, bias and evidence**.
+- **Main idea:** what is the passage mostly about?
+- **Tone:** the writer's attitude – serious, humorous, critical, hopeful.
+- **Fact vs opinion:** facts can be checked; opinions are beliefs.
+- **Inference:** reading between the lines.
+
+## Read the passage: Plastic in Our Oceans
+Every year, more than eight million tonnes of plastic enter the oceans. Much of it comes from rivers carrying waste from cities. Sea turtles mistake plastic bags for jellyfish; seabirds feed bottle caps to their chicks. Tiny pieces called **microplastics** have been found in fish, salt and even drinking water.
+Some argue that recycling alone will solve the problem. However, only a small fraction of plastic ever made has been recycled. Experts agree that we must reduce single-use plastic, design products that last, and hold companies responsible for the waste they create. Change, they say, must begin both in parliaments and in our own kitchens.
+
+## Notice the writer's craft
+- **Statistics** ("eight million tonnes") give evidence.
+- **Vivid examples** (turtles, seabirds) create emotion.
+- The final sentence links big policy to personal action.
+> 💡 Words like "however" signal a contrast – the writer's real view often follows.
+
+## Let's check
+Q: What are microplastics?
+A: Tiny pieces of plastic found in fish, salt and water.
+Q: Why does the writer say recycling alone is not enough?
+A: Because only a small fraction of plastic has ever been recycled.
+Q: Is "Change must begin in our kitchens" a fact or an opinion?
+A: An opinion.
+
+@@ 6
+## Formal letter types
+- **Letter of complaint** – to an authority or company about a problem.
+- **Letter of enquiry** – asking for information (courses, products).
+- **Letter to the editor** – raising public issues.
+- **Application** – for a job, leave or permission.
+
+## Sample: letter of complaint
+**Subject: Complaint about a defective water purifier**
+Sir/Madam,
+I purchased a water purifier (Model AquaPure X2, invoice no. 45821) from your Indore store on 2 March 2026. Within two weeks, the filter began leaking and the purifier stopped working. Despite two calls to your customer care, no technician has visited.
+I request you to replace the product or refund the amount at the earliest. Copies of the invoice and warranty card are enclosed.
+Yours faithfully,
+Rohan Kulkarni
+
+## Emails
+- **To / Cc / Subject** fields.
+- Greeting: Dear Mr Sharma, / Dear Sir,
+- Short paragraphs; clear request; polite close: Regards / Best regards, name.
+- Attach documents if needed and mention them.
+> 💡 Be specific: give dates, numbers and exactly what action you want.
+
+## Let's check
+Q: What should a complaint letter clearly state?
+A: The problem, details (dates, numbers) and the action you want.
+Q: What does "Cc" in an email mean?
+A: Carbon copy – sending a copy to other people.
+Q: Which closing goes with "Dear Sir/Madam"?
+A: Yours faithfully.
+
+@@ 7
+## Essay writing
+- **Introduction:** hook (a question, quote or striking fact) + topic statement.
+- **Body:** 3 paragraphs, each with a topic sentence, explanation and example.
+- **Conclusion:** summarise and end with a thought or call to action.
+**Types:** descriptive, narrative, argumentative (for/against), reflective.
+
+## Sample argumentative outline: Should mobile phones be allowed in schools?
+- Intro: Phones are everywhere; schools must decide.
+- For: emergencies, learning apps, research.
+- Against: distraction, cyberbullying, cheating, less outdoor play.
+- Conclusion: allow limited, supervised use.
+
+## Article writing
+Written for a newspaper or magazine.
+- **Title** (catchy) and **by-line** (By Aisha Khan).
+- Introduction, body with facts and examples, conclusion with suggestions.
+- Topics: "The Joy of Reading", "Road Safety Begins with Us", "Why Sports Matter".
+
+## Language tips
+Use linking words: firstly, moreover, however, therefore, in conclusion. Vary sentence length. Avoid repetition.
+> 💡 An argumentative essay is stronger when you mention and answer the other side's view.
+
+## Let's check
+Q: What is a by-line?
+A: The writer's name below the title of an article.
+Q: Give two ways to start an essay with a hook.
+A: A question, a quotation or a surprising fact.
+Q: What should an argumentative essay's conclusion do?
+A: Summarise the arguments and give a clear opinion or suggestion.
+
+@@ 8
+## Prose: The Gift of the Magi (O. Henry, summary)
+Della and Jim, a poor young couple, want to buy each other Christmas gifts. Della has only $1.87. She sells her beautiful long hair to buy a platinum chain for Jim's prized gold watch. Jim, meanwhile, sells his watch to buy a set of expensive combs for Della's hair. When they exchange gifts, both are useless – yet they realise their love is the greatest treasure.
+**Theme:** true love means selfless sacrifice. **Device:** **situational irony** – the outcome is the opposite of what was expected.
+
+## Poem: If— (lines by Rudyard Kipling)
+If you can keep your head when all about you
+Are losing theirs and blaming it on you,
+If you can trust yourself when all men doubt you,
+But make allowance for their doubting too…
+Yours is the Earth and everything that's in it,
+And—which is more—you'll be a Man, my son!
+
+## Understanding the poem
+A father advises his son on how to become a mature person: stay calm in crises, believe in yourself while respecting others, handle success and failure equally. The poem uses **repetition** ("If you can…") to build up to its conclusion.
+> 💡 Irony, symbolism and theme are key ideas when studying literature.
+
+## Let's check
+Q: What did Della sell to buy Jim's gift?
+A: Her long hair.
+Q: What kind of irony is used in "The Gift of the Magi"?
+A: Situational irony.
+Q: What does "keep your head" mean in the poem?
+A: Stay calm in difficult situations.

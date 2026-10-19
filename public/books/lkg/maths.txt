@@ -1,0 +1,143 @@
+@@ 1
+## Numbers 1 to 50
+We already know 1 to 10. Now let's count all the way to **50**!
+
+## Count in tens
+- 1 2 3 4 5 6 7 8 9 **10**
+- 11 12 13 14 15 16 17 18 19 **20**
+- 21 22 23 24 25 26 27 28 29 **30**
+- 31 32 33 34 35 36 37 38 39 **40**
+- 41 42 43 44 45 46 47 48 49 **50**
+
+## Number names
+11 eleven, 12 twelve, 13 thirteen, 14 fourteen, 15 fifteen, 20 twenty, 30 thirty, 40 forty, 50 fifty.
+> 💡 Look at each row: the last digit goes 1, 2, 3… 9 and then 0 again!
+
+## Let's do
+Count your steps from the door to your bed. Did you reach 20?
+
+## Let's check
+Q: What comes after 29?
+A: 30.
+Q: Write "forty" as a number.
+A: 40.
+Q: What number comes just before 50?
+A: 49.
+
+@@ 2
+## Counting and writing numbers
+When we count things, we touch each thing once and say one number.
+
+## Count and write
+- 🍎🍎🍎 → **3**
+- ⭐⭐⭐⭐⭐⭐ → **6**
+- 🎈🎈🎈🎈🎈🎈🎈🎈 → **8**
+
+## Writing numbers
+- **1** – a straight line down.
+- **0** – round like an egg.
+- **7** – a line across, then a slant down.
+- **10** – a 1 and a 0 side by side.
+> 💡 Write numbers from the top. Start at the top line and go down.
+
+## Let's do
+Count the spoons in your kitchen. Write the number on paper.
+
+## Let's check
+Q: Count: 🐟🐟🐟🐟. How many fish?
+A: 4.
+Q: Which two numbers make 10?
+A: 1 and 0 written together.
+
+@@ 3
+## Before and after
+Numbers come in order. Each number has a friend **before** it and a friend **after** it.
+
+## Look at the number line
+1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
+- The number **after** 4 is **5**. (one more)
+- The number **before** 4 is **3**. (one less)
+
+## More examples
+- After 9 comes **10**.
+- Before 20 comes **19**.
+- After 35 comes **36**.
+> 💡 "After" means count one step forward. "Before" means count one step back.
+
+## Let's check
+Q: What comes after 7?
+A: 8.
+Q: What comes before 15?
+A: 14.
+Q: What comes after 39?
+A: 40.
+
+@@ 4
+## More and less
+When we compare two groups, one may have **more** and the other may have **less**.
+
+## Look and compare
+- 🍬🍬🍬🍬🍬 and 🍬🍬 → 5 is **more** than 2.
+- 🐥🐥 and 🐥🐥🐥🐥 → 2 is **less** than 4.
+- 🍌🍌🍌 and 🍌🍌🍌 → they are the **same**.
+
+## Using numbers
+- 8 is more than 6.
+- 3 is less than 9.
+- Bigger numbers mean more things.
+> 💡 Line up the two groups side by side. The longer line has more!
+
+## Let's check
+Q: Which is more: 7 or 4?
+A: 7.
+Q: Which is less: 10 or 12?
+A: 10.
+Q: 3 apples and 3 apples. More, less or same?
+A: Same.
+
+@@ 5
+## Shapes and colours
+Shapes have colours, and colours make shapes bright and easy to spot!
+
+## Our shapes
+- **Circle** – round, no corners. Like a red tomato. 🔴
+- **Square** – 4 equal sides, 4 corners. Like a blue window. 🟦
+- **Triangle** – 3 sides, 3 corners. Like a green Christmas tree. 🔺
+- **Rectangle** – 4 sides, 2 long and 2 short. Like a brown door. 🚪
+- **Oval** – like a stretched circle. Like an egg. 🥚
+- **Star** – 5 points. Like a yellow star. ⭐
+
+## Let's do
+Draw a house: a square for the room, a triangle for the roof, a rectangle for the door. Colour it!
+> 💡 A rectangle looks like a stretched square.
+
+## Let's check
+Q: Which shape has 3 corners?
+A: A triangle.
+Q: A door looks like which shape?
+A: A rectangle.
+Q: An egg looks like which shape?
+A: An oval.
+
+@@ 6
+## Patterns
+A **pattern** is something that repeats again and again in the same order.
+
+## Find what comes next
+- 🔴🔵🔴🔵🔴 … next is **🔵**
+- ⭐🌙⭐🌙⭐ … next is **🌙**
+- 🍎🍎🍌🍎🍎🍌 … next is **🍎**
+- 1, 2, 1, 2, 1 … next is **2**
+
+## Patterns around us
+Patterns are on rangoli, sarees, floor tiles and even on a zebra's stripes! 🦓
+
+## Let's do
+Clap, stamp, clap, stamp… Make your own sound pattern!
+> 💡 Find the part that repeats. Then you can always tell what comes next.
+
+## Let's check
+Q: Red, blue, red, blue… what comes next?
+A: Red.
+Q: Clap, clap, jump, clap, clap… what comes next?
+A: Jump.

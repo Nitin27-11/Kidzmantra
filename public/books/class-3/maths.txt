@@ -1,0 +1,306 @@
+@@ 1
+## Numbers up to 10,000
+Four-digit numbers have **thousands, hundreds, tens and ones**.
+
+## Place value chart
+In 4,582:
+- **4** is in the thousands place → 4,000
+- **5** is in the hundreds place → 500
+- **8** is in the tens place → 80
+- **2** is in the ones place → 2
+Expanded form: **4,000 + 500 + 80 + 2**
+
+## Number names
+- 3,705 – three thousand seven hundred five
+- 9,999 – nine thousand nine hundred ninety-nine
+- 10,000 – ten thousand (the smallest 5-digit number)
+
+## Comparing and ordering
+Compare from the left. 6,421 > 6,398 because the hundreds digit 4 > 3.
+Ascending order: smallest to biggest. Descending: biggest to smallest.
+> 💡 The comma after the thousands digit makes big numbers easier to read.
+
+## Let's check
+Q: Write 7,036 in expanded form.
+A: 7,000 + 30 + 6.
+Q: Place value of 9 in 2,915?
+A: 900.
+Q: Smallest 4-digit number?
+A: 1,000.
+
+@@ 2
+## Adding 4-digit numbers
+  3,456
++ 2,789
+Ones 6 + 9 = 15 → 5 carry 1. Tens 5 + 8 + 1 = 14 → 4 carry 1.
+Hundreds 4 + 7 + 1 = 12 → 2 carry 1. Thousands 3 + 2 + 1 = 6.
+Answer: **6,245**
+
+## Subtracting 4-digit numbers
+  5,000
+– 1,368
+Borrow across zeros: 5,000 becomes 4 thousands, 9 hundreds, 9 tens, 10 ones.
+10 – 8 = 2, 9 – 6 = 3, 9 – 3 = 6, 4 – 1 = 3 → **3,632**
+
+## Word problems
+A school has 1,245 boys and 1,180 girls. Total = 1,245 + 1,180 = **2,425** children.
+> 💡 Words like "in all", "total", "altogether" mean add. "Left", "fewer", "difference" mean subtract.
+
+## Let's check
+Q: 2,365 + 1,428 = ?
+A: 3,793.
+Q: 4,000 – 2,750 = ?
+A: 1,250.
+Q: A shop had 3,500 pens and sold 1,275. How many are left?
+A: 2,225.
+
+@@ 3
+## Multiplication tables
+**Multiplication** is repeated addition. Knowing tables makes maths quick.
+
+## Tables 2 to 10
+- 6 × 7 = 42, 7 × 8 = 56, 8 × 9 = 72, 9 × 6 = 54
+- The 9 table: 9, 18, 27, 36, 45, 54, 63, 72, 81, 90 – the digits always add up to 9!
+
+## Multiplying bigger numbers
+  23
+×  4
+3 × 4 = 12 → 2 carry 1; 2 × 4 = 8 + 1 = 9 → **92**
+
+## Properties
+- **Order property:** 4 × 5 = 5 × 4
+- **Multiplying by 1:** 8 × 1 = 8
+- **Multiplying by 0:** 8 × 0 = 0
+- **Multiplying by 10:** add a zero: 34 × 10 = 340
+> 💡 Practise tables by skip counting while skipping rope!
+
+## Let's check
+Q: 7 × 9 = ?
+A: 63.
+Q: 45 × 3 = ?
+A: 135.
+Q: One box has 12 crayons. How many in 6 boxes?
+A: 72 crayons.
+
+@@ 4
+## Division
+**Division** means sharing equally or making equal groups. We use the sign **÷**.
+
+## Sharing equally
+12 sweets shared among 3 children: each gets **4**. So 12 ÷ 3 = 4.
+
+## Parts of division
+In 17 ÷ 5 = 3, remainder 2:
+- 17 is the **dividend**
+- 5 is the **divisor**
+- 3 is the **quotient**
+- 2 is the **remainder**
+
+## Division and multiplication are related
+3 × 4 = 12, so 12 ÷ 3 = 4 and 12 ÷ 4 = 3.
+
+## Rules
+- Any number ÷ 1 = the same number.
+- A number ÷ itself = 1.
+- 0 ÷ any number = 0.
+> 💡 Check: (quotient × divisor) + remainder = dividend. (3 × 5) + 2 = 17 ✔
+
+## Let's check
+Q: 36 ÷ 6 = ?
+A: 6.
+Q: 25 ÷ 4 = ?
+A: 6 remainder 1.
+Q: 40 pencils are packed 8 in a box. How many boxes?
+A: 5 boxes.
+
+@@ 5
+## Fractions: halves and quarters
+A **fraction** is a part of a whole that is divided into **equal** parts.
+
+## One half (½)
+Cut a roti into 2 equal parts. Each part is **one half (½)**.
+Two halves make one whole: ½ + ½ = 1.
+
+## One quarter (¼)
+Cut a pizza into 4 equal parts. Each part is **one quarter (¼)**.
+Four quarters make a whole. Two quarters = one half.
+
+## Three quarters (¾)
+Eat 3 of the 4 pizza pieces → you ate **¾** of the pizza.
+
+## Fraction of a group
+½ of 10 apples = 5 apples. ¼ of 12 = 3.
+> 💡 The parts must be EQUAL. A roti broken into one big and one small piece is not halves.
+
+## Let's check
+Q: What is ½ of 20?
+A: 10.
+Q: How many quarters make a whole?
+A: 4.
+Q: A cake is cut into 4 equal parts. Riya eats 1. What fraction did she eat?
+A: ¼ (one quarter).
+
+@@ 6
+## 2-D shapes
+- **Triangle** – 3 sides, 3 corners
+- **Square** – 4 equal sides, 4 right-angle corners
+- **Rectangle** – opposite sides equal, 4 right-angle corners
+- **Circle** – centre, radius (centre to edge) and diameter (edge to edge through the centre). Diameter = 2 × radius.
+
+## 3-D shapes
+- **Cube** – 6 square faces, 12 edges, 8 corners
+- **Cuboid** – 6 rectangular faces, 12 edges, 8 corners
+- **Cylinder** – 2 circular faces and a curved surface
+- **Cone** – 1 circular face, 1 corner (vertex)
+- **Sphere** – one curved surface, no corners
+
+## Designs and tiles
+Shapes that fit together without gaps make **tiling patterns**, like squares on a floor or hexagons in a honeycomb. 🐝
+> 💡 Symmetry: if you fold a shape and both halves match, it is symmetrical.
+
+## Let's check
+Q: How many edges does a cube have?
+A: 12.
+Q: If the radius is 4 cm, what is the diameter?
+A: 8 cm.
+Q: Which shape do bees use in a honeycomb?
+A: Hexagons.
+
+@@ 7
+## Length
+- 1 centimetre (cm) = 10 millimetres (mm)
+- 1 metre (m) = 100 cm
+- 1 kilometre (km) = 1,000 m
+Short things in cm, a room in m, distance between cities in km.
+
+## Weight
+- 1 kilogram (kg) = 1,000 grams (g)
+Use g for light things (a pencil) and kg for heavy things (a sack of rice).
+
+## Capacity
+How much a container can hold.
+- 1 litre (L) = 1,000 millilitres (mL)
+A spoon holds about 5 mL; a water bottle holds 1 L.
+
+## Converting units
+3 m = 300 cm. 2 kg = 2,000 g. 4 L = 4,000 mL.
+> 💡 "Kilo" means thousand: kilometre = 1,000 m, kilogram = 1,000 g.
+
+## Let's check
+Q: How many grams in 5 kg?
+A: 5,000 g.
+Q: Which unit to measure the distance from Delhi to Agra?
+A: Kilometres.
+Q: 2 L = ___ mL
+A: 2,000 mL.
+
+@@ 8
+## Reading time
+- The hour hand is short; the minute hand is long.
+- Each small mark is 1 minute. Each number on the clock is 5 minutes for the minute hand.
+- 7:15 = **quarter past 7**; 7:30 = **half past 7**; 7:45 = **quarter to 8**.
+
+## a.m. and p.m.
+- **a.m.** – from midnight to noon (morning).
+- **p.m.** – from noon to midnight (afternoon and night).
+School starts at 8:00 a.m. Dinner is at 8:00 p.m.
+
+## Units of time
+60 seconds = 1 minute, 60 minutes = 1 hour, 24 hours = 1 day, 7 days = 1 week, 12 months = 1 year.
+
+## Finding time taken
+Start 9:00 a.m., finish 11:30 a.m. → **2 hours 30 minutes**.
+> 💡 365 days make a year; every 4th year (a leap year) has 366.
+
+## Let's check
+Q: What time is "quarter to 6"?
+A: 5:45.
+Q: How many hours in 2 days?
+A: 48 hours.
+Q: A movie starts at 3:00 p.m. and ends at 5:15 p.m. How long is it?
+A: 2 hours 15 minutes.
+
+@@ 9
+## Rupees and paise
+₹1 = 100 paise. ₹12.50 means 12 rupees and 50 paise.
+
+## Adding and subtracting money
+Write rupees under rupees and paise under paise.
+  ₹ 45.50
++ ₹ 32.75
+= ₹ 78.25
+
+## Bills
+A shopping bill:
+- 2 notebooks at ₹30 each = ₹60
+- 1 pen = ₹15
+- **Total = ₹75**
+
+## Change
+Pay ₹100 for a bill of ₹75 → change = ₹25.
+> 💡 Line up the decimal points when adding money.
+
+## Let's check
+Q: How many paise in ₹5?
+A: 500 paise.
+Q: 3 pencils cost ₹8 each. What is the total?
+A: ₹24.
+Q: You pay ₹200 for a bill of ₹136. What change?
+A: ₹64.
+
+@@ 10
+## Patterns
+Patterns follow a **rule**. Finding the rule helps us predict what comes next.
+
+## Number patterns
+- 3, 6, 9, 12, … → add 3 → **15**
+- 100, 90, 80, … → subtract 10 → **70**
+- 1, 2, 4, 8, … → double → **16**
+- 1, 4, 9, 16, … → 1×1, 2×2, 3×3, 4×4 → **25**
+
+## Shape patterns
+Patterns can grow, turn or repeat: ▲▼▲▼, or a shape turning a quarter turn each time.
+
+## Odd and even
+- **Even numbers** end in 0, 2, 4, 6, 8 – they can be split into pairs.
+- **Odd numbers** end in 1, 3, 5, 7, 9.
+- Even + even = even; odd + odd = even; even + odd = odd.
+> 💡 Look at the difference between numbers to find the rule.
+
+## Let's check
+Q: 5, 10, 20, 40, ___?
+A: 80.
+Q: Is 37 odd or even?
+A: Odd.
+Q: 2, 5, 8, 11, ___?
+A: 14.
+
+@@ 11
+## Data handling
+**Data** is a collection of facts or numbers. We organise data so it is easy to understand.
+
+## Tally marks
+Count with lines; every 5th line crosses the first four. Tally of 12 = two groups of 5 and 2 more.
+
+## Pictograph
+Favourite games (🔵 = 2 children):
+- Cricket: 🔵🔵🔵🔵🔵 → 10 children
+- Kabaddi: 🔵🔵🔵 → 6 children
+- Kho-kho: 🔵🔵 → 4 children
+
+## Bar graph
+A bar graph uses bars of different heights to show amounts. Taller bar = more.
+
+## Reading data
+- Most popular: cricket (10).
+- Total children: 10 + 6 + 4 = 20.
+- Cricket has 6 more than kho-kho.
+> 💡 Always check the "key" – one picture may stand for more than one thing.
+
+## Let's check
+Q: If 🔵 = 2 children, how many children do 4 🔵 show?
+A: 8 children.
+Q: Which game is least popular?
+A: Kho-kho.
+Q: How many more children like kabaddi than kho-kho?
+A: 2.

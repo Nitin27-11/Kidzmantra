@@ -1,0 +1,145 @@
+@@ 1
+## Numbers 1 to 20
+Let's count, read and write numbers up to **20**.
+
+## Numbers and names
+- 1 one, 2 two, 3 three, 4 four, 5 five
+- 6 six, 7 seven, 8 eight, 9 nine, 10 ten
+- 11 eleven, 12 twelve, 13 thirteen, 14 fourteen, 15 fifteen
+- 16 sixteen, 17 seventeen, 18 eighteen, 19 nineteen, 20 twenty
+
+## Teen numbers
+13 to 19 end in **"teen"**. 14 is 10 and 4 more. 18 is 10 and 8 more.
+> 💡 11 and 12 are special names: eleven and twelve.
+
+## Let's check
+Q: Write "fifteen" as a number.
+A: 15.
+Q: What is 10 and 6 more?
+A: 16.
+Q: What number comes after 19?
+A: 20.
+
+@@ 2
+## Counting objects
+Let's count things carefully and match them to numbers.
+
+## Count and say
+- 🌸🌸🌸🌸🌸🌸🌸 → **7**
+- 🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞 → **12**
+- ⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽ → **15**
+
+## Smart counting
+- Touch each object once.
+- Move counted objects to one side.
+- Count in twos: 2, 4, 6, 8, 10.
+> 💡 Shoes come in pairs. Count shoes in twos!
+
+## Let's do
+Count the windows in your home. Count the chairs. Which is more?
+
+## Let's check
+Q: Count in twos: 2, 4, 6, ___.
+A: 8.
+Q: 5 cats and 5 dogs. How many animals?
+A: 10.
+
+@@ 3
+## Shapes around us
+Shapes are everywhere: at home, at school and on the road.
+
+## Flat shapes
+- **Circle** – a clock, a coin, a bangle.
+- **Square** – a chessboard, a photo frame.
+- **Rectangle** – a door, a book, a mobile phone.
+- **Triangle** – a samosa, a road sign.
+- **Oval** – an egg, a mirror.
+
+## Solid shapes
+- **Sphere** – round like a ball. ⚽
+- **Cube** – like a dice. 🎲
+- **Cylinder** – like a glass or a pipe.
+- **Cone** – like an ice-cream cone. 🍦
+> 💡 A sphere can roll. A cube can slide. A cylinder can roll and slide!
+
+## Let's check
+Q: A book looks like which shape?
+A: A rectangle.
+Q: A dice is which solid shape?
+A: A cube.
+Q: Which shape is an ice-cream cone?
+A: A cone.
+
+@@ 4
+## Big and small, tall and short
+We use words to **compare** things.
+
+## Big and small
+- A truck is **big**; a cycle is **small**.
+- A pumpkin is **bigger** than a lemon.
+
+## Tall and short
+- A giraffe is **tall**; a rabbit is **short**.
+- A coconut tree is **taller** than a rose plant.
+
+## Long and short
+- A train is **long**; a car is **short**.
+
+## Heavy and light
+- A bag of rice is **heavy**; a feather is **light**.
+> 💡 Stand back to back with a friend. Who is taller?
+
+## Let's check
+Q: Which is taller: a giraffe or a rabbit?
+A: A giraffe.
+Q: Which is heavier: a brick or a leaf?
+A: A brick.
+Q: Which is longer: a train or a car?
+A: A train.
+
+@@ 5
+## Patterns
+A pattern repeats in the same order. Finding patterns makes us smart thinkers!
+
+## Colour and shape patterns
+- 🔺🔵🔺🔵 → next **🔺**
+- 🟥🟥🟨🟥🟥🟨 → next **🟥**
+
+## Number patterns
+- 1, 2, 3, 4, 5 → next **6** (add 1)
+- 2, 4, 6, 8 → next **10** (add 2)
+- 5, 10, 15 → next **20** (add 5)
+
+## Growing patterns
+⭐ / ⭐⭐ / ⭐⭐⭐ → next is **⭐⭐⭐⭐**
+> 💡 Look for the rule: what changes and what stays the same?
+
+## Let's check
+Q: 10, 20, 30, ___?
+A: 40.
+Q: A, B, A, B, A, ___?
+A: B.
+
+@@ 6
+## Before, after and between
+Numbers stand in a line like children in an assembly.
+
+## Number line
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+- **Before** 12 is **11**.
+- **After** 12 is **13**.
+- **Between** 11 and 13 is **12**.
+
+## Practice
+- Before 18 → 17
+- After 9 → 10
+- Between 15 and 17 → 16
+> 💡 "Between" is the number that sits in the middle.
+
+## Let's check
+Q: What comes before 10?
+A: 9.
+Q: What comes after 16?
+A: 17.
+Q: What is between 19 and 21?
+A: 20.

@@ -1,0 +1,682 @@
+@@ 1
+## 🎬 Let's begin
+Look at a sunflower, a honeycomb, the tiles on your floor or a rangoli at Diwali. They all follow a **pattern**. Mathematics is often called **the science of patterns**. In this chapter, we become pattern detectives! 🕵️
+
+## 🤔 What is a pattern?
+> 📌 A **pattern** is something that repeats or grows according to a **rule**. If you know the rule, you can say what comes next.
+Mathematicians look for patterns in **numbers** and in **shapes**, and then try to explain **why** the pattern happens.
+
+## 🔢 Number sequences
+A **sequence** is a list of numbers in a fixed order, following a rule. Here are the most famous ones:
+- **Counting numbers:** 1, 2, 3, 4, 5, … (add 1 each time)
+- **Odd numbers:** 1, 3, 5, 7, 9, … (add 2, starting from 1)
+- **Even numbers:** 2, 4, 6, 8, 10, … (add 2, starting from 2)
+- **Triangular numbers:** 1, 3, 6, 10, 15, … (add 2, then 3, then 4, then 5…)
+- **Square numbers:** 1, 4, 9, 16, 25, … (1×1, 2×2, 3×3, …)
+- **Cube numbers:** 1, 8, 27, 64, 125, … (1×1×1, 2×2×2, …)
+- **Virahānka numbers:** 1, 2, 3, 5, 8, 13, 21, … (each number = sum of the two before it)
+- **Powers of 2:** 1, 2, 4, 8, 16, 32, … (double each time)
+- **Powers of 3:** 1, 3, 9, 27, 81, … (multiply by 3 each time)
+
+## 🎨 Seeing numbers as pictures
+Many sequences get their names from the shapes they make with dots:
+- **Triangular numbers** make triangles: 1 dot, then a row of 2 below it (3 dots), then a row of 3 (6 dots)…
+- **Square numbers** make squares: 2 rows of 2 = 4, 3 rows of 3 = 9.
+- **Cube numbers** make cubes: 2 layers of 2×2 = 8 small cubes.
+> 💡 Drawing a pattern often shows you **why** it works!
+
+## ⚙️ Wonderful connections between sequences
+**1. Adding odd numbers gives square numbers.**
+- 1 = 1 = 1×1
+- 1 + 3 = 4 = 2×2
+- 1 + 3 + 5 = 9 = 3×3
+- 1 + 3 + 5 + 7 = 16 = 4×4
+Why? Each new odd number adds an L-shaped layer around the square, making a bigger square!
+So the sum of the first 10 odd numbers = 10 × 10 = **100**.
+
+**2. Adding counting numbers up and down gives squares.**
+- 1 + 2 + 1 = 4
+- 1 + 2 + 3 + 2 + 1 = 9
+- 1 + 2 + 3 + 4 + 3 + 2 + 1 = 16
+
+**3. Two triangular numbers next to each other make a square.**
+1 + 3 = 4, 3 + 6 = 9, 6 + 10 = 16.
+
+**4. Adding powers of 2:** 1 + 2 + 4 = 7, which is one less than 8. 1 + 2 + 4 + 8 = 15, one less than 16. The sum is always one less than the next power of 2!
+
+## 🔺 Patterns in shapes
+Shapes make sequences too:
+- **Regular polygons:** triangle (3 sides), square (4), pentagon (5), hexagon (6)… → the number of sides follows the counting numbers starting at 3.
+- **Stacked squares:** 1, 4, 9, 16 small squares → square numbers.
+- **Stacked triangles:** 1, 4, 9, 16 small triangles → also square numbers!
+- **Koch snowflake:** start with a triangle and keep adding smaller triangles on every side – the number of sides goes 3, 12, 48, … (×4 each time). ❄️
+
+## 🌍 In real life
+- Calendars: each column of dates goes up by 7.
+- Music beats, dance steps and clapping games repeat patterns.
+- The Virahānka numbers appear in sunflower seeds and pinecone spirals.
+
+## ✋ Try it yourself
+Arrange coins or bottle caps to make the first four triangular numbers. Then put two neighbouring triangles together. What shape do you get?
+
+## 😮 Fun facts
+> 😮 The sequence 1, 2, 3, 5, 8, 13… was studied by Indian scholars like **Virahānka** (around 700 CE) while counting rhythms in Sanskrit poetry – centuries before it became famous in Europe as the "Fibonacci" sequence.
+
+## ⚠️ Common mistakes
+- Guessing the rule from just two numbers. 2, 4 could be "add 2" (→ 6) or "double" (→ 8). Check at least three terms!
+- Forgetting that 1 is a square number (1 × 1) and a cube number (1 × 1 × 1).
+
+## 🧠 Quick recap
+- A pattern follows a rule; maths finds and explains patterns.
+- Key sequences: odd, even, triangular, square, cube, Virahānka, powers of 2 and 3.
+- Sum of the first n odd numbers = n × n.
+- Shapes make number patterns too.
+
+## 📖 New words
+- **Sequence** – numbers in order following a rule
+- **Term** – each number in a sequence
+- **Regular polygon** – a shape with all sides and angles equal
+
+## 🎮 Quiz time!
+MCQ: What comes next: 1, 4, 9, 16, … ? | 20 | *25 | 24 | 32 || These are square numbers: 5 × 5 = 25.
+MCQ: Which sequence is 1, 3, 6, 10, 15, …? | Square numbers | Odd numbers | *Triangular numbers | Cube numbers || Add 2, then 3, then 4, then 5.
+FILL: The sum of the first 6 odd numbers is ___. | 36 || 6 × 6 = 36.
+MCQ: Next Virahānka number after 5, 8, 13 is | 18 | *21 | 26 | 15 || 8 + 13 = 21.
+TF: 1 + 2 + 4 + 8 + 16 = 31 | true || One less than the next power of 2, which is 32.
+FILL: 2 × 2 × 2 = ___, which is a cube number. | 8 || Two layers of 2 × 2 cubes.
+TF: A hexagon has 5 sides. | false || A hexagon has 6 sides; a pentagon has 5.
+
+@@ 2
+## 🎬 Let's begin
+Look at the hands of a clock, an open door, a slice of pizza or a pair of scissors. Each one makes a "corner" or an **opening**. Today we learn to name, compare and measure these openings – called **angles**! 📐
+
+## 🤔 Points and lines – the building blocks
+> 📌 A **point** is an exact location. It has no length or width. We draw it as a tiny dot and name it with a capital letter, like **P**.
+- **Line segment:** the straight path between two points. It has a fixed length. We write it as **AB**.
+- **Line:** a line segment extended forever in **both** directions. We write it as ↔AB.
+- **Ray:** starts at one point and goes on forever in **one** direction, like a beam of light from a torch. We write it as →OA (O is the starting point).
+> 💡 Through two points, only **one** straight line can pass.
+
+## 🤔 What is an angle?
+> 📌 An **angle** is formed when two rays start from the **same point**. The two rays are the **arms** of the angle, and the common starting point is the **vertex**.
+We name an angle with three letters, keeping the vertex in the middle: **∠AOB** (O is the vertex).
+An angle shows **how much turning** there is from one arm to the other.
+
+## ⚙️ Comparing angles
+- Place one angle on top of the other with the vertices and one arm together. The angle whose other arm is further out is **bigger**.
+- The size of an angle does **not** depend on how long the arms are drawn – only on the **amount of turn**.
+
+## 📏 Measuring angles in degrees
+- A full turn is divided into **360 equal parts**. Each part is **1 degree (1°)**.
+- A **protractor** is used to measure angles.
+How to use a protractor:
+1. Place the centre point of the protractor on the **vertex**.
+2. Line up the **base line (0°)** with one arm.
+3. Read the number where the other arm crosses the scale. Start counting from the 0° on that arm's side!
+
+## 🧩 Types of angles
+- **Acute angle:** less than 90° (e.g. 45°) – a sharp corner, like a pizza slice.
+- **Right angle:** exactly **90°** – the corner of a book. Marked with a small square.
+- **Obtuse angle:** more than 90° but less than 180° (e.g. 120°) – a reclining chair.
+- **Straight angle:** exactly **180°** – a straight line, a half turn.
+- **Reflex angle:** more than 180° but less than 360°.
+- **Complete angle:** 360° – a full turn.
+> 💡 Two lines that meet at a right angle are **perpendicular**, like the edges of a door frame.
+
+## 🌍 In real life
+- Clock hands at 3 o'clock make a right angle; at 6 o'clock a straight angle.
+- Ramps for wheelchairs need a small acute angle to be safe.
+- Cricket players think about angles to place the ball between fielders!
+
+## ✋ Try it yourself
+Make a "paper protractor": fold a circular paper in half (180°), again (90°), and again (45°). Use it to check angles around your room.
+
+## 😮 Fun facts
+> 😮 Ancient astronomers chose 360 for a full turn, perhaps because a year has about 360 days and 360 can be divided evenly by many numbers (2, 3, 4, 5, 6, 8, 9, 10, 12…).
+
+## ⚠️ Common mistakes
+- Reading the wrong scale on the protractor – always start from the 0° that lies on one arm.
+- Thinking an angle with longer arms is bigger. Arm length doesn't matter!
+
+## 🧠 Quick recap
+- Point, line segment, line and ray are the basics.
+- An angle = two rays from a common vertex; measured in degrees with a protractor.
+- Acute < 90°, right = 90°, obtuse between 90° and 180°, straight = 180°, reflex > 180°.
+
+## 📖 New words
+- **Vertex** – the common point of an angle's arms
+- **Protractor** – a tool to measure angles
+- **Perpendicular** – meeting at a right angle
+
+## 🎮 Quiz time!
+MCQ: An angle of 135° is | Acute | Right | *Obtuse | Reflex || It is more than 90° and less than 180°.
+FILL: A straight angle measures ___ degrees. | 180;180° || Half a full turn.
+TF: A ray has two end points. | false || A ray has only one starting point and goes on forever.
+MCQ: In ∠PQR, the vertex is | P | *Q | R | All three || The middle letter is always the vertex.
+MCQ: The angle between clock hands at 3 o'clock is | 30° | 60° | *90° | 180° || A quarter turn = 90°.
+TF: The longer the arms, the bigger the angle. | false || Angle size depends only on the turn, not arm length.
+FILL: A full turn is ___ degrees. | 360;360° || The circle is divided into 360 equal parts.
+
+@@ 3
+## 🎬 Let's begin
+Numbers can be playful! They hide secrets, make magic tricks, and follow surprising rules. In this chapter we **play** with numbers like puzzles. 🧩
+
+## 🤔 Numbers can tell us things
+Imagine children standing in a line. Each child says how many children **next to them** are taller than them. The numbers they say carry information about the line!
+> 📌 In a row of numbers, a **supercell** is a number that is **bigger than its neighbours**.
+Example: in 2, **7**, 4, **9**, 1 – the supercells are 7 and 9.
+
+## 🔢 The number line
+Numbers placed on a line in order, at equal gaps. Numbers increase as we go right. It helps us compare, count on, and count back.
+
+## ⚙️ Playing with digits
+- **Digit sum:** add the digits of a number. Digit sum of 345 = 3 + 4 + 5 = **12**.
+- How many numbers between 1 and 100 have a digit sum of 14? (59, 68, 77, 86, 95 → 5 numbers!)
+- **Palindromes:** numbers that read the same forwards and backwards – 121, 4334, 77.
+- **Reverse-and-add:** 39 + 93 = 132; 132 + 231 = 363 ✔ a palindrome! Many numbers become palindromes this way.
+
+## 🪄 The magic number 6174
+Discovered by the Indian mathematician **D. R. Kaprekar**:
+1. Take any 4-digit number with at least two different digits, e.g. 3524.
+2. Arrange its digits in **descending** order (5432) and **ascending** order (2345).
+3. Subtract: 5432 – 2345 = 3087.
+4. Repeat with 3087: 8730 – 0378 = 8352; 8532 – 2358 = 6174.
+5. Repeat with 6174: 7641 – 1467 = **6174** again! 🎉
+You always reach **6174** in at most 7 steps. It is called **Kaprekar's constant**.
+
+## 🧮 Clock and calendar numbers
+- On a 12-hour clock, times like 4:44 or 12:21 are fun patterns.
+- In a calendar, a 3 × 3 square of dates has a magic: the sum is **9 × the middle date**.
+
+## 🧠 Mental maths tricks
+- Add in parts: 48 + 37 = 48 + 2 + 35 = 85.
+- Use round numbers: 99 × 7 = 100 × 7 – 7 = 693.
+- Estimate first: is 498 + 512 close to 1,000? Yes!
+
+## 🌀 The Collatz game
+Start with any number. If it is even, halve it; if odd, multiply by 3 and add 1. Keep going.
+12 → 6 → 3 → 10 → 5 → 16 → 8 → 4 → 2 → **1**.
+Every number tried so far reaches 1 – but nobody has proved it is always true! This is the **Collatz conjecture**, an unsolved puzzle.
+
+## ✋ Try it yourself
+Try Kaprekar's steps with your birth year (if it has at least two different digits). How many steps to reach 6174?
+
+## ⚠️ Common mistakes
+- In Kaprekar's routine, keep 4 digits even if the answer has a 0 at the front: 999 → write it as 0999.
+- Mixing up digit sum with the number itself.
+
+## 🧠 Quick recap
+- Numbers carry information; supercells are larger than neighbours.
+- Digit sums, palindromes and reverse-and-add are fun patterns.
+- 6174 is Kaprekar's constant.
+- Mental maths: break numbers into easy parts.
+
+## 📖 New words
+- **Palindrome** – reads the same both ways
+- **Conjecture** – a statement believed to be true but not yet proved
+- **Estimate** – a close guess using rounded numbers
+
+## 🎮 Quiz time!
+FILL: The digit sum of 4,507 is ___. | 16 || 4 + 5 + 0 + 7 = 16.
+MCQ: Which is a palindrome? | 1231 | *4554 | 4545 | 1203 || 4554 reads the same backwards.
+TF: Kaprekar's constant is 6174. | true || Named after D. R. Kaprekar.
+MCQ: In 3, 8, 2, 6, 1 which numbers are supercells? | 3 and 2 | *8 and 6 | Only 8 | 2 and 1 || 8 is bigger than 3 and 2; 6 is bigger than 2 and 1.
+FILL: 99 × 5 = ___ | 495 || 100 × 5 – 5 = 495.
+TF: The Collatz conjecture has been proved for all numbers. | false || It is still an unsolved problem.
+
+@@ 4
+## 🎬 Let's begin
+Your class wants to choose a picnic spot. Everyone shouts different places – it's confusing! But if we **write down** each vote and **show** the result as a picture, the answer becomes clear in seconds. That is **data handling**. 📊
+
+## 🤔 What is data?
+> 📌 **Data** is a collection of facts or numbers gathered to answer a question.
+Examples: marks of students, favourite fruits of a class, rainfall each month.
+- **Raw data:** as collected – not organised.
+- **Organised data:** arranged in a table so it's easy to read.
+
+## 🧩 Steps of data handling
+1. **Ask a question** – "Which fruit does our class like most?"
+2. **Collect data** – ask everyone.
+3. **Organise** – use **tally marks** in a table.
+4. **Present** – draw a pictograph or bar graph.
+5. **Interpret** – read the graph and draw conclusions.
+
+## ✏️ Tally marks
+Draw one line for each item. The 5th line crosses the first four: ||||̸ = 5. Groups of 5 make counting fast.
+The number of times something appears is its **frequency**.
+
+## 🖼️ Pictographs
+> 📌 A **pictograph** shows data using **pictures or symbols**.
+A **key** tells what one picture means, e.g. 🍎 = 5 children.
+Favourite fruit:
+- Mango: 🍎🍎🍎🍎 → 20 children
+- Banana: 🍎🍎 → 10 children
+- Apple: 🍎½ → about 7–8 children (half a picture = 2 or 3)
+> 💡 Pictographs are eye-catching but hard to draw when numbers are big or not neat multiples.
+
+## 📊 Bar graphs
+> 📌 A **bar graph** uses bars of **equal width** with **equal gaps** between them. The **height** (or length) shows the value.
+How to draw:
+1. Draw two axes – the horizontal one for categories, the vertical one for numbers.
+2. Choose a **scale**, e.g. 1 unit = 5 children, so the tallest bar fits.
+3. Draw a bar for each category to the correct height.
+4. Give a **title** and label both axes.
+
+## ⚙️ Reading a bar graph
+If the bars show books read – Asha 12, Ravi 8, Neha 15:
+- Who read the most? **Neha**.
+- How many more did Asha read than Ravi? 12 – 8 = **4**.
+- Total? 12 + 8 + 15 = **35** books.
+
+## 🌍 In real life
+- Cricket scorecards and run-rate graphs.
+- Weather reports show rainfall and temperature graphs.
+- **Infographics** in newspapers combine pictures and numbers to tell stories.
+
+## ✋ Try it yourself
+Ask 20 classmates their favourite sport. Make a tally table, then a bar graph with a scale of 1 unit = 2 children.
+
+## ⚠️ Common mistakes
+- Forgetting the key in a pictograph or the scale in a bar graph.
+- Making bars of different widths or gaps – this misleads readers.
+
+## 🧠 Quick recap
+- Data = facts collected to answer a question.
+- Tally marks organise data; frequency = how many times.
+- Pictographs use symbols with a key; bar graphs use bars with a scale.
+
+## 📖 New words
+- **Frequency** – number of times an item occurs
+- **Scale** – what one unit on the graph stands for
+- **Infographic** – a picture that explains data
+
+## 🎮 Quiz time!
+FILL: In a pictograph, if ⭐ = 4 people, then 5 ⭐ = ___ people. | 20 || 5 × 4 = 20.
+MCQ: How many tally marks make one bundle? | 4 | *5 | 6 | 10 || The fifth line crosses the first four.
+TF: In a bar graph, bars should have equal widths. | true || Equal width keeps it fair to compare.
+MCQ: With a scale of 1 cm = 10 students, a bar for 70 students is | 10 cm | *7 cm | 70 cm | 0.7 cm || 70 ÷ 10 = 7.
+MCQ: The number of times a value occurs is its | Scale | Key | *Frequency | Range ||
+TF: Raw data is already arranged in a table. | false || Raw data is unorganised.
+
+@@ 5
+## 🎬 Let's begin
+Two friends play a game. They count 1, 2, 3… taking turns. On multiples of 3 you say "**idli**", on multiples of 5 you say "**vada**", and on multiples of both you say "**idli-vada**!" Which is the first number that is "idli-vada"? It's **15**. Welcome to the world of factors, multiples and primes! 🥟
+
+## 🤔 Factors and multiples
+> 📌 A **factor** of a number divides it exactly (no remainder). A **multiple** of a number is what you get when you multiply it by 1, 2, 3, …
+- Factors of 12: 1, 2, 3, 4, 6, 12
+- Multiples of 4: 4, 8, 12, 16, 20, … (they never end!)
+- **Common multiples** of 3 and 5: 15, 30, 45, … – the idli-vada numbers.
+- **Common factors** of 12 and 18: 1, 2, 3, 6.
+
+## 🧩 Prime and composite numbers
+> 📌 A **prime number** has **exactly two** factors: 1 and itself. A **composite number** has **more than two** factors.
+- Primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 …
+- Composites: 4, 6, 8, 9, 10, 12 …
+- **1 is neither prime nor composite** (it has only one factor).
+- **2 is the only even prime.**
+- **Co-prime numbers:** two numbers whose only common factor is 1 – like 8 and 15 (neither has to be prime!).
+- **Twin primes:** primes that differ by 2 – (3, 5), (11, 13), (17, 19).
+
+## ⚙️ Finding primes: the Sieve of Eratosthenes
+1. Write numbers 1 to 100.
+2. Cross out 1.
+3. Circle 2, then cross out all its other multiples.
+4. Circle the next uncrossed number (3) and cross out its multiples.
+5. Repeat with 5, 7, … The circled numbers are **primes**. There are **25 primes** below 100.
+
+## 🧮 Prime factorisation
+Every composite number can be written as a **product of primes** in only one way.
+60 = 2 × 30 = 2 × 2 × 15 = **2 × 2 × 3 × 5**
+Use a factor tree: split the number into two factors, and keep splitting until all branches are primes.
+
+## ✅ Divisibility tests (shortcuts)
+- **By 2:** the last digit is 0, 2, 4, 6 or 8.
+- **By 4:** the number formed by the last two digits is divisible by 4 (e.g. 3,716 → 16 ✔).
+- **By 5:** the last digit is 0 or 5.
+- **By 8:** the number formed by the last three digits is divisible by 8 (e.g. 9,120 → 120 ✔).
+- **By 10:** the last digit is 0.
+
+## 🌍 In real life
+- Arranging 24 chairs in equal rows: 1×24, 2×12, 3×8, 4×6 – all factor pairs!
+- Your online accounts are kept safe by codes based on **very large prime numbers**.
+
+## ✋ Try it yourself
+Make the Sieve of Eratosthenes on a 1–50 grid. Count the primes you find.
+
+## 😮 Fun facts
+> 😮 There are **infinitely many** prime numbers – a fact proved by Euclid over 2,000 years ago!
+
+## ⚠️ Common mistakes
+- Calling 1 a prime. It isn't!
+- Thinking all odd numbers are prime. 9, 15, 21 are odd but composite.
+
+## 🧠 Quick recap
+- Factors divide exactly; multiples are times-table numbers.
+- Primes have two factors; composites have more; 1 is neither.
+- Every composite number has a unique prime factorisation.
+- Divisibility tests help us check quickly.
+
+## 📖 New words
+- **Prime factorisation** – writing a number as a product of primes
+- **Co-prime** – having only 1 as a common factor
+- **Divisible** – can be divided with no remainder
+
+## 🎮 Quiz time!
+MCQ: Which is a prime number? | 21 | 27 | *29 | 33 || 29 has only two factors.
+TF: 1 is a prime number. | false || 1 has only one factor.
+FILL: The first common multiple of 4 and 6 is ___. | 12 || Multiples of 4: 4, 8, 12; of 6: 6, 12.
+MCQ: Prime factorisation of 36 is | 4 × 9 | 6 × 6 | *2 × 2 × 3 × 3 | 2 × 18 || All factors must be prime.
+TF: 8 and 9 are co-prime. | true || Their only common factor is 1.
+MCQ: Which number is divisible by 4? | 3,714 | *5,316 | 2,122 | 1,250 || 16 is divisible by 4.
+FILL: The only even prime number is ___. | 2;two ||
+
+@@ 6
+## 🎬 Let's begin
+Your school wants to put a fence around the garden and plant grass inside it. How much fencing? How much grass? To answer, we need two big ideas: **perimeter** and **area**. 🌱
+
+## 🤔 What is perimeter?
+> 📌 **Perimeter** is the **total length of the boundary** of a closed shape. It tells how far you walk to go once around it.
+Units: cm, m, km.
+
+## ⚙️ Perimeter formulas
+- **Rectangle:** 2 × (length + breadth). A rectangle 8 m by 5 m → 2 × (8 + 5) = **26 m**.
+- **Square:** 4 × side. Side 6 cm → **24 cm**.
+- **Triangle:** add all three sides. 3 cm + 4 cm + 5 cm = **12 cm**.
+- **Equilateral triangle:** 3 × side.
+- **Regular polygon:** number of sides × length of one side. A regular hexagon with side 4 cm → 6 × 4 = **24 cm**.
+
+## 🤔 What is area?
+> 📌 **Area** is the **amount of surface** a closed shape covers. It is measured in **square units** – sq cm (cm²), sq m (m²).
+One square centimetre is the area of a square with 1 cm sides.
+
+## ⚙️ Area formulas
+- **Rectangle:** length × breadth. 8 m × 5 m = **40 sq m**.
+- **Square:** side × side. 6 cm × 6 cm = **36 sq cm**.
+- **Triangle:** half of a rectangle! A diagonal cuts a rectangle into two equal triangles, so a right triangle with sides 6 cm and 4 cm has area ½ × 6 × 4 = **12 sq cm**.
+
+## 🔲 Area on squared paper
+For any shape, count squares:
+- A full square = 1
+- More than half a square = 1
+- Exactly half = ½
+- Less than half = 0 (ignore)
+
+## 🤯 Same perimeter, different area!
+Rectangles with perimeter 20 cm:
+- 9 × 1 → area 9 sq cm
+- 7 × 3 → area 21 sq cm
+- 5 × 5 → area **25 sq cm** (the largest!)
+A **square** gives the biggest area for a given perimeter among rectangles.
+
+## 🌍 In real life
+- **Perimeter:** fencing, lace around a tablecloth, a running track.
+- **Area:** carpeting a floor, painting a wall, tiling a bathroom, the size of a farm.
+
+## ✋ Try it yourself
+Use a 24 cm string to make different rectangles on squared paper. Which one covers the most squares?
+
+## ⚠️ Common mistakes
+- Writing area in cm instead of **sq cm**.
+- Mixing units: change all lengths to the same unit first (e.g. 2 m 50 cm = 250 cm).
+
+## 🧠 Quick recap
+- Perimeter = length around; area = surface inside.
+- Rectangle: P = 2(l + b), A = l × b. Square: P = 4s, A = s × s.
+- Area of a triangle = half the rectangle around it.
+
+## 📖 New words
+- **Boundary** – the outer edge of a shape
+- **Square unit** – area of a square with side 1 unit
+
+## 🎮 Quiz time!
+FILL: Perimeter of a square with side 9 cm is ___ cm. | 36 || 4 × 9.
+FILL: Area of a rectangle 7 m long and 4 m wide is ___ sq m. | 28 || 7 × 4.
+MCQ: To find how much fencing is needed, we find the | Area | *Perimeter | Volume | Weight ||
+TF: Two rectangles with the same perimeter always have the same area. | false || 9×1 and 5×5 both have perimeter 20 but different areas.
+MCQ: A regular pentagon has side 5 cm. Its perimeter is | 20 cm | *25 cm | 30 cm | 10 cm || 5 sides × 5 cm.
+FILL: Area of a right triangle with sides 10 cm and 6 cm around the right angle is ___ sq cm. | 30 || ½ × 10 × 6.
+
+@@ 7
+## 🎬 Let's begin
+Three friends share 2 rotis equally. How much does each get? Not a whole roti… a **part** of one. We need **fractions** to answer! 🫓
+
+## 🤔 What is a fraction?
+> 📌 A **fraction** names a part of a whole that is divided into **equal** parts. In ¾, the **numerator** (3) tells how many parts we take, and the **denominator** (4) tells into how many equal parts the whole is divided.
+- **Fractional unit:** one equal part, like ¼ or ⅕.
+- ¾ means three ¼ units: ¼ + ¼ + ¼.
+Sharing 2 rotis among 3: each gets **⅔** of a roti.
+
+## 📏 Fractions on the number line
+Divide the gap between 0 and 1 into equal parts. For fifths, mark 5 equal parts: ⅕, ⅖, ⅗, ⅘, 1.
+Fractions greater than 1 continue beyond 1: ⁷⁄₅ is 2 fifths past 1.
+
+## 🧩 Kinds of fractions
+- **Proper:** numerator < denominator → ⅖ (less than 1)
+- **Improper:** numerator ≥ denominator → ⁷⁄₄ (1 or more)
+- **Mixed:** a whole and a part → 1¾ (= ⁷⁄₄)
+Change ⁷⁄₄ to mixed: 7 ÷ 4 = 1 remainder 3 → **1¾**.
+
+## 🔁 Equivalent fractions
+> 📌 Fractions that show the **same amount** are **equivalent**.
+½ = ²⁄₄ = ³⁄₆ = ⁴⁄₈. Multiply (or divide) the top and bottom by the **same** number.
+**Simplest form:** divide by the HCF – ¹²⁄₁₈ ÷ 6 → **⅔**.
+
+## ⚖️ Comparing fractions
+- Same denominator: bigger numerator is bigger → ⁵⁄₇ > ³⁄₇.
+- Same numerator: smaller denominator is bigger → ⅓ > ⅕ (thirds are bigger pieces!).
+- Otherwise, make denominators the same: ⅔ vs ¾ → ⁸⁄₁₂ vs ⁹⁄₁₂ → **¾ is bigger**.
+
+## ➕ Adding and subtracting
+- Same denominator: ²⁄₉ + ⁵⁄₉ = **⁷⁄₉**.
+- Different denominators: make them the same first. ½ + ⅓ = ³⁄₆ + ²⁄₆ = **⅚**.
+- ¾ – ⅙ = ⁹⁄₁₂ – ²⁄₁₂ = **⁷⁄₁₂**.
+> 😮 Over 1,300 years ago, the Indian mathematician **Brahmagupta** wrote clear rules for adding and subtracting fractions – just like we use today!
+
+## 🌍 In real life
+Half a litre of milk, a quarter past 4, ¾ of a cricket over, recipes with ½ cup of sugar.
+
+## ✋ Try it yourself
+Fold a paper strip into halves, quarters and eighths. Shade ¾ and ⁶⁄₈. Are they the same size?
+
+## ⚠️ Common mistakes
+- Adding tops and bottoms: ½ + ⅓ ≠ ²⁄₅. ✗ Make denominators equal first!
+- Thinking ⅕ > ⅓ because 5 > 3. More parts means smaller pieces.
+
+## 🧠 Quick recap
+- Fraction = numerator / denominator, parts of an equal-part whole.
+- Equivalent fractions show the same amount.
+- Compare and add using common denominators.
+
+## 📖 New words
+- **Numerator** – the top number
+- **Denominator** – the bottom number
+- **Equivalent** – equal in value
+
+## 🎮 Quiz time!
+MCQ: Which fraction is the largest? | ⅕ | ¼ | *½ | ⅓ || Fewer parts means bigger pieces.
+FILL: ⅖ + ⅕ = ___/5 | 3 || Same denominator – add numerators.
+TF: ²⁄₃ and ⁴⁄₆ are equivalent fractions. | true || Multiply ⅔ by 2/2.
+MCQ: ¹¹⁄₄ as a mixed fraction is | 2¼ | *2¾ | 3¼ | 1¾ || 11 ÷ 4 = 2 remainder 3.
+MCQ: ½ + ⅓ = | ²⁄₅ | *⅚ | ⅔ | ⅙ || ³⁄₆ + ²⁄₆.
+FILL: The simplest form of ⁸⁄₁₂ is ___ | 2/3;⅔ || Divide by 4.
+
+@@ 8
+## 🎬 Let's begin
+Can you draw a perfect circle, or a perfectly square rangoli, without tracing? With just a **compass** and a **ruler**, mathematicians for thousands of years have drawn amazing shapes. Let's become architects! 📐✏️
+
+## 🤔 Our tools
+- **Ruler (straight edge):** draws straight lines and measures lengths.
+- **Compass:** draws circles and arcs. It has a **pointed leg** and a **pencil leg**.
+> 📌 A **circle** is the set of all points at the **same distance** from a fixed point, called the **centre**. That distance is the **radius**.
+- **Diameter** = 2 × radius (a line through the centre from edge to edge).
+- **Arc** = a part of a circle.
+
+## ⚙️ Drawing a circle of radius 3 cm
+1. Open the compass so the pencil tip is 3 cm from the point (use the ruler).
+2. Place the point on the paper – this is the centre.
+3. Hold the top and turn it once without changing the opening. ⭕
+
+## 📐 Drawing a perpendicular
+To draw a line perpendicular to AB through a point on it, place a set square or protractor at 90°, or use arcs from equal distances on both sides – the line joining the crossing arcs is perpendicular.
+
+## ⬛ Constructing a rectangle 6 cm × 4 cm
+1. Draw AB = 6 cm.
+2. At A and B draw perpendiculars (90°).
+3. Mark D and C 4 cm up on each.
+4. Join DC. Check: diagonals AC and BD should be equal!
+> 💡 In a rectangle the diagonals are equal; in a square they are also perpendicular.
+
+## 🧩 Points at equal distances
+To find a point that is 5 cm from both A and B: draw an arc of 5 cm from A and another from B; where they cross is the point. This is how we construct a triangle when all three sides are known!
+
+## 🌍 In real life
+Architects, engineers, tailors and rangoli artists all use constructions. Wheels, bangles and clock faces are circles.
+
+## ✋ Try it yourself
+Draw a circle, then with the same radius step around it with the compass. You'll mark exactly 6 points – join them to make a **hexagon**, and draw arcs to make a **flower** pattern! 🌸
+
+## ⚠️ Common mistakes
+- Letting the compass opening slip while drawing.
+- Measuring the radius from the edge of the ruler instead of the 0 mark.
+
+## 🧠 Quick recap
+- Compass draws circles and arcs; ruler draws lines.
+- Radius is half the diameter.
+- Rectangles and squares need right angles; their diagonals are equal.
+
+## 📖 New words
+- **Arc** – part of a circle
+- **Construction** – an accurate drawing using compass and ruler
+
+## 🎮 Quiz time!
+FILL: If the radius of a circle is 4 cm, the diameter is ___ cm. | 8 || Diameter = 2 × radius.
+MCQ: A compass is mainly used to draw | Straight lines | *Circles and arcs | Angles only | Graphs ||
+TF: The diagonals of a rectangle are equal. | true ||
+MCQ: Stepping the radius around a circle gives how many points? | 4 | 5 | *6 | 8 || They make a regular hexagon.
+TF: All points on a circle are at different distances from the centre. | false || They are all at the same distance – the radius.
+
+@@ 9
+## 🎬 Let's begin
+Fold a butterfly picture along the middle – both wings match perfectly! The Taj Mahal, a rangoli and a snowflake all have this beautiful balance called **symmetry**. 🦋
+
+## 🤔 What is line symmetry?
+> 📌 A shape has **line symmetry** if a line divides it into **two identical halves** that match exactly when folded. This line is the **line (axis) of symmetry**.
+Think of the line as a **mirror** – one half is the reflection of the other.
+
+## 🧩 Lines of symmetry in shapes
+- Isosceles triangle: **1**
+- Equilateral triangle: **3**
+- Rectangle: **2** (not the diagonals!)
+- Square: **4**
+- Regular pentagon: **5**; regular hexagon: **6**
+- Circle: **infinitely many**
+- Scalene triangle, parallelogram: **0**
+> 💡 A regular polygon has as many lines of symmetry as it has sides.
+
+## 🔤 Symmetry in letters
+- Vertical line: A, H, M, O, T, U, V, W, X, Y
+- Horizontal line: B, C, D, E, H, I, K, O, X
+- Both: H, I, O, X
+- None: F, G, J, L, N, P, Q, R, S, Z
+
+## 🔄 What is rotational symmetry?
+> 📌 A shape has **rotational symmetry** if it looks **exactly the same** after turning it about its centre by less than a full turn. The smallest such turn is the **angle of symmetry**.
+- Square: looks the same every **90°** → 4 times in a full turn.
+- Equilateral triangle: every **120°** → 3 times.
+- Rectangle: every **180°** → 2 times.
+- The letter **S** and **Z** have rotational symmetry (180°) but no line symmetry!
+
+## 🌍 In real life
+Rangoli and kolam designs, temple architecture, flowers, wheels, fans and the Ashoka Chakra (24 spokes!).
+
+## ✋ Try it yourself
+Fold a paper in half, cut a design, and open it. Fold in quarters for 2 lines of symmetry. Make your own symmetric rangoli on squared paper.
+
+## ⚠️ Common mistakes
+- Thinking a rectangle's diagonals are lines of symmetry. Fold it – they don't match!
+- Forgetting that a circle has infinitely many lines of symmetry.
+
+## 🧠 Quick recap
+- Line symmetry: folding gives matching halves.
+- Rotational symmetry: looks the same after a turn less than 360°.
+- Regular polygons: lines of symmetry = number of sides.
+
+## 📖 New words
+- **Axis of symmetry** – the fold line
+- **Reflection** – a mirror image
+- **Angle of symmetry** – the smallest turn that brings back the same look
+
+## 🎮 Quiz time!
+FILL: A square has ___ lines of symmetry. | 4;four ||
+MCQ: Which letter has NO line of symmetry? | A | H | *S | O || S has only rotational symmetry.
+TF: The diagonals of a rectangle are lines of symmetry. | false || Fold along a diagonal – the halves don't match.
+MCQ: The angle of symmetry of an equilateral triangle is | 60° | 90° | *120° | 180° || 360° ÷ 3 = 120°.
+MCQ: How many lines of symmetry does a circle have? | 1 | 2 | 360 | *Infinitely many ||
+FILL: A regular hexagon has ___ lines of symmetry. | 6;six ||
+
+@@ 10
+## 🎬 Let's begin
+In a tall building, the lift shows floors 1, 2, 3 going up… and when you go to the basement parking it shows **B1, B2** or **–1, –2**! Numbers **below zero** are everywhere – in temperatures, bank accounts and below sea level. Let's explore the other side of zero! 🛗
+
+## 🤔 What are negative numbers?
+> 📌 Numbers less than zero are **negative numbers**: –1, –2, –3, … Together with zero and the positive numbers (1, 2, 3, …), they make the **integers**: … –3, –2, –1, 0, 1, 2, 3 …
+- **Positive** numbers are greater than 0.
+- **Negative** numbers are less than 0.
+- **0** is neither positive nor negative.
+
+## 📏 Integers on the number line
+Zero sits in the middle. Positive numbers go right; negative numbers go left.
+- Moving **right** = adding; moving **left** = subtracting.
+- A number to the right is **greater**: –2 > –5 (–2 is to the right of –5).
+
+## 🏢 The building lift model
+Start at floor 0 (ground).
+- Go up 3, then down 5 → 0 + 3 – 5 = **–2** (2 floors below ground).
+- From –4, go up 6 → –4 + 6 = **+2**.
+
+## 🪙 The token model
+Use **positive tokens (+)** and **negative tokens (–)**. A + and a – together make a **zero pair** – they cancel out!
+- (+5) + (–3): make 3 zero pairs, left with **+2**.
+- (–4) + (–2): all negative, **–6**.
+- (+2) – (+5): you need to take away 5 positive tokens but have only 2 → add 3 zero pairs, then take away 5 positives → left with **–3**.
+- 3 – (–2): taking away a negative is like adding a positive → **5**.
+
+## ⚙️ Rules to remember
+- Same signs: add and keep the sign. (–3) + (–4) = **–7**.
+- Different signs: subtract and keep the sign of the bigger number. (–8) + 5 = **–3**.
+- Subtracting a negative = adding a positive: 6 – (–2) = **8**.
+- A number plus its **opposite** is zero: 7 + (–7) = 0.
+
+## 🌍 In real life
+- **Temperature:** Leh can be –15 °C in winter.
+- **Money:** a credit of ₹500 is +500; a debit (spending) of ₹200 is –200.
+- **Heights:** the Dead Sea is about 430 m **below** sea level (–430 m).
+> 😮 Indian mathematician **Brahmagupta** (628 CE) gave rules for working with negative numbers, calling them "debts" and positive numbers "fortunes".
+
+## ✋ Try it yourself
+Make 10 paper tokens: 5 marked + and 5 marked –. Use them to solve (–3) + 5 and 2 – 4.
+
+## ⚠️ Common mistakes
+- Thinking –8 is bigger than –3 because 8 > 3. On the number line, –3 is to the right, so –3 > –8.
+- Forgetting that subtracting a negative number increases the value.
+
+## 🧠 Quick recap
+- Integers: negatives, zero, positives.
+- On the number line, right is bigger.
+- Zero pairs (+ and –) cancel.
+- Subtracting a negative = adding a positive.
+
+## 📖 New words
+- **Integer** – a whole number that can be positive, negative or zero
+- **Opposite (additive inverse)** – the number that adds to zero, like 5 and –5
+- **Credit/Debit** – money in / money out
+
+## 🎮 Quiz time!
+MCQ: Which is greater? | –7 | *–2 | –10 | –5 || –2 is furthest right on the number line.
+FILL: (–6) + 9 = ___ | 3;+3 ||
+FILL: 4 – (–3) = ___ | 7;+7 || Subtracting a negative means adding.
+TF: 0 is a positive integer. | false || 0 is neither positive nor negative.
+MCQ: A lift at floor 2 goes down 5 floors. It reaches floor | 3 | –2 | *–3 | 7 || 2 – 5 = –3.
+MCQ: (–4) + (–5) = | 1 | –1 | 9 | *–9 || Same signs: add and keep the sign.
+TF: A + token and a – token together make zero. | true || That's a zero pair.

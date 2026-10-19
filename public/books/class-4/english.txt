@@ -1,0 +1,223 @@
+@@ 1
+## What is a noun?
+A **noun** names a person, place, animal, thing or idea. Nouns can be sorted into kinds.
+
+## Kinds of nouns
+- **Proper noun** – a particular name: Sachin, Kerala, the Taj Mahal, Diwali.
+- **Common noun** – a general name: player, state, building, festival.
+- **Collective noun** – a group: a **pack** of wolves, a **swarm** of bees, a **fleet** of ships, a **bouquet** of flowers, a **class** of students.
+- **Material noun** – what things are made of: gold, wood, cotton, water.
+- **Abstract noun** – ideas or feelings we cannot touch: honesty, courage, joy, childhood.
+
+## Countable and uncountable
+- **Countable:** can be counted – one apple, two apples.
+- **Uncountable:** cannot be counted – milk, sugar, advice. We say "some milk", not "two milks".
+> 💡 Many abstract nouns come from adjectives: brave → bravery, kind → kindness, wise → wisdom.
+
+## Let's check
+Q: What kind of noun is "courage"?
+A: An abstract noun.
+Q: Give the collective noun: a ___ of bees.
+A: swarm.
+Q: Is "gold" a material noun?
+A: Yes.
+
+@@ 2
+## Pronouns take the place of nouns
+A **pronoun** replaces a noun so that we don't repeat it.
+
+## Kinds of pronouns
+- **Personal:** I, we, you, he, she, it, they (and me, us, him, her, them).
+- **Possessive:** mine, ours, yours, his, hers, theirs. "The red cap is **mine**."
+- **Reflexive:** myself, yourself, himself, herself, itself, ourselves, themselves. "She hurt **herself**."
+- **Demonstrative:** this, that, these, those. "**This** is my house."
+- **Interrogative:** who, whom, whose, which, what. "**Who** is at the door?"
+
+## Subject or object?
+- Subject (does the action): **I, we, he, she, they** – "**She** called."
+- Object (receives the action): **me, us, him, her, them** – "Mother called **her**."
+> 💡 "This/these" for things near; "that/those" for things far away.
+
+## Let's check
+Q: Fill in: "We made the cake ___." (ourselves/us)
+A: ourselves.
+Q: Which pronoun asks about a person: who or which?
+A: who.
+Q: Choose: "The teacher praised (we/us)."
+A: us.
+
+@@ 3
+## Tenses tell time
+**Tense** shows when an action happens: present, past or future.
+
+## Simple tenses
+- **Simple present** – habits and facts: "Birds **fly**." "He **drinks** milk every day."
+- **Simple past** – finished actions: "We **visited** Agra last year."
+- **Simple future** – actions to come: "I **will meet** you tomorrow."
+
+## Continuous tenses
+These show actions going on:
+- Present continuous: "She **is reading** now."
+- Past continuous: "They **were playing** when it rained."
+- Future continuous: "I **will be travelling** at 6 o'clock."
+
+## Irregular past forms
+begin–began, bring–brought, buy–bought, catch–caught, drink–drank, fly–flew, keep–kept, sing–sang, take–took, teach–taught.
+> 💡 Continuous tenses use am/is/are/was/were/will be + verb-ing.
+
+## Let's check
+Q: Change to past: "She sings a song."
+A: She sang a song.
+Q: Which tense: "They were playing."?
+A: Past continuous tense.
+Q: Past form of "catch"?
+A: caught.
+
+@@ 4
+## What is an adverb?
+An **adverb** tells us more about a **verb** – **how**, **when**, **where** or **how often** something happens.
+
+## Kinds of adverbs
+- **How (manner):** slowly, quickly, carefully, happily – "The tortoise walked **slowly**."
+- **When (time):** now, today, yesterday, soon – "We will leave **soon**."
+- **Where (place):** here, there, inside, outside – "The children are playing **outside**."
+- **How often (frequency):** always, often, never, sometimes – "She **always** smiles."
+
+## Making adverbs
+Many adverbs are made by adding **-ly** to adjectives: quick → quickly, soft → softly, happy → happily, careful → carefully.
+> 💡 Not all -ly words are adverbs: "friendly" and "lovely" are adjectives.
+
+## Let's check
+Q: Find the adverb: "He spoke loudly."
+A: loudly.
+Q: What does "yesterday" tell us – how, when or where?
+A: When.
+Q: Make an adverb from "brave".
+A: bravely.
+
+@@ 5
+## Prepositions show position
+A **preposition** shows the relation of a noun to another word – often **where** or **when**.
+
+## Prepositions of place
+- **in** – inside: The fish is **in** the bowl.
+- **on** – touching the top: The book is **on** the table.
+- **under** – below: The cat is **under** the bed.
+- **between** – in the middle of two: Sit **between** Raj and Mira.
+- **behind / in front of / near / beside / above / below**.
+
+## Prepositions of time
+- **at** for exact times: **at** 6 o'clock.
+- **on** for days and dates: **on** Monday, **on** 15 August.
+- **in** for months, years, seasons and parts of the day: **in** May, **in** 2026, **in** the morning.
+
+## Prepositions of movement
+into, out of, across, through, over, along. "The train went **through** the tunnel."
+> 💡 "Among" is for more than two; "between" is for two.
+
+## Let's check
+Q: Fill in: "My birthday is ___ June." (on/in)
+A: in.
+Q: Fill in: "The ball rolled ___ the road." (across/at)
+A: across.
+Q: Fill in: "Share the sweets ___ all the children." (between/among)
+A: among.
+
+@@ 6
+## Conjunctions join
+A **conjunction** is a joining word. It joins words or sentences.
+
+## Common conjunctions
+- **and** – adds: "I like tea **and** biscuits."
+- **but** – shows contrast: "He is poor **but** honest."
+- **or** – gives a choice: "Would you like tea **or** coffee?"
+- **because** – gives a reason: "She stayed home **because** she was ill."
+- **so** – shows a result: "It was raining, **so** we took umbrellas."
+- **when, while, until, although, if**.
+
+## Joining sentences
+"Ravi is tall. Ravi is strong." → "Ravi is tall **and** strong."
+"I was hungry. I ate an apple." → "I was hungry, **so** I ate an apple."
+> 💡 "Because" answers "why?"; "so" tells what happened next.
+
+## Let's check
+Q: Join: "She ran fast. She missed the bus." (but)
+A: She ran fast but missed the bus.
+Q: Choose: "Take an umbrella ___ it may rain." (because/but)
+A: because.
+Q: Which conjunction gives a choice?
+A: or.
+
+@@ 7
+## Reading carefully
+Comprehension means understanding a passage and answering questions about it.
+
+## Read the passage: Dr. A.P.J. Abdul Kalam
+Abdul Kalam was born in 1931 in Rameswaram, a small town in Tamil Nadu. As a boy, he sold newspapers to help his family. He loved watching birds fly and dreamt of flying himself.
+Kalam studied hard and became a scientist. He helped India make rockets and missiles, so he is called the **Missile Man of India**. In 2002, he became the **President of India**. He loved children and often told them, "Dream, dream, dream!"
+
+## Word meanings
+- **missile** – a weapon that flies through the air towards a target
+- **President** – the head of our country
+
+## Answering tips
+Look for key words from the question in the passage. Write answers in complete sentences.
+> 💡 Kalam's birthday, 15 October, is celebrated as World Students' Day.
+
+## Let's check
+Q: Where was Abdul Kalam born?
+A: He was born in Rameswaram, Tamil Nadu.
+Q: Why is he called the Missile Man of India?
+A: Because he helped India make rockets and missiles.
+Q: What did he tell children?
+A: "Dream, dream, dream!"
+
+@@ 8
+## A good paragraph
+A paragraph is about **one main idea**.
+1. **Topic sentence** – tells the main idea.
+2. **Supporting sentences** – give details and examples.
+3. **Concluding sentence** – sums up.
+
+Example – **My School**: My school is a big, beautiful building. It has a library, a science lab and a large playground. Our teachers are kind and help us learn. I love my school.
+
+## Writing a story
+- **Beginning:** who, where, when.
+- **Middle:** a problem.
+- **End:** how the problem is solved, and a moral.
+
+## Story outline to try
+A boy finds a lost puppy → he looks for its owner → he puts up posters → a little girl comes, crying with joy → moral: kindness brings happiness.
+> 💡 Use describing words and feelings to make your story come alive.
+
+## Let's check
+Q: What does a topic sentence do?
+A: It tells the main idea of the paragraph.
+Q: Name the three parts of a story.
+A: Beginning, middle and end.
+
+@@ 9
+## The Brook (adapted lines by Alfred Tennyson)
+I chatter over stony ways,
+In little sharps and trebles,
+I bubble into eddying bays,
+I babble on the pebbles.
+For men may come and men may go,
+But I go on for ever.
+
+## What the poem means
+A **brook** (small stream) is speaking. It makes happy sounds as it flows over stones and pebbles. People are born and die, but the brook keeps flowing forever.
+
+## Poetic devices
+- **Personification:** giving human qualities to non-living things – the brook "chatters" and "babbles".
+- **Sound words:** bubble, babble, chatter.
+- **Rhyme:** trebles – pebbles; go – (for) ever.
+> 💡 Read the poem aloud slowly. Can you hear the water?
+
+## Let's check
+Q: Who is speaking in the poem?
+A: The brook (a small stream).
+Q: What is personification?
+A: Giving human qualities to non-living things.
+Q: What does the brook mean by "I go on for ever"?
+A: It keeps flowing forever, while people come and go.
