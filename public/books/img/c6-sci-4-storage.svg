@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200" font-family="Arial, sans-serif">
+  <rect width="400" height="200" fill="#fff"/>
+  <rect x="60" y="40" width="20" height="120" fill="#aaa"/><rect x="320" y="40" width="20" height="120" fill="#aaa"/>
+  <rect x="80" y="50" width="120" height="34" fill="#e04848"/><rect x="200" y="50" width="120" height="34" fill="#3a6fd8"/>
+  <rect x="80" y="116" width="120" height="34" fill="#3a6fd8"/><rect x="200" y="116" width="120" height="34" fill="#e04848"/>
+  <g font-size="18" font-weight="bold" fill="#fff" text-anchor="middle"><text x="140" y="73">N</text><text x="260" y="73">S</text><text x="140" y="139">S</text><text x="260" y="139">N</text></g>
+  <text x="70" y="185" font-size="13" text-anchor="middle" fill="#222">keeper</text><text x="330" y="185" font-size="13" text-anchor="middle" fill="#222">keeper</text>
+  <text x="200" y="185" font-size="13" text-anchor="middle" fill="#555">unlike poles side by side</text>
+</svg>

@@ -1,0 +1,52 @@
+1 | 🔢 🏙️ 🌍 | Large numbers!
+1.2 aarav-wow | 1,00,000 is one lakh!
+1.2 buddy-happy | Yes! In the Indian system we group by thousands, lakhs and crores.
+1.4 riya-think | 4,786 rounded to the nearest hundred is 4,800!
+2 | ➕ ➖ 🎯 | Big additions and subtractions!
+2.2 riya-happy | I lined up the digits by place value!
+2.3 buddy-happy | Estimate first – round the numbers to check if your answer makes sense.
+2.4 aarav-think | 4,980 + 3,020 is about 5,000 + 3,000 = 8,000!
+3 | ✖️ 🔟 💯 | Multiplication!
+3.2 aarav-think | How do I multiply by a two-digit number?
+3.2 buddy-happy | Multiply by the ones, then by the tens, then add both answers.
+3.3 riya-wow | 45 × 100 = 4500. Just add two zeros!
+4 | ➗ 📐 🍬 | Long division!
+4.2 riya-think | 756 ÷ 6 looks so long!
+4.2 buddy-happy | Divide, multiply, subtract, bring down – repeat!
+4.3 aarav-happy | 25 ÷ 4 = 6, remainder 1!
+5 | 🔢 🧩 ✖️ | Factors and multiples!
+5.2 aarav-think | Factors of 12 are 1, 2, 3, 4, 6 and 12!
+5.2 buddy-happy | Right! And multiples of 3 are 3, 6, 9, 12…
+5.4 riya-wow | Numbers ending in 0 or 5 are divisible by 5!
+6 | 🍕 🍫 🥧 | Fractions!
+6.2 riya-happy | ¾ of a pizza – 3 out of 4 equal slices!
+6.3 buddy-happy | And ½ = 2/4 = 4/8 – they are equivalent fractions.
+6.4 aarav-think | 1/5 + 2/5 = 3/5. Just add the tops!
+7 | 🔟 💯 💲 | Decimals!
+7.2 aarav-think | What does the dot in 2.5 mean?
+7.2 buddy-happy | It's a decimal point! 2.5 means 2 and 5 tenths.
+7.3 riya-happy | ₹12.50 is a decimal too!
+8 | 📐 ⏰ ↗️ | Lines and angles!
+8.2 riya-wow | The hands of a clock make an angle!
+8.2 buddy-happy | When two lines meet at a point, they make an angle. At 3 o'clock, it's a right angle!
+8.3 aarav-happy | The corner of my book is a right angle!
+9 | 🧱 📏 🟩 | Perimeter and area!
+9.1 aarav-think | How much fencing do we need around the garden?
+9.1 buddy-happy | Add all the sides – that's the perimeter!
+9.2 riya-happy | Area is the space inside – length × breadth!
+10 | 📏 ⚖️ 🥛 | Measurement!
+10.2 riya-happy | 1 kilometre = 1000 metres!
+10.2 buddy-happy | Also 1 kg = 1000 g, and 1 litre = 1000 mL.
+10.3 aarav-think | Add metres with metres and centimetres with centimetres!
+11 | ⏰ 📅 🚆 | Time and calendar!
+11.1 aarav-wow | Trains use the 24-hour clock! 17:00 is 5 p.m.!
+11.2 buddy-happy | Elapsed time is how much time has passed.
+11.3 riya-happy | A leap year has 366 days!
+12 | 🧾 🛒 💰 | Money and bills!
+12.2 riya-happy | I made a bill for our class party!
+12.3 buddy-happy | Unit price is the cost of one item. Multiply it by the quantity!
+12.4 aarav-wow | Selling for more than the cost price is a profit!
+13 | 📊 🥧 🍎 | Data handling!
+13.2 aarav-happy | Bar graphs make comparing so easy!
+13.2 buddy-happy | Yes! Each bar's height shows how much or how many.
+13.3 riya-wow | A pie chart shows parts of a whole circle!

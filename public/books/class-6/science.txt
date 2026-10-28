@@ -1,10 +1,17 @@
 @@ 1
+SCENE: 🔬 🧪 🔭 | Welcome to the world of science!
+
 ## 🎬 Let's begin
 Why does the Moon change shape? Why do ice cubes melt? Why do some seeds sprout faster than others? If you have ever asked "**why?**" or "**how?**", congratulations – you already think like a scientist! 🔬
+
+SAY: riya-think | Is science only done in labs?
+SAY: buddy-happy | No! Science is about asking questions and finding answers – anywhere.
 
 ## 🤔 What is science?
 > 📌 **Science** is a way of understanding the world around us by **observing**, **asking questions**, **testing ideas** and **finding answers** based on evidence.
 Science is not just facts in a book. It is a **process** of discovery that anyone can follow – in a lab, a kitchen, a garden or a playground.
+
+SAY: aarav-happy | Observe, ask, guess, test and conclude – that's the scientific method!
 
 ## ⚙️ How scientists work – the scientific method
 1. **Observe:** notice something carefully. My plant on the window grows bent towards the light.
@@ -27,6 +34,8 @@ Science is not just facts in a book. It is a **process** of discovery that anyon
 - Riding a bicycle uses balance, force and motion.
 - A rainbow is light splitting into colours.
 - Vaccines, mobile phones and satellites all come from science.
+
+SAY: riya-wow | C.V. Raman won the Nobel Prize for discovering how light scatters!
 
 ## 🇮🇳 Great Indian scientists
 - **C.V. Raman** – discovered the Raman effect about light; Nobel Prize 1930. 28 February is **National Science Day**.
@@ -59,8 +68,13 @@ FILL: A sensible guess that can be tested is called a ___. | hypothesis ||
 MCQ: The study of living things is | Physics | Chemistry | *Biology | Astronomy ||
 
 @@ 2
+SCENE: 🌿 🐾 🌸 | So many living things!
+
 ## 🎬 Let's begin
 Go on a walk around your school. You'll see tall neem trees, tiny grass, a rose bush, a money plant climbing a wall, ants, crows, dogs and butterflies. So many different living things! This variety is called **biodiversity**. 🌳🐞
+
+SAY: aarav-wow | There are millions of different kinds of plants and animals!
+SAY: buddy-happy | That variety is called biodiversity.
 
 ## 🤔 What is diversity in living things?
 > 📌 **Diversity** means **variety**. **Biodiversity** is the variety of all plants, animals and other living things in an area.
@@ -72,6 +86,9 @@ Scientists group living things by their **similarities and differences** to stud
 - **Trees:** tall, with a thick hard **trunk** that branches high above the ground – mango, neem, banyan.
 - **Climbers:** weak stems that climb up a support – money plant, grapevine, pea.
 - **Creepers:** weak stems that spread on the ground – pumpkin, watermelon.
+
+SAY: riya-think | Leaves with net-like veins usually have taproots!
+SAY: buddy-happy | Yes! And parallel veins usually go with fibrous roots.
 
 ## 🍃 Leaves and roots – a secret link
 **Leaf venation** (the pattern of veins on a leaf):
@@ -125,8 +142,13 @@ MCQ: Why are mountain trees cone-shaped? | To look nice | *So snow slides off | 
 TF: Pumpkin is a climber. | false || Pumpkin spreads on the ground – it is a creeper.
 
 @@ 3
+SCENE: 🥗 🥛 🍎 | Mindful eating!
+
 ## 🎬 Let's begin
 In Punjab it's makki di roti and sarson ka saag; in Tamil Nadu it's idli and sambar; in Bengal, rice and fish curry; in Gujarat, dhokla and thepla! India eats in a thousand delicious ways. But what does food actually **do** inside us? 🍛
+
+SAY: riya-think | What are nutrients?
+SAY: buddy-happy | Substances in food that help us grow, give energy and protect us.
 
 ## 🤔 What are nutrients?
 > 📌 **Nutrients** are the substances in food that our body needs to **get energy**, **grow**, **repair itself** and **stay healthy**.
@@ -140,6 +162,8 @@ There are **five main nutrients**, plus **dietary fibre** and **water**.
 - **Minerals** – iron for blood, calcium for bones and teeth, iodine for growth. Green leafy vegetables, milk, iodised salt.
 - **Dietary fibre (roughage)** – doesn't give nutrients but helps food move and keeps the stomach healthy. Whole grains, fruits, vegetables.
 - **Water** – helps digest food and removes waste through sweat and urine.
+
+SAY: aarav-wow | Iodine turns blue-black when there's starch in food!
 
 ## 🔬 Testing food for nutrients
 - **Starch (carbohydrate):** add 2 drops of dilute **iodine** → turns **blue-black**.
@@ -160,6 +184,8 @@ Lack of a nutrient for a long time causes **deficiency diseases**:
 - Iron → **anaemia** (tiredness, pale skin)
 - Iodine → **goitre** (swelling in the neck)
 - Too little protein → **kwashiorkor** (swollen belly, poor growth)
+
+SAY: riya-happy | I eat slowly and enjoy every bite – that's mindful eating!
 
 ## 🧘 Mindful eating
 - Eat slowly and chew well.
@@ -194,65 +220,245 @@ MCQ: Which disease is caused by lack of iodine? | Rickets | Anaemia | *Goitre | 
 TF: Junk food is a good part of a balanced diet. | false || It has too much fat, salt and sugar and few nutrients.
 
 @@ 4
-## 🎬 Let's begin
-Legend says a shepherd named **Magnes** found that the iron tip of his stick stuck to a strange black rock. That rock – **magnetite** – was a natural magnet! Today magnets hold notes on fridges, power speakers, and guide sailors. 🧲
+COVER: cover-c6-sci-4.svg | Riya, Aarav and Buddy exploring magnets
+## 4.1 Introduction
+Have you ever seen a small, colourful object stuck to the door of a refrigerator, holding a list or a photograph in place? Or a pencil box whose lid shuts by itself with a soft "click"? Have you noticed how a few iron pins jump up and cling to certain objects? All of these work because of **magnets**.
 
-## 🤔 What is a magnet?
-> 📌 A **magnet** is an object that **attracts** (pulls) certain materials like **iron, nickel and cobalt**. Such materials are called **magnetic materials**.
-Materials not attracted by magnets – wood, plastic, rubber, paper, glass, aluminium – are **non-magnetic**.
+SAY: riya-wow | Our fridge has a little mango magnet that never falls off! How does it stick without any glue?
+SAY: buddy | Great question, Riya! The fridge door is made of iron or steel, and magnets pull iron towards them. Let's find out more about this amazing power!
 
-## 🧩 Types of magnets
-- **Natural magnets:** magnetite (lodestone), found in nature.
-- **Artificial magnets:** made by people – **bar**, **horseshoe**, **ring**, **cylindrical** and **U-shaped** magnets.
+There is an interesting old story about how magnets were discovered. It is said that long ago, in a region called Magnesia in ancient Greece, a shepherd named **Magnes** was grazing his sheep on a hillside. His walking stick had an iron tip, and his sandals had iron nails. As he walked over a certain black rock, he felt his stick and sandals being pulled towards the rock and sticking to it! That rock was a natural magnet. Today we call it **magnetite**. Whether the story is exactly true or not, magnetite really is found in nature, and people in many parts of the world, including India, China and Greece, have known about its strange power for thousands of years.
 
-## ⚙️ Poles of a magnet
-- Sprinkle iron filings on a bar magnet – most stick near its **ends**. These are the **poles**, where attraction is strongest.
-- Every magnet has **two poles**: **North (N)** and **South (S)**.
-- **Like poles repel** (N–N, S–S push apart). **Unlike poles attract** (N–S pull together).
-- Breaking a magnet gives two smaller magnets, each with **both** poles. You can never get a single pole!
-> 💡 **Repulsion** is the sure test for a magnet. Attraction can happen between a magnet and plain iron too.
+In this chapter, we will explore magnets – what they attract and what they do not, where their strength is greatest, how they help us find directions, how two magnets behave with each other, and how we can make a magnet of our own.
 
-## 🧭 Finding directions
-A freely hanging bar magnet always comes to rest pointing **north–south**. Its north-seeking end is its **North pole**.
-A **compass** has a small magnetised needle that does the same – travellers and sailors use it to find directions.
+> **Definition: Magnet**
+> A **magnet** is an object that attracts (pulls towards itself) objects made of certain materials, such as **iron**, **nickel** and **cobalt**.
 
-## 🛠️ Making your own magnet
-Place an iron nail on a table. Stroke it with one pole of a bar magnet **from one end to the other in the same direction**, about 30–40 times. The nail becomes a magnet!
+### Natural and artificial magnets
+Magnets found in nature, like magnetite (also called **lodestone**), are called **natural magnets**. They are usually irregular in shape and not very strong.
+Magnets made by people from pieces of iron, steel or special alloys are called **artificial magnets**. They can be made in many useful shapes and are much stronger. Figure 4.1 shows some common shapes.
 
-## 🌍 Uses of magnets
-Fridge door seals, pencil boxes, speakers and earphones, cranes lifting scrap iron, MRI scanners in hospitals, toys, and **maglev trains** that float above tracks.
+FIG: c6-sci-4-shapes.svg | Fig. 4.1: Magnets of different shapes – (a) bar, (b) horseshoe (U-shaped), (c) ring, (d) cylindrical and (e) needle magnet
 
-## 🧯 Caring for magnets
-Magnets lose their magnetism if they are **heated**, **hammered** or **dropped**. Store bar magnets in pairs with **opposite poles side by side**, with pieces of soft iron (keepers) across the ends. Keep them away from phones, cards and computers.
+## 4.2 Magnetic and Non-magnetic Materials
+Does a magnet attract everything? Let us find out with a simple activity.
 
-## ✋ Try it yourself
-Float a magnetised needle on a cork in a bowl of water. Which way does it point? You've made a compass!
+> **Activity 4.1: Which objects does a magnet attract?**
+> **You need:** a bar magnet and a collection of objects – an iron nail, a steel spoon, a coin, a pencil, an eraser, a plastic scale, a paper clip, a piece of cloth, a key, a rubber band, an aluminium foil and a glass marble.
+> **What to do:** Bring the magnet close to each object one by one. Note whether the object is pulled towards the magnet and sticks to it.
+> **Record your observations in a table like Table 4.1.**
 
-## ⚠️ Common mistakes
-- Thinking all metals are magnetic. Aluminium, copper, gold and silver are **not**.
-- Thinking a magnet has only one pole if you break it.
+| Object | Material it is made of | Attracted by the magnet? (Yes/No) |
+| Iron nail | Iron | Yes |
+| Paper clip | Iron/steel | Yes |
+| Steel spoon | Steel (mostly iron) | Yes (most steel spoons) |
+| Key | Iron or brass | Depends on the metal |
+| Pencil | Wood and graphite | No |
+| Eraser | Rubber | No |
+| Plastic scale | Plastic | No |
+| Aluminium foil | Aluminium | No |
+| Glass marble | Glass | No |
+| Cloth | Cotton | No |
 
-## 🧠 Quick recap
-- Magnets attract iron, nickel, cobalt.
-- Two poles: N and S. Like repel, unlike attract.
-- A freely hanging magnet points north–south → compass.
+You will find that the magnet attracts only some of the objects. Look at the materials of the objects that were attracted – they are all made of iron, or of materials that contain iron, such as steel. Interestingly, **not all metals** are attracted: aluminium, copper, brass, gold and silver are not.
 
-## 📖 New words
-- **Magnetic material** – attracted by a magnet
-- **Pole** – end of a magnet where attraction is strongest
-- **Compass** – a device with a magnetic needle that shows direction
+SAY: aarav-think | Wait… my water bottle is made of metal too, but the magnet didn't stick to it. Is the magnet broken?
+SAY: buddy | Not at all, Aarav! Your bottle is probably made of aluminium. It is a metal, but it is **not** a magnetic material. Only iron, nickel, cobalt and things containing them (like steel) are pulled.
 
-## 🎮 Quiz time!
-MCQ: Which is a magnetic material? | Aluminium | *Iron | Copper | Plastic ||
-TF: Two north poles attract each other. | false || Like poles repel.
-MCQ: A freely hanging magnet rests in the | East–west direction | *North–south direction | Any direction | Up–down direction ||
-FILL: The sure test to know if an object is a magnet is ___. | repulsion ||
-TF: Heating a magnet can make it lose its magnetism. | true ||
-MCQ: If you break a bar magnet into two, each piece has | Only N pole | Only S pole | *Both N and S poles | No poles ||
+> **Definition: Magnetic and non-magnetic materials**
+> Materials that are attracted by a magnet are called **magnetic materials** – for example, **iron, nickel, cobalt** and steel.
+> Materials that are not attracted by a magnet are called **non-magnetic materials** – for example, wood, plastic, rubber, paper, glass, cloth, aluminium and copper.
+
+> **Remember:** "Metal" does not always mean "magnetic". A magnet attracts iron, nickel and cobalt, but not most other metals like aluminium, copper or gold.
+
+> **Example 4.1**
+> Riya dropped some iron pins into a box of sand while stitching. How can she get them back quickly?
+> **Solution:** She can move a magnet through the sand. The iron pins, being magnetic, will cling to the magnet, while sand will not.
+
+## 4.3 Poles of a Magnet
+Is the attraction of a magnet equally strong everywhere on it? Let us investigate.
+
+> **Activity 4.2: Where is a magnet strongest?**
+> Spread some **iron filings** (tiny bits of iron) on a sheet of paper. Place a bar magnet on them and gently roll it over. Lift the magnet and look at it carefully.
+> **Observation:** Most of the iron filings stick near the two **ends** of the magnet. Very few stick to the middle.
+
+FIG: c6-sci-4-filings.svg | Fig. 4.2: Iron filings cling mostly near the ends of a bar magnet
+
+The two ends of a magnet, where its attraction is strongest, are called its **poles**. Every magnet has **two poles** – a **North pole (N)** and a **South pole (S)**. This is true for all magnets, whatever their shape: a horseshoe magnet has its poles at the two ends of the "U", a ring magnet has them on its two flat faces, and a cylindrical magnet has them at the two round ends.
+
+> **Did you know?**
+> If you break a bar magnet into two pieces, you do not get a separate North pole and South pole. Each piece becomes a complete magnet with **both** a North and a South pole! However many times you break it, every piece has two poles.
+
+SAY: aarav-wow | So if I break a magnet into ten pieces, I get ten tiny magnets?
+SAY: buddy | Exactly! Each little piece will have its own North pole and South pole.
+
+## 4.4 Finding Directions using a Magnet
+People have used magnets to find their way for centuries. How? Let us find out.
+
+> **Activity 4.3: A freely suspended magnet**
+> Tie a thread around the middle of a bar magnet so that it balances. Hang it from a wooden stand (not an iron one) where there is no other magnet or iron object nearby. Let it come to rest. Mark the direction of its ends on the floor.
+> Now turn the magnet gently and let it settle again. Repeat this a few times.
+> **Observation:** Every time, the magnet comes to rest in the **same direction** – roughly **north–south**.
+
+A freely suspended magnet always comes to rest in the **north–south direction**. The end of the magnet that points towards the **geographic north** is called its **north-seeking pole** or **North pole**; the other end, pointing south, is its **South pole**. This is how the poles of a magnet got their names.
+
+### The magnetic compass
+A **compass** uses this property. It is a small box with a glass cover, containing a light **magnetised needle** that can turn freely on a pin. The North pole of the needle is usually painted red. A circular dial shows the directions – North, South, East and West.
+
+FIG: c6-sci-4-compass.svg | Fig. 4.3: A magnetic compass – the red end of the needle points towards north
+
+To use a compass, place it on a flat surface away from iron objects and wait for the needle to stop. Then turn the box gently until the "N" on the dial lines up with the red end of the needle. All the other directions can now be read from the dial.
+
+SAY: riya | On our school trek, the guide used a compass to lead us back to the camp!
+SAY: buddy | That's how hikers, sailors and pilots find their way. The needle always settles in the north–south direction.
+
+> **Did you know?**
+> Long before modern instruments, sailors and travellers used **lodestones** and magnetised needles to find directions at sea, especially on cloudy nights when the stars could not be seen. In ancient China, a spoon carved from lodestone was placed on a smooth bronze plate – it always turned to point **south**! This was one of the earliest compasses.
+
+## 4.5 Attraction and Repulsion between Magnets
+What happens when the poles of two magnets are brought close to each other?
+
+> **Activity 4.4: Two magnets meet**
+> Take two bar magnets with their poles marked. Place one on a table. Bring the North pole of the second magnet close to the North pole of the first one. Then try North near South, and South near South.
+> **Observation:** When the **same poles** face each other (N–N or S–S), the magnets **push away** from each other. When **different poles** face each other (N–S), they **pull together** and stick.
+
+FIG: c6-sci-4-attract-repel.svg | Fig. 4.4: Unlike poles attract each other; like poles repel each other
+
+From this activity we learn a basic law of magnets:
+> **Remember:** **Like poles repel; unlike poles attract.**
+> N and N repel. S and S repel. N and S attract.
+
+### The sure test for a magnet
+Suppose you have two identical-looking iron bars, and only one is a magnet. How can you tell which one? If the bar **attracts** a pole of your magnet, it could be either a magnet (unlike pole) or just a piece of iron (iron is attracted by both poles). But if it **repels** one pole of your magnet, it **must** be a magnet – only a magnet can repel a magnet.
+> **Remember:** **Repulsion is the sure test of magnetism.**
+
+SAY: aarav-think | I tried to push two North poles together, but they kept sliding away – as if they don't want to be friends!
+SAY: buddy-wow | Ha ha! That's repulsion – like poles repel. Turn one magnet around and – click! – unlike poles attract.
+
+> **Example 4.2**
+> A boy brings the North pole of a magnet near one end of an iron bar, and the bar is attracted. Can he conclude that the bar is a magnet?
+> **Solution:** No. A plain iron bar is also attracted by a magnet. He should bring the North pole near the same end again and check the other end too. If any end is **repelled**, the bar is a magnet.
+
+## 4.6 Making Your Own Magnet
+You can turn an ordinary piece of iron into a magnet yourself!
+
+> **Activity 4.5: Make a magnet by stroking**
+> **You need:** a bar magnet and a long iron nail (or an iron strip or a large sewing needle).
+> **What to do:** Place the nail on a table. Put one pole of the bar magnet near the **head** of the nail and slide it along to the **tip**. Then lift the magnet high above the nail and bring it back to the head. Repeat this **30–40 times**, always moving the magnet in the **same direction** and using the **same pole**.
+> **Test it:** Bring the nail near some iron pins. Do they stick to it? Your nail has become a magnet!
+
+FIG: c6-sci-4-magnetise.svg | Fig. 4.5: Making a magnet by stroking an iron nail in one direction
+
+Magnets made in this way are **temporary** – they lose their magnetism after some time. Factories make stronger, longer-lasting magnets using electricity.
+
+> **Activity 4.6: Make your own compass**
+> Magnetise a sewing needle using Activity 4.5. Push it through a small piece of cork (or stick it on a flat piece of thermocol) and float it in a bowl of water. Keep the bowl away from iron objects.
+> **Observation:** The needle turns and comes to rest in the north–south direction. You have made a working compass!
+
+SAY: riya-wow | My floating needle points the same way as the real compass! I made a compass all by myself!
+
+## 4.7 Uses of Magnets
+Magnets are used all around us:
+- **At home:** refrigerator doors and fridge magnets, magnetic pencil boxes and bag clasps, cupboard latches.
+- **Electronics:** speakers, earphones, microphones, electric motors in fans and mixers, and generators that produce electricity.
+- **Finding directions:** compasses used by sailors, pilots, soldiers and trekkers.
+- **Industry:** large **electromagnets** fitted to cranes lift heavy scrap iron; magnets separate iron pieces from waste.
+- **Medicine:** **MRI** machines in hospitals use powerful magnets to take pictures of the inside of the body.
+- **Transport:** some fast trains, called **maglev** (magnetic levitation) trains, float above the track using magnets, so there is no rubbing and they can go very fast.
+- **Toys and games:** magnetic building blocks, puzzles and fishing games.
+
+## 4.8 Taking Care of Magnets
+Magnets can **lose their magnetism** if they are:
+- **heated** strongly,
+- **hammered** or **dropped** from a height,
+- kept carelessly, loosely in a box.
+
+To keep bar magnets strong, store them **in pairs** with **unlike poles side by side**, separated by a piece of wood, with two pieces of soft iron, called **keepers**, placed across their ends (Fig. 4.6). Horseshoe magnets should be kept with a piece of iron across their poles.
+
+FIG: c6-sci-4-storage.svg | Fig. 4.6: Storing bar magnets in a pair with keepers
+
+SAY: aarav-think | Oops… I've dropped my magnet on the floor lots of times. Is that why it has become so weak?
+SAY: buddy | Yes, Aarav. Dropping, hammering and heating make magnets lose their strength. Store them carefully with keepers.
+
+> **Remember:** Keep magnets away from mobile phones, computers, televisions, cassettes and bank cards, as magnets can damage them.
+
+## Summary
+- A **magnet** attracts objects made of **magnetic materials** such as iron, nickel and cobalt.
+- Materials not attracted by magnets are **non-magnetic** – wood, plastic, glass, rubber, aluminium and copper.
+- **Natural magnets** (magnetite or lodestone) occur in nature; **artificial magnets** are made in shapes such as bar, horseshoe, ring, cylinder and needle.
+- The attraction of a magnet is strongest at its **poles**. Every magnet has two poles – **North** and **South**.
+- A freely suspended magnet always rests in the **north–south** direction. A **compass** uses this property to find directions.
+- **Like poles repel; unlike poles attract.** **Repulsion** is the sure test of a magnet.
+- A magnet can be made by **stroking** an iron object with a magnet in one direction.
+- Magnets lose their magnetism when heated, hammered or dropped; they should be stored with **keepers**.
+
+SAY: buddy | Well done, young explorers! Now try the exercises to check what you have learnt. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Magnet | An object that attracts iron, nickel and cobalt |
+| Magnetite (lodestone) | A natural rock that is a magnet |
+| Magnetic material | A material attracted by a magnet |
+| Non-magnetic material | A material not attracted by a magnet |
+| Pole | An end of a magnet where its attraction is strongest |
+| Compass | A device with a magnetised needle that shows directions |
+| Attraction | Pulling together |
+| Repulsion | Pushing apart |
+| Keeper | A piece of soft iron placed across magnet poles during storage |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: Which of these is attracted by a magnet? | A wooden scale | An aluminium can | *An iron nail | A glass bottle || Iron is a magnetic material.
+MCQ: The attraction of a bar magnet is strongest | at its middle | *at its two ends (poles) | everywhere equally | only at the North pole ||
+MCQ: A freely suspended bar magnet always comes to rest in the | east–west direction | *north–south direction | up–down direction | any direction ||
+MCQ: When the North pole of one magnet is brought near the North pole of another, they | attract | *repel | do nothing | stick together ||
+MCQ: The sure test to find out whether an object is a magnet is | attraction | *repulsion | its colour | its weight ||
+
+### B. Fill in the blanks
+FILL: A natural magnet is called magnetite or ___. | lodestone ||
+FILL: Every magnet has ___ poles. | two;2 ||
+FILL: Like poles ___ each other. | repel ||
+FILL: Unlike poles ___ each other. | attract ||
+FILL: Pieces of soft iron placed across magnets during storage are called ___. | keepers;keeper ||
+
+### C. True or False
+TF: All metals are attracted by a magnet. | false || Aluminium, copper, gold and silver are not attracted.
+TF: If a bar magnet is broken into two, each piece has both a North and a South pole. | true ||
+TF: Heating a magnet makes it stronger. | false || Heating makes a magnet lose its magnetism.
+TF: A compass needle is a small magnet. | true ||
+
+### D. Short answer questions
+Q: What are magnetic and non-magnetic materials? Give two examples of each.
+A: Materials attracted by a magnet are magnetic – iron and nickel. Materials not attracted are non-magnetic – wood and plastic.
+Q: Why should we not keep a compass near an iron object?
+A: The iron object attracts the compass needle, so the needle will not point north–south correctly.
+Q: Name three things around you in which magnets are used.
+A: Refrigerator doors, speakers/earphones and pencil boxes (also motors, compasses, toys).
+Q: How would you store two bar magnets so that they do not lose their magnetism?
+A: Keep them in a pair with unlike poles side by side, separated by wood, with keepers (soft iron pieces) across their ends.
+
+### E. Long answer questions
+Q: Describe an activity to show that the attraction of a magnet is strongest at its poles.
+A: Spread iron filings on a paper and roll a bar magnet over them. When the magnet is lifted, most iron filings cling to its two ends and very few to the middle. This shows that the attraction is strongest at the ends, which are called poles.
+Q: You are given two identical iron bars, one of which is a magnet. Without using any other object, how can you find out which one is the magnet?
+A: Place one bar flat on the table and touch the middle of it with the end of the other bar. If they attract strongly, the bar you are holding is the magnet (its pole attracts the middle of the iron bar). If there is little or no attraction, the bar lying on the table is the magnet – because the middle of a magnet has very weak attraction.
+Q: Explain how a magnetic compass helps us find directions. How should it be used?
+A: A compass has a magnetised needle that turns freely and always comes to rest in the north–south direction, with its red end pointing north. To use it, place it on a flat surface away from iron, wait for the needle to settle, and turn the box until "N" on the dial lines up with the red end. All other directions can then be read from the dial.
+
+### F. Projects and activities
+> **Activity: Magnet fishing game**
+> Cut paper fish, attach a paper clip to each, and write a number on each fish. Tie a small magnet to a string on a stick. Take turns "fishing" – add up your points!
+> **Activity: Survey**
+> List all the objects at home that use magnets. Group them by use – holding, sound, motion, direction.
 
 @@ 5
+SCENE: 📏 🚗 🎡 | Measurement and motion!
+
 ## 🎬 Let's begin
 Long ago, people measured length using their **hand span**, **foot**, **cubit** (elbow to fingertip) or **angul** (finger width). But whose hand? A tall farmer's span and a small child's span are different! Imagine buying cloth that way… 😅 That's why we needed **standard units**.
+
+SAY: aarav-think | Why can't we just use hand spans to measure?
+SAY: buddy-happy | Hand spans differ from person to person. Standard units like the metre are the same everywhere.
 
 ## 🤔 What is measurement?
 > 📌 **Measurement** is comparing an unknown quantity with a known fixed quantity called a **unit**. Every measurement has a **number** and a **unit**: 3 **metres**.
@@ -269,6 +475,8 @@ Long ago, people measured length using their **hand span**, **foot**, **cubit** 
 ## 🚗 What is motion?
 > 📌 An object is in **motion** if its **position changes with time**. If it doesn't change, it is **at rest**.
 Motion is described with respect to something else (a **reference point**). A passenger is at rest compared to the bus seat but in motion compared to a tree outside!
+
+SAY: riya-wow | A merry-go-round shows circular motion!
 
 ## 🧩 Types of motion
 - **Linear (rectilinear) motion:** along a straight line – a train on a straight track, a falling apple, a march-past.
@@ -305,13 +513,19 @@ MCQ: The tip of a moving fan blade shows | *Circular motion | Linear motion | Os
 FILL: 250 cm = ___ m | 2.5 ||
 
 @@ 6
+SCENE: 🧱 🪵 🥛 | Materials around us!
+
 ## 🎬 Let's begin
 Your water bottle, school bag, pencil and shoes – what are they made of? Plastic, cloth, wood, rubber, metal… These are **materials**. Choosing the right material matters: imagine a paper umbrella or a glass football! ☂️
+
+SAY: riya-happy | A chair can be made of wood, plastic or metal!
 
 ## 🤔 What are materials?
 > 📌 **Objects** are things we use. **Materials** are what objects are **made of**.
 - One object can be made of many materials (a pencil: wood + graphite + paint).
 - One material can make many objects (wood: chair, door, table, pencil).
+
+SAY: buddy-happy | Materials have properties: hard or soft, shiny or dull, see-through or not.
 
 ## 🧩 Properties of materials
 We sort materials by their **properties** (features):
@@ -323,6 +537,8 @@ We sort materials by their **properties** (features):
   - **Transparent:** we can see clearly through them – clear glass, clean water.
   - **Translucent:** we can see through them partly – butter paper, frosted glass, oiled paper.
   - **Opaque:** we cannot see through them – wood, metal, cardboard, a brick wall.
+
+SAY: aarav-think | Sugar dissolves in water but sand doesn't!
 
 ## 🧪 Liquids and gases in water
 - Some liquids mix completely with water (vinegar, milk); some don't and form a separate layer (oil, kerosene).
@@ -360,13 +576,20 @@ TF: A big wooden log can float on water. | true ||
 MCQ: Which is a material, not an object? | Chair | *Glass | Bottle | Spoon ||
 
 @@ 7
+SCENE: 🌡️ 🤒 ❄️ | How hot? How cold?
+
 ## 🎬 Let's begin
 Touch an ice cube and then a cup of warm milk. One is cold, the other is hot. But how cold? How hot? Our touch can fool us – after holding ice, normal water feels warm! To be exact, we measure **temperature**. 🌡️
+
+SAY: aarav-think | Can I tell how hot something is just by touching it?
+SAY: buddy-happy | Touch can fool us! A thermometer measures temperature correctly.
 
 ## 🤔 What is temperature?
 > 📌 **Temperature** tells us **how hot or cold** something is. It is measured with a **thermometer**. The common unit is the **degree Celsius (°C)**.
 - Water freezes at **0 °C** and boils at **100 °C** (at normal pressure).
 - The SI unit of temperature is the **kelvin (K)**; 0 °C ≈ 273 K.
+
+SAY: riya-happy | Normal body temperature is about 37 °C!
 
 ## 🧩 Types of thermometers
 **1. Clinical thermometer** – measures **body temperature**.
@@ -419,8 +642,13 @@ TF: Our sense of touch always tells temperature correctly. | false ||
 MCQ: Which thermometer is safest to use at home? | Mercury | *Digital | Laboratory | None ||
 
 @@ 8
+SCENE: 💧 🧊 ☁️ | The journey of water!
+
 ## 🎬 Let's begin
 A puddle on the road disappears after the sun comes out. Ice in your glass turns to water. Tiny drops appear outside a cold bottle. Where does the water go, and where does it come from? Let's follow water on its amazing **journey**! 💧
+
+SAY: riya-wow | Ice, water and steam are all water!
+SAY: buddy-happy | Yes! Solid, liquid and gas – the three states of water.
 
 ## 🤔 The three states of water
 > 📌 Matter exists in three main **states**: **solid**, **liquid** and **gas**. Water can be in all three!
@@ -441,6 +669,8 @@ A puddle on the road disappears after the sun comes out. Ice in your glass turns
 2. **More surface area** – spread clothes out; water in a plate dries faster than in a bottle.
 3. **Wind** – clothes dry faster on a windy day.
 4. **Less humidity** (less moisture in the air) – clothes dry slowly in the rainy season.
+
+SAY: aarav-think | That's why sweating cools us – evaporation causes cooling!
 
 ## ❄️ Evaporation causes cooling
 When water evaporates, it takes heat from the surface. That's why:
@@ -481,8 +711,13 @@ MCQ: Which state of water has no fixed shape or volume? | Ice | Water | *Water v
 TF: Evaporation happens only when water boils. | false || It happens at all temperatures.
 
 @@ 9
+SCENE: 🫖 🧲 🌾 | Separating mixtures!
+
 ## 🎬 Let's begin
 At home, your grandmother picks tiny stones out of rice, your mother strains tea, and in the village, farmers toss grain in the air on a windy day. They are all **separating** mixtures! Let's learn the smart ways people separate things. 🍵
+
+SAY: aarav-think | Why do we need to separate things?
+SAY: buddy-happy | To remove unwanted things or to get useful things, like tea leaves from tea!
 
 ## 🤔 What is separation and why do we need it?
 > 📌 A **mixture** has two or more substances mixed together. **Separation** means taking out the parts of a mixture.
@@ -490,6 +725,8 @@ We separate to:
 - remove **unwanted** or **harmful** parts (stones from rice),
 - get **useful** parts (butter from curd),
 - get **pure** substances (salt from sea water).
+
+SAY: riya-happy | Winnowing uses wind to separate husk from grain!
 
 ## 🧩 Methods of separation
 - **Hand-picking:** removing bigger, visible impurities by hand – stones from rice and dal.
@@ -538,8 +775,13 @@ MCQ: Which method separates iron pins from sand? | Winnowing | Decantation | *Ma
 FILL: Pouring off clear water after mud settles is called ___. | decantation ||
 
 @@ 10
+SCENE: 🐛 🦋 🌱 | What makes something living?
+
 ## 🎬 Let's begin
 A stone, a dog, a mango tree and a toy car. Which are alive? The car moves… but is it living? The tree doesn't walk… but is it living? Let's discover what makes something **alive**! 🌱🐶
+
+SAY: riya-think | How do we know something is alive?
+SAY: buddy-happy | Living things breathe, grow, need food, respond and reproduce.
 
 ## 🤔 Characteristics of living things
 > 📌 Living things show certain **life processes**. Non-living things do not show all of them.
@@ -552,6 +794,8 @@ A stone, a dog, a mango tree and a toy car. Which are alive? The car moves… bu
 7. **Response to stimuli:** react to changes around them – we pull our hand back from a hot pan; the **touch-me-not** (chhui-mui) plant folds its leaves when touched.
 8. **Life span:** are born, live for some time and die.
 > 💡 A toy car moves, but it can't grow, eat, breathe or reproduce – so it's **non-living**.
+
+SAY: aarav-wow | A caterpillar becomes a butterfly – that's a life cycle!
 
 ## 🌱 Life cycles
 > 📌 A **life cycle** is the series of stages a living thing goes through from birth to adulthood.
@@ -591,8 +835,13 @@ TF: A moving car is living because it moves. | false || It doesn't grow, eat, br
 MCQ: Seeds need water, air and ___ to germinate. | Sunlight only | *Suitable warmth | Soil only | Fertiliser ||
 
 @@ 11
+SCENE: 🌳 💧 ☀️ | Nature's treasures!
+
 ## 🎬 Let's begin
 Every breath of air, every glass of water, the sunshine on your face, the soil that grows your food, the wood of your desk – all are **gifts from nature**. They are our **treasures**, and we must use them wisely. 🌍💎
+
+SAY: aarav-think | What are natural resources?
+SAY: buddy-happy | Things from nature that we use – air, water, sunlight, soil and forests.
 
 ## 🤔 What are natural resources?
 > 📌 **Natural resources** are materials and energy we get from **nature** that are useful to us – air, water, sunlight, soil, plants, animals, minerals, coal and petroleum.
@@ -609,6 +858,8 @@ A mixture of gases – mainly **nitrogen (about 78%)** and **oxygen (about 21%)*
 
 ## 💧 Water
 Needed by all living things. Only a tiny part of Earth's water is fresh and usable. Save it!
+
+SAY: riya-happy | Sun and wind give clean energy that never runs out!
 
 ## ☀️ Sunlight and wind – clean energy
 - **Solar energy:** solar panels turn sunlight into electricity; solar cookers cook food.
@@ -652,8 +903,13 @@ TF: Switching off fans when not needed helps save resources. | true ||
 MCQ: Which turns wind into electricity? | Solar panel | *Wind turbine | Dam | Thermometer ||
 
 @@ 12
+SCENE: 🌙 🪐 ⭐ | Beyond Earth!
+
 ## 🎬 Let's begin
 On a clear night far from city lights, look up. Thousands of twinkling stars! The Moon glowing, a bright "star" that doesn't twinkle (a planet!), and maybe a shooting star. What lies **beyond Earth**? Let's go on a space journey! 🚀✨
+
+SAY: riya-wow | The Sun is a star too!
+SAY: buddy-happy | Yes! It's the closest star to Earth. Other stars look tiny because they're so far away.
 
 ## 🤔 Stars
 > 📌 A **star** is a huge, very hot ball of glowing gases that gives out its **own light and heat**.
@@ -682,6 +938,8 @@ On a clear night far from city lights, look up. Thousands of twinkling stars! Th
 - **Asteroids:** rocky pieces, mostly in the **asteroid belt** between Mars and Jupiter.
 - **Comets:** balls of ice and dust with glowing **tails** when near the Sun – Halley's Comet returns about every 76 years.
 - **Meteors:** small rocks burning up in our atmosphere – "shooting stars".
+
+SAY: aarav-happy | Chandrayaan-3 landed near the Moon's south pole!
 
 ## 🇮🇳 India in space
 - **Aryabhata** (1975) – India's first satellite, named after the great astronomer.

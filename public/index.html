@@ -4,7 +4,7 @@
 <meta name="description" content="Kidzmantra: an AI learning buddy for kids from Nursery to Class 8. Pick your class, open a chapter and ask any question.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Mulish:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Mulish:wght@400;600;700&family=Literata:opsz,wght@7..72,400;7..72,600;7..72,700&display=swap">
 <style>
 :root{
   --paper:#FFFBF2;
@@ -199,6 +199,55 @@ section{padding-block:48px}
 .book.young{font-size:1.18rem}
 .book.young h2{font-size:1.6rem}
 .book-empty{color:var(--ink-soft)}
+/* textbook layout */
+.textbook{font-family:"Literata",Georgia,"Noto Serif Devanagari",serif;font-size:1.06rem;padding:28px clamp(18px,4vw,44px)}
+.textbook[lang="hi"]{font-family:"Mulish","Noto Sans Devanagari",system-ui,sans-serif;font-size:1.1rem}
+.textbook p,.textbook li{line-height:1.85}
+.textbook .book-sec{padding:22px 0;border-top:1px solid var(--line)}
+.textbook .book-sec:first-of-type{border-top:0;padding-top:4px}
+.textbook .book-sec h2{color:var(--ink);font-size:1.5rem}
+.textbook h3{font-family:var(--display);font-size:1.18rem;margin:8px 0 0}
+.textbook .book-body{display:grid;gap:12px}
+.toc{border:1px solid var(--line);border-radius:12px;padding:14px 18px;font-family:var(--body);font-size:.95rem}
+.toc b{font-family:var(--display);font-size:1.05rem}
+.toc ol{margin:6px 0 0;padding-left:0;list-style:none;display:grid;gap:2px}
+.toc a{color:var(--ink-soft);text-decoration:none}.toc a:hover{color:var(--sky)}
+.book-box.bx-act{background:color-mix(in srgb,var(--sky) 10%,var(--sheet));border-color:color-mix(in srgb,var(--sky) 55%,transparent)}
+.book-box.bx-ex{background:color-mix(in srgb,var(--leaf) 10%,var(--sheet));border-color:color-mix(in srgb,var(--leaf) 55%,transparent)}
+.book-box.bx-fact{background:color-mix(in srgb,var(--rose) 9%,var(--sheet));border-color:color-mix(in srgb,var(--rose) 50%,transparent)}
+.book-box.bx-def{background:var(--sheet);border-color:var(--ink);border-width:2px 2px 2px 6px}
+.book-box.bx-think{background:color-mix(in srgb,var(--marigold) 10%,var(--sheet));border-color:color-mix(in srgb,var(--marigold) 55%,transparent)}
+/* characters talking in speech bubbles */
+.say-row{display:flex;align-items:flex-end;gap:12px;margin:4px 0}
+.say-row.right{flex-direction:row-reverse}
+.say-av{width:64px;height:64px;flex:none;border-radius:50%}
+.bubble{position:relative;background:var(--paper);border:2px solid var(--line);border-radius:18px;padding:10px 14px;max-width:min(560px,82%);font-family:var(--body);font-size:1rem}
+.bubble::before{content:"";position:absolute;bottom:14px;left:-10px;width:16px;height:16px;background:inherit;border-left:2px solid var(--line);border-bottom:2px solid var(--line);transform:rotate(45deg)}
+.say-row.right .bubble::before{left:auto;right:-10px;border:0;border-right:2px solid var(--line);border-top:2px solid var(--line)}
+.bubble b{display:block;font-family:var(--display);font-size:.9rem}
+.say-riya .bubble b{color:#c98a12}.say-aarav .bubble b{color:var(--sky)}.say-buddy .bubble b{color:var(--leaf)}
+.say-buddy .bubble{border-color:color-mix(in srgb,var(--leaf) 60%,var(--line))}
+.bubble p{margin:0}
+.scene{container-type:inline-size;position:relative;margin:0 0 6px;border-radius:18px;overflow:hidden;padding:18px 12px 0;background:linear-gradient(var(--scene-sky,#e3f1ff),#fbfdff 85%);border:1px solid var(--line)}
+.scene::after{content:"";position:absolute;left:0;right:0;bottom:0;height:16%;background:#f1dfbd}
+.scene-science{--scene-sky:#dff2ff}.scene-maths{--scene-sky:#fff1cc}.scene-english{--scene-sky:#ffe4ec}.scene-hindi{--scene-sky:#ffe9d2}.scene-social{--scene-sky:#e2f5dc}.scene-evs,.scene-world{--scene-sky:#dcf6e8}
+.scene-cast{position:relative;z-index:1;display:flex;justify-content:space-around;align-items:flex-end;gap:4px}
+.scene-cast img{flex:0 1 23%;width:23%;max-width:150px;min-width:0;height:auto;display:block}
+.scene-prop{flex:none;font-size:clamp(1.3rem,5.5vw,3.6rem);font-size:clamp(1.3rem,8cqw,3.6rem);line-height:1;margin-bottom:4%;filter:drop-shadow(0 3px 2px rgba(0,0,0,.15))}
+.scene-float{position:absolute;left:18px;top:14px;font-size:clamp(1.6rem,6vw,3rem);font-size:clamp(1.6rem,7cqw,3rem);transform:rotate(-12deg)}
+.scene-bubble{position:relative;margin:0 2% 14px auto;width:fit-content;max-width:min(62%,340px);background:#fff;color:#1e2a3a;border:3px solid #2bb3a3;border-radius:18px;padding:8px 14px;font-family:var(--display);font-weight:700;font-size:clamp(.95rem,2.6vw,1.2rem);font-size:clamp(.92rem,3.4cqw,1.2rem);line-height:1.35}
+.scene-bubble::after{content:"";position:absolute;right:12%;bottom:-11px;width:16px;height:16px;background:#fff;border-right:3px solid #2bb3a3;border-bottom:3px solid #2bb3a3;transform:rotate(45deg)}
+.bk-cover img{padding:0;border:0;border-radius:14px;width:100%}
+.bk-fig{margin:4px 0;display:grid;gap:6px;justify-items:center}
+.bk-fig img{max-width:100%;height:auto;background:#fff;border-radius:10px;border:1px solid var(--line);padding:8px}
+.bk-fig figcaption{font-size:.88rem;color:var(--ink-soft);font-style:italic;text-align:center}
+.bk-table{overflow-x:auto}
+.bk-table table{border-collapse:collapse;width:100%;font-size:.95rem;font-family:var(--body)}
+.bk-table th,.bk-table td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+.bk-table th{background:color-mix(in srgb,var(--sky) 14%,var(--sheet))}
+.doubt{display:grid;gap:14px}
+.doubt-toggle{justify-self:center;font-size:1.05rem}
+.doubt-panel[hidden]{display:none}
 .chap-grid{display:grid;grid-template-columns:1fr 300px;gap:28px;align-items:start;padding-bottom:48px}
 .chap-grid > *{min-width:0}
 .side{display:grid;gap:16px}
@@ -399,7 +448,7 @@ function pickVoice(code){
 // Wrap every word of an answer in a span, remembering where each word sits in its
 // paragraph so the highlight can follow the voice.
 function prepareReading(body){
-  return [...body.querySelectorAll("h2,p,li")].filter(el=>!el.closest("details,.qz,.qz-score")).map(block=>{
+  return [...body.querySelectorAll("h2,h3,p,li")].filter(el=>!el.closest("details,.qz,.qz-score")).map(block=>{
     const words=[],nodes=[],walker=document.createTreeWalker(block,NodeFilter.SHOW_TEXT);
     let text="";
     while(walker.nextNode())nodes.push(walker.currentNode);
@@ -718,7 +767,10 @@ function loadBook(gid,k){
   }).catch(e=>{bookCache.delete(url);throw e}));
   return bookCache.get(url);
 }
-function bookHTML(lines){
+// Box style from its first words: Activity, Example, Did you know, Definition, Think, else a note.
+const boxKind=t=>/^\W*(activity|गतिविधि|करके देखो)/i.test(t)?"bx-act":/^\W*(example|उदाहरण)/i.test(t)?"bx-ex":/^\W*(did you know|fun fact|क्या आप जानते)/i.test(t)?"bx-fact":/^\W*(definition|📌|परिभाषा)/i.test(t)?"bx-def":/^\W*(think|let us think|सोचो)/i.test(t)?"bx-think":"bx-note";
+function bookHTML(lines,k=""){
+  const NAMES=k==="hindi"?{riya:"रिया",aarav:"आरव",buddy:"बडी"}:{riya:"Riya",aarav:"Aarav",buddy:"Buddy"};
   const inline=t=>esc(t).replace(/\*\*(.+?)\*\*/g,"<b>$1</b>");
   const secs=[];let sec=null,list=null,box=null,q=null;
   const flush=()=>{list=null;box=null};
@@ -728,6 +780,28 @@ function bookHTML(lines){
     if(!line){flush();continue}
     let m;
     if((m=line.match(/^##\s+(.*)/))){flush();q=null;sec={title:m[1],html:[]};secs.push(sec);continue}
+    if((m=line.match(/^###\s+(.*)/))){flush();body().push(`<h3>${inline(m[1])}</h3>`);continue}
+    if((m=line.match(/^SAY:\s*(riya|aarav|buddy)(?:-(happy|wow|think))?\s*\|\s*(.*)/i))){
+      flush();const who=m[1].toLowerCase(),mood=(m[2]||"happy").toLowerCase(),name=NAMES[who];
+      body().push(`<div class="say-row say-${who}${who==="buddy"?" right":""}"><img class="say-av" src="books/img/char-${who}-${mood}.svg" alt="${name}"><div class="bubble"><b>${name}</b><p>${inline(m[3])}</p></div></div>`);
+      continue;
+    }
+    // SCENE: 🧲 🧭 📎 | what Buddy says – the chapter's picture opening with Riya, Aarav and Buddy.
+    if((m=line.match(/^SCENE:\s*([^|]*)\|\s*(.*)/))){
+      flush();const [a="",b="",c=""]=m[1].trim().split(/\s+/),fig=(w,md)=>`<img src="books/img/char-${w}-${md}-full.svg" alt="">`;
+      body().push(`<figure class="scene scene-${esc(k)}" role="img" aria-label="${esc(NAMES.riya+", "+NAMES.aarav+", "+NAMES.buddy)}: ${esc(m[2])}"><span class="scene-float" aria-hidden="true">${esc(c)}</span><div class="scene-bubble" aria-hidden="true">${inline(m[2])}</div><div class="scene-cast" aria-hidden="true">${fig("riya","wow")}<span class="scene-prop">${esc(a)}</span>${fig("aarav","happy")}<span class="scene-prop">${esc(b)}</span>${fig("buddy","happy")}</div></figure>`);
+      continue;
+    }
+    if((m=line.match(/^COVER:\s*([\w.-]+)\s*\|\s*(.*)/))){flush();body().push(`<figure class="bk-fig bk-cover"><img src="books/img/${esc(m[1])}" alt="${esc(m[2])}"></figure>`);continue}
+    if((m=line.match(/^FIG:\s*([\w.-]+)\s*\|\s*(.*)/))){flush();body().push(`<figure class="bk-fig"><img src="books/img/${esc(m[1])}" alt="${esc(m[2])}" loading="lazy"><figcaption>${inline(m[2])}</figcaption></figure>`);continue}
+    if(/^\|.*\|$/.test(line)){
+      const cells=line.slice(1,-1).split("|").map(c=>c.trim());
+      if(cells.every(c=>/^:?-{2,}:?$/.test(c)))continue;
+      list=null;box=null;
+      const last=body()[body().length-1];
+      if(last&&last.rows)last.rows.push(cells);else body().push({rows:[cells]});
+      continue;
+    }
     if((m=line.match(/^(MCQ|TF|FILL):\s*(.*)/))){flush();q=null;body().push({quiz:m[1],raw:m[2]});continue}
     if((m=line.match(/^Q:\s*(.*)/))){flush();q={q:m[1],a:""};body().push(q);continue}
     if((m=line.match(/^A:\s*(.*)/))&&q){q.a=m[1];q=null;continue}
@@ -750,7 +824,8 @@ function bookHTML(lines){
   const group=html=>{const out=[];for(const x of html){if(x&&x.quiz){const last=out[out.length-1];if(last&&last.qs)last.qs.push(x);else out.push({qs:[x]})}else out.push(x)}return out};
   const part=x=>typeof x==="string"?x
     :x.qs?`<div class="book-quiz">${x.qs.map(quiz).join("")}<div class="qz-score" hidden></div></div>`
-    :x.box?`<div class="book-box">${x.box.map(t=>`<p>${inline(t)}</p>`).join("")}</div>`
+    :x.box?`<div class="book-box ${boxKind(x.box[0])}">${x.box.map(t=>`<p>${inline(t)}</p>`).join("")}</div>`
+    :x.rows?`<div class="bk-table"><table><thead><tr>${x.rows[0].map(c=>`<th>${inline(c)}</th>`).join("")}</tr></thead><tbody>${x.rows.slice(1).map(r=>`<tr>${r.map(c=>`<td>${inline(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`
     :x.items?`<${x.kind}>${x.items.map(t=>`<li>${inline(t)}</li>`).join("")}</${x.kind}>`
     :`<div class="book-q"><p>${inline(x.q)}</p>${x.a?`<details><summary>Show answer</summary><p class="ans">${inline(x.a)}</p></details>`:""}</div>`;
   return secs.map(s=>`<section class="book-sec">
@@ -811,7 +886,11 @@ async function showBook(el,g,k,n){
   try{
     const ch=await loadBook(g.id,k);
     if(!ch[n])throw new Error("no chapter");
-    el.innerHTML=bookHTML(ch[n]);
+    el.innerHTML=bookHTML(ch[n],k);
+    const heads=[...el.querySelectorAll(".book-sec h2")];
+    heads.forEach((h,j)=>{h.id="sec-"+(j+1)});
+    if(heads.length>3)el.insertAdjacentHTML("afterbegin",`<nav class="toc" aria-label="Contents"><b>${k==="hindi"?"इस अध्याय में":"In this chapter"}</b><ol>${heads.map(h=>`<li><a href="#${h.id}" data-sec="${h.id}">${esc(h.textContent)}</a></li>`).join("")}</ol></nav>`);
+    el.querySelectorAll(".toc a").forEach(a=>a.addEventListener("click",e=>{e.preventDefault();document.getElementById(a.dataset.sec).scrollIntoView({behavior:"smooth"})}));
     el.querySelectorAll(".book-quiz").forEach(qb=>bindQuiz(qb,`${g.id}/${k}/${n}`));
   }catch(e){
     el.innerHTML=`<p class="book-empty">This chapter's book is coming soon. You can still ask Mantra Buddy about it below!</p>`;
@@ -921,18 +1000,19 @@ function chapterPage(g,k,n){
     <div class="page-head"><div class="eyebrow">${g.n} · ${S} · Chapter ${n}</div><h1>${esc(title)}</h1></div>
     <div class="chap-grid">
       <div style="display:grid;gap:20px">
-        <article class="panel book${["nursery","lkg","ukg","class-1","class-2"].includes(g.id)?" young":""}" lang="${k==="hindi"?"hi":"en"}">
-          <div class="book-head"><h3>📖 Chapter book</h3><span class="hint">Tap 🔊 Listen to hear any part</span></div>
+        <article class="panel book textbook${["nursery","lkg","ukg","class-1","class-2"].includes(g.id)?" young":""}" lang="${k==="hindi"?"hi":"en"}">
           <div id="book"><p class="book-empty">Opening the book…</p></div>
         </article>
-        <div class="panel">
-          <h3>Have a question? Ask Mantra Buddy</h3>
+        <div class="doubt">
+        <button type="button" class="btn btn-main doubt-toggle" id="doubtBtn" aria-expanded="false" aria-controls="doubtPanel">🙋 Have a doubt? Ask Mantra Buddy</button>
+        <div class="panel doubt-panel" id="doubtPanel" hidden>
+          <h3>Ask Mantra Buddy about this chapter</h3>
           ${chatHTML(`Ask anything about “${title}”`,[
             `Explain “${title}” in simple words`,
             "Give me an example from daily life",
             "Quiz me with 3 questions",
             "What are the key points to remember?"])}
-        </div>
+        </div></div>
         <div class="pager">${prev}${next}</div>
       </div>
       <aside class="side">
@@ -942,6 +1022,13 @@ function chapterPage(g,k,n){
       </aside>
     </div></div>`;
   bindChat(()=>({grade:g.n,subject:S,chapter:title}));
+  const doubtBtn=document.getElementById("doubtBtn"),doubtPanel=document.getElementById("doubtPanel");
+  doubtBtn.addEventListener("click",()=>{
+    const open=doubtPanel.hidden;
+    doubtPanel.hidden=!open;doubtBtn.setAttribute("aria-expanded",String(open));
+    doubtBtn.textContent=open?"✖ Close Mantra Buddy":"🙋 Have a doubt? Ask Mantra Buddy";
+    if(open){document.getElementById("q").focus();doubtPanel.scrollIntoView({behavior:"smooth",block:"nearest"})}
+  });
   showBook(document.getElementById("book"),g,k,n);
 }
 

@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 👧 🏙️ 🐶 | Naming words are called nouns!
+
 ## Naming words (nouns)
 A **noun** is a naming word. It names a **person, animal, place or thing**.
+
+SAY: aarav-think | Is "city" a noun and "Delhi" a noun too?
+SAY: buddy-happy | Both! "city" is a common noun, "Delhi" is a proper noun.
 
 ## Common and proper nouns
 - **Common nouns** are general names: boy, city, river, dog.
@@ -10,6 +15,8 @@ A **noun** is a naming word. It names a **person, animal, place or thing**.
 ## Examples
 - **Priya** (proper) lives in **Jaipur** (proper).
 - The **girl** (common) has a **kitten** (common).
+
+SAY: riya-happy | Proper nouns start with a capital letter!
 
 ## Let's practise
 Underline the nouns: "Arjun went to the zoo and saw a giraffe."
@@ -25,8 +32,13 @@ Q: Find the nouns: "The cow eats grass."
 A: cow, grass.
 
 @@ 2
+SCENE: 👦 👧 🫵 | Pronouns save us time!
+
 ## Pronouns
 A **pronoun** is a word used **in place of a noun**. It saves us from repeating the same name again and again.
+
+SAY: riya-think | Why do we say "he" instead of "Aarav" again and again?
+SAY: buddy-happy | Pronouns like he, she, it and they take the place of nouns.
 
 ## Common pronouns
 I, we, you, he, she, it, they, me, us, him, her, them
@@ -34,6 +46,8 @@ I, we, you, he, she, it, they, me, us, him, her, them
 ## How pronouns help
 Without pronouns: **Sita** is my friend. **Sita** sings well. **Sita** is kind.
 With pronouns: **Sita** is my friend. **She** sings well. **She** is kind.
+
+SAY: aarav-happy | Riya is my friend. She is very kind!
 
 ## Which pronoun?
 - For a boy or man → **he**
@@ -51,8 +65,13 @@ Q: Which pronoun for "Meena and Raj"?
 A: They.
 
 @@ 3
+SCENE: 🏃 🍳 🎨 | Let's find verbs!
+
 ## Action words (verbs)
 A **verb** is a doing word. It tells what someone or something does.
+
+SAY: aarav-happy | I kick, I paint, I cook – they're all verbs!
+SAY: buddy-happy | Yes! Verbs are action words. They tell what someone does.
 
 ## Examples
 eat, drink, run, write, play, swim, sleep, laugh, cook, draw
@@ -62,6 +81,8 @@ eat, drink, run, write, play, swim, sleep, laugh, cook, draw
 - Mother **cooks** food.
 - We **play** in the park.
 - Birds **fly** in the sky.
+
+SAY: riya-think | "I am", "she is", "they are" – is and are are verbs too!
 
 ## Is, am, are
 These are helping verbs:
@@ -79,8 +100,13 @@ Q: Fill in: "I ___ seven years old."
 A: am.
 
 @@ 4
+SCENE: 🌈 🐘 🍦 | Describing words!
+
 ## Describing words (adjectives)
 An **adjective** describes a noun. It tells us **what kind**, **what colour**, **what size** or **how many**.
+
+SAY: riya-wow | A big, grey elephant!
+SAY: buddy-happy | Big and grey are adjectives – they describe a noun.
 
 ## Examples
 - **Colour:** red rose, green parrot
@@ -88,6 +114,8 @@ An **adjective** describes a noun. It tells us **what kind**, **what colour**, *
 - **Shape:** round ball, square box
 - **Feeling/quality:** happy child, kind teacher, sweet mango
 - **Number:** three cats, many stars
+
+SAY: aarav-happy | My ice cream is cold, sweet and yummy!
 
 ## Making sentences better
 "I saw a dog." → "I saw a **small brown** dog."
@@ -102,8 +130,13 @@ Q: Find the adjective: "It was a hot day."
 A: hot.
 
 @@ 5
+SCENE: ⬆️ ⬇️ 🔄 | Opposites!
+
 ## Opposites
 **Opposites** are words with the opposite meaning.
+
+SAY: aarav-happy | Hot and cold, big and small, up and down!
+SAY: buddy-happy | Opposites are words with opposite meanings.
 
 ## Common opposites
 - big – small
@@ -119,6 +152,8 @@ A: hot.
 - full – empty
 - clean – dirty
 
+SAY: riya-wow | The tortoise is slow but the rabbit is fast!
+
 ## In sentences
 The tea is **hot**. The ice cream is **cold**.
 The door is **open**. The window is **closed**.
@@ -133,8 +168,13 @@ Q: Make the opposite of "lucky" using "un".
 A: unlucky.
 
 @@ 6
+SCENE: 🍎 🍎🍎 🦊 | One or many?
+
 ## Singular and plural
 **Singular** means one. **Plural** means more than one.
+
+SAY: riya-happy | One apple, two apples – just add -s!
+SAY: buddy-happy | Right! But words like box become boxes, and baby becomes babies.
 
 ## Add -s
 book → book**s**, pen → pen**s**, cat → cat**s**
@@ -144,6 +184,8 @@ bus → bus**es**, dish → dish**es**, box → box**es**, mango → mango**es**
 
 ## y → ies
 baby → bab**ies**, lady → lad**ies**, city → cit**ies**
+
+SAY: aarav-wow | One child, many children? That's special!
 
 ## Special plurals
 man → men, woman → women, child → children, foot → feet, tooth → teeth, mouse → mice
@@ -158,11 +200,18 @@ Q: Plural of "baby"?
 A: babies.
 
 @@ 7
+SCENE: 📖 🔍 ✅ | Read and understand!
+
 ## Reading comprehension
 **Comprehension** means reading carefully and understanding what we read.
 
+SAY: aarav-think | How do I answer questions about a story?
+SAY: buddy-happy | Read the passage carefully, then find the answer in it.
+
 ## Read the passage
 Mohan lives in a small village near a river. Every morning he walks to school with his sister, Gita. On the way, they see green fields and a big banyan tree. Birds sing on the tree. Mohan loves his village because it is quiet and clean.
+
+SAY: riya-happy | I read the question first, then look for key words!
 
 ## Tips for answering
 1. Read the passage twice.
@@ -183,8 +232,13 @@ Q: Why does Mohan love his village?
 A: Because it is quiet and clean.
 
 @@ 8
+SCENE: ✍️ 📃 🐱 | Let's write a paragraph!
+
 ## Writing short paragraphs
 A **paragraph** is a group of sentences about **one topic**.
+
+SAY: riya-think | How do I write about my pet?
+SAY: buddy-happy | Start with one main idea, then add 3 or 4 sentences about it.
 
 ## How to write a paragraph
 1. Start with a sentence that tells the topic.
@@ -193,6 +247,8 @@ A **paragraph** is a group of sentences about **one topic**.
 
 ## Example: My Pet
 I have a pet dog. His name is Bruno. He is brown and has soft fur. He loves to play with a ball. He barks when strangers come. Bruno is my best friend.
+
+SAY: aarav-happy | I'll use words like "first", "also" and "finally"!
 
 ## Useful words
 first, then, also, and, because, finally

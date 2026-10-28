@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🌱 🐶 🪨 | Living or non-living?
+
 ## Living and non-living things
 Everything around us is either **living** or **non-living**.
+
+SAY: riya-think | Is my teddy bear living? It has eyes!
+SAY: buddy-happy | No! Living things breathe, eat, grow and move on their own.
 
 ## Signs of living things
 Living things:
@@ -16,6 +21,9 @@ Living things:
 - **Living:** humans, animals, birds, plants, insects.
 - **Non-living:** stone, chair, book, water, car.
 
+SAY: aarav-wow | Plants don't walk, but they are alive?
+SAY: buddy-happy | Yes! They grow, need food and water, and breathe through their leaves.
+
 ## Plants are living too!
 Plants don't walk, but they grow, need water and food, breathe through tiny holes in their leaves, and turn towards light. The touch-me-not plant (chhui-mui) closes its leaves when touched.
 > 💡 A car moves, but it is non-living – it can't move on its own, grow or have babies.
@@ -29,8 +37,13 @@ Q: How does the touch-me-not plant show it can feel?
 A: Its leaves close when touched.
 
 @@ 2
+SCENE: 🌿 🌸 🍎 | Parts of a plant!
+
 ## Parts of a plant
 Every part of a plant has an important job.
+
+SAY: aarav-think | What does the root do underground?
+SAY: buddy-happy | It holds the plant in the soil and drinks up water.
 
 ## Root
 - Holds the plant firmly in the soil.
@@ -41,6 +54,8 @@ Every part of a plant has an important job.
 - Holds up the leaves, flowers and fruits.
 - Carries water from roots to leaves, and food from leaves to other parts.
 - Some stems store food: potato, sugarcane, ginger.
+
+SAY: riya-wow | Leaves are the kitchen of the plant – they make food!
 
 ## Leaf
 - The **kitchen of the plant**. Leaves make food using sunlight, water and carbon dioxide. This is called **photosynthesis**.
@@ -59,14 +74,21 @@ Q: What are the tiny holes in leaves called?
 A: Stomata.
 
 @@ 3
+SCENE: 🐣 🐄 🐥 | Animals and their young ones!
+
 ## Animals and their young
 All animals have young ones. Some animals are born from their mothers; some come out of eggs.
+
+SAY: riya-happy | A cow's baby is a calf!
+SAY: buddy-happy | Yes! Some animals give birth to babies, others lay eggs.
 
 ## Animals that give birth
 Cow, dog, cat, elephant, human – they feed their babies with **milk**. They are called **mammals**.
 
 ## Animals that lay eggs
 Hen, duck, snake, crocodile, fish, frog, butterfly, sparrow.
+
+SAY: aarav-wow | A baby frog is a tadpole and a baby dog is a puppy!
 
 ## Names of young ones
 - Cow → calf, Dog → puppy, Cat → kitten
@@ -86,12 +108,19 @@ Q: What are mammals?
 A: Animals that give birth to young ones and feed them milk.
 
 @@ 4
+SCENE: 🍚 🥥 🍲 | Food we eat!
+
+SAY: aarav-think | Why do I feel hungry after playing?
+SAY: buddy-happy | Because playing uses energy. Food gives it back to us!
+
 ## Why we need food
 Food gives us energy, helps us grow, repairs our body and protects us from diseases.
 
 ## Sources of food
 - **Plants:** grains, pulses, fruits, vegetables, oil, sugar, spices.
 - **Animals:** milk, eggs, meat, fish, honey.
+
+SAY: riya-wow | People in Kerala eat lots of coconut and rice!
 
 ## Food in different regions
 - North India: roti, paratha, rajma, sarson ka saag.
@@ -112,6 +141,11 @@ Q: Why should we cover food?
 A: To keep flies, dust and germs away.
 
 @@ 5
+SCENE: 🦴 🫁 🏃 | Our body!
+
+SAY: riya-think | How does my body work?
+SAY: buddy-happy | Many systems work together – bones, muscles, lungs, heart and more!
+
 ## Body systems
 Our body organs work in teams called **systems**.
 - **Skeletal system** – bones give shape and protect organs. The skull protects the brain; ribs protect the heart and lungs.
@@ -120,6 +154,8 @@ Our body organs work in teams called **systems**.
 - **Respiratory system** – nose and lungs help us breathe.
 - **Circulatory system** – the heart pumps blood through blood vessels.
 - **Nervous system** – the brain and nerves control the body.
+
+SAY: aarav-happy | My knees and elbows are joints – they help me bend!
 
 ## Joints
 Places where bones meet. They let us bend: elbow, knee, neck, shoulder.
@@ -137,6 +173,8 @@ Q: Name two joints.
 A: Elbow, knee, shoulder or neck.
 
 @@ 6
+SCENE: 💧 ☁️ 🌧️ | Where does water come from?
+
 ## Where water comes from
 - **Rain** – the main source. Rainwater fills rivers, lakes, ponds and wells.
 - **Rivers** – Ganga, Yamuna, Godavari, Narmada, Kaveri.
@@ -144,11 +182,16 @@ A: Elbow, knee, shoulder or neck.
 - **Groundwater** – water under the ground, taken out by wells, tube wells and hand pumps.
 - **Seas and oceans** – salty water.
 
+SAY: aarav-think | Does the rain water come back again and again?
+SAY: buddy-happy | Yes! Water goes up as vapour, forms clouds and falls as rain. It's the water cycle!
+
 ## The water cycle
 1. The sun heats water in rivers and seas; it becomes **water vapour** (evaporation).
 2. Vapour rises, cools and forms **clouds** (condensation).
 3. Clouds become heavy; water falls as **rain** (precipitation).
 4. Rain fills rivers and seas again.
+
+SAY: riya-happy | We can collect rainwater on our roofs and save it!
 
 ## Rainwater harvesting
 Collecting and storing rainwater for later use. It saves water and fills up groundwater.
@@ -163,8 +206,13 @@ Q: What is rainwater harvesting?
 A: Collecting and storing rainwater for later use.
 
 @@ 7
+SCENE: 🏠 🛖 🏔️ | Houses everywhere!
+
 ## Houses
 A house protects us from heat, cold, rain, wind and animals.
+
+SAY: riya-think | Why do houses in the mountains have sloping roofs?
+SAY: buddy-happy | So rain and snow can slide off easily!
 
 ## Houses in different places
 - **Cold places (Kashmir, Himachal):** sloping roofs so snow slides off; wooden houses.
@@ -176,6 +224,8 @@ A house protects us from heat, cold, rain, wind and animals.
 
 ## Materials
 Bricks, cement, steel, wood, bamboo, mud, straw, stone.
+
+SAY: aarav-happy | Kutcha houses are made of mud, pucca houses of bricks and cement.
 
 ## Kutcha and pucca houses
 Kutcha houses are made of mud, straw and wood. Pucca houses are made of bricks, cement and steel – they are stronger.
@@ -190,6 +240,11 @@ Q: Why are houses in Assam built on stilts?
 A: To stay safe from floodwater.
 
 @@ 8
+SCENE: 🧭 🗺️ ☀️ | Maps and directions!
+
+SAY: aarav-think | Which way is east?
+SAY: buddy-happy | The sun rises in the east! Face it, and north is on your left.
+
 ## Four main directions
 **North, South, East, West.** The sun rises in the **east** and sets in the **west**.
 If you face the rising sun: east is in front, west is behind, north is on your left, south is on your right.
@@ -199,6 +254,8 @@ A **map** is a drawing of a place on paper, seen from above.
 - Maps use **symbols** to show things: a cross for a hospital, a blue line for a river.
 - Maps have a **key** that explains the symbols.
 - North is usually at the top of a map.
+
+SAY: riya-wow | A compass needle always points north!
 
 ## Using a compass
 A **compass** has a needle that always points north.
@@ -213,8 +270,15 @@ Q: What explains the symbols on a map?
 A: The key.
 
 @@ 9
+SCENE: 🐪 🚆 🚀 | How do we travel?
+
+SAY: riya-think | How did people travel long ago?
+SAY: buddy-happy | They walked, or used horses, camels and bullock carts.
+
 ## Old times
 People walked, rode horses, camels and elephants, used bullock carts and boats with oars.
+
+SAY: aarav-wow | Now we have metro trains and aeroplanes!
 
 ## Today
 - **Land:** bicycle, motorcycle, car, bus, train, metro.
@@ -239,8 +303,13 @@ Q: Name one safety rule while travelling.
 A: Wear a seat belt or a helmet; follow traffic lights.
 
 @@ 10
+SCENE: 📱 ✉️ 📻 | Let's communicate!
+
 ## Communication
 **Communication** means sharing messages, ideas and news with others.
+
+SAY: aarav-happy | I call my Nani on the phone every Sunday!
+SAY: buddy-happy | Talking, letters, phones and emails – all are ways to communicate.
 
 ## Ways of communication
 - **Talking** face to face, and **sign language**.
@@ -251,6 +320,8 @@ A: Wear a seat belt or a helmet; follow traffic lights.
 
 ## Mass communication
 Reaching many people at once: newspapers, radio, television, the internet.
+
+SAY: riya-wow | Long ago, people sent messages with pigeons!
 
 ## Long ago
 People used drums, smoke signals and pigeons to send messages!

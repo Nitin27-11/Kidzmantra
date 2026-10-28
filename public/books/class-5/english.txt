@@ -1,4 +1,6 @@
 @@ 1
+SCENE: 🔤 🧩 📚 | The eight parts of speech!
+
 ## The eight parts of speech
 Every word in a sentence does a job. These jobs are called **parts of speech**.
 1. **Noun** – names a person, place, thing or idea: Asha, Delhi, kite, honesty.
@@ -10,8 +12,14 @@ Every word in a sentence does a job. These jobs are called **parts of speech**.
 7. **Conjunction** – joins words or sentences: and, but, because.
 8. **Interjection** – shows sudden feeling: Wow! Oh! Alas! Hurray!
 
+SAY: aarav-wow | Eight parts! Noun, pronoun, verb, adjective…
+SAY: buddy-happy | …adverb, preposition, conjunction and interjection!
+
 ## One sentence, many parts
 "**Wow!** (interjection) **The** (article/adjective) **little** (adjective) **girl** (noun) **danced** (verb) **gracefully** (adverb) **on** (preposition) **the stage** (noun) **and** (conjunction) **everyone** (pronoun) **clapped** (verb)."
+
+SAY: riya-think | "Run" can be a verb or a noun?
+SAY: buddy-happy | Yes! A word's job in the sentence decides its part of speech.
 
 ## Same word, different jobs
 - "I **light** the lamp." (verb) / "The box is **light**." (adjective) / "Switch on the **light**." (noun)
@@ -26,10 +34,15 @@ Q: In "The light is bright", what is "light"?
 A: A noun.
 
 @@ 2
+SCENE: 👤 🏃 ➗ | Subject and predicate!
+
 ## Two parts of a sentence
 Every sentence has two parts:
 - **Subject** – who or what the sentence is about.
 - **Predicate** – what the subject does or is; everything else.
+
+SAY: riya-happy | "The dog barked." The dog is the subject!
+SAY: buddy-happy | And "barked" is the predicate – what the subject does.
 
 ## Examples
 - **The old man** | walked slowly to the temple.
@@ -39,6 +52,9 @@ Every sentence has two parts:
 ## Finding the subject
 Ask "**Who?**" or "**What?**" before the verb.
 "The birds sang sweetly." – Who sang? **The birds** (subject).
+
+SAY: aarav-think | In "Sit down!", where's the subject?
+SAY: buddy-happy | It's hidden – "you" is understood!
 
 ## Hidden subject
 In commands, the subject "you" is hidden: "(You) Shut the door."
@@ -56,6 +72,8 @@ Q: What is the subject in "Please sit down"?
 A: "You" (hidden).
 
 @@ 3
+SCENE: ⏪ ⏺️ ⏩ | The twelve tenses!
+
 ## The twelve tenses
 Each of the three times (present, past, future) has four forms:
 - **Simple:** I write. / I wrote. / I will write.
@@ -63,9 +81,14 @@ Each of the three times (present, past, future) has four forms:
 - **Perfect:** I have written. / I had written. / I will have written.
 - **Perfect continuous:** I have been writing. / I had been writing. / I will have been writing.
 
+SAY: aarav-think | When do I say "I have eaten"?
+SAY: buddy-happy | Use the present perfect for actions just finished or still important now.
+
 ## When to use the perfect tense
 - **Present perfect:** an action just completed or with an effect now – "I **have finished** my homework."
 - **Past perfect:** the earlier of two past actions – "The train **had left** before we **reached**."
+
+SAY: riya-happy | "Since 2020" for a starting point, "for two years" for a length of time!
 
 ## Since and for
 - **Since** + a point of time: since Monday, since 2020.
@@ -82,9 +105,14 @@ Q: Change to past continuous: "He reads."
 A: He was reading.
 
 @@ 4
+SCENE: 🔄 📝 🏏 | Active and passive voice!
+
 ## Active and passive voice
 - **Active voice:** the subject **does** the action. "Ravi **wrote** a letter."
 - **Passive voice:** the subject **receives** the action. "A letter **was written** by Ravi."
+
+SAY: riya-happy | "Riya wrote a poem" becomes "A poem was written by Riya"!
+SAY: buddy-happy | Yes! The object moves to the front in the passive voice.
 
 ## How to change active to passive
 1. Make the **object** the new subject.
@@ -95,6 +123,8 @@ A: He was reading.
 - The cat **chased** the mouse. → The mouse **was chased** by the cat.
 - Mother **cooks** food. → Food **is cooked** by Mother.
 - They **will paint** the wall. → The wall **will be painted** by them.
+
+SAY: aarav-think | We use passive when the doer isn't important!
 
 ## When we use passive
 When the doer is unknown or less important: "My bag **was stolen**." "Rice **is grown** in Punjab."
@@ -109,15 +139,22 @@ Q: Is "The window was broken" active or passive?
 A: Passive.
 
 @@ 5
+SCENE: 💬 🗣️ ✍️ | Direct and indirect speech!
+
 ## Direct and indirect speech
 - **Direct speech:** the speaker's **exact words** in quotation marks. Rohan said, "**I am hungry.**"
 - **Indirect (reported) speech:** we **report** what was said, without quotation marks. Rohan said that **he was hungry**.
+
+SAY: aarav-happy | Riya said, "I am happy."
+SAY: buddy-happy | Indirect: Riya said that she was happy. The tense and pronoun change!
 
 ## Rules for changing
 1. Remove the quotation marks; add **that** (for statements).
 2. Change pronouns to fit: I → he/she, my → his/her, we → they.
 3. If the reporting verb is in the past, move the tense back: am/is → was, are → were, will → would, can → could.
 4. Change words of time and place: now → then, today → that day, here → there, tomorrow → the next day.
+
+SAY: riya-think | Questions use "asked if" or "asked what"!
 
 ## Questions and commands
 - He asked, "Where do you live?" → He asked **where I lived**.
@@ -133,14 +170,22 @@ Q: What does "tomorrow" become in indirect speech?
 A: The next day.
 
 @@ 6
+SCENE: 🌳 💧 🏞️ | The Green Revolution of a Village!
+
+SAY: riya-wow | Pipli's villagers built check dams and planted trees!
+
 ## Read the passage: The Green Revolution of a Village
 Pipli was a dry village in Rajasthan. Rain fell for only a few weeks each year, and the wells dried up by summer. Women walked kilometres every day to fetch water.
 One day, the villagers decided to act. Led by the old schoolteacher, they built small check dams across the streams and dug ponds to catch rainwater. They planted thousands of trees on the bare hills.
 In three years, the wells were full again. Farmers grew two crops a year instead of one. Children, especially girls, could go to school instead of fetching water. Today, people visit Pipli to learn how a village saved itself through **teamwork**.
 
+SAY: buddy-happy | Teamwork brought the water back. Now girls could go to school instead of fetching water.
+
 ## Vocabulary
 - **check dam** – a small wall built across a stream to slow down and store water
 - **bare** – without plants or trees
+
+SAY: aarav-happy | For "why" questions, I'll answer with "because"!
 
 ## How to answer
 - Questions about facts: find the exact line.
@@ -157,6 +202,11 @@ Q: How did the change help girls?
 A: They could go to school instead of fetching water.
 
 @@ 7
+SCENE: ✉️ 📝 🏫 | Letters and essays!
+
+SAY: aarav-think | How is a formal letter different?
+SAY: buddy-happy | It is polite, to the point, and follows a fixed format.
+
 ## Formal letters
 Formal letters are written to officials, like a principal, an editor or a company.
 
@@ -179,6 +229,8 @@ Thanking you,
 Yours obediently,
 Aditya Verma, Class 5-B
 
+SAY: riya-happy | An essay needs an introduction, body and conclusion!
+
 ## Writing an essay
 An essay has an **introduction**, a **body** of two or three paragraphs, and a **conclusion**. Topics: "My Favourite Book", "Save Trees", "A Visit to a Zoo".
 > 💡 Formal letters must be polite and to the point – no slang.
@@ -192,6 +244,10 @@ Q: Name the three parts of an essay.
 A: Introduction, body and conclusion.
 
 @@ 8
+SCENE: 🕊️ 📜 🌅 | Where the Mind is Without Fear!
+
+SAY: riya-wow | Tagore dreamed of a free and fearless India!
+
 ## Where the Mind is Without Fear (lines by Rabindranath Tagore)
 Where the mind is without fear and the head is held high;
 Where knowledge is free;
@@ -199,8 +255,12 @@ Where the world has not been broken up into fragments
 By narrow domestic walls;
 Into that heaven of freedom, my Father, let my country awake.
 
+SAY: buddy-happy | He wished for a nation where knowledge is free and people think clearly.
+
 ## What the poem means
 Tagore wishes for an India where people are **fearless** and proud, where everyone can **learn freely**, and where people are not divided by caste, religion or language ("narrow domestic walls"). He prays that his country wakes up into true freedom.
+
+SAY: aarav-happy | He was the first Asian to win the Nobel Prize!
 
 ## About the poet
 Rabindranath Tagore wrote India's national anthem, "Jana Gana Mana". He won the **Nobel Prize for Literature** in 1913 – the first Asian to do so.

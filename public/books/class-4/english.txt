@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🐝 🐄 💧 | Kinds of nouns!
+
 ## What is a noun?
 A **noun** names a person, place, animal, thing or idea. Nouns can be sorted into kinds.
+
+SAY: riya-think | Is "honesty" a noun? I can't touch it!
+SAY: buddy-happy | Yes! It's an abstract noun – the name of a feeling or idea.
 
 ## Kinds of nouns
 - **Proper noun** – a particular name: Sachin, Kerala, the Taj Mahal, Diwali.
@@ -8,6 +13,8 @@ A **noun** names a person, place, animal, thing or idea. Nouns can be sorted int
 - **Collective noun** – a group: a **pack** of wolves, a **swarm** of bees, a **fleet** of ships, a **bouquet** of flowers, a **class** of students.
 - **Material noun** – what things are made of: gold, wood, cotton, water.
 - **Abstract noun** – ideas or feelings we cannot touch: honesty, courage, joy, childhood.
+
+SAY: aarav-wow | I can count apples but not water. Water is uncountable!
 
 ## Countable and uncountable
 - **Countable:** can be counted – one apple, two apples.
@@ -23,8 +30,13 @@ Q: Is "gold" a material noun?
 A: Yes.
 
 @@ 2
+SCENE: 👦 👧 🫵 | Pronouns!
+
 ## Pronouns take the place of nouns
 A **pronoun** replaces a noun so that we don't repeat it.
+
+SAY: aarav-happy | Myself, yourself, herself – reflexive pronouns!
+SAY: buddy-happy | Well done! There are personal, possessive and reflexive pronouns too.
 
 ## Kinds of pronouns
 - **Personal:** I, we, you, he, she, it, they (and me, us, him, her, them).
@@ -32,6 +44,8 @@ A **pronoun** replaces a noun so that we don't repeat it.
 - **Reflexive:** myself, yourself, himself, herself, itself, ourselves, themselves. "She hurt **herself**."
 - **Demonstrative:** this, that, these, those. "**This** is my house."
 - **Interrogative:** who, whom, whose, which, what. "**Who** is at the door?"
+
+SAY: riya-think | "He gave it to me" – "he" is the subject, "me" is the object!
 
 ## Subject or object?
 - Subject (does the action): **I, we, he, she, they** – "**She** called."
@@ -47,8 +61,13 @@ Q: Choose: "The teacher praised (we/us)."
 A: us.
 
 @@ 3
+SCENE: ⏪ ⏺️ ⏩ | Tenses tell time!
+
 ## Tenses tell time
 **Tense** shows when an action happens: present, past or future.
+
+SAY: riya-happy | I eat, I ate, I will eat!
+SAY: buddy-happy | And "I am eating" is a continuous tense – it's happening right now.
 
 ## Simple tenses
 - **Simple present** – habits and facts: "Birds **fly**." "He **drinks** milk every day."
@@ -60,6 +79,9 @@ These show actions going on:
 - Present continuous: "She **is reading** now."
 - Past continuous: "They **were playing** when it rained."
 - Future continuous: "I **will be travelling** at 6 o'clock."
+
+SAY: aarav-think | Go becomes went, not goed? English is tricky!
+SAY: buddy-happy | Those are irregular verbs. Learn them by heart, a few at a time!
 
 ## Irregular past forms
 begin–began, bring–brought, buy–bought, catch–caught, drink–drank, fly–flew, keep–kept, sing–sang, take–took, teach–taught.
@@ -74,6 +96,11 @@ Q: Past form of "catch"?
 A: caught.
 
 @@ 4
+SCENE: 🐢 🐇 🎶 | Adverbs!
+
+SAY: aarav-happy | The rabbit ran quickly!
+SAY: buddy-happy | "Quickly" is an adverb – it tells how the action happened.
+
 ## What is an adverb?
 An **adverb** tells us more about a **verb** – **how**, **when**, **where** or **how often** something happens.
 
@@ -82,6 +109,8 @@ An **adverb** tells us more about a **verb** – **how**, **when**, **where** or
 - **When (time):** now, today, yesterday, soon – "We will leave **soon**."
 - **Where (place):** here, there, inside, outside – "The children are playing **outside**."
 - **How often (frequency):** always, often, never, sometimes – "She **always** smiles."
+
+SAY: riya-wow | Slow becomes slowly, soft becomes softly!
 
 ## Making adverbs
 Many adverbs are made by adding **-ly** to adjectives: quick → quickly, soft → softly, happy → happily, careful → carefully.
@@ -96,8 +125,13 @@ Q: Make an adverb from "brave".
 A: bravely.
 
 @@ 5
+SCENE: 📦 🐱 🛏️ | Where is it? Prepositions!
+
 ## Prepositions show position
 A **preposition** shows the relation of a noun to another word – often **where** or **when**.
+
+SAY: riya-happy | The cat is under the bed!
+SAY: buddy-happy | "Under" shows place. In, on, under and behind are prepositions.
 
 ## Prepositions of place
 - **in** – inside: The fish is **in** the bowl.
@@ -105,6 +139,8 @@ A **preposition** shows the relation of a noun to another word – often **where
 - **under** – below: The cat is **under** the bed.
 - **between** – in the middle of two: Sit **between** Raj and Mira.
 - **behind / in front of / near / beside / above / below**.
+
+SAY: aarav-think | We say "on Monday" but "at 5 o'clock"!
 
 ## Prepositions of time
 - **at** for exact times: **at** 6 o'clock.
@@ -124,8 +160,13 @@ Q: Fill in: "Share the sweets ___ all the children." (between/among)
 A: among.
 
 @@ 6
+SCENE: 🔗 ➕ 🤝 | Conjunctions join!
+
 ## Conjunctions join
 A **conjunction** is a joining word. It joins words or sentences.
+
+SAY: aarav-happy | I like apples and mangoes!
+SAY: buddy-happy | "And", "but", "or", "because" join words and sentences.
 
 ## Common conjunctions
 - **and** – adds: "I like tea **and** biscuits."
@@ -134,6 +175,8 @@ A **conjunction** is a joining word. It joins words or sentences.
 - **because** – gives a reason: "She stayed home **because** she was ill."
 - **so** – shows a result: "It was raining, **so** we took umbrellas."
 - **when, while, until, although, if**.
+
+SAY: riya-think | I was tired, but I finished my homework!
 
 ## Joining sentences
 "Ravi is tall. Ravi is strong." → "Ravi is tall **and** strong."
@@ -149,8 +192,13 @@ Q: Which conjunction gives a choice?
 A: or.
 
 @@ 7
+SCENE: 🚀 🦅 📚 | Dr. A.P.J. Abdul Kalam!
+
 ## Reading carefully
 Comprehension means understanding a passage and answering questions about it.
+
+SAY: riya-wow | Kalam sold newspapers as a boy and later became President!
+SAY: buddy-happy | He worked hard and never stopped dreaming. He's called the Missile Man of India.
 
 ## Read the passage: Dr. A.P.J. Abdul Kalam
 Abdul Kalam was born in 1931 in Rameswaram, a small town in Tamil Nadu. As a boy, he sold newspapers to help his family. He loved watching birds fly and dreamt of flying himself.
@@ -159,6 +207,8 @@ Kalam studied hard and became a scientist. He helped India make rockets and miss
 ## Word meanings
 - **missile** – a weapon that flies through the air towards a target
 - **President** – the head of our country
+
+SAY: aarav-happy | I'll look for key words from the question in the passage!
 
 ## Answering tips
 Look for key words from the question in the passage. Write answers in complete sentences.
@@ -173,6 +223,11 @@ Q: What did he tell children?
 A: "Dream, dream, dream!"
 
 @@ 8
+SCENE: ✍️ 📖 🦊 | Paragraphs and stories!
+
+SAY: aarav-think | What makes a paragraph good?
+SAY: buddy-happy | One main idea, a topic sentence, and details that support it.
+
 ## A good paragraph
 A paragraph is about **one main idea**.
 1. **Topic sentence** – tells the main idea.
@@ -180,6 +235,8 @@ A paragraph is about **one main idea**.
 3. **Concluding sentence** – sums up.
 
 Example – **My School**: My school is a big, beautiful building. It has a library, a science lab and a large playground. Our teachers are kind and help us learn. I love my school.
+
+SAY: riya-happy | A story needs characters, a problem and an ending!
 
 ## Writing a story
 - **Beginning:** who, where, when.
@@ -197,6 +254,10 @@ Q: Name the three parts of a story.
 A: Beginning, middle and end.
 
 @@ 9
+SCENE: 🏞️ 🌊 🪨 | The Brook!
+
+SAY: riya-wow | The brook keeps flowing forever!
+
 ## The Brook (adapted lines by Alfred Tennyson)
 I chatter over stony ways,
 In little sharps and trebles,
@@ -205,8 +266,12 @@ I babble on the pebbles.
 For men may come and men may go,
 But I go on for ever.
 
+SAY: buddy-happy | The poet makes the brook talk like a person. That's personification!
+
 ## What the poem means
 A **brook** (small stream) is speaking. It makes happy sounds as it flows over stones and pebbles. People are born and die, but the brook keeps flowing forever.
+
+SAY: aarav-happy | The repeated sounds in the poem sound like flowing water!
 
 ## Poetic devices
 - **Personification:** giving human qualities to non-living things – the brook "chatters" and "babbles".

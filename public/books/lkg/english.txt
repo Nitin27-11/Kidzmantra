@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🅰️ 🔠 🦓 | Let's learn capital letters A to Z!
+
 ## Capital letters
 There are **26 letters** in English. Big letters are called **capital letters**. We use them at the start of names and sentences.
+
+SAY: riya-wow | My name starts with a capital R!
+SAY: buddy-happy | Yes! Names always start with a capital letter.
 
 ## A to Z
 A B C D E F G H I J K L M
@@ -19,6 +24,8 @@ N O P Q R S T U V W X Y Z
 Write the first letter of your name as a capital letter. Make it big and colourful!
 > 💡 Capital letters stand tall. They all touch the top line.
 
+SAY: aarav-happy | A, B, C… all the way to Z! I did it!
+
 ## Let's check
 Q: How many letters are there in English?
 A: 26.
@@ -28,8 +35,13 @@ Q: Which letter is for Zebra?
 A: Z.
 
 @@ 2
+SCENE: 🔡 🐜 🐘 | Hello, small letters!
+
 ## Small letters
 Every capital letter has a small friend. Small letters are used in most words we read.
+
+SAY: aarav-think | Big A and small a look different!
+SAY: buddy-happy | They are the same letter, Aarav. One is big, one is small.
 
 ## Capital and small
 - A a, B b, C c, D d, E e, F f, G g
@@ -44,6 +56,9 @@ Some small letters look alike. Look carefully!
 - **m** has two humps. **n** has one hump.
 > 💡 Make a "bed" with your hands: left thumb up is **b**, right thumb up is **d**. b-e-d!
 
+SAY: riya-think | Small b and small d look like twins! How do I know which is which?
+SAY: buddy-happy | b has its tummy on the right side, d has it on the left!
+
 ## Let's check
 Q: What is the small letter for G?
 A: g.
@@ -53,8 +68,13 @@ Q: Write the small letters for C, A and T.
 A: c, a, t – they make the word "cat"!
 
 @@ 3
+SCENE: 🐝 🐍 🐄 | Let's say the sounds!
+
 ## Phonics sounds
 Letters have names, and they also have **sounds**. When we read, we use sounds.
+
+SAY: riya-happy | C says /k/ like cat and cup!
+SAY: buddy-happy | Yes! When we join sounds, we make words: c-a-t, cat!
 
 ## Letter sounds
 - a – **a**pple, b – **b**all, c – **c**at, d – **d**og, e – **e**gg
@@ -70,6 +90,8 @@ Say each sound, then say them fast together:
 - p – e – n → **pen**
 > 💡 Vowels a, e, i, o, u are special. Almost every word has one!
 
+SAY: aarav-wow | d-o-g, dog! I can read!
+
 ## Let's check
 Q: What sound does "m" make?
 A: "mmm", like in mat.
@@ -79,8 +101,13 @@ Q: Name the five vowels.
 A: a, e, i, o, u.
 
 @@ 4
+SCENE: 🖼️ 🐱 🍎 | Match the picture with the word!
+
 ## Matching pictures and words
 A word tells the name of a picture. Let's match them!
+
+SAY: aarav-happy | I see a cat. The word is c-a-t!
+SAY: buddy-happy | Well done! Look at the picture, then find its word.
 
 ## Match and read
 - 🐱 → **cat**
@@ -97,6 +124,8 @@ A word tells the name of a picture. Let's match them!
 4. Find the word that starts with that letter.
 > 💡 "bus" starts with the "b" sound, so look for a word beginning with b.
 
+SAY: riya-happy | Matching is like a fun puzzle!
+
 ## Let's check
 Q: Which word goes with 🐶?
 A: dog.
@@ -106,8 +135,13 @@ Q: Which picture goes with "sun"?
 A: ☀️
 
 @@ 5
+SCENE: 🐑 🌧️ 🎶 | Let's sing rhymes and songs!
+
 ## Rhymes and songs
 Rhymes help us enjoy words. Rhyming words sound the same at the end: **cat – hat – bat**.
+
+SAY: riya-happy | Baa, baa, black sheep, have you any wool?
+SAY: buddy-happy | Lovely! Can you hear words that sound the same? Rain and again!
 
 ## Baa, Baa, Black Sheep
 Baa, baa, black sheep, have you any wool?
@@ -126,6 +160,8 @@ Rain, rain, go away.
 - dame – lane (they sound close!)
 - away – day – play
 > 💡 Make your own rhymes: sun – fun – run!
+
+SAY: aarav-wow | Cat, hat and bat sound the same! They rhyme!
 
 ## Let's check
 Q: How many bags of wool did the sheep have?

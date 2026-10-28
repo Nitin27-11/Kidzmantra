@@ -1,14 +1,21 @@
 @@ 1
+SCENE: 🔢 🌏 🏦 | Large numbers and place value!
+
 ## Big numbers
 - 1,00,000 = one lakh
 - 10,00,000 = ten lakh (1 million)
 - 1,00,00,000 = one crore (10 million)
+
+SAY: aarav-think | In 5,674, what's the difference between place value and face value of 6?
+SAY: buddy-happy | Face value is just 6. Place value is 600, because it's in the hundreds place!
 
 ## Place value and face value
 In 4,73,58,216:
 - The **face value** of 7 is just **7**.
 - The **place value** of 7 is **70,00,000** (seventy lakh), because it is in the ten-lakhs place.
 - Read as: **four crore seventy-three lakh fifty-eight thousand two hundred sixteen**.
+
+SAY: riya-happy | 10 lakh = 1 million!
 
 ## Indian and international systems
 - Indian: 4,73,58,216
@@ -27,6 +34,11 @@ Q: How many lakh make one crore?
 A: 100.
 
 @@ 2
+SCENE: ➕ ✖️ ➗ | Four operations – in the right order!
+
+SAY: riya-think | Is 2 + 3 × 4 equal to 20 or 14?
+SAY: buddy-happy | 14! Brackets first, then × and ÷, then + and −.
+
 ## Order of operations
 When a problem has more than one operation, follow **BODMAS**:
 **B**rackets → **O**f → **D**ivision → **M**ultiplication → **A**ddition → **S**ubtraction
@@ -39,6 +51,8 @@ When a problem has more than one operation, follow **BODMAS**:
 ## Word problems with two steps
 A school bought 25 boxes of chalk at ₹48 each and paid with ₹2,000. How much change?
 Cost = 25 × 48 = ₹1,200. Change = 2,000 – 1,200 = **₹800**.
+
+SAY: aarav-happy | I check subtraction answers by adding back!
 
 ## Checking answers
 - Addition ↔ subtraction are inverse operations.
@@ -54,6 +68,11 @@ Q: 100 – 36 ÷ 4 = ?
 A: 91.
 
 @@ 3
+SCENE: 🔢 🧩 🔗 | HCF and LCM!
+
+SAY: aarav-think | What's the HCF of 12 and 18?
+SAY: buddy-happy | 6 – the biggest number that divides both exactly!
+
 ## HCF – Highest Common Factor
 The **HCF** is the biggest number that divides two or more numbers exactly.
 Factors of 12: 1, 2, 3, 4, **6**, 12
@@ -71,6 +90,8 @@ Multiples of 6: 6, **12**, 18, 24…
 - HCF = common primes = 2 × 3 = **6**
 - LCM = all primes, as many times as they appear most = 2 × 2 × 3 × 3 = **36**
 
+SAY: riya-wow | Two bells ringing every 4 and 6 minutes ring together every 12 minutes – that's the LCM!
+
 ## Where we use them
 - **HCF:** cutting ribbons of 12 m and 18 m into the longest equal pieces → 6 m pieces.
 - **LCM:** two bells ring every 4 and 6 minutes; they ring together every 12 minutes.
@@ -85,10 +106,15 @@ Q: Two lights blink every 6 and 8 seconds. After how many seconds do they blink 
 A: 24 seconds (LCM).
 
 @@ 4
+SCENE: 🍕 🥧 🍫 | Fractions!
+
 ## Comparing fractions
 - Same denominator: bigger numerator is bigger. ⁵⁄₉ > ²⁄₉.
 - Same numerator: smaller denominator is bigger. ³⁄₄ > ³⁄₈.
 - Different: make the denominators the same using LCM. Compare ⅔ and ¾: ⁸⁄₁₂ and ⁹⁄₁₂ → ¾ is bigger.
+
+SAY: riya-think | How do I add ½ and ⅓?
+SAY: buddy-happy | Make the bottoms the same first: 3/6 + 2/6 = 5/6!
 
 ## Adding and subtracting unlike fractions
 ½ + ⅓ = ³⁄₆ + ²⁄₆ = **⁵⁄₆**
@@ -100,6 +126,8 @@ Fraction of a number: ¾ of 20 = ¾ × 20 = **15**.
 
 ## Simplest form
 Divide top and bottom by their HCF: ¹²⁄₁₈ → HCF 6 → **⅔**.
+
+SAY: aarav-happy | 7/4 is the same as 1¾ – a mixed number!
 
 ## Mixed numbers
 2⅓ = (2 × 3 + 1)⁄3 = ⁷⁄₃.
@@ -114,8 +142,12 @@ Q: What is ⅔ of 27?
 A: 18.
 
 @@ 5
+SCENE: 🔟 💲 📏 | Decimals!
+
 ## Decimal place value
 In 36.482: 3 tens, 6 ones, **4 tenths**, **8 hundredths**, **2 thousandths**.
+
+SAY: aarav-happy | Line up the decimal points when adding!
 
 ## Adding and subtracting decimals
 Line up the decimal points; fill empty places with zeros.
@@ -127,10 +159,14 @@ Line up the decimal points; fill empty places with zeros.
 –  4.36
 = **5.64**
 
+SAY: buddy-happy | When multiplying, count the decimal places in both numbers.
+
 ## Multiplying decimals
 - By 10, 100, 1000: move the point right 1, 2, 3 places: 4.56 × 100 = 456.
 - By a whole number: 2.5 × 4 = **10.0**
 - Two decimals: 0.3 × 0.2 = 0.06 (count decimal places: 1 + 1 = 2).
+
+SAY: riya-wow | 4.5 ÷ 10 = 0.45. The point moves left!
 
 ## Dividing decimals
 By 10, 100: move the point left: 45.6 ÷ 10 = 4.56.
@@ -145,6 +181,10 @@ Q: Write ¾ as a decimal.
 A: 0.75.
 
 @@ 6
+SCENE: 💯 📊 🏷️ | Percentage!
+
+SAY: riya-happy | Percent means "out of 100"!
+
 ## What is percentage?
 **Per cent** means "out of 100". The sign is **%**.
 - 25% = ²⁵⁄₁₀₀ = ¼
@@ -157,8 +197,12 @@ A: 0.75.
 - Decimal → %: 0.35 = **35%**
 - % → decimal: 8% = **0.08**
 
+SAY: buddy-happy | 25% of 80 = 25/100 × 80 = 20!
+
 ## Percentage of a number
 20% of 150 = ²⁰⁄₁₀₀ × 150 = **30**
+
+SAY: aarav-wow | 20% off on toys – that's a discount!
 
 ## In daily life
 - Marks: 45 out of 50 = ⁴⁵⁄₅₀ × 100 = **90%**
@@ -174,8 +218,13 @@ Q: Asha got 36 out of 40. What is her percentage?
 A: 90%.
 
 @@ 7
+SCENE: 📐 ⏰ ↗️ | Angles!
+
 ## Measuring angles
 An angle is measured in **degrees (°)** with a **protractor**.
+
+SAY: aarav-think | What's the difference between acute and obtuse angles?
+SAY: buddy-happy | Acute is less than 90°, obtuse is between 90° and 180°.
 
 ## Types of angles
 - **Acute:** less than 90°
@@ -189,6 +238,8 @@ An angle is measured in **degrees (°)** with a **protractor**.
 - At 3 o'clock, the hands make a **right angle** (90°).
 - At 6 o'clock, a **straight angle** (180°).
 - Each hour mark is 30° apart (360° ÷ 12).
+
+SAY: riya-happy | I'll measure angles with a protractor!
 
 ## Using a protractor
 1. Place the centre point on the vertex.
@@ -205,6 +256,10 @@ Q: How many degrees in a full turn?
 A: 360°.
 
 @@ 8
+SCENE: 🔺 🟦 🪁 | Triangles and quadrilaterals!
+
+SAY: riya-wow | The angles of every triangle add up to 180°!
+
 ## Triangles
 A triangle has 3 sides, 3 angles and 3 vertices. **The angles always add up to 180°.**
 By sides:
@@ -214,6 +269,8 @@ By sides:
 By angles:
 - **Acute-angled**, **right-angled** (one 90° angle), **obtuse-angled**.
 
+SAY: buddy-happy | And the angles of a quadrilateral add up to 360°.
+
 ## Quadrilaterals
 Four-sided shapes. **Angles add up to 360°.**
 - **Square:** 4 equal sides, 4 right angles.
@@ -221,6 +278,8 @@ Four-sided shapes. **Angles add up to 360°.**
 - **Parallelogram:** opposite sides equal and parallel.
 - **Rhombus:** 4 equal sides; opposite sides parallel.
 - **Trapezium:** one pair of parallel sides.
+
+SAY: aarav-happy | A square is a special rectangle!
 
 ## Example
 A triangle has angles 50° and 70°. The third angle = 180° – 50° – 70° = **60°**.
@@ -235,17 +294,25 @@ Q: Which quadrilateral has exactly one pair of parallel sides?
 A: A trapezium.
 
 @@ 9
+SCENE: 📦 🟩 🥤 | Perimeter, area and volume!
+
+SAY: aarav-think | How much space is inside a box?
+
 ## Perimeter and area
 - **Rectangle:** perimeter = 2 × (l + b); area = l × b
 - **Square:** perimeter = 4 × side; area = side × side
 - **Triangle (right-angled):** area = ½ × base × height
 Example: a rectangular field 30 m × 20 m: perimeter = 100 m; area = **600 sq m**.
 
+SAY: buddy-happy | That's volume! Length × breadth × height.
+
 ## Volume
 **Volume** is the space a solid takes up, measured in **cubic units** (cm³, m³).
 - **Cuboid:** volume = length × breadth × height
 - **Cube:** volume = side × side × side
 Example: a box 5 cm × 4 cm × 3 cm → volume = **60 cm³**.
+
+SAY: riya-happy | 1 litre = 1000 cubic centimetres!
 
 ## Capacity
 1 cm³ holds 1 mL. 1,000 cm³ = 1 litre.
@@ -260,15 +327,22 @@ Q: Area of a right triangle with base 10 cm and height 6 cm?
 A: 30 sq cm.
 
 @@ 10
+SCENE: 🚗 ⏱️ 📍 | Time and speed!
+
 ## Time
 - 1 hour = 60 minutes; 1 minute = 60 seconds; so 1 hour = 3,600 seconds.
 - 24-hour clock: 7:45 p.m. = 19:45.
 - Duration: 10:40 to 14:15 → 3 h 35 min.
 
+SAY: riya-think | A car travels 120 km in 2 hours. How fast is it?
+SAY: buddy-happy | Speed = distance ÷ time = 60 km per hour!
+
 ## Speed
 **Speed** tells how fast something moves – the distance covered in one unit of time.
 **Speed = Distance ÷ Time**
 A car covers 180 km in 3 hours → speed = 180 ÷ 3 = **60 km/h**.
+
+SAY: aarav-wow | Distance = speed × time!
 
 ## Finding distance and time
 - Distance = Speed × Time: a cyclist at 12 km/h for 2 hours goes **24 km**.
@@ -284,8 +358,13 @@ Q: How many seconds in 5 minutes?
 A: 300 seconds.
 
 @@ 11
+SCENE: 📊 🥧 ➗ | Data handling!
+
 ## Collecting and reading data
 We collect data, put it in a **table**, and show it with **graphs**.
+
+SAY: aarav-think | My scores are 8, 6 and 10. What's my average?
+SAY: buddy-happy | Add them and divide by 3: 24 ÷ 3 = 8!
 
 ## Mean (average)
 **Average = total ÷ number of items**
@@ -295,6 +374,8 @@ Marks: 70, 80, 90, 60, 100 → total 400 → average = 400 ÷ 5 = **80**.
 - **Bar graph:** compares amounts.
 - **Line graph:** shows change over time, like temperature through a week.
 - **Pie chart:** shows parts of a whole. A full circle = 360° = 100%.
+
+SAY: riya-happy | A pie chart shows how a whole is divided into parts!
 
 ## Reading a pie chart
 If ½ of the class likes cricket, that slice is half the circle (180°).
@@ -309,10 +390,15 @@ Q: In a pie chart, what does a quarter of the circle stand for?
 A: 25% (90°).
 
 @@ 12
+SCENE: 🔢 ✨ 🔺 | Magical patterns!
+
 ## Patterns in numbers
 - **Square numbers:** 1, 4, 9, 16, 25, 36 … (1×1, 2×2, 3×3 …)
 - **Triangular numbers:** 1, 3, 6, 10, 15 … (add 2, then 3, then 4 …)
 - **Odd numbers add up to squares:** 1 + 3 = 4, 1 + 3 + 5 = 9, 1 + 3 + 5 + 7 = 16.
+
+SAY: riya-wow | 11 × 11 = 121, 111 × 111 = 12321!
+SAY: buddy-happy | Maths is full of magic patterns!
 
 ## Magic patterns
 - 1 × 1 = 1; 11 × 11 = 121; 111 × 111 = 12,321
@@ -320,6 +406,8 @@ A: 25% (90°).
 
 ## Shape patterns
 Patterns can **grow** (each step adds more), **repeat**, or **turn** (rotate by 90°).
+
+SAY: aarav-think | 3, 6, 12, 24… the rule is "double it"!
 
 ## Find the rule
 2, 6, 18, 54, … → multiply by 3 → **162**

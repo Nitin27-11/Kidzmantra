@@ -1,9 +1,16 @@
 @@ 1
+SCENE: 💯 🔟 🧮 | Let's count up to 100!
+
 ## Numbers up to 100
 We can count all the way to **100**! Numbers from 1 to 100 are made of **tens** and **ones**.
 
+SAY: aarav-wow | 100 is so big! How do I count that far?
+SAY: buddy-happy | Count in tens: 10, 20, 30… up to 100. That's just 10 jumps!
+
 ## Count in tens
 10, 20, 30, 40, 50, 60, 70, 80, 90, **100**
+
+SAY: riya-happy | 34 is 3 tens and 4 ones!
 
 ## Tens and ones
 - 23 = **2 tens** and **3 ones**
@@ -24,12 +31,20 @@ Q: Write "fifty-two" in numbers.
 A: 52.
 
 @@ 2
+SCENE: ➕ 🍎 🍊 | Let's add!
+
 ## Addition
 **Addition** means putting things together to find **how many in all**. We use the sign **+**.
+
+SAY: riya-happy | 2 apples and 3 apples make 5 apples!
+SAY: buddy-happy | That's addition – putting things together.
 
 ## Adding with objects
 🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎
 **3 + 2 = 5**
+
+SAY: aarav-think | Can I add without counting everything from 1?
+SAY: buddy-happy | Yes! Start from the bigger number and count on.
 
 ## Counting on
 Start from the bigger number and count on.
@@ -54,12 +69,19 @@ Q: 3 birds sit on a tree. 4 more come. How many birds?
 A: 7 birds.
 
 @@ 3
+SCENE: ➖ 🍪 🎈 | Let's subtract!
+
 ## Subtraction
 **Subtraction** means taking away. It tells us **how many are left**. We use the sign **–**.
+
+SAY: aarav-think | I had 5 balloons. 2 flew away. How many are left?
+SAY: buddy-happy | 5 take away 2 is 3! That's subtraction.
 
 ## Taking away
 🎈🎈🎈🎈🎈 – 2 balloons fly away → 🎈🎈🎈
 **5 – 2 = 3**
+
+SAY: riya-happy | Counting back helps: 5… 4, 3!
 
 ## Counting back
 9 – 3 → start at 9, count back 8, 7, 6 → **6**
@@ -83,8 +105,13 @@ Q: You have 6 sweets and give 2 to a friend. How many are left?
 A: 4.
 
 @@ 4
+SCENE: 🔺 🎲 📦 | Shapes and space!
+
 ## Shapes and space
 Shapes are all around us. We also learn words for **where** things are.
+
+SAY: riya-happy | My dice is a cube!
+SAY: buddy-happy | Yes! Shapes are flat or solid. A dice is a solid cube.
 
 ## Flat shapes
 - **Circle** – no corners
@@ -94,6 +121,8 @@ Shapes are all around us. We also learn words for **where** things are.
 
 ## Solid shapes
 - **Cube** (dice), **cuboid** (brick, box), **sphere** (ball), **cylinder** (tin), **cone** (birthday cap)
+
+SAY: aarav-wow | The cat is under the table and the ball is on the chair!
 
 ## Position words
 - The cat is **on** the table.
@@ -112,13 +141,21 @@ Q: Fill in: The ball is ___ the bed. (under/sky)
 A: under.
 
 @@ 5
+SCENE: 📏 ✋ 🦶 | Long and short!
+
 ## Long and short
 We **measure** to find how long or short something is.
+
+SAY: aarav-wow | My pencil is longer than Riya's!
+SAY: buddy-happy | We compare things to see which is longer or shorter.
 
 ## Comparing
 - A pencil is **longer** than a crayon.
 - A snake is **long**; a worm is **short**.
 - A pole is **tall**; a stool is **short**.
+
+SAY: riya-think | Why is my table 6 hand-spans, but 5 hand-spans for Papa?
+SAY: buddy-happy | Because Papa's hand is bigger! That's why we use rulers too.
 
 ## Measuring with hands and feet
 We can measure using a **hand span**, **steps** or **paper clips**.
@@ -133,8 +170,13 @@ Q: Name one thing you can use to measure length without a ruler.
 A: Hand span, steps or paper clips.
 
 @@ 6
+SCENE: 📅 ☀️ 🌙 | Days of the week!
+
 ## Days of the week
 A **week** has **7 days**.
+
+SAY: riya-happy | Sunday, Monday, Tuesday… there are 7 days!
+SAY: buddy-happy | Yes! 7 days make one week.
 
 ## The seven days
 1. Sunday
@@ -144,6 +186,8 @@ A **week** has **7 days**.
 5. Thursday
 6. Friday
 7. Saturday
+
+SAY: aarav-think | If today is Monday, yesterday was Sunday!
 
 ## Today, yesterday, tomorrow
 If today is **Monday**:
@@ -163,8 +207,13 @@ Q: If today is Friday, what was yesterday?
 A: Thursday.
 
 @@ 7
+SCENE: 🪙 💵 🛒 | Coins and notes!
+
 ## Coins and notes
 We use **money** to buy things. Indian money is called the **rupee (₹)**.
+
+SAY: aarav-happy | I have a 5 rupee coin!
+SAY: buddy-happy | We use coins and notes to buy things.
 
 ## Coins
 ₹1, ₹2, ₹5, ₹10 and ₹20 coins.
@@ -176,6 +225,8 @@ We use **money** to buy things. Indian money is called the **rupee (₹)**.
 - ₹5 + ₹5 = **₹10**
 - ₹10 + ₹10 = **₹20**
 - ₹2 + ₹2 + ₹1 = **₹5**
+
+SAY: riya-wow | Two 5 rupee coins make 10 rupees!
 
 ## Shopping
 A pencil costs ₹5 and an eraser costs ₹3. Together they cost **₹8**.
@@ -190,8 +241,13 @@ Q: A toy costs ₹7 and you pay ₹10. How much change?
 A: ₹3.
 
 @@ 8
+SCENE: 🔴 🔵 🔺 | Let's find patterns!
+
 ## Patterns
 A **pattern** is an arrangement that repeats in a fixed way.
+
+SAY: riya-think | Red, blue, red, blue… what's next?
+SAY: buddy-happy | Red! Patterns repeat in a fixed order.
 
 ## Shape and colour patterns
 - ⬛⬜⬛⬜ → next ⬛
@@ -202,6 +258,8 @@ A **pattern** is an arrangement that repeats in a fixed way.
 - 5, 10, 15, 20, **25** (add 5)
 - 10, 20, 30, **40** (add 10)
 - 20, 18, 16, **14** (take away 2)
+
+SAY: aarav-wow | Floor tiles and rangoli have patterns too!
 
 ## Patterns in life
 Days of the week repeat. Seasons repeat. Rangoli and mehendi designs have patterns.

@@ -1,7 +1,12 @@
 @@ 1
+SCENE: 🍎 🏀 🐱 | Let's meet letters A to J!
+
 ## Let's meet the letters
 Letters are special shapes. We use them to make words.
 Today we meet ten letters: **A B C D E F G H I J**.
+
+SAY: riya-wow | A for apple, B for ball! Letters are fun!
+SAY: buddy-happy | Yes, Riya! Every letter has a name and a picture friend.
 
 ## Look and say
 - **A** is for Apple 🍎
@@ -20,6 +25,8 @@ Draw the letter in the air with your finger. Big A! Big B!
 Now draw it on your friend's back. Can they guess the letter?
 > 💡 Fun tip: Sing "A, B, C, D, E, F, G…" and clap for every letter.
 
+SAY: aarav-happy | I can say A, B, C, D, E, F, G, H, I, J!
+
 ## Let's check
 Q: Which letter is for Apple?
 A: A is for Apple.
@@ -29,8 +36,13 @@ Q: Which animal starts with C?
 A: Cat starts with C.
 
 @@ 2
+SCENE: 🐝 🐍 🥁 | Letters can make sounds!
+
 ## Letters make sounds
 Every letter makes a sound. When we put sounds together, we make words!
+
+SAY: aarav-wow | The snake says sss… is that the letter S?
+SAY: buddy-happy | Yes, Aarav! S says /s/ like a snake. Every letter has its own sound.
 
 ## Listen and say
 - **A** says "a" as in **a**nt
@@ -49,6 +61,8 @@ Say a sound and find something in your room that starts with it.
 "b, b, b… **b**ag!" "f, f, f… **f**an!"
 > 💡 Put your hand in front of your mouth and say "h". Can you feel the air?
 
+SAY: riya-happy | B says /b/ for ball, bat and banana!
+
 ## Let's check
 Q: What sound does B make?
 A: B says "b", like in bat.
@@ -56,8 +70,13 @@ Q: Which word starts with the "f" sound: fan or cup?
 A: Fan starts with "f".
 
 @@ 3
+SCENE: ⭐ 🌙 🎵 | Let's sing rhymes together!
+
 ## Let's sing rhymes
 Rhymes are short, happy songs. Words in a rhyme often sound the same at the end, like **star** and **are**.
+
+SAY: riya-happy | I love singing rhymes with my friends!
+SAY: buddy-happy | Rhymes are songs with words that sound the same, like star and are.
 
 ## Twinkle, twinkle, little star
 Twinkle, twinkle, little star,
@@ -75,6 +94,8 @@ Open your mouth! Ha! Ha! Ha!
 Sing "Twinkle, twinkle" and open and close your hands like a shining star.
 > 💡 Rhyming words: star – are, high – sky. Can you hear how they match?
 
+SAY: aarav-wow | Twinkle, twinkle! I can sing it all by myself now!
+
 ## Let's check
 Q: Which word rhymes with star?
 A: Are rhymes with star.
@@ -82,8 +103,13 @@ Q: In the rhyme, what was Johny eating?
 A: Sugar!
 
 @@ 4
+SCENE: 🌳 🛝 🦋 | What can you see in the picture?
+
 ## Let's talk about pictures
 Pictures tell us stories. When we look at a picture, we can say what we see.
+
+SAY: aarav-wow | I see a slide, a tree and a big butterfly!
+SAY: buddy-happy | Well done, Aarav! Look carefully and say what you see.
 
 ## Look at a park picture
 Think of a park. What can you see?
@@ -97,6 +123,8 @@ Start with "I see a…".
 "I see a red ball." "I see a big bird."
 > 💡 Use colour words to make your talk better: red, blue, green, yellow.
 
+SAY: riya-happy | We say it nicely: "I can see a red ball."
+
 ## Let's do
 Look out of your window. Tell your family three things you see.
 
@@ -107,8 +135,13 @@ Q: What colour is a tree's leaf?
 A: Green.
 
 @@ 5
+SCENE: 🐦 🏺 🪨 | Story time! Let's listen.
+
 ## Let's listen to a story
 Stories are fun! To enjoy a story, we sit still, look at the person telling it, and listen with our ears.
+
+SAY: riya-think | How will the thirsty crow drink the water?
+SAY: buddy-happy | Listen to the story, Riya. The crow has a clever idea!
 
 ## The Thirsty Crow
 One hot day, a crow was very thirsty.
@@ -122,6 +155,8 @@ The crow drank the water and flew away happily.
 - Do not give up.
 - Think and you will find a way.
 > 💡 Good listeners keep their eyes on the speaker and their hands still.
+
+SAY: aarav-wow | Wow! The clever crow never gave up!
 
 ## Let's check
 Q: Why was the crow sad?

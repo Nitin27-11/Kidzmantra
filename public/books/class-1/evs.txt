@@ -1,12 +1,19 @@
 @@ 1
+SCENE: 🧒 📏 🪥 | All about me!
+
 ## Myself
 I am special. There is nobody else exactly like me!
+
+SAY: riya-happy | My name is Riya and I am 6 years old!
+SAY: buddy-happy | Everyone is special, Riya! Tell us about yourself.
 
 ## All about me
 - I have a **name**.
 - I have a **birthday**.
 - I am a boy or a girl, and I study in Class 1.
 - I have likes: my favourite colour, food and game.
+
+SAY: aarav-wow | My old shirt doesn't fit me now. I am growing!
 
 ## I am growing
 When I was a baby, I could not walk or talk. Now I can run, read and write! I grow taller every year.
@@ -17,6 +24,8 @@ When I was a baby, I could not walk or talk. Now I can run, read and write! I gr
 - I keep my things neat.
 > 💡 Learn your full name, your parents' names and your home address – but share them only with trusted people.
 
+SAY: buddy-happy | Take care of yourself: bath, brush and eat well every day!
+
 ## Let's check
 Q: Name two things you can do now that you could not do as a baby.
 A: Walk, talk, read, write, run, etc.
@@ -24,8 +33,13 @@ Q: Should you tell your address to a stranger?
 A: No.
 
 @@ 2
+SCENE: 👨‍👩‍👧 👵 ❤️ | My family!
+
 ## My family
 My family loves me and takes care of me. I love my family too.
+
+SAY: aarav-happy | My Dadi tells me stories every night!
+SAY: buddy-happy | Grandparents, parents, brothers and sisters – a family loves and cares.
 
 ## Family members
 Mother, father, brothers, sisters, grandparents, uncles, aunts and cousins.
@@ -33,6 +47,8 @@ Mother, father, brothers, sisters, grandparents, uncles, aunts and cousins.
 ## Kinds of families
 - **Nuclear family** – parents and children.
 - **Joint family** – grandparents, parents, uncles, aunts and children living together.
+
+SAY: riya-happy | I help my family by keeping my room neat!
 
 ## How we help
 - Mother and father work and look after the home.
@@ -47,8 +63,13 @@ Q: How can you help at home?
 A: Keep toys in place, water plants, set the table, etc.
 
 @@ 3
+SCENE: 🏠 🛖 🏢 | Welcome to my home!
+
 ## My home
 A home protects us from the sun, rain, cold and animals. 🏠
+
+SAY: riya-think | Why are some houses made of mud and some of bricks?
+SAY: buddy-happy | People build houses that suit their weather and place!
 
 ## Kinds of houses
 - **Pucca house** – made of bricks, cement and iron. Strong.
@@ -59,6 +80,8 @@ A home protects us from the sun, rain, cold and animals. 🏠
 
 ## Rooms and their uses
 Kitchen for cooking, bedroom for sleeping, bathroom for bathing, living room for sitting together.
+
+SAY: aarav-happy | We keep our home clean so we stay healthy.
 
 ## A clean home
 A clean home keeps away flies, mosquitoes and diseases.
@@ -73,8 +96,13 @@ Q: Why should we keep our home clean?
 A: To keep away flies, mosquitoes and diseases.
 
 @@ 4
+SCENE: 🌳 🌸 🌿 | Plants around us!
+
 ## Plants around us
 Plants are living things. They grow, need food and water, and give us many things.
+
+SAY: aarav-wow | Some plants are tall trees and some are tiny grass!
+SAY: buddy-happy | Yes! Trees, shrubs, herbs, climbers – plants come in many kinds.
 
 ## Kinds of plants
 - **Trees** – big and tall with a hard, thick trunk. Mango, neem, banyan.
@@ -85,6 +113,8 @@ Plants are living things. They grow, need food and water, and give us many thing
 
 ## Parts of a plant
 Root, stem, leaf, flower, fruit and seed.
+
+SAY: riya-happy | Plants give us fruits, vegetables and fresh air!
 
 ## Plants give us
 Fruits, vegetables, wood, cotton, medicines and fresh air.
@@ -99,8 +129,13 @@ Q: Name two things plants give us.
 A: Fruits, vegetables, wood, cotton, medicines, fresh air.
 
 @@ 5
+SCENE: 🐘 🐟 🐦 | Animals around us!
+
 ## Animals around us
 There are many kinds of animals. Some live with us; some live in forests; some live in water.
+
+SAY: riya-think | Where do fish live?
+SAY: buddy-happy | In water! Some animals live on land, some in water, some in trees.
 
 ## Where they live
 - **Pet animals:** dog, cat, parrot – live in our homes.
@@ -112,6 +147,8 @@ There are many kinds of animals. Some live with us; some live in forests; some l
 - **Plant-eaters:** cow, goat, rabbit, elephant.
 - **Meat-eaters:** lion, tiger, wolf.
 - **Eat both:** bear, crow, dog.
+
+SAY: aarav-wow | A snake crawls, a bird flies and a fish swims!
 
 ## How they move
 Birds fly, fish swim, snakes crawl, frogs hop, horses run.
@@ -126,8 +163,13 @@ Q: How does a frog move?
 A: It hops (and swims).
 
 @@ 6
+SCENE: 🍎 🥛 🍛 | The food we eat!
+
 ## Food we eat
 We need food to grow, to be strong and to have energy to play. 🍽️
+
+SAY: aarav-happy | Rice and dal come from plants!
+SAY: buddy-happy | Right! And milk, eggs and honey come from animals.
 
 ## Food from plants
 Rice, wheat, dal, fruits, vegetables, sugar, oil.
@@ -139,6 +181,8 @@ Milk, curd, paneer, ghee, honey, eggs, fish.
 - **Breakfast** in the morning – poha, idli, paratha, milk.
 - **Lunch** in the afternoon – dal, rice, roti, sabzi.
 - **Dinner** at night.
+
+SAY: riya-happy | I wash my hands before eating and chew slowly!
 
 ## Good eating habits
 - Wash hands before eating.
@@ -154,8 +198,13 @@ Q: Name one good eating habit.
 A: Wash hands, chew properly, do not waste food.
 
 @@ 7
+SCENE: 💧 🚰 🌧️ | Water is precious!
+
 ## Water
 Water is very important. All living things need water to live. 💧
+
+SAY: riya-think | What do we use water for?
+SAY: buddy-happy | Drinking, cooking, bathing, washing – we need water every day!
 
 ## Uses of water
 Drinking, cooking, bathing, washing clothes, cleaning the house, watering plants.
@@ -165,6 +214,8 @@ Rain, rivers, lakes, ponds, wells, taps and hand pumps.
 
 ## Clean water
 Drink only **clean** water. Dirty water can make us sick. Water can be cleaned by **boiling** or using a **filter**.
+
+SAY: aarav-happy | I turn off the tap while brushing to save water!
 
 ## Save water
 - Close the tap while brushing.
@@ -181,8 +232,13 @@ Q: Give one way to save water.
 A: Close the tap while brushing.
 
 @@ 8
+SCENE: 👩‍⚕️ 👨‍🌾 📮 | Our helpers!
+
 ## Our helpers
 Many people work hard to make our lives easy. They are our **helpers**.
+
+SAY: aarav-happy | The farmer grows the food we eat!
+SAY: buddy-happy | Doctors, teachers, farmers, cobblers – helpers make our lives better.
 
 ## Helpers and their work
 - **Doctor and nurse** – look after us when we are sick.
@@ -194,6 +250,8 @@ Many people work hard to make our lives easy. They are our **helpers**.
 - **Tailor** – stitches clothes.
 - **Cobbler** – mends shoes.
 - **Sweeper** – keeps our streets clean.
+
+SAY: riya-wow | A doctor uses a stethoscope to listen to our heart!
 
 ## Their tools
 Doctor – stethoscope, carpenter – saw and hammer, tailor – needle and scissors, farmer – plough.

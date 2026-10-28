@@ -1,0 +1,42 @@
+1 | 🔢 🌻 🔺 | Become a pattern detective!
+1.2 riya-think | Is maths only about counting?
+1.2 buddy-happy | Not at all! Maths is often called the science of patterns.
+1.5 aarav-wow | 1 + 3 + 5 = 9 = 3 × 3! Odd numbers add up to squares!
+1.13 buddy-happy | Pattern detectives, it's quiz time!
+2 | 📐 ⏰ ✂️ | Lines and angles everywhere!
+2.2 aarav-think | Is a line the same as a line segment?
+2.2 buddy-happy | No! A line goes on forever both ways. A segment has two end points.
+2.6 riya-wow | A right angle is exactly 90°, like the corner of a book!
+3 | 🔢 🪄 🧮 | Let's play with numbers!
+3.2 riya-happy | Numbers can tell us so many things!
+3.5 aarav-wow | 6174 is a magic number? Any 4-digit number leads to it?
+3.5 buddy-happy | Almost any! Arrange digits big-to-small, subtract small-to-big, and repeat. Try it!
+3.8 riya-think | The Collatz game – halve if even, 3n+1 if odd. Do we always reach 1?
+4 | 📊 ✏️ 🖼️ | Data tells a story!
+4.2 aarav-think | What exactly is data?
+4.2 buddy-happy | Facts and numbers we collect to answer a question.
+4.6 riya-happy | Bar graphs make it easy to compare!
+5 | 🔢 🧩 🔐 | Prime time!
+5.2 riya-think | Is 1 a prime number?
+5.3 buddy-happy | No! A prime has exactly two factors – 1 and itself. 1 has only one.
+5.4 aarav-wow | The Sieve of Eratosthenes crosses out numbers to find primes!
+6 | 🟩 📏 🏡 | Perimeter and area!
+6.2 aarav-think | How much fence goes around our garden?
+6.2 buddy-happy | That's perimeter – the distance around a shape.
+6.7 riya-wow | Two shapes with the same perimeter can have different areas!
+7 | 🍕 🥧 📏 | Fractions!
+7.2 riya-happy | Half a roti is ½ – one of two equal parts!
+7.3 buddy-happy | Fractions also sit on the number line between whole numbers.
+7.5 aarav-think | ½ = 2/4 = 3/6? They look different but are equal!
+8 | 📐 ⭕ ✏️ | Let's construct!
+8.2 aarav-happy | I've got my compass, ruler and pencil ready!
+8.3 buddy-happy | Set the compass to 3 cm, fix the point and turn. A perfect circle!
+8.5 riya-wow | I drew a 6 cm × 4 cm rectangle with perfect right angles!
+9 | 🦋 🔤 🔄 | Symmetry is beautiful!
+9.2 riya-wow | A butterfly's wings are mirror images!
+9.2 buddy-happy | That's line symmetry – fold along the line and both halves match.
+9.5 aarav-think | A fan looks the same after a turn – rotational symmetry!
+10 | ➖ 🏢 🌡️ | The other side of zero!
+10.2 aarav-think | Can a number be less than zero?
+10.2 buddy-happy | Yes! Negative numbers, like −5 °C on a cold day.
+10.4 riya-happy | Basement floors in a lift are like negative numbers!

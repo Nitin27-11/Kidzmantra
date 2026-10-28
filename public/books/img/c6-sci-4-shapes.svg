@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 210" width="700" height="210" font-family="Arial, sans-serif">
+  <rect width="700" height="210" fill="#fff"/>
+  <!-- bar -->
+  <rect x="20" y="70" width="60" height="30" fill="#e04848"/><rect x="80" y="70" width="60" height="30" fill="#3a6fd8"/>
+  <text x="50" y="91" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">N</text><text x="110" y="91" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">S</text>
+  <text x="80" y="170" font-size="15" text-anchor="middle" fill="#222">(a) Bar magnet</text>
+  <!-- horseshoe / U -->
+  <path d="M200 40 v60 a40 40 0 0 0 80 0 v-60 h-22 v60 a18 18 0 0 1 -36 0 v-60 z" fill="#777"/>
+  <rect x="200" y="40" width="22" height="22" fill="#e04848"/><rect x="258" y="40" width="22" height="22" fill="#3a6fd8"/>
+  <text x="211" y="34" font-size="15" text-anchor="middle" font-weight="bold" fill="#e04848">N</text><text x="269" y="34" font-size="15" text-anchor="middle" font-weight="bold" fill="#3a6fd8">S</text>
+  <text x="240" y="170" font-size="15" text-anchor="middle" fill="#222">(b) Horseshoe magnet</text>
+  <!-- ring -->
+  <circle cx="380" cy="85" r="42" fill="#777"/><circle cx="380" cy="85" r="18" fill="#fff"/>
+  <text x="380" y="170" font-size="15" text-anchor="middle" fill="#222">(c) Ring magnet</text>
+  <!-- cylindrical -->
+  <rect x="470" y="50" width="34" height="34" fill="#e04848"/><rect x="470" y="84" width="34" height="34" fill="#3a6fd8"/>
+  <ellipse cx="487" cy="50" rx="17" ry="6" fill="#f07070"/>
+  <text x="487" y="72" font-size="14" fill="#fff" text-anchor="middle" font-weight="bold">N</text><text x="487" y="106" font-size="14" fill="#fff" text-anchor="middle" font-weight="bold">S</text>
+  <text x="487" y="170" font-size="15" text-anchor="middle" fill="#222">(d) Cylindrical</text>
+  <!-- needle -->
+  <polygon points="560,85 600,78 640,85 600,92" fill="#3a6fd8"/><polygon points="560,85 600,78 600,92" fill="#e04848"/>
+  <text x="598" y="170" font-size="15" text-anchor="middle" fill="#222">(e) Needle</text>
+</svg>

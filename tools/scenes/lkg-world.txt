@@ -1,0 +1,32 @@
+1 | 👀 👂 👅 | We have five senses!
+1.2 aarav-wow | I can smell Mummy's halwa from far away!
+1.2 buddy-happy | That's your nose! We see, hear, smell, taste and touch.
+1.4 riya-happy | I touch a soft teddy with my hands.
+2 | 🏠 🛏️ 🧹 | Welcome to my home!
+2.2 riya-happy | We cook food in the kitchen and sleep in the bedroom!
+2.2 buddy-happy | Yes! A home keeps us safe from sun, rain and cold.
+2.5 aarav-happy | I put my toys away to keep my home clean.
+3 | 🐄 🦁 🐕 | Domestic and wild animals!
+3.2 aarav-wow | A lion lives in the forest! Can I keep it at home?
+3.2 buddy-happy | No, Aarav! Lions are wild animals. Cows and dogs live with us.
+3.4 riya-happy | The cow gives us milk!
+4 | 🐦 🦜 🪺 | Birds around us!
+4.2 riya-wow | A green parrot is sitting on our tree!
+4.2 buddy-happy | Birds have wings and feathers. Most birds can fly!
+4.4 aarav-happy | Birds build nests to keep their eggs safe.
+5 | 🍎 🥕 🍅 | Fruits and vegetables!
+5.2 aarav-happy | Carrots are orange and crunchy!
+5.2 buddy-happy | Vegetables and fruits give us energy to play.
+5.5 riya-wow | Potatoes grow under the ground!
+6 | 🚗 🚢 ✈️ | How do we travel?
+6.2 riya-happy | We went to Nani's house by train!
+6.2 buddy-happy | We travel on land, on water and in the air.
+6.6 aarav-happy | We cross the road only when the light is green for us!
+7 | 👩‍⚕️ 👮 👨‍🌾 | Our helpers!
+7.2 aarav-happy | The doctor helped me when I had a cold.
+7.2 buddy-happy | So many people help us every day: the farmer, the postman, the police.
+7.4 riya-happy | I say "thank you" to our helpers!
+8 | 🪔 🎨 🇮🇳 | Festivals of India!
+8.2 riya-wow | We light diyas on Diwali!
+8.2 buddy-happy | India has many festivals: Diwali, Eid, Christmas, Holi and more.
+8.4 aarav-happy | On 15 August, we fly our flag!

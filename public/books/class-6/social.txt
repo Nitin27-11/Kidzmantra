@@ -1,10 +1,16 @@
 @@ 1
+SCENE: 🗺️ 🌐 🧭 | Locating places on Earth!
+
 ## 🎬 Let's begin
 Your friend is coming to your house for the first time. How do you explain the way? "Turn left at the temple, go straight past the park…" You're making a **map** in words! Now imagine finding any place on the whole Earth – for that we need maps, globes and an invisible grid of lines. 🗺️
+
+SAY: aarav-think | How can a map show the whole world on one page?
 
 ## 🤔 What is a map?
 > 📌 A **map** is a drawing of the Earth's surface, or part of it, on a **flat** surface, made to **scale**.
 A **sketch** is a rough drawing from memory, not to scale.
+
+SAY: buddy-happy | Maps use distance (scale), direction and symbols to show places.
 
 ## 🧩 Three components of a map
 1. **Distance (scale):** tells how much real distance one unit on the map stands for – e.g. **1 cm = 10 km**.
@@ -26,6 +32,8 @@ The Earth spins on an imaginary **axis** joining the **North Pole** and **South 
 - **Temperate zones** – moderate.
 - **Frigid zones** (near the poles) – very cold.
 > 💡 The Tropic of Cancer passes through the middle of India!
+
+SAY: riya-wow | Longitudes help us tell time around the world!
 
 ## 🧭 Longitudes
 > 📌 **Longitudes** (meridians) are imaginary lines running from the **North Pole to the South Pole**.
@@ -65,14 +73,21 @@ FILL: The Earth rotates ___ degrees of longitude in one hour. | 15 ||
 MCQ: The hottest heat zone is the | Temperate | Frigid | *Torrid | Polar ||
 
 @@ 2
+SCENE: 🌊 🌍 🐋 | Oceans and continents!
+
 ## 🎬 Let's begin
 Astronauts call Earth the **"Blue Planet"** – because from space, most of it looks blue! That's water – huge **oceans**. The land is divided into giant pieces called **continents**. Let's take a world tour! 🌏
+
+SAY: riya-think | Is there more land or water on Earth?
+SAY: buddy-happy | Water! About 71% of Earth's surface is covered with water.
 
 ## 🤔 Land and water on Earth
 > 📌 About **71%** of the Earth's surface is covered by **water** and only about **29%** by **land**.
 - Large areas of land are **continents**.
 - Huge bodies of salty water are **oceans**.
 - The Northern Hemisphere has more land; the Southern has more water.
+
+SAY: aarav-wow | The Pacific is the largest ocean of all!
 
 ## 🌊 The five oceans (largest to smallest)
 1. **Pacific Ocean** – the largest and deepest; the **Mariana Trench** (about 11 km deep) is here.
@@ -123,12 +138,18 @@ MCQ: India's research station in Antarctica is | Chandrayaan | *Maitri | Aryabha
 TF: The Sahara Desert is in South America. | false || It's in Africa.
 
 @@ 3
+SCENE: ⛰️ 🏜️ 🏝️ | Landforms and life!
+
 ## 🎬 Let's begin
 Imagine living high in the Himalayas, on the flat banks of the Ganga, on the rocky Deccan plateau, in the Thar desert or by the sea in Kerala. Your food, clothes, house and job would all be different! The **shape of the land** shapes our **lives**. ⛰️🌾🏜️
+
+SAY: aarav-happy | Mountains, plateaus, plains, deserts – so many landforms!
 
 ## 🤔 What are landforms?
 > 📌 **Landforms** are natural features of the Earth's surface, like mountains, plateaus, plains, valleys and deserts.
 They are shaped over millions of years by **forces inside the Earth** and by **wind, water and ice** outside.
+
+SAY: buddy-happy | And people's lives change with the land – what they grow, eat and wear.
 
 ## ⛰️ Mountains
 - Land rising much higher than its surroundings, with steep slopes and peaks.
@@ -139,6 +160,8 @@ They are shaped over millions of years by **forces inside the Earth** and by **w
 - Raised, flat-topped land with steep sides – like a **table**.
 - **Deccan Plateau** (South India), **Chota Nagpur Plateau** (Jharkhand).
 **Life on plateaus:** rich in **minerals** (iron, coal, mica) → mining; black soil good for cotton; waterfalls (Hundru Falls, Jog Falls) give hydroelectricity.
+
+SAY: riya-think | Most people live on plains, because farming is easier there!
 
 ## 🌾 Plains
 - Large stretches of flat, low land, mostly made by rivers depositing fertile soil (**alluvium**).
@@ -178,8 +201,13 @@ MCQ: The Thar Desert is in | Kerala | *Rajasthan | Assam | Punjab ||
 TF: Plateaus are poor in minerals. | false || Plateaus are often rich in minerals.
 
 @@ 4
+SCENE: ⏳ 🏺 📜 | History – the story of the past!
+
 ## 🎬 Let's begin
 How do we know what people ate 5,000 years ago or what games children played? Nobody from that time is alive to tell us! Historians are like **detectives** – they piece together clues from the past. 🔍🏺
+
+SAY: riya-think | How do we know what happened long ago?
+SAY: buddy-happy | Through sources – old objects, buildings, coins, inscriptions and texts.
 
 ## 🤔 What is history?
 > 📌 **History** is the study of the **past** – how people lived, what they did, believed and made – using **evidence**.
@@ -192,6 +220,8 @@ A **timeline** shows events in order along a line.
 - **Decade** = 10 years; **century** = 100 years; **millennium** = 1,000 years.
 - The **21st century** = 2001 to 2100.
 > 💡 Earlier writers used BC and AD; historians now use BCE and CE.
+
+SAY: aarav-wow | BCE means "Before Common Era" – we count those years backwards!
 
 ## 🧩 Sources of history
 > 📌 **Sources** are the clues historians use to learn about the past.
@@ -238,12 +268,18 @@ MCQ: Bhimbetka is famous for | Coins | *Rock paintings | Temples | Forts ||
 FILL: Handwritten books on palm leaves are called ___. | manuscripts;manuscript ||
 
 @@ 5
+SCENE: 🇮🇳 📜 🏛️ | India, that is Bharat!
+
 ## 🎬 Let's begin
 What's the name of our country? You might say **India** – or **Bharat** – or **Hindustan**! Each name has a fascinating story going back thousands of years. Let's discover them. 🇮🇳
+
+SAY: aarav-think | Why does our Constitution say "India, that is Bharat"?
 
 ## 🤔 "India, that is Bharat"
 > 📌 The very first article of our **Constitution** (Article 1) says: "**India, that is Bharat, shall be a Union of States.**"
 So both **India** and **Bharat** are official names of our country.
+
+SAY: buddy-happy | Our land has had many names through history – Bharata, Jambudvipa, Hindustan, India.
 
 ## 🧩 Names through history
 **1. Bharata / Bharatavarsha**
@@ -263,6 +299,8 @@ So both **India** and **Bharat** are official names of our country.
 
 **5. Other names**
 - Chinese travellers like **Xuanzang** called it **Tianzhu** or **Yindu**.
+
+SAY: riya-happy | Each name tells a story about our past!
 
 ## 🌏 Why names matter
 Names carry history, memory and identity. Our country's many names show its long and rich past and its connections with the world.
@@ -289,8 +327,12 @@ TF: Ashoka's inscriptions use the name Jambudvipa. | true ||
 MCQ: The name "India" reached English through | Chinese | *Greek | Arabic | Tamil ||
 
 @@ 6
+SCENE: 🏙️ 🧱 🛁 | The beginnings of Indian civilisation!
+
 ## 🎬 Let's begin
 About 5,000 years ago, while much of the world lived in small villages, people on the banks of the **Sindhu (Indus)** and **Sarasvati** rivers built well-planned cities with drains, bathrooms and wide roads! Welcome to the **Harappan civilisation**. 🏛️
+
+SAY: riya-wow | Harappan cities had drains and grid streets 4,500 years ago!
 
 ## 🤔 What is a civilisation?
 > 📌 A **civilisation** is an advanced society with **cities**, **organised government**, **trade**, **crafts**, **writing** and shared ways of life.
@@ -302,6 +344,8 @@ The **Harappan** (or **Sindhu–Sarasvati**) civilisation flourished around **26
 - **Rakhigarhi** (Haryana) – one of the largest sites
 - **Kalibangan** (Rajasthan)
 
+SAY: buddy-happy | Their town planning was amazing – like the Great Bath at Mohenjo-daro.
+
 ## ⚙️ Amazing town planning
 - Roads in a neat **grid**, crossing at right angles.
 - Houses of **baked bricks** of the same proportions; many had wells and bathrooms.
@@ -309,6 +353,8 @@ The **Harappan** (or **Sindhu–Sarasvati**) civilisation flourished around **26
 - **The Great Bath** at Mohenjo-daro – a large waterproof tank.
 - **Dholavira** had huge **reservoirs** to store rainwater – smart water management in a dry land!
 - **Lothal** had a **dockyard** for boats.
+
+SAY: aarav-think | They traded beads, pottery and cotton!
 
 ## 🧩 Life and work
 - **Farming:** wheat, barley, pulses, cotton; they kept cattle, sheep and goats.
@@ -346,8 +392,13 @@ MCQ: Harappan roads were laid out in a | Circle | *Grid | Spiral | Random way ||
 TF: Harappans traded with Mesopotamia. | true ||
 
 @@ 7
+SCENE: 📜 ☸️ 🕊️ | India's cultural roots!
+
 ## 🎬 Let's begin
 Imagine a tree. Its **roots** go deep into the ground and its branches spread wide. India's culture is like that tree – its **roots** are ancient ideas from the Vedas, the Upanishads, Buddhism, Jainism and countless folk and tribal traditions. 🌳
+
+SAY: aarav-think | What are the Vedas?
+SAY: buddy-happy | Some of the oldest texts of India, composed in Sanskrit and passed on orally.
 
 ## 📜 The Vedas
 > 📌 The **Vedas** are among the world's oldest texts. There are four: **Rig Veda, Sama Veda, Yajur Veda, Atharva Veda**.
@@ -364,6 +415,8 @@ Imagine a tree. Its **roots** go deep into the ground and its branches spread wi
 - Founded by **Siddhartha Gautama** (the **Buddha**, "the awakened one"), born in **Lumbini**; attained enlightenment at **Bodh Gaya**; gave his first sermon at **Sarnath**.
 - He taught that life has suffering caused by **desire**, and that we can end it by following the **Middle Path** – not too much luxury, not too much hardship.
 - Values: **kindness, compassion, non-violence**, right thinking and right action.
+
+SAY: riya-happy | Jainism teaches ahimsa – non-violence towards all living beings!
 
 ## 🕊️ Jainism
 - **Vardhamana Mahavira**, the 24th **Tirthankara**, taught it widely.
@@ -400,12 +453,18 @@ TF: The Vedas were passed down orally for many centuries. | true ||
 MCQ: The Buddha's teaching of avoiding extremes is the | Golden Rule | *Middle Path | Eightfold Gate | Royal Road ||
 
 @@ 8
+SCENE: 🍛 👗 🗣️ | Many in the One!
+
 ## 🎬 Let's begin
 Take a train across India and every few hours the language, food, clothes and music change! Yet when India plays a cricket final or celebrates Independence Day, a billion hearts beat as one. This is the magic of **"unity in diversity"**. 🎉
+
+SAY: riya-happy | Dosa in the south, paratha in the north – India's food is so diverse!
 
 ## 🤔 What is diversity?
 > 📌 **Diversity** means **variety** – differences in language, food, dress, festivals, religion and customs.
 > 📌 **Unity** means feeling **one** – sharing values, history and belonging to one nation.
+
+SAY: buddy-happy | Different foods, clothes, languages and festivals – but shared values unite us.
 
 ## 🍛 Diversity in food
 Rice dominates in the east and south, wheat in the north-west; millets in dry regions. Yet **khichdi** is cooked almost everywhere in some form, and spices like turmeric and pepper are used across India.
@@ -418,6 +477,8 @@ Harvest festivals are celebrated all over India under different names: **Pongal*
 
 ## 🗣️ Diversity in languages
 India has **22 scheduled languages** and hundreds of others. Many share words and grammar from common roots.
+
+SAY: aarav-wow | The Ramayana and Mahabharata are told in every corner of India!
 
 ## 📖 The epics unite us
 The **Ramayana** and **Mahabharata** are told in many versions – **Kamba Ramayanam** (Tamil), **Ramcharitmanas** (Awadhi, by Tulsidas), **Krittivasi Ramayan** (Bengali), and even in Southeast Asia (Thailand's Ramakien). The story is shared; each region adds its own colour.
@@ -452,8 +513,12 @@ TF: The saree is draped in only one way across India. | false || There are more 
 MCQ: "Atithi Devo Bhava" means | Work is worship | *The guest is like God | Truth wins | Unity is strength ||
 
 @@ 9
+SCENE: 👨‍👩‍👧‍👦 🏘️ 🌏 | Family and community!
+
 ## 🎬 Let's begin
 When you fall sick, who brings you soup? When there's a wedding in your lane, who comes to help? **Family** and **community** – the people who make us feel we **belong**. 👨‍👩‍👧‍👦🏘️
+
+SAY: aarav-happy | My family taught me to share and respect elders!
 
 ## 🤔 What is a family?
 > 📌 A **family** is a group of people related by birth, marriage or adoption, who live together and care for one another.
@@ -467,6 +532,8 @@ Many Indian families are joint; many are nuclear; all are special!
 - Children study, help with chores and care for younger siblings and elders.
 Family members **share work** – cooking, cleaning, shopping – and **support** each other in good and bad times.
 
+SAY: buddy-happy | Families teach values. Communities help us when we need each other.
+
 ## 💛 Values we learn in a family
 **Respect**, **sharing**, **cooperation**, **patience**, **caring for elders and the young**, and **responsibility**.
 
@@ -479,6 +546,8 @@ Examples: your neighbourhood, village, school, or a group of farmers working tog
 - **Shramadana** – people volunteer labour to clean a pond, build a road or plant trees.
 - Community kitchens like **langar** at gurudwaras feed everyone, free.
 - Villages manage water bodies together (like **johads** in Rajasthan).
+
+SAY: riya-wow | Vasudhaiva Kutumbakam – the whole world is one family!
 
 ## 🌏 Vasudhaiva Kutumbakam
 > 😮 An ancient Indian idea says "**Vasudhaiva Kutumbakam**" – "**The whole world is one family**." It was even the theme of India's G20 presidency in 2023!
@@ -507,18 +576,26 @@ MCQ: Free community kitchens at gurudwaras are called | Bhandara | *Langar | Mes
 MCQ: Voluntary community work is called | Seva tax | *Shramadana | Panchayat | Wages ||
 
 @@ 10
+SCENE: 🏛️ ⚖️ 🗳️ | What is governance?
+
 ## 🎬 Let's begin
 Imagine a cricket match with no rules – everyone bats at once, no one keeps score! Chaos! A country is like a giant team; it needs **rules** and people to make sure they are followed. That is the job of **government**. 🏏📜
+
+SAY: riya-think | Why do we need a government?
 
 ## 🤔 What is governance?
 > 📌 **Governance** is the process of making and carrying out decisions and rules for a group, a community or a country.
 > 📌 The **government** is the group of people with the authority to make and enforce laws and run the country.
+
+SAY: buddy-happy | To make rules, keep order, and provide things like roads, schools and safety.
 
 ## 🧩 Why do we need a government?
 - To make **laws** and keep **order** and peace.
 - To **protect** the country's borders and citizens.
 - To provide **public services**: schools, hospitals, roads, water, electricity, railways.
 - To help in **disasters** and support the poor.
+
+SAY: aarav-happy | Legislature makes laws, executive runs them, judiciary decides disputes!
 
 ## 🏛️ Three organs of government
 1. **Legislature** – **makes laws** (Parliament at the centre; Legislative Assemblies in states).
@@ -560,8 +637,13 @@ TF: India is the world's largest democracy. | true ||
 MCQ: Railways and defence are handled by the | Local government | State government | *Central government | Municipality ||
 
 @@ 11
+SCENE: 🏡 🗳️ 🌾 | Panchayati Raj!
+
 ## 🎬 Let's begin
 In a village, the hand-pump is broken and the road floods every monsoon. Who will fix them? Not the Prime Minister in Delhi – but the village's own elected body, the **Panchayat**! This is **democracy at the grassroots**. 🌾
+
+SAY: aarav-think | Who looks after a village?
+SAY: buddy-happy | The Panchayat! It's elected by the villagers themselves.
 
 ## 🤔 What is Panchayati Raj?
 > 📌 **Panchayati Raj** is the system of **local self-government** in rural India, where villagers elect their own representatives to manage local matters.
@@ -571,6 +653,8 @@ It got constitutional status through the **73rd Amendment (1992)**.
 1. **Gram Panchayat** – village level
 2. **Panchayat Samiti** (Block Panchayat) – block level, a group of villages
 3. **Zila Parishad** – district level
+
+SAY: riya-happy | All adults of the village are members of the Gram Sabha!
 
 ## 🗣️ Gram Sabha
 > 📌 The **Gram Sabha** is the meeting of **all adults (18+)** in a village who are voters.
@@ -612,8 +696,13 @@ TF: At least one-third of Panchayat seats are reserved for women. | true ||
 MCQ: Panchayati Raj got constitutional status by the | 42nd Amendment | *73rd Amendment | 86th Amendment | 1st Amendment ||
 
 @@ 12
+SCENE: 🏙️ 🚰 🗑️ | Local government in cities!
+
 ## 🎬 Let's begin
 Who collects the garbage from your street every morning, fixes the streetlights, and keeps the water flowing in city taps? In towns and cities, it's the **municipality** – local government for urban areas! 🏙️🚮
+
+SAY: riya-think | Who cleans our city streets and gives us water?
+SAY: buddy-happy | Urban local bodies – like the Municipal Corporation.
 
 ## 🤔 What is urban local government?
 > 📌 **Urban local bodies** manage services in **towns and cities**. They got constitutional status through the **74th Amendment (1992)**.
@@ -640,6 +729,8 @@ Who collects the garbage from your street every morning, fixes the streetlights,
 
 ## 💰 Where the money comes from
 **Property tax**, water tax, taxes on shops and advertisements, fees, and funds from state and central governments.
+
+SAY: aarav-happy | Citizens help too – by not littering and paying taxes!
 
 ## 🙋 Our role as citizens
 Pay taxes, separate wet and dry waste, report problems (many cities have apps and helplines), keep public places clean, and vote in municipal elections.
@@ -669,11 +760,17 @@ TF: Urban local bodies got constitutional status by the 74th Amendment. | true |
 MCQ: Which is a main source of income for municipalities? | Income tax | *Property tax | GST only | Customs duty ||
 
 @@ 13
+SCENE: 👷 🧑‍🍳 🤝 | The value of work!
+
 ## 🎬 Let's begin
 A farmer grows rice, a doctor treats patients, a mother cooks for her family, and a volunteer teaches poor children for free. All of them are **working**. But only some are paid. Is unpaid work less valuable? Let's think! 💼❤️
 
+SAY: aarav-think | Is cooking at home also work?
+
 ## 🤔 What is work?
 > 📌 **Work** is any activity people do with effort to produce something useful or provide a service.
+
+SAY: buddy-happy | Yes! It's non-economic work, but very valuable.
 
 ## 🧩 Economic and non-economic activities
 - **Economic activities:** done to **earn money** or produce goods and services that have money value – farming for sale, teaching in a school, running a shop, driving a taxi.
@@ -682,6 +779,8 @@ A farmer grows rice, a doctor treats patients, a mother cooks for her family, an
 ## 💸 Paid and unpaid work
 - **Paid work** earns wages, salary or profit.
 - **Unpaid work** – mostly **household and care work**, often done by women – is not counted in money but is **essential**. Without it, families and the economy couldn't run!
+
+SAY: riya-happy | Every job deserves respect – that's dignity of labour!
 
 ## 🏅 Dignity of labour
 > 📌 **Dignity of labour** means **every kind of honest work deserves respect** – whether done by a cleaner, a farmer, a carpenter or an officer.
@@ -714,14 +813,21 @@ MCQ: A person who works for free for a good cause is a | Labourer | *Volunteer |
 TF: Caring for grandparents is a non-economic activity. | true ||
 
 @@ 14
+SCENE: 🌾 🏭 🏦 | Economic activities around us!
+
 ## 🎬 Let's begin
 Your cotton shirt has a long story: a **farmer** grew the cotton, a **factory** turned it into cloth and stitched the shirt, and a **shopkeeper** sold it to you, delivered by a **truck driver**. Different kinds of work linked in a chain! 👕🚚
+
+SAY: riya-think | What are the sectors of the economy?
+SAY: buddy-happy | Primary (farming), secondary (making things) and tertiary (services).
 
 ## 🤔 What are the sectors of the economy?
 > 📌 Economic activities are grouped into **three sectors**:
 1. **Primary sector** – getting things **directly from nature**: farming, fishing, forestry, mining, animal rearing.
 2. **Secondary sector** – **making (manufacturing)** goods from raw materials: factories making cloth, sugar, cars, furniture; construction.
 3. **Tertiary (service) sector** – providing **services** that support the other sectors and people: transport, shops, banks, schools, hospitals, IT, tourism.
+
+SAY: aarav-wow | A farmer grows cotton, a factory makes cloth, a shop sells it – all connected!
 
 ## 🔗 How sectors depend on each other
 **Example – sugar:**

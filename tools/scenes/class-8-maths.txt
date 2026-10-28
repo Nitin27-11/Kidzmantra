@@ -1,0 +1,56 @@
+1 | ➗ 🔢 ♾️ | Rational numbers!
+1.1 riya-think | How many rational numbers are there between 1 and 2?
+1.3 buddy-happy | Infinitely many! You can always find another one in between.
+1.4 aarav-happy | Properties like distributivity make calculations quicker!
+2 | ⚖️ ❓ 🧮 | Linear equations!
+2.2 aarav-happy | 3x − 7 = 2x + 5, so x = 12!
+2.2 buddy-happy | Move terms with x to one side and numbers to the other. Keep it balanced!
+2.3 riya-think | Ages, money, digits – so many word problems become easy with equations!
+3 | ⬛ 🔷 🪁 | Understanding quadrilaterals!
+3.1 riya-wow | The exterior angles of any polygon add up to 360°!
+3.2 buddy-happy | Kite, parallelogram, rhombus, rectangle, square – each has special properties.
+3.3 aarav-think | Every square is a rectangle, but not every rectangle is a square!
+4 | 📊 🥧 🎲 | Data and probability!
+4.2 aarav-happy | A pie chart shows parts of a whole as slices!
+4.3 buddy-happy | Probability = favourable outcomes ÷ total outcomes.
+4.3 riya-think | The chance of rolling a 6 on a die is 1/6!
+5 | 🟩 √ 🔢 | Squares and square roots!
+5.1 riya-wow | A perfect square never ends in 2, 3, 7 or 8!
+5.2 buddy-happy | √144 = 12, because 12 × 12 = 144.
+5.4 aarav-think | √50 is between 7 and 8!
+6 | 🧊 ∛ 🎲 | Cubes and cube roots!
+6.1 aarav-wow | 1729 is a special number – the Hardy–Ramanujan number!
+6.1 buddy-happy | It's the smallest number that is the sum of two cubes in two ways: 1³ + 12³ and 9³ + 10³.
+6.2 riya-happy | ∛27 = 3!
+7 | 💯 🏷️ 🧾 | Interest, discount and tax!
+7.2 riya-happy | 20% off on ₹500 shoes – I save ₹100!
+7.4 buddy-happy | GST is a tax added to the price of most goods and services.
+7.5 aarav-think | Compound interest earns interest on the interest too!
+8 | 🔤 ✖️ 🧠 | Algebraic identities!
+8.3 aarav-happy | (a + b)² = a² + 2ab + b²!
+8.4 buddy-happy | Identities make mental maths magic: 103² = (100 + 3)² = 10609!
+8.4 riya-wow | That's so much faster!
+9 | 📦 🥫 🟩 | Mensuration!
+9.1 riya-think | How much paper do I need to wrap a gift box?
+9.2 buddy-happy | Find its surface area – the total area of all six faces!
+9.3 aarav-happy | And volume tells how much the box can hold!
+10 | 🔬 🌌 🔢 | Exponents and powers!
+10.1 aarav-think | What does 10⁻² mean?
+10.1 buddy-happy | 1 ÷ 10², which is 1/100 or 0.01.
+10.3 riya-wow | A red blood cell is about 0.000007 m = 7 × 10⁻⁶ m across!
+11 | ⚖️ 🚗 👷 | Direct and inverse proportion!
+11.1 riya-happy | More pens cost more money – direct proportion!
+11.2 buddy-happy | But more workers finish a job in less time – that's inverse proportion.
+11.4 aarav-think | A map scale of 1 : 1000 means 1 cm on the map is 10 m on the ground!
+12 | 🔤 🧩 ✂️ | Factorisation!
+12.1 aarav-think | What does it mean to factorise?
+12.1 buddy-happy | Break an expression into factors: 6x + 9 = 3(2x + 3).
+12.2 riya-happy | x² − 9 = (x + 3)(x − 3) – using identities!
+13 | 📈 📍 🗺️ | Graphs!
+13.2 riya-think | How do I locate a point like (3, 4)?
+13.2 buddy-happy | Go 3 along the x-axis, then 4 up the y-axis!
+13.3 aarav-wow | A linear graph is always a straight line!
+14 | 🔢 🧩 🎩 | Playing with numbers!
+14.1 aarav-happy | 52 = 10 × 5 + 2 – that's the general form!
+14.3 buddy-happy | Now we can see why divisibility rules work, not just remember them.
+14.4 riya-wow | Cryptarithms are puzzles where letters stand for digits!

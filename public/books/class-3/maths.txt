@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🔢 🧮 🏟️ | Numbers up to 10,000!
+
 ## Numbers up to 10,000
 Four-digit numbers have **thousands, hundreds, tens and ones**.
+
+SAY: aarav-wow | A stadium can hold more than 10,000 people!
+SAY: buddy-happy | Big numbers need a place value chart: thousands, hundreds, tens and ones.
 
 ## Place value chart
 In 4,582:
@@ -14,6 +19,9 @@ Expanded form: **4,000 + 500 + 80 + 2**
 - 3,705 – three thousand seven hundred five
 - 9,999 – nine thousand nine hundred ninety-nine
 - 10,000 – ten thousand (the smallest 5-digit number)
+
+SAY: riya-think | 4,567 or 4,657 – which is bigger?
+SAY: buddy-happy | Same thousands, so compare hundreds: 6 is more than 5. 4,657 wins!
 
 ## Comparing and ordering
 Compare from the left. 6,421 > 6,398 because the hundreds digit 4 > 3.
@@ -29,6 +37,10 @@ Q: Smallest 4-digit number?
 A: 1,000.
 
 @@ 2
+SCENE: ➕ ➖ 🧾 | Add and subtract big numbers!
+
+SAY: riya-happy | I start adding from the ones column!
+
 ## Adding 4-digit numbers
   3,456
 + 2,789
@@ -36,11 +48,15 @@ Ones 6 + 9 = 15 → 5 carry 1. Tens 5 + 8 + 1 = 14 → 4 carry 1.
 Hundreds 4 + 7 + 1 = 12 → 2 carry 1. Thousands 3 + 2 + 1 = 6.
 Answer: **6,245**
 
+SAY: buddy-happy | Right! In subtraction too, start from the ones and borrow if needed.
+
 ## Subtracting 4-digit numbers
   5,000
 – 1,368
 Borrow across zeros: 5,000 becomes 4 thousands, 9 hundreds, 9 tens, 10 ones.
 10 – 8 = 2, 9 – 6 = 3, 9 – 3 = 6, 4 – 1 = 3 → **3,632**
+
+SAY: aarav-think | Word problems: "in all" means add, "left" means subtract!
 
 ## Word problems
 A school has 1,245 boys and 1,180 girls. Total = 1,245 + 1,180 = **2,425** children.
@@ -55,8 +71,13 @@ Q: A shop had 3,500 pens and sold 1,275. How many are left?
 A: 2,225.
 
 @@ 3
+SCENE: ✖️ 🔢 🧠 | Multiplication tables!
+
 ## Multiplication tables
 **Multiplication** is repeated addition. Knowing tables makes maths quick.
+
+SAY: aarav-wow | I know the table of 9 up to 10!
+SAY: buddy-happy | Great! Tables help us multiply quickly.
 
 ## Tables 2 to 10
 - 6 × 7 = 42, 7 × 8 = 56, 8 × 9 = 72, 9 × 6 = 54
@@ -66,6 +87,9 @@ A: 2,225.
   23
 ×  4
 3 × 4 = 12 → 2 carry 1; 2 × 4 = 8 + 1 = 9 → **92**
+
+SAY: riya-think | 4 × 6 is the same as 6 × 4!
+SAY: buddy-happy | Yes – the order doesn't change the answer!
 
 ## Properties
 - **Order property:** 4 × 5 = 5 × 4
@@ -83,8 +107,13 @@ Q: One box has 12 crayons. How many in 6 boxes?
 A: 72 crayons.
 
 @@ 4
+SCENE: ➗ 🍪 👫 | Let's share equally!
+
 ## Division
 **Division** means sharing equally or making equal groups. We use the sign **÷**.
+
+SAY: riya-happy | 12 cookies shared by 4 friends – 3 each!
+SAY: buddy-happy | That's division: 12 ÷ 4 = 3.
 
 ## Sharing equally
 12 sweets shared among 3 children: each gets **4**. So 12 ÷ 3 = 4.
@@ -95,6 +124,8 @@ In 17 ÷ 5 = 3, remainder 2:
 - 5 is the **divisor**
 - 3 is the **quotient**
 - 2 is the **remainder**
+
+SAY: aarav-wow | And 4 × 3 = 12! Division is the opposite of multiplication!
 
 ## Division and multiplication are related
 3 × 4 = 12, so 12 ÷ 3 = 4 and 12 ÷ 4 = 3.
@@ -114,12 +145,19 @@ Q: 40 pencils are packed 8 in a box. How many boxes?
 A: 5 boxes.
 
 @@ 5
+SCENE: 🍕 🍫 🥧 | Halves and quarters!
+
 ## Fractions: halves and quarters
 A **fraction** is a part of a whole that is divided into **equal** parts.
+
+SAY: aarav-happy | I cut my roti into two equal parts – two halves!
+SAY: buddy-happy | Each part is one half, written ½. The parts must be equal!
 
 ## One half (½)
 Cut a roti into 2 equal parts. Each part is **one half (½)**.
 Two halves make one whole: ½ + ½ = 1.
+
+SAY: riya-wow | Four equal parts are quarters!
 
 ## One quarter (¼)
 Cut a pizza into 4 equal parts. Each part is **one quarter (¼)**.
@@ -141,11 +179,17 @@ Q: A cake is cut into 4 equal parts. Riya eats 1. What fraction did she eat?
 A: ¼ (one quarter).
 
 @@ 6
+SCENE: 🔷 🎲 🧱 | Shapes and designs!
+
+SAY: riya-happy | A square has 4 equal sides and 4 corners!
+
 ## 2-D shapes
 - **Triangle** – 3 sides, 3 corners
 - **Square** – 4 equal sides, 4 right-angle corners
 - **Rectangle** – opposite sides equal, 4 right-angle corners
 - **Circle** – centre, radius (centre to edge) and diameter (edge to edge through the centre). Diameter = 2 × radius.
+
+SAY: buddy-happy | And 3-D shapes like cubes and cones have faces, edges and corners.
 
 ## 3-D shapes
 - **Cube** – 6 square faces, 12 edges, 8 corners
@@ -153,6 +197,8 @@ A: ¼ (one quarter).
 - **Cylinder** – 2 circular faces and a curved surface
 - **Cone** – 1 circular face, 1 corner (vertex)
 - **Sphere** – one curved surface, no corners
+
+SAY: aarav-wow | Floor tiles fit together without gaps – what a design!
 
 ## Designs and tiles
 Shapes that fit together without gaps make **tiling patterns**, like squares on a floor or hexagons in a honeycomb. 🐝
@@ -167,6 +213,11 @@ Q: Which shape do bees use in a honeycomb?
 A: Hexagons.
 
 @@ 7
+SCENE: 📏 ⚖️ 🥛 | Let's measure!
+
+SAY: aarav-think | How long is my desk?
+SAY: buddy-happy | Measure it with a ruler or tape in centimetres or metres!
+
 ## Length
 - 1 centimetre (cm) = 10 millimetres (mm)
 - 1 metre (m) = 100 cm
@@ -176,6 +227,8 @@ Short things in cm, a room in m, distance between cities in km.
 ## Weight
 - 1 kilogram (kg) = 1,000 grams (g)
 Use g for light things (a pencil) and kg for heavy things (a sack of rice).
+
+SAY: riya-happy | We measure milk in litres – that's capacity!
 
 ## Capacity
 How much a container can hold.
@@ -195,10 +248,16 @@ Q: 2 L = ___ mL
 A: 2,000 mL.
 
 @@ 8
+SCENE: ⏰ 🌅 🌃 | What's the time?
+
+SAY: riya-happy | The clock shows 7:30!
+
 ## Reading time
 - The hour hand is short; the minute hand is long.
 - Each small mark is 1 minute. Each number on the clock is 5 minutes for the minute hand.
 - 7:15 = **quarter past 7**; 7:30 = **half past 7**; 7:45 = **quarter to 8**.
+
+SAY: buddy-happy | 7:30 a.m. is morning, 7:30 p.m. is evening.
 
 ## a.m. and p.m.
 - **a.m.** – from midnight to noon (morning).
@@ -207,6 +266,8 @@ School starts at 8:00 a.m. Dinner is at 8:00 p.m.
 
 ## Units of time
 60 seconds = 1 minute, 60 minutes = 1 hour, 24 hours = 1 day, 7 days = 1 week, 12 months = 1 year.
+
+SAY: aarav-think | School starts at 8 and ends at 2 – that's 6 hours!
 
 ## Finding time taken
 Start 9:00 a.m., finish 11:30 a.m. → **2 hours 30 minutes**.
@@ -221,6 +282,10 @@ Q: A movie starts at 3:00 p.m. and ends at 5:15 p.m. How long is it?
 A: 2 hours 15 minutes.
 
 @@ 9
+SCENE: 💰 🧾 🛍️ | Money and bills!
+
+SAY: aarav-happy | ₹25.50 means 25 rupees and 50 paise!
+
 ## Rupees and paise
 ₹1 = 100 paise. ₹12.50 means 12 rupees and 50 paise.
 
@@ -230,11 +295,15 @@ Write rupees under rupees and paise under paise.
 + ₹ 32.75
 = ₹ 78.25
 
+SAY: buddy-happy | A bill shows what we bought, the price and the total.
+
 ## Bills
 A shopping bill:
 - 2 notebooks at ₹30 each = ₹60
 - 1 pen = ₹15
 - **Total = ₹75**
+
+SAY: riya-think | If I pay ₹100 for a ₹65 toy, I get ₹35 change!
 
 ## Change
 Pay ₹100 for a bill of ₹75 → change = ₹25.
@@ -249,8 +318,13 @@ Q: You pay ₹200 for a bill of ₹136. What change?
 A: ₹64.
 
 @@ 10
+SCENE: 🔢 🔶 🔁 | Patterns!
+
 ## Patterns
 Patterns follow a **rule**. Finding the rule helps us predict what comes next.
+
+SAY: riya-happy | 5, 10, 15, 20 – the rule is "add 5"!
+SAY: buddy-happy | Find the rule and you can continue any pattern.
 
 ## Number patterns
 - 3, 6, 9, 12, … → add 3 → **15**
@@ -260,6 +334,8 @@ Patterns follow a **rule**. Finding the rule helps us predict what comes next.
 
 ## Shape patterns
 Patterns can grow, turn or repeat: ▲▼▲▼, or a shape turning a quarter turn each time.
+
+SAY: aarav-wow | Even numbers end in 0, 2, 4, 6, 8!
 
 ## Odd and even
 - **Even numbers** end in 0, 2, 4, 6, 8 – they can be split into pairs.
@@ -276,8 +352,13 @@ Q: 2, 5, 8, 11, ___?
 A: 14.
 
 @@ 11
+SCENE: 📊 🍎 ✋ | Let's collect data!
+
 ## Data handling
 **Data** is a collection of facts or numbers. We organise data so it is easy to understand.
+
+SAY: aarav-happy | I counted favourite colours with tally marks!
+SAY: buddy-happy | Great! We can show it as a pictograph or a bar graph.
 
 ## Tally marks
 Count with lines; every 5th line crosses the first four. Tally of 12 = two groups of 5 and 2 more.
@@ -287,6 +368,8 @@ Favourite games (🔵 = 2 children):
 - Cricket: 🔵🔵🔵🔵🔵 → 10 children
 - Kabaddi: 🔵🔵🔵 → 6 children
 - Kho-kho: 🔵🔵 → 4 children
+
+SAY: riya-wow | The tallest bar shows the favourite colour!
 
 ## Bar graph
 A bar graph uses bars of different heights to show amounts. Taller bar = more.

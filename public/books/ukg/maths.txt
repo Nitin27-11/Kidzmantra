@@ -1,12 +1,20 @@
 @@ 1
+SCENE: 🔢 1️⃣ 🔟 | Let's learn numbers 1 to 20!
+
 ## Numbers 1 to 20
 Let's count, read and write numbers up to **20**.
+
+SAY: riya-happy | I can write eleven as 11!
+SAY: buddy-happy | Well done! 11 is 1 ten and 1 one.
 
 ## Numbers and names
 - 1 one, 2 two, 3 three, 4 four, 5 five
 - 6 six, 7 seven, 8 eight, 9 nine, 10 ten
 - 11 eleven, 12 twelve, 13 thirteen, 14 fourteen, 15 fifteen
 - 16 sixteen, 17 seventeen, 18 eighteen, 19 nineteen, 20 twenty
+
+SAY: aarav-think | Why are thirteen, fourteen, fifteen called teen numbers?
+SAY: buddy-happy | Because they all end with "teen"! They go from 13 to 19.
 
 ## Teen numbers
 13 to 19 end in **"teen"**. 14 is 10 and 4 more. 18 is 10 and 8 more.
@@ -21,13 +29,20 @@ Q: What number comes after 19?
 A: 20.
 
 @@ 2
+SCENE: 🍊 🧮 ✋ | Let's count objects!
+
 ## Counting objects
 Let's count things carefully and match them to numbers.
+
+SAY: aarav-happy | I counted 12 oranges in the basket!
+SAY: buddy-happy | Super! Touch each one as you count so you don't count twice.
 
 ## Count and say
 - 🌸🌸🌸🌸🌸🌸🌸 → **7**
 - 🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞🐞 → **12**
 - ⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽ → **15**
+
+SAY: riya-wow | I counted my sweets in twos: 2, 4, 6, 8!
 
 ## Smart counting
 - Touch each object once.
@@ -45,8 +60,13 @@ Q: 5 cats and 5 dogs. How many animals?
 A: 10.
 
 @@ 3
+SCENE: ⚽ 🧊 📦 | Shapes around us!
+
 ## Shapes around us
 Shapes are everywhere: at home, at school and on the road.
+
+SAY: riya-happy | A coin is flat. It is a circle!
+SAY: buddy-happy | Yes! And a ball is a solid shape called a sphere.
 
 ## Flat shapes
 - **Circle** – a clock, a coin, a bangle.
@@ -62,6 +82,8 @@ Shapes are everywhere: at home, at school and on the road.
 - **Cone** – like an ice-cream cone. 🍦
 > 💡 A sphere can roll. A cube can slide. A cylinder can roll and slide!
 
+SAY: aarav-wow | A box is a cuboid and a dice is a cube!
+
 ## Let's check
 Q: A book looks like which shape?
 A: A rectangle.
@@ -71,8 +93,13 @@ Q: Which shape is an ice-cream cone?
 A: A cone.
 
 @@ 4
+SCENE: 🦒 🐜 ⚖️ | Big and small, tall and short!
+
 ## Big and small, tall and short
 We use words to **compare** things.
+
+SAY: aarav-wow | A giraffe is so tall!
+SAY: buddy-happy | It is! We compare things: big or small, tall or short, heavy or light.
 
 ## Big and small
 - A truck is **big**; a cycle is **small**.
@@ -89,6 +116,8 @@ We use words to **compare** things.
 - A bag of rice is **heavy**; a feather is **light**.
 > 💡 Stand back to back with a friend. Who is taller?
 
+SAY: riya-think | A feather is light and a stone is heavy!
+
 ## Let's check
 Q: Which is taller: a giraffe or a rabbit?
 A: A giraffe.
@@ -98,8 +127,13 @@ Q: Which is longer: a train or a car?
 A: A train.
 
 @@ 5
+SCENE: 🔴 🔷 ➕ | Patterns everywhere!
+
 ## Patterns
 A pattern repeats in the same order. Finding patterns makes us smart thinkers!
+
+SAY: riya-happy | Circle, square, circle, square… I know what comes next!
+SAY: buddy-happy | Patterns can be with shapes, colours and even numbers!
 
 ## Colour and shape patterns
 - 🔺🔵🔺🔵 → next **🔺**
@@ -109,6 +143,8 @@ A pattern repeats in the same order. Finding patterns makes us smart thinkers!
 - 1, 2, 3, 4, 5 → next **6** (add 1)
 - 2, 4, 6, 8 → next **10** (add 2)
 - 5, 10, 15 → next **20** (add 5)
+
+SAY: aarav-wow | 2, 4, 6, 8… it grows by 2 each time!
 
 ## Growing patterns
 ⭐ / ⭐⭐ / ⭐⭐⭐ → next is **⭐⭐⭐⭐**
@@ -121,8 +157,13 @@ Q: A, B, A, B, A, ___?
 A: B.
 
 @@ 6
+SCENE: ⬅️ ↔️ ➡️ | What comes before, after and between?
+
 ## Before, after and between
 Numbers stand in a line like children in an assembly.
+
+SAY: aarav-think | What comes between 14 and 16?
+SAY: buddy-happy | 15! Let's look at the number line.
 
 ## Number line
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
@@ -135,6 +176,8 @@ Numbers stand in a line like children in an assembly.
 - After 9 → 10
 - Between 15 and 17 → 16
 > 💡 "Between" is the number that sits in the middle.
+
+SAY: riya-happy | Before 20 comes 19, after 20 comes 21!
 
 ## Let's check
 Q: What comes before 10?

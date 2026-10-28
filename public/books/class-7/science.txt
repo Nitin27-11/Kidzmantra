@@ -1,13 +1,22 @@
 @@ 1
+SCENE: 🌿 ☀️ 🍃 | How do plants get food?
+
+SAY: riya-think | Plants don't eat like us. How do they get food?
+SAY: buddy-happy | They make it themselves! Plants are autotrophs.
+
 ## Modes of nutrition
 **Nutrition** is the way organisms get and use food.
 - **Autotrophic:** organisms make their own food – green plants.
 - **Heterotrophic:** organisms depend on others for food – animals, fungi, most bacteria.
 
+SAY: aarav-wow | Leaves use sunlight, water and carbon dioxide to make food – photosynthesis!
+
 ## Photosynthesis
 Green plants make food (glucose) in their leaves using **carbon dioxide** (from air through **stomata**), **water** (from roots), **sunlight** and **chlorophyll** (green pigment). Oxygen is released.
 **Carbon dioxide + water → (sunlight, chlorophyll) → glucose + oxygen**
 Glucose is stored as **starch**. Testing a leaf with iodine shows a blue-black colour where starch is present.
+
+SAY: riya-think | The insect-eating pitcher plant – is it a plant or an animal?
 
 ## Other modes in plants
 - **Parasitic:** Cuscuta (amarbel) – a yellow, leafless climber that takes food from its host plant.
@@ -28,8 +37,13 @@ Q: Why does the pitcher plant trap insects?
 A: To get nitrogen, which is lacking in the soil it grows in.
 
 @@ 2
+SCENE: 🍎 🫃 🐄 | Nutrition in animals!
+
 ## Steps of nutrition in animals
 **Ingestion** (taking food in) → **Digestion** (breaking it down) → **Absorption** (into blood) → **Assimilation** (using it to build the body and give energy) → **Egestion** (removing undigested waste).
+
+SAY: aarav-think | How long is our small intestine?
+SAY: buddy-happy | About 7.5 metres – coiled up inside us!
 
 ## Human digestive system
 - **Mouth (buccal cavity):** teeth chew; **saliva** turns starch into sugar; the tongue mixes food and helps us taste.
@@ -40,6 +54,8 @@ A: To get nitrogen, which is lacking in the soil it grows in.
 
 ## Teeth
 Incisors (cutting), canines (tearing), premolars and molars (grinding). Milk teeth (20) are replaced by permanent teeth (32).
+
+SAY: riya-wow | Cows chew the cud – they bring food back up to chew again!
 
 ## Digestion in grass-eaters
 **Ruminants** (cow, buffalo, goat) swallow grass quickly and store it in the **rumen**. Later they bring it back to the mouth in small lumps (**cud**) and chew again – this is called **rumination**. Bacteria help digest **cellulose**.
@@ -57,11 +73,16 @@ Q: What is rumination?
 A: Chewing the cud – bringing back swallowed grass to the mouth and chewing it again.
 
 @@ 3
+SCENE: 🔥 🌡️ 🧥 | Heat!
+
 ## Hot and cold
 **Temperature** tells how hot or cold something is. Our touch can mislead us, so we use a **thermometer**.
 - **Clinical thermometer:** measures body temperature, range **35°C to 42°C**. Normal body temperature is about **37°C**. It has a kink to stop mercury from falling back.
 - **Laboratory thermometer:** range about **–10°C to 110°C**.
 Digital thermometers are now preferred, since mercury is toxic.
+
+SAY: riya-think | Why does a steel spoon in hot tea get hot?
+SAY: buddy-happy | Heat travels through it by conduction. Metals are good conductors.
 
 ## Transfer of heat
 Heat flows from a **hotter** object to a **colder** one.
@@ -72,6 +93,8 @@ Heat flows from a **hotter** object to a **colder** one.
 ## Conductors and insulators
 - **Conductors:** let heat pass easily – metals (copper, aluminium, iron).
 - **Insulators:** don't – wood, plastic, cloth, air.
+
+SAY: aarav-happy | We wear dark clothes in winter because they absorb more heat!
 
 ## Clothes and heat
 - Dark colours absorb more heat → wear dark clothes in winter.
@@ -88,10 +111,16 @@ Q: Why are cooking pan handles made of plastic or wood?
 A: They are insulators and don't get hot.
 
 @@ 4
+SCENE: 🍋 🧼 🧪 | Acids, bases and salts!
+
+SAY: aarav-wow | Lemons taste sour because they're acidic!
+
 ## Acids and bases
 - **Acids** taste sour and turn **blue litmus red**. Examples: citric acid (lemon, orange), lactic acid (curd), acetic acid (vinegar), tartaric acid (tamarind), hydrochloric acid (stomach), formic acid (ant sting).
 - **Bases** taste bitter, feel soapy and turn **red litmus blue**. Examples: sodium hydroxide, calcium hydroxide (lime water), magnesium hydroxide (milk of magnesia), ammonium hydroxide.
 ⚠️ Never taste or touch lab chemicals.
+
+SAY: buddy-happy | Indicators like litmus show us: acids turn blue litmus red, bases turn red litmus blue.
 
 ## Indicators
 Substances that change colour in acids and bases:
@@ -99,6 +128,8 @@ Substances that change colour in acids and bases:
 - **Turmeric:** stays yellow in acid; turns **red** in a base (soap).
 - **China rose (hibiscus):** turns **dark pink** in acid and **green** in base.
 - **Phenolphthalein:** colourless in acid; pink in base.
+
+SAY: riya-happy | An antacid neutralises extra acid in the stomach!
 
 ## Neutralisation
 **Acid + base → salt + water + heat**. Examples:
@@ -117,6 +148,11 @@ Q: What is neutralisation?
 A: The reaction of an acid with a base to form salt and water, with heat released.
 
 @@ 5
+SCENE: 🧊 🔩 🍳 | Physical and chemical changes!
+
+SAY: riya-think | Is melting ice a chemical change?
+SAY: buddy-happy | No – it's physical. It can be reversed, and no new substance forms.
+
 ## Physical changes
 Changes in **shape, size, colour or state** where **no new substance** forms. Usually reversible.
 Examples: melting ice, dissolving salt, cutting paper, folding cloth, boiling water.
@@ -127,6 +163,8 @@ Examples: melting ice, dissolving salt, cutting paper, folding cloth, boiling wa
 - **Rusting of iron:** iron + oxygen + water → **iron oxide (rust)**.
 - **Baking soda + vinegar:** fizzing; carbon dioxide gas forms. CO₂ turns **lime water milky**.
 - Ripening of fruits, cooking food, digestion, photosynthesis.
+
+SAY: aarav-happy | Painting iron stops rust from forming!
 
 ## Preventing rust
 Rusting needs both **oxygen** and **water**. Prevent it by painting, greasing, or **galvanisation** (coating iron with zinc).
@@ -144,10 +182,17 @@ Q: What is galvanisation?
 A: Coating iron with zinc to prevent rusting.
 
 @@ 6
+SCENE: ❄️ 🌴 🐧 | Weather, climate and adaptation!
+
+SAY: aarav-think | Weather and climate – aren't they the same?
+SAY: buddy-happy | Weather is day-to-day. Climate is the pattern over about 25 years.
+
 ## Weather and climate
 - **Weather:** day-to-day condition of the atmosphere – temperature, humidity, rainfall, wind speed. Measured by the **Meteorological Department**.
 - **Climate:** the average weather of a place over **25 years or more**.
 India's climate: hot and humid on the coasts and in the north-east (Kerala), hot and dry in the desert (Rajasthan), cold in Jammu & Kashmir.
+
+SAY: riya-wow | Polar bears have white fur and a thick layer of fat to stay warm!
 
 ## Polar regions
 Very cold; snow covered for six months; **sun doesn't set for six months** and doesn't rise for the next six.
@@ -174,6 +219,11 @@ Q: Why does a toucan have a long beak?
 A: To reach fruits on thin branches.
 
 @@ 7
+SCENE: 🌬️ 🌪️ ⛈️ | Winds, storms and cyclones!
+
+SAY: riya-think | Can air really push things?
+SAY: buddy-happy | Yes! Air exerts pressure. Wind is air moving from high to low pressure.
+
 ## Air exerts pressure
 Air pushes on everything around it – this is **air pressure**. A balloon swells; a tin can crushes when air inside it is removed.
 
@@ -190,6 +240,8 @@ Moving air is **wind**. It blows from a region of **high pressure** to **low pre
 - **Cyclones:** huge low-pressure systems; warm, moist air spirals upward with very strong winds. The calm centre is the **eye**. They form over warm seas; the east coast of India (Odisha, Andhra Pradesh) is often hit.
 - Called **hurricanes** in America and **typhoons** in the Philippines and Japan.
 
+SAY: aarav-happy | During a storm, stay indoors and away from trees and poles!
+
 ## Safety
 Follow weather warnings, move to safe shelters, keep emergency kits, don't go to the sea. Satellites and radar help forecast cyclones.
 > 💡 An anemometer measures wind speed.
@@ -203,6 +255,10 @@ Q: Why do monsoon winds bring rain?
 A: They carry moisture from the ocean to the land.
 
 @@ 8
+SCENE: 🪱 🌾 🏞️ | Soil!
+
+SAY: aarav-wow | Soil has layers – like a cake!
+
 ## Soil and its layers
 **Soil** forms when rocks break down by wind, water and climate (**weathering**), mixed with **humus** (decayed plants and animals).
 A vertical section showing layers is called a **soil profile**:
@@ -211,6 +267,8 @@ A vertical section showing layers is called a **soil profile**:
 - **C horizon:** small lumps of rock with cracks.
 - **Bedrock:** hard rock below.
 
+SAY: buddy-happy | And types: sandy, clayey and loamy. Loamy soil is best for most crops.
+
 ## Types of soil
 - **Sandy:** large particles, loose, drains water fast, holds little water and air spaces are big.
 - **Clayey:** fine particles, sticky, holds lots of water, less air.
@@ -218,6 +276,8 @@ A vertical section showing layers is called a **soil profile**:
 
 ## Soil and crops
 Clayey and loamy soils are good for wheat and gram; clayey soil holding water suits **paddy (rice)**; sandy loam suits lentils and pulses; cotton grows in loamy sand.
+
+SAY: riya-think | Tree roots hold the soil and stop erosion!
 
 ## Soil erosion
 Removal of topsoil by wind and water, especially where there are no plants. Prevent it by planting trees, grass, and terrace farming on slopes.
@@ -232,8 +292,13 @@ Q: How can we prevent soil erosion?
 A: By planting trees and grass, and terrace farming.
 
 @@ 9
+SCENE: 🫁 🏃 🐟 | Respiration!
+
 ## Why we respire
 **Respiration** breaks down food (glucose) in cells to release **energy**. It happens in every living cell.
+
+SAY: riya-think | Why do my legs hurt after running fast?
+SAY: buddy-happy | Without enough oxygen, muscles respire anaerobically and make lactic acid.
 
 ## Aerobic and anaerobic respiration
 - **Aerobic (with oxygen):** glucose → carbon dioxide + water + **energy**. Most plants and animals.
@@ -245,6 +310,8 @@ Taking in oxygen-rich air (**inhalation**) and giving out carbon-dioxide-rich ai
 - The **diaphragm** moves down and the ribs move up and out during inhalation; the chest expands.
 - An adult breathes about **15–18 times** a minute at rest.
 - Lime water turns milky with exhaled air – it has more carbon dioxide.
+
+SAY: aarav-wow | Fish breathe through gills!
 
 ## Breathing in other organisms
 - **Cockroach:** small openings called **spiracles** and air tubes (**tracheae**).
@@ -262,6 +329,10 @@ Q: Why does lime water turn milky with exhaled air?
 A: Because exhaled air has more carbon dioxide.
 
 @@ 10
+SCENE: 🫀 🩸 🌳 | Transport in animals and plants!
+
+SAY: aarav-happy | My heart beats about 72 times a minute!
+
 ## Circulatory system
 - **Blood** carries oxygen, food, waste and hormones. It has a fluid called **plasma**, **red blood cells** (contain **haemoglobin**, which carries oxygen), **white blood cells** (fight germs) and **platelets** (help clotting).
 - **Arteries** carry oxygen-rich blood **away** from the heart (thick, elastic walls). The **pulmonary artery** is an exception – it carries deoxygenated blood to the lungs.
@@ -269,9 +340,13 @@ A: Because exhaled air has more carbon dioxide.
 - **Capillaries** are very thin tubes connecting arteries and veins.
 - **Heart:** has **four chambers** – two **atria** (upper) and two **ventricles** (lower). It beats about **72 times a minute**. A **stethoscope** helps doctors hear heartbeats. The **pulse** in the wrist shows the heartbeat.
 
+SAY: buddy-happy | Blood carries oxygen and food. Kidneys clean waste from the blood.
+
 ## Excretion
 Removing waste from the body. **Kidneys** filter blood and make **urine**, which goes through **ureters** to the **urinary bladder** and out. Sweat also removes water and salts.
 **Dialysis** is used when kidneys fail.
+
+SAY: riya-wow | Xylem carries water up a tree, even 100 metres high!
 
 ## Transport in plants
 - **Xylem:** carries water and minerals **up** from roots to leaves.
@@ -288,6 +363,11 @@ Q: What does xylem carry?
 A: Water and minerals from roots to leaves.
 
 @@ 11
+SCENE: 🌸 🐝 🌰 | Reproduction in plants!
+
+SAY: riya-think | Can a plant grow without a seed?
+SAY: buddy-happy | Yes! A potato grows from its eyes, a rose from a cutting – asexual reproduction.
+
 ## Asexual reproduction
 New plants grow from **one parent** without seeds.
 - **Vegetative propagation:** from roots, stems or leaves – rose and money plant (stem cuttings), potato (eyes/buds on tubers), bryophyllum (buds on leaf edges), sweet potato and dahlia (roots).
@@ -300,6 +380,8 @@ Needs male and female parts – in the **flower**.
 - **Stamen** (male): anther makes **pollen grains**.
 - **Pistil** (female): stigma, style, ovary (contains **ovules**).
 - **Unisexual flowers** have only stamens or only pistils (papaya, corn); **bisexual flowers** have both (mustard, rose).
+
+SAY: aarav-happy | Bees carry pollen from flower to flower – pollination!
 
 ## Pollination and fertilisation
 - **Pollination:** transfer of pollen to the stigma, by wind, water or insects. **Self-pollination:** same flower/plant; **cross-pollination:** another plant.
@@ -319,6 +401,11 @@ Q: Give an example of a unisexual flower.
 A: Papaya or corn.
 
 @@ 12
+SCENE: 🚗 ⏱️ 📈 | Motion and time!
+
+SAY: aarav-think | Who's faster – the one who covers more distance or takes less time?
+SAY: buddy-happy | Speed tells us! Speed = distance ÷ time.
+
 ## Slow or fast?
 We compare motion by **speed** – the distance covered per unit time.
 **Speed = Distance ÷ Time**
@@ -334,6 +421,8 @@ SI unit: **metre per second (m/s)**; we also use km/h.
 ## Distance–time graph
 Distance on the y-axis, time on the x-axis. A **straight line** means uniform motion; the steeper the line, the faster the motion.
 
+SAY: riya-happy | A speedometer shows speed, an odometer shows distance!
+
 ## Instruments in vehicles
 - **Speedometer:** shows speed in km/h.
 - **Odometer:** shows total distance travelled.
@@ -348,17 +437,25 @@ Q: What does a straight-line distance–time graph show?
 A: Uniform motion.
 
 @@ 13
+SCENE: 💡 🔋 🧲 | Electric current and its effects!
+
 ## Circuit symbols
 Diagrams use symbols: cell (long line + and short line –), battery, bulb, switch (open/closed), wire. A **battery** is two or more cells joined + to –.
+
+SAY: riya-wow | A heater gets hot because of electric current!
 
 ## Heating effect
 When current flows through a wire, it gets **hot**. Used in electric heaters, irons, kettles, geysers and toasters, which have a coil called an **element** (made of **nichrome**).
 - Bulbs glow because their **filament** gets very hot.
 - **CFLs and LEDs** waste less energy as heat and save electricity.
 
+SAY: buddy-happy | That's the heating effect. A fuse melts and breaks the circuit if too much current flows.
+
 ## Electric fuse and MCB
 A **fuse** has a wire that melts and breaks the circuit when too much current flows, preventing fires. Modern homes use **MCBs** (miniature circuit breakers), which switch off automatically.
 ⚠️ Use only ISI-marked fuses.
+
+SAY: aarav-happy | A current-carrying wire acts like a magnet – electromagnet!
 
 ## Magnetic effect
 A wire carrying current behaves like a magnet – it deflects a compass needle (discovered by **Hans Christian Oersted**).
@@ -375,6 +472,11 @@ Q: Name two uses of electromagnets.
 A: Cranes, electric bells, loudspeakers, motors.
 
 @@ 14
+SCENE: 🔦 🪞 🌈 | Light!
+
+SAY: aarav-think | Why can't I see around a corner?
+SAY: buddy-happy | Because light travels in straight lines!
+
 ## Light travels in a straight line
 That's why we see shadows and can't see around corners.
 
@@ -396,6 +498,8 @@ Light bouncing back from a surface.
 - **Convex lens** (thicker in the middle): converges light; used in magnifying glasses, microscopes, spectacles for long-sightedness.
 - **Concave lens** (thinner in the middle): diverges light; used for short-sightedness.
 
+SAY: riya-wow | White sunlight splits into seven colours – that's a rainbow!
+
 ## Sunlight is made of seven colours
 A **prism** splits white light into **VIBGYOR** (violet, indigo, blue, green, yellow, orange, red). A rainbow forms in a similar way. **Newton's disc** with seven colours appears white when spun fast.
 > 💡 Never look at the Sun through a lens – it can damage your eyes.
@@ -409,6 +513,11 @@ Q: What does VIBGYOR stand for?
 A: Violet, indigo, blue, green, yellow, orange, red.
 
 @@ 15
+SCENE: 💧 🌍 🚰 | Water – a precious resource!
+
+SAY: riya-think | If Earth is mostly water, why is there a shortage?
+SAY: buddy-happy | Most of it is salty seawater. Very little is fresh water we can use.
+
 ## Water on Earth
 About **71%** of Earth's surface is water, but only about **3%** is fresh water, and most of that is frozen. Water exists in three forms: **solid** (ice, snow), **liquid** (rivers, seas), **gas** (vapour).
 
@@ -422,6 +531,8 @@ Rainwater seeps into the ground (**infiltration**) and fills spaces between rock
 
 ## Distribution of water
 Water is unevenly distributed. Some places get floods while others face drought. In many places, people – often women and girls – walk long distances for water.
+
+SAY: aarav-happy | Drip irrigation saves water on farms!
 
 ## Managing water
 - **Rainwater harvesting:** rooftop collection; recharging groundwater.
@@ -439,10 +550,16 @@ Q: Why is the water table falling?
 A: More use by people, farms and industry, and less rainwater soaking into the ground.
 
 @@ 16
+SCENE: 🌳 🐅 🍄 | Forests – our lifeline!
+
+SAY: aarav-wow | Forests are home to so many plants and animals!
+
 ## Forests are an ecosystem
 A **forest** is a large area with many trees and other plants, animals and microbes, all depending on one another.
 - **Layers:** the **canopy** (top branches), understorey, shrubs and herbs, and the forest floor.
 - The **forest floor** has dead leaves that are broken down by **decomposers** (bacteria, fungi) into **humus**.
+
+SAY: buddy-happy | Grass → deer → tiger. That's a food chain!
 
 ## Food chains and food webs
 Grass → deer → lion. Plants are **producers**; herbivores are **primary consumers**; carnivores are **secondary consumers**. Many food chains linked together form a **food web**.
@@ -452,6 +569,8 @@ Grass → deer → lion. Plants are **producers**; herbivores are **primary cons
 - Prevent floods and soil erosion; recharge groundwater.
 - Provide wood, honey, gum, medicines, fruits, and homes for wildlife and tribal people.
 - Forests are called **"green lungs"**.
+
+SAY: riya-think | Cutting forests causes floods and less rain!
 
 ## Deforestation
 Cutting forests leads to floods, droughts, soil erosion, loss of wildlife and global warming. We must protect forests through afforestation and wise use.
@@ -466,12 +585,18 @@ Q: Why are forests called green lungs?
 A: Because they give oxygen and absorb carbon dioxide.
 
 @@ 17
+SCENE: 🚿 🏭 ♻️ | Wastewater!
+
+SAY: riya-think | Where does water go after we use it?
+
 ## Wastewater
 Water that has been used in homes, industries and farms is **wastewater** or **sewage**. It contains:
 - **Organic impurities:** human waste, food scraps, oil
 - **Inorganic impurities:** chemicals, metals
 - **Germs:** bacteria and viruses that cause cholera, typhoid and dysentery
 Sewage flows through underground pipes (**sewers**).
+
+SAY: buddy-happy | It's cleaned at a wastewater treatment plant before going back to rivers.
 
 ## Wastewater treatment plant (WWTP)
 1. **Bar screens:** remove large objects (rags, sticks, plastic).
@@ -480,6 +605,8 @@ Sewage flows through underground pipes (**sewers**).
 4. **Aeration:** air is pumped in to help helpful bacteria eat the remaining waste.
 5. **Disinfection:** with chlorine or ozone before releasing clean water into rivers.
 **Sludge** is used to make **biogas** and **manure**.
+
+SAY: aarav-happy | I won't pour oil down the sink – it blocks pipes!
 
 ## Good habits
 Don't throw oil, fat, plastics, medicines or chemicals down the drain. Use dustbins.

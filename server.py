@@ -337,6 +337,12 @@ class Handler(SimpleHTTPRequestHandler):
         ".txt": "text/plain; charset=utf-8",
     }
 
+    def end_headers(self):
+        # Make browsers re-check pages, books and pictures so edits show up on a normal refresh.
+        if self.command in ("GET", "HEAD"):
+            self.send_header("Cache-Control", "no-cache")
+        super().end_headers()
+
     def send_json(self, status, payload):
         body = json.dumps(payload).encode("utf-8")
         self.send_response(status)

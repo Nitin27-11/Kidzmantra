@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🔤 🅰️ 🐝 | Let's learn the alphabet!
+
 ## The alphabet A to Z
 The **alphabet** is all 26 letters in order. Every letter has a capital and a small form.
+
+SAY: riya-happy | I know capital A and small a together!
+SAY: buddy-happy | Great! And a, e, i, o, u are special. They are vowels!
 
 ## Capital and small together
 Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm
@@ -9,6 +14,8 @@ Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 ## Vowels and consonants
 - **Vowels:** a, e, i, o, u (5 letters).
 - **Consonants:** all the other 21 letters.
+
+SAY: aarav-wow | I can say the letters in order, A to Z!
 
 ## Letter order
 - The letter **after** d is **e**.
@@ -25,8 +32,13 @@ Q: Is "b" a vowel or a consonant?
 A: A consonant.
 
 @@ 2
+SCENE: 🐜 🥚 🐙 | Letter sounds are fun!
+
 ## Letter sounds (phonics)
 Each letter makes a sound. When we blend sounds, we read words!
+
+SAY: aarav-happy | a for ant, e for egg, i for igloo!
+SAY: buddy-happy | Yes! Those are short vowel sounds. Now blend them: m-a-t, mat!
 
 ## Short vowel sounds
 - **a** as in c**a**t, m**a**t, b**a**g
@@ -44,6 +56,8 @@ Say the sounds and slide them together:
 - r – u – g → **rug**
 > 💡 Change one sound to make a new word: cat → bat → hat → mat!
 
+SAY: riya-wow | s-u-n, sun! I blended a word!
+
 ## Let's check
 Q: Blend: s – i – t.
 A: sit.
@@ -53,8 +67,13 @@ Q: Change the first sound of "pen" to "h". What word do you get?
 A: hen.
 
 @@ 3
+SCENE: 🐱 🎩 🦇 | Let's find rhyming words!
+
 ## Rhyming words
 Words that **sound the same at the end** are called rhyming words.
+
+SAY: riya-happy | Cat, hat and bat sound the same at the end!
+SAY: buddy-happy | They rhyme! Rhyming words end with the same sound.
 
 ## Rhyming families
 - **-at:** cat, bat, hat, mat, rat
@@ -69,6 +88,8 @@ The **pig** is **big**.
 The **sun** is **fun**.
 > 💡 To find a rhyme, keep the end the same and change the first sound.
 
+SAY: aarav-think | Does "dog" rhyme with "frog"? Yes, it does!
+
 ## Let's check
 Q: Which word rhymes with "hen": pen or cat?
 A: Pen.
@@ -78,8 +99,13 @@ Q: Does "dog" rhyme with "log"?
 A: Yes.
 
 @@ 4
+SCENE: 👀 📖 ⭐ | First sight words!
+
 ## First sight words
 **Sight words** are small words we see very often. We learn to read them at a glance.
+
+SAY: aarav-think | I see "the" and "is" in every book!
+SAY: buddy-happy | They are sight words. We read them by just looking.
 
 ## Our sight words
 the, a, is, I, am, it, in, on, and, to, see, go, can, we, my, you, he, she, at, up
@@ -92,6 +118,8 @@ the, a, is, I, am, it, in, on, and, to, see, go, can, we, my, you, he, she, at, 
 - The cup **is on** the table.
 > 💡 Point to each word with your finger as you read.
 
+SAY: riya-happy | "I can see a cat." I read it all!
+
 ## Let's check
 Q: Read: "I can see a bus."
 A: I can see a bus.
@@ -99,8 +127,13 @@ Q: Fill in: "The ball is ___ the box." (in / see)
 A: in.
 
 @@ 5
+SCENE: 🦁 🐭 🕸️ | Story time: The Lion and the Mouse!
+
 ## Listening to stories
 A good listener understands the story and can tell it again.
+
+SAY: riya-think | Can a tiny mouse help a big lion?
+SAY: buddy-happy | Listen and find out! Even small friends can help in big ways.
 
 ## The Lion and the Mouse
 A lion was sleeping in the forest. A little mouse ran over his nose.
@@ -112,6 +145,8 @@ The mouse came running. He bit the net with his sharp teeth and set the lion fre
 ## What did we learn?
 Even small friends can be a big help. Be kind to everyone.
 > 💡 Tell the story in order: first, then, after that, at the end.
+
+SAY: aarav-wow | The mouse saved the lion! Never laugh at small friends.
 
 ## Let's check
 Q: Who woke up the lion?

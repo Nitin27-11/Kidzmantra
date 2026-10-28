@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🔤 🐝 🍎 | Letters have sounds – let's read!
+
 ## Alphabet and phonics
 English has **26 letters**: 5 vowels (a, e, i, o, u) and 21 consonants. Each letter has a name and a sound.
+
+SAY: riya-think | Why do I need to know letter sounds?
+SAY: buddy-happy | Because sounds join to make words! c-a-t makes cat.
 
 ## Letter sounds we use to read
 - c-a-t → **cat**, d-o-g → **dog**, s-u-n → **sun**
@@ -8,6 +13,8 @@ English has **26 letters**: 5 vowels (a, e, i, o, u) and 21 consonants. Each let
 - **sh** as in **sh**ip, **sh**op
 - **ch** as in **ch**air, **ch**ick
 - **th** as in **th**ree, **th**is
+
+SAY: aarav-wow | The a in "cake" says its own name! That's a long vowel!
 
 ## Long vowel sounds
 When a word ends in a silent **e**, the vowel says its name:
@@ -19,6 +26,8 @@ When a word ends in a silent **e**, the vowel says its name:
 ## Let's practise
 Read: ship, chin, thin, cake, bike, rose.
 
+SAY: buddy-happy | Practise a little every day and you will read on your own!
+
 ## Let's check
 Q: Which two letters make the sound in "ship"?
 A: sh.
@@ -28,8 +37,13 @@ Q: Is "o" a vowel or a consonant?
 A: A vowel.
 
 @@ 2
+SCENE: 🧒 🐶 🏫 | Naming words are everywhere!
+
 ## Naming words
 A **naming word** is the name of a person, animal, place or thing. It is also called a **noun**.
+
+SAY: aarav-think | Is "Aarav" a naming word too?
+SAY: buddy-happy | Yes! Names of people, animals, places and things are all naming words.
 
 ## Examples
 - **Person:** mother, teacher, Riya, doctor
@@ -39,6 +53,8 @@ A **naming word** is the name of a person, animal, place or thing. It is also ca
 
 ## Special names
 Names of particular people and places start with a capital letter: **Aman**, **Mumbai**, **India**.
+
+SAY: riya-happy | Special names like Delhi and Riya start with a capital letter!
 
 ## Find the naming words
 - The **dog** is in the **garden**.
@@ -54,8 +70,13 @@ Q: Why does "Delhi" start with a capital letter?
 A: It is the special name of a place.
 
 @@ 3
+SCENE: 🏃 🤸 🍽️ | Let's find action words!
+
 ## Action words
 An **action word** tells us what someone or something **does**. It is also called a **verb**.
+
+SAY: riya-happy | I run, I jump, I sing! These are all action words!
+SAY: buddy-happy | Yes! Action words tell us what someone does.
 
 ## Examples
 run, jump, eat, sleep, read, write, sing, dance, swim, fly, cry, laugh
@@ -65,6 +86,8 @@ run, jump, eat, sleep, read, write, sing, dance, swim, fly, cry, laugh
 - Birds **fly**.
 - I **read** a book.
 - Raju **kicks** the ball.
+
+SAY: aarav-wow | Let's act it out: I am clapping! You guess my action word!
 
 ## Act it out
 Play "Simon says": "Simon says **jump**!" "Simon says **clap**!"
@@ -79,8 +102,13 @@ Q: Is "pencil" an action word?
 A: No, it is a naming word.
 
 @@ 4
+SCENE: ✍️ 📝 🔵 | Let's make sentences!
+
 ## Simple sentences
 A **sentence** is a group of words that makes complete sense.
+
+SAY: aarav-think | Is "the big red" a sentence?
+SAY: buddy-happy | No, it doesn't make full sense. A sentence tells a complete idea.
 
 ## Rules for a sentence
 1. It starts with a **capital letter**.
@@ -97,6 +125,8 @@ A **sentence** is a group of words that makes complete sense.
 "a / I / have / kite" → **I have a kite.**
 > 💡 Leave a finger space between words when you write.
 
+SAY: riya-happy | A sentence starts with a capital letter and ends with a full stop!
+
 ## Let's check
 Q: Make a sentence: "dog / The / barks".
 A: The dog barks.
@@ -106,8 +136,13 @@ Q: Is "red big ball" a sentence?
 A: No, it does not make complete sense.
 
 @@ 5
+SCENE: 🌱 🪴 🌻 | Story time: The Little Seed!
+
 ## Reading short stories
 Reading stories helps us learn new words and ideas.
+
+SAY: riya-wow | Tara's seed grew into a yellow flower!
+SAY: buddy-happy | It needed water, sunlight and care every day.
 
 ## The Little Seed
 Tara planted a small seed in a pot.
@@ -122,6 +157,8 @@ Tara was very happy. "Thank you, little plant!" she said.
 - **shoot** – the first small stem of a new plant
 - **bloomed** – opened into a flower
 
+SAY: aarav-happy | I will read the story again to understand it better!
+
 ## How to read well
 Read slowly. Look at each word. Read the story again to understand it better.
 > 💡 Plants need water, sunlight and care to grow – just like children need food, sleep and love!
@@ -135,8 +172,13 @@ Q: What colour was the flower?
 A: Yellow.
 
 @@ 6
+SCENE: 🌙 ⭐ 🎵 | Let's enjoy poems!
+
 ## Poems and rhymes
 A **poem** is a piece of writing with rhythm. Many poems have rhyming words.
+
+SAY: aarav-wow | The moon is a silver ball in the poem!
+SAY: buddy-happy | Poems have rhythm. Bright and night rhyme – they sound alike!
 
 ## The Moon
 The moon is round, the moon is bright,
@@ -151,6 +193,8 @@ Sometimes it is not there at all!
 ## Enjoying a poem
 Read it aloud. Clap the beat. Act out the words.
 > 💡 The moon changes its shape every night. These shapes are called phases.
+
+SAY: riya-happy | I clapped the beat while reading. So much fun!
 
 ## Let's check
 Q: Which word rhymes with "bright"?

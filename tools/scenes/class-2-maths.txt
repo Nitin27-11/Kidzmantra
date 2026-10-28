@@ -1,0 +1,37 @@
+1 | 🔢 💯 🧮 | Numbers up to 1000!
+1.2 aarav-wow | 1000 is ten hundreds!
+1.2 buddy-happy | Yes! In 345, 3 is in the hundreds place, 4 tens and 5 ones.
+1.4 riya-think | Which is bigger, 456 or 465?
+1.4 buddy-happy | Compare hundreds first, then tens. 465 is bigger!
+2 | ➕ 🎒 🔁 | Addition with carrying!
+2.2 riya-think | What if the ones add up to more than 9?
+2.2 buddy-happy | Carry the extra ten to the tens column!
+2.4 aarav-happy | 38 + 25 = 63. I carried 1 ten!
+3 | ➖ 🔙 🍬 | Subtraction with borrowing!
+3.2 aarav-think | How do I take 7 from 2 in 42 – 17?
+3.2 buddy-happy | Borrow 1 ten! Then 12 – 7 = 5.
+3.4 riya-happy | 42 – 17 = 25. Easy now!
+4 | ✖️ 🍫 🔢 | Let's multiply!
+4.2 riya-wow | 3 groups of 4 sweets make 12!
+4.2 buddy-happy | Multiplication is quick adding of equal groups: 4 + 4 + 4 = 3 × 4.
+4.4 aarav-happy | I learned the tables of 2, 3, 4 and 5!
+5 | 📐 🔺 🎲 | Shapes and lines!
+5.1 aarav-think | Are all lines straight?
+5.1 buddy-happy | No! Lines can be straight or curved, standing or sleeping.
+5.3 riya-wow | A cube has 6 faces!
+6 | 📏 ⚖️ 🍉 | Length and weight!
+6.2 riya-happy | I measure my book with a ruler in centimetres!
+6.2 buddy-happy | We measure length in centimetres and metres, and weight in kilograms.
+6.3 aarav-wow | A watermelon is heavier than an apple!
+7 | ⏰ 📅 🎂 | Time and calendar!
+7.1 aarav-think | Which hand of the clock shows the hour?
+7.1 buddy-happy | The short hand shows hours, the long hand shows minutes.
+7.2 riya-happy | My birthday is in March!
+8 | 🪙 💵 🛍️ | Money, money!
+8.1 riya-happy | 100 paise make 1 rupee!
+8.2 buddy-happy | Right! Now let's add money and give change while shopping.
+8.3 aarav-think | If a pencil costs 7 rupees and I give 10, I get 3 rupees back!
+9 | 📊 🍎 ✋ | Let's collect data!
+9.2 aarav-happy | I used tally marks to count favourite fruits!
+9.2 buddy-happy | Tally marks make counting easy: every 5th line crosses the other four.
+9.4 riya-wow | A pictograph shows data with pictures!

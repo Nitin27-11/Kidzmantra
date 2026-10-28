@@ -1,8 +1,15 @@
 @@ 1
+SCENE: 🌾 🚜 💧 | Crop production!
+
+SAY: riya-think | How does food reach our plates?
+SAY: buddy-happy | Through careful farming: preparing soil, sowing, watering, protecting and harvesting.
+
 ## Agricultural practices
 Growing plants on a large scale for food is **agriculture**. Plants of the same kind grown in one place are a **crop**.
 - **Kharif crops:** sown in the rainy season (June–September) – rice, maize, soybean, cotton, groundnut.
 - **Rabi crops:** sown in winter (October–March) – wheat, gram, pea, mustard, linseed.
+
+SAY: aarav-wow | Drip irrigation gives water drop by drop to each plant!
 
 ## Steps in crop production
 1. **Preparing the soil:** **ploughing (tilling)** loosens soil so roots go deep and air reaches them; **levelling** prevents erosion. Tools: plough, hoe, cultivator.
@@ -26,6 +33,10 @@ Q: How does drip irrigation save water?
 A: It delivers water drop by drop directly to the roots.
 
 @@ 2
+SCENE: 🦠 🍞 🔬 | Microorganisms!
+
+SAY: aarav-think | Are all germs bad?
+
 ## Microorganisms
 Living things too small to see without a **microscope**. Main groups:
 - **Bacteria:** single-celled (e.g. Lactobacillus in curd).
@@ -33,6 +44,8 @@ Living things too small to see without a **microscope**. Main groups:
 - **Protozoa:** Amoeba, Paramecium.
 - **Algae:** Chlamydomonas, Spirogyra.
 - **Viruses:** reproduce only inside living cells; cause cold, flu, COVID-19, polio, chickenpox.
+
+SAY: buddy-happy | No! Yeast makes bread rise and bacteria turn milk into curd.
 
 ## Friendly microorganisms
 - **Curd and bread:** Lactobacillus turns milk into curd; **yeast** makes dough rise (releases CO₂).
@@ -48,6 +61,8 @@ Living things too small to see without a **microscope**. Main groups:
 - **Plant diseases:** citrus canker, rust of wheat.
 - **Food poisoning:** from spoiled food.
 
+SAY: riya-happy | Salt, sugar and cold slow down microbes – that's food preservation!
+
 ## Food preservation
 Salting, sugaring (jams), oil and vinegar (pickles), heating and cooling, **pasteurisation** (milk heated to 70°C for 15–30 seconds, then chilled), refrigeration, airtight packing.
 > 💡 Antibiotics don't work on colds and flu, which are caused by viruses.
@@ -61,12 +76,18 @@ Q: What is pasteurisation?
 A: Heating milk to about 70°C for a short time and chilling it to kill microbes.
 
 @@ 3
+SCENE: 🧵 🥤 ♻️ | Synthetic fibres and plastics!
+
+SAY: riya-happy | Nylon, polyester and acrylic are human-made fibres!
+
 ## Synthetic fibres
 Fibres made by humans from chemicals (petrochemicals). A synthetic fibre is a **polymer** – a long chain of small units (**monomers**). Cotton is a natural polymer made of cellulose.
 - **Rayon:** made from wood pulp; called **artificial silk**; used in bedsheets, carpets.
 - **Nylon:** first fully synthetic fibre (1931); strong, elastic, light; used in ropes, parachutes, socks, toothbrush bristles.
 - **Polyester:** doesn't wrinkle easily; **PET** is used to make bottles and films. **Terylene** is a polyester.
 - **Acrylic:** looks like wool; used in sweaters and blankets.
+
+SAY: buddy-happy | They're strong, light and dry quickly – but most don't decompose.
 
 ## Characteristics
 Strong, durable, dry quickly, cheap, easy to maintain. But they **melt on heating** and stick to the body – dangerous near fire. Cotton clothes are safer in the kitchen.
@@ -75,6 +96,8 @@ Strong, durable, dry quickly, cheap, easy to maintain. But they **melt on heatin
 Also polymers.
 - **Thermoplastics:** soften on heating and can be reshaped – polythene, PVC (toys, combs, pipes).
 - **Thermosetting plastics:** don't soften once set – **bakelite** (switches, pan handles – poor conductor of heat and electricity), **melamine** (fire-resistant; kitchenware).
+
+SAY: aarav-think | So we must reduce, reuse and recycle plastics!
 
 ## Plastics and the environment
 Plastics are **non-biodegradable** – they take hundreds of years to break down. Burning them releases toxic gases. Follow the **4 Rs: Reduce, Reuse, Recycle, Recover**.
@@ -89,6 +112,11 @@ Q: Name a thermosetting plastic.
 A: Bakelite or melamine.
 
 @@ 4
+SCENE: 🔩 💎 ⚡ | Metals and non-metals!
+
+SAY: aarav-wow | Metals make a ringing sound when hit!
+SAY: buddy-happy | That's sonority! Metals are also shiny, malleable and good conductors.
+
 ## Physical properties
 - **Metals:** lustrous (shiny), hard, **malleable** (beaten into sheets), **ductile** (drawn into wires), good conductors of heat and electricity, **sonorous** (ring when struck).
 - **Non-metals:** dull, brittle, soft, poor conductors, not sonorous.
@@ -99,6 +127,8 @@ A: Bakelite or melamine.
 - **With water:** sodium reacts violently (kept in kerosene); iron rusts slowly in moist air.
 - **With acids:** metals release **hydrogen gas** (burns with a pop sound).
 - **Displacement:** a more reactive metal displaces a less reactive one from its compound – iron + copper sulphate → iron sulphate + copper (blue solution turns green).
+
+SAY: riya-happy | Non-metals like oxygen are essential for life!
 
 ## Uses
 - Metals: utensils, machines, wires (copper, aluminium), jewellery (gold, silver), aircraft (aluminium).
@@ -114,6 +144,11 @@ Q: Which non-metal conducts electricity?
 A: Graphite.
 
 @@ 5
+SCENE: ⛽ 🪨 🔥 | Coal and petroleum!
+
+SAY: riya-think | Will coal and petrol last forever?
+SAY: buddy-happy | No – they're exhaustible. They took millions of years to form.
+
 ## Natural resources
 - **Inexhaustible:** unlimited – sunlight, air.
 - **Exhaustible:** limited and can be used up – coal, petroleum, natural gas, minerals, forests.
@@ -129,6 +164,8 @@ Formed from dead marine organisms buried under the sea bed. Found trapped betwee
 ## Natural gas
 Cleanest fossil fuel. Stored as **CNG** (Compressed Natural Gas) for vehicles and power plants. Found in Tripura, Rajasthan, Krishna-Godavari delta.
 
+SAY: aarav-happy | I switch off the car engine at red lights – saves fuel!
+
 ## Saving fossil fuels
 They take millions of years to form and pollute the air. Tips by **PCRA** (Petroleum Conservation Research Association): drive at steady speed, switch off engines at red lights, keep tyre pressure correct, service vehicles regularly.
 > 💡 The first oil well in India was dug in Digboi, Assam, in 1867.
@@ -142,8 +179,13 @@ Q: Name the cleanest fossil fuel.
 A: Natural gas.
 
 @@ 6
+SCENE: 🔥 🕯️ 🧯 | Combustion and flame!
+
 ## Combustion
 A chemical process in which a substance reacts with **oxygen** and gives off **heat** (and often light). Substances that burn are **combustible** (wood, paper, LPG); those that don't are **non-combustible** (stone, glass).
+
+SAY: aarav-think | What does fire need to burn?
+SAY: buddy-happy | Fuel, air and heat. Take away any one, and the fire goes out!
 
 ## Conditions for combustion
 1. A **fuel**
@@ -160,6 +202,8 @@ Kerosene has a lower ignition temperature than wood, so it catches fire more eas
 Remove any one condition: cut off fuel, cut off air, or cool below ignition temperature.
 - **Water** cools – but **not** for electrical or oil fires.
 - **Carbon dioxide** extinguishers blanket the fire and are best for electrical and oil fires.
+
+SAY: riya-wow | The outer zone of a candle flame is the hottest!
 
 ## Flame
 A candle flame has three zones: **outermost** (blue, complete combustion, hottest), **middle** (yellow, partial combustion, moderately hot), **innermost** (dark, unburnt wax vapour, least hot). Goldsmiths use the outer zone.
@@ -180,8 +224,14 @@ Q: Which zone of a candle flame is hottest?
 A: The outermost (blue) zone.
 
 @@ 7
+SCENE: 🐅 🌳 🏞️ | Conservation of plants and animals!
+
+SAY: riya-happy | Biodiversity means all the variety of life in an area!
+
 ## Biodiversity
 The variety of plants, animals and microorganisms in an area. **Deforestation** (for farming, homes, industries, roads) threatens biodiversity, causes **desertification**, floods, droughts and **global warming**.
+
+SAY: buddy-happy | Wildlife sanctuaries, national parks and biosphere reserves protect it.
 
 ## Protected areas
 - **Wildlife sanctuary:** animals are protected; limited human activity allowed.
@@ -194,6 +244,8 @@ The variety of plants, animals and microorganisms in an area. **Deforestation** 
 - **Endangered species:** at risk of extinction – tiger, lion, rhino, snow leopard.
 - **Extinct species:** no longer living – the dodo.
 - The **Red Data Book** lists endangered species.
+
+SAY: aarav-think | Recycling paper saves trees!
 
 ## Conservation steps
 - **Project Tiger** (1973) to save tigers.
@@ -211,16 +263,24 @@ Q: Name a biosphere reserve in India.
 A: Pachmarhi (or Nilgiri, Sundarbans, Nanda Devi).
 
 @@ 8
+SCENE: 🔬 🧫 🥚 | The cell!
+
+SAY: aarav-wow | Our body is made of trillions of cells!
+
 ## The cell
 The **cell** is the basic structural and functional unit of life. Discovered by **Robert Hooke** in 1665 in a slice of cork.
 - **Unicellular** organisms: Amoeba, Paramecium, bacteria.
 - **Multicellular** organisms: plants, animals.
 Cells vary in shape and size: nerve cells are long; red blood cells are round; the hen's egg is a single large cell.
 
+SAY: buddy-happy | Every cell has a cell membrane, cytoplasm and a nucleus.
+
 ## Parts of a cell
 - **Cell membrane (plasma membrane):** thin outer layer; controls what enters and leaves.
 - **Cytoplasm:** jelly-like fluid where cell activities happen; contains **organelles** like mitochondria.
 - **Nucleus:** the control centre; has **chromosomes** that carry **genes** (pass characters from parents to children). The **nucleolus** is inside the nucleus.
+
+SAY: riya-think | Plant cells have a cell wall and chloroplasts – animal cells don't!
 
 ## Plant vs animal cells
 - Plant cells have a **cell wall** (made of cellulose), large **vacuoles** and **chloroplasts** (green, for photosynthesis).
@@ -243,6 +303,11 @@ Q: What are prokaryotes?
 A: Organisms whose cells don't have a well-defined nucleus, like bacteria.
 
 @@ 9
+SCENE: 🐸 🦋 🐣 | Reproduction in animals!
+
+SAY: riya-think | Do all animals reproduce the same way?
+SAY: buddy-happy | No – some reproduce sexually, others asexually, like Hydra by budding.
+
 ## Modes of reproduction
 - **Asexual:** one parent – **binary fission** (Amoeba divides into two), **budding** (Hydra grows a bud).
 - **Sexual:** two parents – male and female **gametes** (sperm and egg) fuse.
@@ -260,6 +325,8 @@ The fusion of sperm and egg forms a **zygote**.
 - The zygote divides repeatedly to form an **embryo**, which grows in the mother's **uterus**. When body parts are recognisable, it is a **foetus**.
 - **Viviparous** animals give birth to young ones (humans, cats, dogs).
 - **Oviparous** animals lay eggs (hens, frogs, lizards, butterflies).
+
+SAY: aarav-wow | A tadpole turns into a frog – metamorphosis!
 
 ## Metamorphosis
 A dramatic change from larva to adult:
@@ -279,6 +346,11 @@ Q: What is metamorphosis?
 A: A big change in form from a young stage (larva) to an adult.
 
 @@ 10
+SCENE: 🧑 📏 🥗 | Reaching adolescence!
+
+SAY: aarav-think | Why am I growing so fast these days?
+SAY: buddy-happy | It's adolescence – a normal time of change, guided by hormones.
+
 ## Adolescence and puberty
 **Adolescence** is the period between childhood and adulthood, roughly ages **11 to 19** (teenage years). **Puberty** is when the body becomes capable of reproduction.
 
@@ -301,6 +373,8 @@ A: A big change in form from a young stage (larva) to an adult.
 ## Sex determination
 Humans have 23 pairs of chromosomes. Females have **XX**; males have **XY**. The father's chromosome decides the child's sex.
 
+SAY: riya-happy | Good food, exercise, sleep and talking to trusted adults keep us healthy!
+
 ## Health in adolescence
 Balanced diet (iron and protein are important), personal hygiene, exercise, enough sleep. Say **no to drugs** – they are addictive and harmful.
 > 💡 Everyone grows at their own pace – there's no "right" time for every change.
@@ -314,6 +388,10 @@ Q: What are the sex chromosomes of a male?
 A: XY.
 
 @@ 11
+SCENE: 💪 🎈 🌊 | Force and pressure!
+
+SAY: riya-happy | A push or a pull is a force!
+
 ## Force
 A **push or pull** on an object is a **force**. Forces arise from **interaction** between objects.
 Effects of force:
@@ -326,10 +404,14 @@ Force has **magnitude** and **direction**. Its SI unit is the **newton (N)**.
 - **Contact forces:** need touch – **muscular force**, **friction**.
 - **Non-contact forces:** act from a distance – **magnetic force**, **electrostatic force** (a charged comb attracts paper), **gravitational force** (Earth pulls everything towards it).
 
+SAY: buddy-happy | Pressure = force ÷ area. That's why sharp knives cut better.
+
 ## Pressure
 **Pressure = Force ÷ Area**. SI unit: **pascal (Pa)** = N/m².
 - Same force on a smaller area → **more** pressure. That's why knives are sharp and nails are pointed.
 - Wide bags straps and broad tyres on trucks spread force over a larger area → less pressure.
+
+SAY: aarav-wow | Water pressure increases with depth – dams are thicker at the bottom!
 
 ## Pressure in liquids and gases
 - Liquids exert pressure on the walls and base of a container; pressure **increases with depth** (dams have thicker bottoms).
@@ -345,6 +427,11 @@ Q: Why are dam walls thicker at the bottom?
 A: Because water pressure increases with depth.
 
 @@ 12
+SCENE: 👟 🧊 🚲 | Friction – friend and foe!
+
+SAY: aarav-think | Why is it hard to walk on ice?
+SAY: buddy-happy | Ice is smooth, so friction is very low. Friction is what lets us walk!
+
 ## Friction
 The force that **opposes motion** between two surfaces in contact. It acts opposite to the direction of motion.
 **Cause:** irregularities on surfaces interlock.
@@ -366,6 +453,8 @@ The force that **opposes motion** between two surfaces in contact. It acts oppos
 ## Increasing friction
 Treaded tyres, grooves on soles, gymnasts using powder on hands, sand on slippery roads.
 
+SAY: riya-happy | Oil and ball bearings reduce friction in machines!
+
 ## Reducing friction
 **Lubricants** (oil, grease), polishing, ball bearings, wheels, streamlining. Powder on a carrom board.
 > 💡 Without friction, we couldn't even walk – our feet would slip!
@@ -379,6 +468,11 @@ Q: Name two ways to reduce friction.
 A: Lubricants, ball bearings, polishing, streamlining.
 
 @@ 13
+SCENE: 🔊 🎸 👂 | Sound!
+
+SAY: riya-think | How is sound made?
+SAY: buddy-happy | By vibrations! Touch your throat while you speak – feel it?
+
 ## Sound
 Sound is produced by **vibrating** objects – the to-and-fro motion of a vocal cord, a guitar string, a drum's skin.
 - Humans produce sound with the **larynx**; two vocal cords vibrate when air passes.
@@ -391,6 +485,8 @@ Sound enters the ear and makes the **eardrum** vibrate; signals go to the brain.
 - **Amplitude:** the size of vibration; larger amplitude → **louder** sound. Loudness is measured in **decibels (dB)**.
 - **Frequency:** number of vibrations per second, in **hertz (Hz)**; higher frequency → higher **pitch** (shrill). A woman's voice usually has a higher pitch than a man's.
 - **Time period:** time for one vibration.
+
+SAY: aarav-wow | Humans hear from about 20 Hz to 20,000 Hz!
 
 ## Audible range
 Humans hear **20 Hz to 20,000 Hz**. Below 20 Hz: **infrasonic**; above 20,000 Hz: **ultrasonic** (used by bats, in ultrasound scans).
@@ -408,6 +504,11 @@ Q: What is the audible range of humans?
 A: 20 Hz to 20,000 Hz.
 
 @@ 14
+SCENE: ⚡ 🧪 💍 | Chemical effects of current!
+
+SAY: aarav-think | Can water conduct electricity?
+SAY: buddy-happy | Tap water can, because it has dissolved salts. Never touch switches with wet hands!
+
 ## Liquids and electricity
 Some liquids conduct electricity – tap water, salt water, lemon juice, vinegar. **Distilled water** is a poor conductor; adding salt makes it a good conductor. A **tester** with an LED or a compass needle can show weak currents.
 ⚠️ Never touch electrical appliances with wet hands.
@@ -418,6 +519,8 @@ When current passes through a conducting solution, it causes **chemical reaction
 - Metal may be deposited.
 - The colour of the solution may change.
 (When current passes through water, **oxygen** forms at the positive electrode and **hydrogen** at the negative electrode.)
+
+SAY: riya-wow | Electroplating gives a thin shiny coating of metal!
 
 ## Electroplating
 Depositing a thin layer of one metal on another using electricity.
@@ -440,11 +543,16 @@ Q: Why are food cans tin-plated?
 A: Tin is less reactive, so it doesn't react with food, and it protects the iron.
 
 @@ 15
+SCENE: ⚡ 🌩️ 🏚️ | Lightning and earthquakes!
+
 ## Lightning
 - Clouds become **electrically charged** when air currents rub ice particles and water droplets. Positive charges collect at the top and negative charges at the bottom.
 - When the charge builds up, it jumps between clouds or from a cloud to the Earth – a giant **spark** called **lightning**. **Thunder** is the sound produced.
 - Rubbing a plastic comb on dry hair charges it (**static electricity**). Like charges repel; unlike charges attract.
 - **Earthing** sends excess charge to the ground.
+
+SAY: riya-think | Where should I go during a thunderstorm?
+SAY: buddy-happy | Inside a building. Avoid tall trees, open fields and water.
 
 ## Lightning safety
 - Go indoors; avoid open fields, tall trees, poles and metal objects.
@@ -457,6 +565,8 @@ A: Tin is less reactive, so it doesn't react with food, and it protects the iron
 A sudden shaking of the Earth caused by movements of **tectonic plates** in the Earth's crust. Weak zones are called **fault zones**; in India: Kashmir, the Himalayan region, Gujarat (Rann of Kutch), the North-East.
 - Measured on the **Richter scale** using a **seismograph**. A magnitude 7 earthquake is very destructive.
 - They can't be predicted accurately.
+
+SAY: aarav-happy | During an earthquake: drop, cover and hold on!
 
 ## Earthquake safety
 - Build earthquake-resistant buildings; fix heavy objects.
@@ -472,6 +582,10 @@ Q: What should you do indoors during an earthquake?
 A: Drop, cover and hold on under a sturdy table, away from windows.
 
 @@ 16
+SCENE: 👁️ 🌈 ✋ | Light and the eye!
+
+SAY: aarav-happy | The angle of incidence equals the angle of reflection!
+
 ## Reflection of light
 - **Laws:** (1) angle of incidence = angle of reflection; (2) the incident ray, reflected ray and normal lie in the same plane.
 - **Regular reflection:** from smooth surfaces like mirrors – parallel rays stay parallel.
@@ -480,6 +594,8 @@ A: Drop, cover and hold on under a sturdy table, away from windows.
 
 ## Dispersion
 Sunlight splits into **seven colours** (VIBGYOR) when passed through a prism.
+
+SAY: buddy-happy | The eye's lens focuses light on the retina, like a camera.
 
 ## The human eye
 - **Cornea:** transparent front layer.
@@ -491,6 +607,8 @@ Sunlight splits into **seven colours** (VIBGYOR) when passed through a prism.
 
 ## Eye care
 Read in good light, don't rub eyes, eat vitamin A-rich food (carrots, papaya, green leafy vegetables). Night blindness is caused by lack of vitamin A. **Cataract** makes the lens cloudy.
+
+SAY: riya-wow | Braille lets visually impaired people read with their fingers!
 
 ## Braille
 Visually challenged people read **Braille** – a system of raised dots invented by **Louis Braille**.
@@ -505,8 +623,14 @@ Q: Who invented the Braille system?
 A: Louis Braille.
 
 @@ 17
+SCENE: ⭐ 🌙 🛰️ | Stars and the solar system!
+
+SAY: riya-think | Why do stars twinkle but planets don't?
+
 ## The night sky
 **Celestial objects:** stars, planets, the Moon, comets. Stars twinkle; planets don't.
+
+SAY: buddy-happy | Starlight comes from very far, through moving air. Planets are closer, so they shine steadily.
 
 ## The Moon
 - It has no light of its own; it reflects sunlight.
@@ -524,6 +648,8 @@ A: Louis Braille.
 The Sun and eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Inner planets are rocky; outer planets are huge and gaseous. Venus is the brightest planet; Jupiter the largest.
 Others: **asteroids** (mostly between Mars and Jupiter), **comets** (bright tails pointing away from the Sun – **Halley's comet** returns every 76 years), **meteors** (shooting stars).
 
+SAY: aarav-happy | India launched its first satellite, Aryabhata, in 1975!
+
 ## Satellites
 Natural (the Moon) and artificial (made by humans) – used for weather forecasting, communication, navigation and remote sensing. India's first satellite was **Aryabhata** (1975).
 > 💡 Chandrayaan-3 made India the first country to land near the Moon's south pole (2023).
@@ -537,6 +663,11 @@ Q: Name India's first artificial satellite.
 A: Aryabhata.
 
 @@ 18
+SCENE: 🏭 🌡️ 💧 | Pollution of air and water!
+
+SAY: aarav-think | What makes the air dirty?
+SAY: buddy-happy | Smoke from vehicles and factories, and burning crop waste.
+
 ## Air pollution
 Contamination of air by harmful substances (**pollutants**).
 **Sources:** vehicles, factories, power plants, burning of fuels and garbage, stubble burning, forest fires, dust.
@@ -546,6 +677,8 @@ Contamination of air by harmful substances (**pollutants**).
 - **CFCs** – from refrigerators and ACs – damage the **ozone layer**.
 - **Particulate matter (PM2.5, PM10)** – tiny particles that harm lungs.
 - **Smog** – smoke + fog.
+
+SAY: riya-think | Too much carbon dioxide traps heat – that's global warming!
 
 ## Greenhouse effect and global warming
 Gases like **carbon dioxide** and **methane** trap the Sun's heat in the atmosphere (**greenhouse effect**). Too much of them causes **global warming** – melting glaciers, rising sea levels and extreme weather. The **Kyoto Protocol** and **Paris Agreement** aim to cut emissions.

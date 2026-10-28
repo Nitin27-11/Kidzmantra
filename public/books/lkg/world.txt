@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 👀 👂 👅 | We have five senses!
+
 ## My body and senses
 We have **five senses**. They help us know what is around us.
+
+SAY: aarav-wow | I can smell Mummy's halwa from far away!
+SAY: buddy-happy | That's your nose! We see, hear, smell, taste and touch.
 
 ## The five senses
 - **Eyes** help us **see** colours and shapes. 👀
@@ -14,6 +19,8 @@ Close your eyes. Can you tell what you are holding by touching it?
 Smell a flower and a lemon. Which smell do you like?
 > 💡 Never look straight at the sun. It can hurt your eyes.
 
+SAY: riya-happy | I touch a soft teddy with my hands.
+
 ## Let's check
 Q: Which part helps us taste?
 A: The tongue.
@@ -23,8 +30,13 @@ Q: With which sense do we hear music?
 A: Hearing, with our ears.
 
 @@ 2
+SCENE: 🏠 🛏️ 🧹 | Welcome to my home!
+
 ## My home
 A home is where we live with our family. It keeps us safe from sun, rain and cold. 🏠
+
+SAY: riya-happy | We cook food in the kitchen and sleep in the bedroom!
+SAY: buddy-happy | Yes! A home keeps us safe from sun, rain and cold.
 
 ## Rooms in a home
 - **Living room** – we sit and talk together.
@@ -39,6 +51,8 @@ Some people live in houses, some in flats, some in huts. Every home is special.
 Put toys back, throw rubbish in the dustbin, and keep your shoes in their place.
 > 💡 Know your parent's phone number for safety.
 
+SAY: aarav-happy | I put my toys away to keep my home clean.
+
 ## Let's check
 Q: Where is food cooked?
 A: In the kitchen.
@@ -48,8 +62,13 @@ Q: How does a home help us?
 A: It keeps us safe from sun, rain and cold.
 
 @@ 3
+SCENE: 🐄 🦁 🐕 | Domestic and wild animals!
+
 ## Domestic and wild animals
 Some animals live with people. Some live in forests. Let's learn both!
+
+SAY: aarav-wow | A lion lives in the forest! Can I keep it at home?
+SAY: buddy-happy | No, Aarav! Lions are wild animals. Cows and dogs live with us.
 
 ## Domestic animals
 Domestic animals live near people and help us.
@@ -66,6 +85,8 @@ Wild animals live in forests and jungles.
 - **Monkey**, **bear** and **deer** also live in forests.
 > 💡 We see wild animals safely in a zoo or a national park.
 
+SAY: riya-happy | The cow gives us milk!
+
 ## Let's check
 Q: Which animal gives us milk?
 A: The cow.
@@ -75,8 +96,13 @@ Q: Is a lion domestic or wild?
 A: Wild.
 
 @@ 4
+SCENE: 🐦 🦜 🪺 | Birds around us!
+
 ## Birds around us
 Birds have **feathers**, **wings** and a **beak**. Most birds can fly. 🐦
+
+SAY: riya-wow | A green parrot is sitting on our tree!
+SAY: buddy-happy | Birds have wings and feathers. Most birds can fly!
 
 ## Birds we see
 - **Sparrow** – small and brown. It says "chirp chirp".
@@ -89,6 +115,8 @@ Birds have **feathers**, **wings** and a **beak**. Most birds can fly. 🐦
 Birds build **nests** with twigs, grass and straw. They lay eggs in their nests.
 > 💡 Keep a bowl of water out for birds in summer.
 
+SAY: aarav-happy | Birds build nests to keep their eggs safe.
+
 ## Let's check
 Q: What is India's national bird?
 A: The peacock.
@@ -98,8 +126,13 @@ Q: Which bird says "caw caw"?
 A: The crow.
 
 @@ 5
+SCENE: 🍎 🥕 🍅 | Fruits and vegetables!
+
 ## Fruits and vegetables
 Fruits and vegetables keep us healthy and strong. 🥕🍎
+
+SAY: aarav-happy | Carrots are orange and crunchy!
+SAY: buddy-happy | Vegetables and fruits give us energy to play.
 
 ## Fruits
 Mango, banana, apple, grapes, papaya, guava and orange.
@@ -115,6 +148,8 @@ Many vegetables are cooked before we eat them.
 - Some grow **on plants**: tomato, brinjal.
 > 💡 Green leafy vegetables like spinach make us strong.
 
+SAY: riya-wow | Potatoes grow under the ground!
+
 ## Let's check
 Q: Name a vegetable that grows under the ground.
 A: Potato, carrot or onion.
@@ -124,8 +159,13 @@ Q: Is a carrot a fruit or a vegetable?
 A: A vegetable.
 
 @@ 6
+SCENE: 🚗 🚢 ✈️ | How do we travel?
+
 ## Means of transport
 Transport means ways of going from one place to another.
+
+SAY: riya-happy | We went to Nani's house by train!
+SAY: buddy-happy | We travel on land, on water and in the air.
 
 ## Land transport
 Bicycle, car, bus, auto-rickshaw, train, bullock cart.
@@ -142,6 +182,8 @@ Aeroplane, helicopter.
 - Hold a grown-up's hand on the road.
 > 💡 Look right, look left, and look right again before crossing.
 
+SAY: aarav-happy | We cross the road only when the light is green for us!
+
 ## Let's check
 Q: Name two kinds of water transport.
 A: Boat and ship.
@@ -151,8 +193,13 @@ Q: Where should we cross the road?
 A: At the zebra crossing.
 
 @@ 7
+SCENE: 👩‍⚕️ 👮 👨‍🌾 | Our helpers!
+
 ## Our helpers
 Many people help us every day. We call them **community helpers**.
+
+SAY: aarav-happy | The doctor helped me when I had a cold.
+SAY: buddy-happy | So many people help us every day: the farmer, the postman, the police.
 
 ## Who helps us?
 - **Doctor** – treats us when we are sick. 🩺
@@ -167,6 +214,8 @@ Many people help us every day. We call them **community helpers**.
 All helpers work hard for us. Always thank them and be polite.
 > 💡 In India, call **112** for help in an emergency, with a grown-up.
 
+SAY: riya-happy | I say "thank you" to our helpers!
+
 ## Let's check
 Q: Who grows our food?
 A: The farmer.
@@ -176,8 +225,13 @@ Q: Who puts out fires?
 A: The firefighter.
 
 @@ 8
+SCENE: 🪔 🎨 🇮🇳 | Festivals of India!
+
 ## Festivals of India
 India has many festivals. We celebrate with family and friends! 🎉
+
+SAY: riya-wow | We light diyas on Diwali!
+SAY: buddy-happy | India has many festivals: Diwali, Eid, Christmas, Holi and more.
 
 ## Some festivals
 - **Diwali** – festival of lights. We light diyas. 🪔
@@ -192,6 +246,8 @@ India has many festivals. We celebrate with family and friends! 🎉
 - **Republic Day** – 26 January.
 - **Gandhi Jayanti** – 2 October.
 > 💡 Festivals teach us to share, love and be happy together.
+
+SAY: aarav-happy | On 15 August, we fly our flag!
 
 ## Let's check
 Q: Which festival is called the festival of lights?

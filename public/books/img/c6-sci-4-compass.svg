@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300" font-family="Arial, sans-serif">
+  <rect width="300" height="300" fill="#fff"/>
+  <circle cx="150" cy="150" r="120" fill="#f6f1e4" stroke="#333" stroke-width="6"/>
+  <circle cx="150" cy="150" r="100" fill="#fff" stroke="#bbb" stroke-width="1.5"/>
+  <g stroke="#999" stroke-width="2">
+    <path d="M150 52 v14 M150 234 v14 M52 150 h14 M234 150 h14"/>
+    <path d="M81 81 l9 9 M219 81 l-9 9 M81 219 l9 -9 M219 219 l-9 -9"/>
+  </g>
+  <g font-size="22" font-weight="bold" text-anchor="middle" fill="#222">
+    <text x="150" y="90" fill="#e04848">N</text><text x="150" y="228">S</text><text x="222" y="158">E</text><text x="78" y="158">W</text>
+  </g>
+  <polygon points="150,100 162,150 138,150" fill="#e04848"/>
+  <polygon points="150,200 162,150 138,150" fill="#3a6fd8"/>
+  <circle cx="150" cy="150" r="7" fill="#333"/>
+</svg>

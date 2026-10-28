@@ -1,4 +1,9 @@
 @@ 1
+SCENE: 🧠 🫀 🫁 | Body systems work together!
+
+SAY: aarav-think | How do I kick a ball so fast?
+SAY: buddy-happy | Your brain sends a message, muscles pull the bones, and the heart pumps more blood!
+
 ## How body systems work together
 Our body is made of tiny units called **cells**. Cells form **tissues**, tissues form **organs**, and organs work together in **systems**.
 
@@ -10,6 +15,8 @@ Our body is made of tiny units called **cells**. Cells form **tissues**, tissues
 - **Circulatory system:** the heart pumps blood through **arteries** (away from the heart) and **veins** (back to the heart). Blood carries oxygen and food to every cell.
 - **Nervous system:** brain, spinal cord and nerves. The brain is the control centre.
 - **Excretory system:** kidneys filter waste from the blood and make urine.
+
+SAY: riya-wow | Teamwork inside the body!
 
 ## Teamwork example
 When you run: the brain sends signals, muscles move bones, lungs breathe faster, and the heart beats faster to send more oxygen.
@@ -24,6 +31,8 @@ Q: Name the parts of the nervous system.
 A: The brain, the spinal cord and nerves.
 
 @@ 2
+SCENE: 🥕 🥛 🍊 | Food and nutrition!
+
 ## Nutrients in food
 Food has **nutrients** that our body needs:
 - **Carbohydrates** – give energy: rice, wheat, potatoes, sugar.
@@ -33,6 +42,9 @@ Food has **nutrients** that our body needs:
 - **Minerals** – iron for blood, calcium for bones and teeth: green vegetables, milk.
 - **Water and roughage (fibre)** – help digestion.
 
+SAY: riya-think | Why do some children get weak bones?
+SAY: buddy-happy | Without enough calcium and vitamin D, bones can become weak.
+
 ## Deficiency diseases
 When we don't get enough of a nutrient, we get **deficiency diseases**:
 - Lack of **vitamin A** → night blindness (eat carrots, papaya).
@@ -40,6 +52,8 @@ When we don't get enough of a nutrient, we get **deficiency diseases**:
 - Lack of **vitamin D** → rickets, weak bones (sit in morning sunlight).
 - Lack of **iron** → anaemia (eat spinach, jaggery).
 - Lack of **iodine** → goitre (use iodised salt).
+
+SAY: aarav-happy | A balanced diet keeps deficiency diseases away!
 
 ## Balanced diet
 A balanced diet has all nutrients in the right amounts.
@@ -54,8 +68,13 @@ Q: What causes anaemia?
 A: Lack of iron.
 
 @@ 3
+SCENE: 🦠 🧼 💉 | Germs and health!
+
 ## Germs and diseases
 **Germs** (microbes) are tiny living things seen only through a microscope. Some cause diseases.
+
+SAY: aarav-think | How does a cold spread?
+SAY: buddy-happy | Through droplets when people cough or sneeze. Cover your mouth!
 
 ## How diseases spread
 - **Air:** cold, flu, tuberculosis – through coughs and sneezes.
@@ -69,6 +88,8 @@ A: Lack of iron.
 - Don't let water collect around the house – mosquitoes breed in still water.
 - Use mosquito nets and repellents.
 - Get **vaccinated** – vaccines protect us from diseases like polio, measles and tetanus.
+
+SAY: riya-happy | Diabetes doesn't spread from person to person – it's non-communicable!
 
 ## Communicable and non-communicable
 - **Communicable:** spread from person to person (flu, chickenpox).
@@ -84,10 +105,16 @@ Q: Is diabetes communicable?
 A: No, it is non-communicable.
 
 @@ 4
+SCENE: 🌱 🫘 🥔 | Seeds and growth!
+
+SAY: riya-happy | A seed has a seed coat, a baby plant and stored food!
+
 ## Parts of a seed
 - **Seed coat:** the protective outer cover.
 - **Cotyledons:** store food for the baby plant. Bean and pea seeds have two (**dicots**); maize and wheat have one (**monocots**).
 - **Embryo:** the baby plant, with a tiny root (**radicle**) and shoot (**plumule**).
+
+SAY: buddy-happy | When it gets water, air and warmth, it germinates.
 
 ## Germination
 A seed needs **water**, **air** and the right **temperature** to germinate. Soil is not needed at first – seeds sprout on wet cotton!
@@ -95,6 +122,8 @@ A seed needs **water**, **air** and the right **temperature** to germinate. Soil
 2. The radicle grows down into a root.
 3. The plumule grows up into a shoot.
 4. First leaves appear and the plant starts making its own food.
+
+SAY: aarav-wow | A potato can grow a new plant from its eyes!
 
 ## Other ways plants grow
 Not all plants grow from seeds:
@@ -112,6 +141,10 @@ Q: Name a plant that grows from stem cuttings.
 A: Rose, money plant or sugarcane.
 
 @@ 5
+SCENE: 🦅 🐬 🐫 | Animal super senses!
+
+SAY: aarav-wow | An eagle can see a mouse from very high in the sky!
+
 ## Super senses in animals
 Animals have sharp senses that help them find food and stay safe.
 - **Sight:** eagles and hawks spot prey from great heights. Owls see well at night.
@@ -119,6 +152,9 @@ Animals have sharp senses that help them find food and stay safe.
 - **Hearing:** dogs hear sounds we cannot; elephants communicate with very low sounds.
 - **Echolocation:** bats and dolphins make sounds and listen for echoes to "see" in the dark.
 - **Touch:** a cat's whiskers sense the width of openings.
+
+SAY: buddy-happy | And animals adapt to their homes – like polar bears with thick fur.
+SAY: riya-think | Bats find their way in the dark using sound echoes!
 
 ## Adaptations
 Special body features and behaviours help animals survive in their habitats.
@@ -138,6 +174,11 @@ Q: What is migration?
 A: Moving to another place for a season, usually for food or warmth.
 
 @@ 6
+SCENE: 💧 🚰 🏺 | Save every drop!
+
+SAY: riya-think | Why save water when it rains so much?
+SAY: buddy-happy | Only a little of Earth's water is fresh and usable. We must use it wisely.
+
 ## Why we must save water
 Only about **3%** of Earth's water is fresh, and most of it is frozen as ice. India's growing population and cities need more water every year. Many places face **water scarcity**.
 
@@ -153,6 +194,8 @@ Only about **3%** of Earth's water is fresh, and most of it is frozen as ice. In
 - **Reuse:** water used to wash vegetables can water plants.
 - Fix leaks; take bucket baths; turn off taps.
 
+SAY: aarav-wow | Rajasthan's stepwells stored water for hundreds of years!
+
 ## Traditional water systems in India
 **Stepwells (baolis)**, **johads** (Rajasthan), **kuhls** (Himachal) and **tanks** (South India) show how people stored water long ago.
 > 💡 22 March is celebrated as World Water Day.
@@ -166,8 +209,13 @@ Q: Name one traditional water system in India.
 A: Stepwell (baoli), johad, kuhl or tank.
 
 @@ 7
+SCENE: 🏭 🚗 🌳 | Air and pollution!
+
 ## What makes air dirty?
 **Air pollution** happens when harmful gases, smoke and dust mix with air.
+
+SAY: aarav-think | Where does dirty air come from?
+SAY: buddy-happy | Smoke from vehicles, factories and burning waste.
 
 ## Sources
 - Smoke from vehicles and factories
@@ -180,6 +228,8 @@ A: Stepwell (baoli), johad, kuhl or tank.
 - **Smog** – a mix of smoke and fog – makes it hard to see.
 - **Acid rain** damages buildings and plants; it has harmed the marble of the Taj Mahal.
 - **Global warming:** too much carbon dioxide traps heat and warms the Earth.
+
+SAY: riya-happy | We can walk, cycle and plant more trees!
 
 ## How we can help
 - Walk, cycle or use public transport.
@@ -197,11 +247,15 @@ Q: Name two sources of air pollution.
 A: Vehicle smoke, factory smoke, burning garbage, construction dust.
 
 @@ 8
+SCENE: 🌍 🪐 🌙 | Earth and the solar system!
+
 ## Our solar system
 The **solar system** is the Sun and everything that moves around it.
 - **The Sun** is a star – a huge ball of burning gases. It gives light and heat.
 - **Eight planets** go around the Sun: **Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.**
 - Trick: "**M**y **V**ery **E**ducated **M**other **J**ust **S**erved **U**s **N**oodles."
+
+SAY: riya-wow | Jupiter is the biggest planet!
 
 ## Planet facts
 - Mercury is closest to the Sun; Venus is the hottest and brightest.
@@ -209,9 +263,13 @@ The **solar system** is the Sun and everything that moves around it.
 - Mars is the "red planet".
 - Jupiter is the biggest; Saturn has beautiful rings.
 
+SAY: buddy-happy | Earth spins once a day and goes around the Sun once a year.
+
 ## Earth's movements
 - **Rotation:** Earth spins on its axis once every **24 hours** → day and night.
 - **Revolution:** Earth goes around the Sun once in about **365¼ days** → a year and seasons.
+
+SAY: aarav-happy | The Moon shines because it reflects sunlight!
 
 ## The Moon
 The Moon is Earth's natural **satellite**. It has no light of its own; it reflects sunlight.
@@ -226,6 +284,8 @@ Q: Why does the Moon shine?
 A: It reflects light from the Sun.
 
 @@ 9
+SCENE: 🌋 🌊 🌪️ | Natural disasters!
+
 ## Natural disasters
 A **natural disaster** is a sudden event in nature that causes great damage.
 - **Earthquake:** the ground shakes because of movement deep inside the Earth.
@@ -235,10 +295,15 @@ A **natural disaster** is a sudden event in nature that causes great damage.
 - **Landslide:** rocks and soil slide down hills, often during heavy rain.
 - **Tsunami:** giant sea waves caused by an undersea earthquake.
 
+SAY: aarav-think | What should I do in an earthquake?
+SAY: buddy-happy | Drop, cover and hold on – under a strong table, away from windows.
+
 ## Staying safe
 - **Earthquake:** Drop, Cover and Hold On – get under a strong table, away from windows.
 - **Flood:** move to higher ground; don't walk through flowing water.
 - **Cyclone:** stay indoors, listen to weather warnings.
+
+SAY: riya-happy | Keeping an emergency kit ready helps a lot!
 
 ## Help and preparation
 The **NDRF** (National Disaster Response Force) helps people during disasters. Keep an emergency kit: torch, water, first-aid box, dry food, important papers.
@@ -253,17 +318,25 @@ Q: What is a drought?
 A: A long period without rain.
 
 @@ 10
+SCENE: 🌳 🏹 🐘 | Forests and tribes!
+
 ## Forests are precious
 Forests give us oxygen, rain, wood, fruits, medicines, honey and homes for animals. Tree roots hold soil and prevent floods and soil erosion.
 
+SAY: riya-happy | Many tribes live in the forest and take care of it!
+
 ## Forest people
 **Tribal communities** like the Gonds, Bhils, Santhals and Todas have lived in forests for generations. They depend on forests for food, medicine and shelter, and they protect them. They take only what they need.
+
+SAY: buddy-happy | Cutting too many trees – deforestation – harms animals and people.
 
 ## Deforestation
 Cutting down forests for farms, roads, factories and towns is called **deforestation**. It causes:
 - Loss of animal homes; some animals become **endangered**.
 - Less rain and more floods.
 - More carbon dioxide in the air.
+
+SAY: aarav-happy | Remember the Chipko movement? People hugged trees to save them!
 
 ## Saving forests
 - **Chipko Movement (1973):** villagers in Uttarakhand hugged trees to stop them from being cut.
@@ -280,8 +353,14 @@ Q: Name a tribal community of India.
 A: Gonds, Bhils, Santhals or Todas.
 
 @@ 11
+SCENE: 🇮🇳 🎭 🗣️ | States and cultures of India!
+
+SAY: aarav-wow | India has so many languages, foods and dances!
+
 ## Unity in diversity
 India has **28 states** and **8 union territories**, with many languages, foods, dances and festivals – yet we are one nation.
+
+SAY: buddy-happy | Yet we are all one country – unity in diversity!
 
 ## A tour of India
 - **Punjab:** bhangra dance, makki di roti, Baisakhi.
@@ -293,6 +372,8 @@ India has **28 states** and **8 union territories**, with many languages, foods,
 - **Assam:** Bihu dance, tea gardens.
 - **Rajasthan:** ghoomar, dal-baati-churma, forts.
 - **Odisha:** Odissi dance, Jagannath Rath Yatra.
+
+SAY: riya-happy | Hindi, Tamil, Bengali, Marathi… I want to learn them all!
 
 ## Languages
 The Constitution lists **22 languages**, including Hindi, Bengali, Tamil, Telugu, Marathi, Urdu, Gujarati and Kannada. Hindi and English are used by the central government.

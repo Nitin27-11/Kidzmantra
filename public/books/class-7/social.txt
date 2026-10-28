@@ -1,6 +1,13 @@
 @@ 1
+SCENE: 📜 🏰 🗺️ | The medieval period!
+
+SAY: aarav-think | What does "medieval" mean?
+SAY: buddy-happy | The middle period – between ancient and modern times, about 700 to 1750 CE.
+
 ## The medieval period
 The period between roughly **700 and 1750 CE** is called the **medieval period** in Indian history.
+
+SAY: riya-happy | Coins, inscriptions and manuscripts tell us about this period!
 
 ## Sources
 - **Inscriptions, coins, buildings and paintings**.
@@ -30,8 +37,15 @@ Q: Why is dividing history into Hindu, Muslim and British periods considered wro
 A: Because rulers' religion was not the only important part of history; it ignores the rich variety of the times.
 
 @@ 2
+SCENE: 🕌 👑 ⚔️ | The Delhi Sultans!
+
+SAY: riya-wow | Delhi became a capital under the Tomaras and Chauhans!
+
 ## Delhi becomes a capital
 Delhi became important under the **Tomara Rajputs** and the **Chauhans** (Prithviraj Chauhan). In the 13th century it became the capital of the **Delhi Sultanate**.
+
+SAY: buddy-happy | Then the Sultans ruled from 1206 to 1526, across five dynasties.
+SAY: aarav-think | Raziyya Sultan was the only woman ruler of the Delhi Sultanate!
 
 ## Dynasties of the Delhi Sultanate (1206–1526)
 1. **Mamluk/Slave dynasty:** **Qutbuddin Aibak** (began the Qutub Minar), **Iltutmish** (completed it), **Raziyya Sultan** (the only woman ruler of the Sultanate; removed by nobles who didn't accept a queen), **Balban**.
@@ -57,6 +71,10 @@ Q: Who completed the Qutub Minar?
 A: Iltutmish.
 
 @@ 3
+SCENE: 👑 🐘 🏯 | The Mughal Empire!
+
+SAY: aarav-happy | Babur won the first battle of Panipat in 1526!
+
 ## Founding the empire
 **Babur** defeated Ibrahim Lodi at the **First Battle of Panipat (1526)** and founded the Mughal Empire.
 
@@ -67,11 +85,15 @@ A: Iltutmish.
 - **Shah Jahan** (1627–1658): built the **Taj Mahal**, Red Fort and Jama Masjid in Delhi.
 - **Aurangzeb** (1658–1707): expanded the empire to its largest extent but faced revolts by Marathas, Sikhs, Jats and others.
 
+SAY: buddy-happy | Akbar's policy of sulh-i kul meant peace with all religions.
+
 ## Akbar's policies
 - **Mansabdari system:** officers (**mansabdars**) got ranks (**zat**) and had to maintain cavalry (**sawar**); they were paid through land revenue assignments (**jagirs**).
 - Land revenue system by **Todar Mal**: careful survey of land and crops; tax fixed on average produce (**zabt**).
 - **Sulh-i-kul** – "universal peace": tolerance for all religions. He held discussions with scholars of all faiths at **Ibadat Khana** in Fatehpur Sikri.
 - **Akbar Nama** written by **Abul Fazl**.
+
+SAY: riya-think | Why did the empire grow weak later?
 
 ## Decline
 After Aurangzeb, weak rulers, regional powers and later the British weakened the empire.
@@ -86,6 +108,10 @@ Q: Who built the Taj Mahal?
 A: Shah Jahan.
 
 @@ 4
+SCENE: 🕌 🛕 🏛️ | Rulers and buildings!
+
+SAY: riya-wow | The Qutb Minar is 72.5 metres tall!
+
 ## Building in the medieval period
 Rulers built forts, palaces, temples, mosques, tombs, step-wells and gardens to show power, wealth and devotion.
 
@@ -99,11 +125,15 @@ Rulers built forts, palaces, temples, mosques, tombs, step-wells and gardens to 
 - **Rajarajeshvara temple** (Thanjavur, built by Chola king Rajaraja I) – very tall shikhara.
 - Temples were centres of wealth and were sometimes attacked by rival kings (both Hindu and Muslim rulers did this).
 
+SAY: buddy-happy | The Mughals loved gardens – the charbagh style divides a garden into four parts.
+
 ## Mughal architecture
 - **Chahar bagh:** gardens divided into four parts (Humayun's Tomb, Taj Mahal).
 - **Hasht bihisht** (eight paradises) plan with a central hall.
 - **Pietra dura:** inlay of coloured stones in marble (Taj Mahal).
 - **Red Fort** (Delhi) and **Agra Fort**; **Fatehpur Sikri** with Buland Darwaza.
+
+SAY: aarav-happy | Stepwells and tanks stored precious water!
 
 ## Water works
 **Hauz-i-Sultani** (tank built by Iltutmish), step-wells and canals.
@@ -118,6 +148,8 @@ Q: What is a chahar bagh?
 A: A garden divided into four parts.
 
 @@ 5
+SCENE: 🏙️ 🧵 🚢 | Towns, traders and crafts!
+
 ## Kinds of towns
 - **Temple towns:** grew around temples – Thanjavur, Madurai, Puri, Tirupati, Somnath.
 - **Administrative centres:** capitals of kingdoms.
@@ -125,8 +157,12 @@ A: A garden divided into four parts.
 - **Pilgrimage centres:** Vrindavan, Ajmer (shrine of Khwaja Muinuddin Chishti).
 - **Small towns (qasbas)**: had markets (mandis) for local trade.
 
+SAY: aarav-wow | Hampi was so rich, travellers wrote amazing stories about it!
+
 ## Hampi – capital of Vijayanagara
 A magnificent city in Karnataka, founded in 1336. Famous for its temples (Virupaksha), bazaars and fortifications. Destroyed after the Battle of Talikota (1565).
+
+SAY: buddy-happy | Surat and Masulipatnam were busy port towns full of traders.
 
 ## Surat and Masulipatnam
 - **Surat** (Gujarat): the gateway for trade with West Asia; also the port for Mecca pilgrims. Gujarati merchants (**Virji Vora**) were among the richest in the world.
@@ -137,6 +173,8 @@ Cotton textiles of Bengal and Gujarat, Kashmiri shawls, bronze sculptures of the
 
 ## Traders and guilds
 Traders formed **guilds** to protect their interests: **Manigramam** and **Nanadesi** in South India. Merchants travelled in **caravans**.
+
+SAY: riya-think | Then the Europeans arrived, looking for spices and cloth!
 
 ## Arrival of Europeans
 The Portuguese (Vasco da Gama, 1498), the Dutch, and the English and French East India Companies came for spices and cloth.
@@ -151,6 +189,11 @@ Q: Why was Surat important?
 A: It was a major port for trade with West Asia and for pilgrims to Mecca.
 
 @@ 6
+SCENE: 🌍 🌳 💧 | Our environment!
+
+SAY: riya-think | What exactly is the environment?
+SAY: buddy-happy | Everything around us – natural things like air and water, and human-made things too.
+
 ## Our environment
 **Environment** means everything around us – natural and human-made.
 
@@ -158,6 +201,8 @@ A: It was a major port for trade with West Asia and for pilgrims to Mecca.
 - **Natural:** land (**lithosphere**), water (**hydrosphere**), air (**atmosphere**) and living things (**biosphere**).
 - **Human-made:** buildings, roads, bridges, parks, industries.
 - **Human:** individuals, families, communities, religion, economy.
+
+SAY: aarav-happy | Lithosphere, hydrosphere, atmosphere and biosphere – Earth's four domains!
 
 ## Domains of the Earth
 - **Lithosphere:** solid crust of rocks and soil.
@@ -181,16 +226,24 @@ Q: Give two human-made components of the environment.
 A: Buildings, roads, bridges, parks or industries.
 
 @@ 7
+SCENE: 🌋 🪨 💎 | Inside our Earth!
+
+SAY: aarav-wow | Earth has a crust, a mantle and a core – like an egg!
+
 ## Layers of the Earth
 1. **Crust:** the thin outermost layer. **Continental crust** is made mainly of silica and alumina (**sial**); **oceanic crust** of silica and magnesium (**sima**). Thickness: about 35 km (continents) to 5 km (oceans).
 2. **Mantle:** below the crust, about 2,900 km thick.
 3. **Core:** the innermost layer, made of **nickel and iron (nife)**. Very hot and under great pressure.
+
+SAY: buddy-happy | Rocks are igneous, sedimentary or metamorphic.
 
 ## Rocks
 Any natural mass of mineral matter in the crust.
 - **Igneous rocks:** formed from cooled **magma/lava** – granite (intrusive, cools slowly inside), basalt (extrusive, cools quickly on the surface). Called primary rocks.
 - **Sedimentary rocks:** formed from layers of sediments pressed together – sandstone, limestone. May contain **fossils**.
 - **Metamorphic rocks:** formed when igneous or sedimentary rocks change under heat and pressure – clay → slate; limestone → **marble**.
+
+SAY: riya-think | Rocks change from one type to another – the rock cycle!
 
 ## The rock cycle
 Rocks keep changing from one type to another over millions of years.
@@ -208,8 +261,14 @@ Q: Into which rock does limestone change under heat and pressure?
 A: Marble.
 
 @@ 8
+SCENE: 🌬️ ☁️ 🌊 | Air and water!
+
+SAY: riya-happy | Nitrogen and oxygen make up most of the air!
+
 ## The atmosphere
 The blanket of air around the Earth, held by gravity. Mainly **nitrogen (78%)** and **oxygen (21%)**, plus carbon dioxide, argon and others.
+
+SAY: buddy-happy | The atmosphere has layers. We live in the lowest one, the troposphere.
 
 ## Layers of the atmosphere
 1. **Troposphere:** nearest; about 13 km; all weather happens here.
@@ -222,6 +281,8 @@ The blanket of air around the Earth, held by gravity. Mainly **nitrogen (78%)** 
 Temperature, air pressure (falls with height), wind, humidity and rainfall.
 **Insolation** is the incoming solar energy received by the Earth.
 Types of wind: **permanent** (trade winds, westerlies), **seasonal** (monsoon), **local** (loo).
+
+SAY: aarav-wow | Ocean waves, tides and currents keep water moving!
 
 ## Water
 - **Water cycle:** evaporation → condensation → precipitation.
@@ -238,6 +299,11 @@ Q: What causes tides?
 A: The gravitational pull of the Moon (and the Sun).
 
 @@ 9
+SCENE: 🌲 🦓 🌵 | Natural vegetation and wildlife!
+
+SAY: aarav-think | Why do different places have different plants?
+SAY: buddy-happy | Temperature and rainfall decide what grows where.
+
 ## Natural vegetation
 Plants that grow naturally depend on **temperature and rainfall**.
 - **Forests:** where rainfall is high.
@@ -251,6 +317,8 @@ Plants that grow naturally depend on **temperature and rainfall**.
 - **Temperate deciduous:** oak, ash, beech; deer, foxes, wolves.
 - **Mediterranean vegetation:** dry summers, rainy winters – citrus fruits, olives, grapes ("orchards of the world").
 - **Coniferous forests (taiga):** higher latitudes; tall, cone-shaped softwood trees – chir, pine, cedar; used for paper and matchboxes. Animals: silver fox, mink, polar bear.
+
+SAY: riya-happy | Grasslands are home to zebras and giraffes!
 
 ## Grasslands
 - **Tropical:** savannah (Africa) – lions, zebras, giraffes.
@@ -269,6 +337,11 @@ Q: Name the temperate grasslands of North America.
 A: Prairies.
 
 @@ 10
+SCENE: 🚆 📡 🏘️ | Human environments!
+
+SAY: riya-think | Why do people live differently in deserts and on plains?
+SAY: buddy-happy | People adapt to their land – their homes, jobs and food change with it.
+
 ## Human environment
 **Settlements** are places where people build homes. They can be **permanent** or **temporary** (nomads, herders).
 - **Rural settlements:** villages; people farm, fish, rear animals.
@@ -279,6 +352,8 @@ A: Prairies.
 - **Railways:** carry heavy goods and many people cheaply over long distances. India has one of the largest railway networks.
 - **Waterways:** cheapest for heavy, bulky goods – rivers and seas.
 - **Airways:** fastest but most expensive.
+
+SAY: aarav-happy | The internet connects people all over the world!
 
 ## Communication
 Sending messages from one person to another – letters, telephones, radio, TV, satellites, internet, mobile phones. The **internet** has made the world a "global village".
@@ -299,11 +374,18 @@ Q: What is shifting (slash-and-burn) cultivation?
 A: Clearing forest land by cutting and burning, farming it for a few years, then moving on.
 
 @@ 11
+SCENE: ⚖️ 🗳️ 🤝 | Equality in democracy!
+
+SAY: aarav-think | What does equality mean in a democracy?
+SAY: buddy-happy | Every person has the same rights – and every adult has one vote.
+
 ## Equality in a democracy
 In a democracy, **all persons are equal before the law**. Every adult has **one vote**, whatever their religion, caste, gender, wealth or education. This is **universal adult franchise**.
 
 ## Inequality in daily life
 People may still be treated unfairly because of their caste, religion, gender, disability or economic status. **Dignity** means respect; inequality hurts a person's dignity.
+
+SAY: riya-happy | Our Constitution says all are equal before the law!
 
 ## The Constitution on equality
 - Every person is **equal before the law**.
@@ -328,13 +410,20 @@ Q: What has the Constitution abolished?
 A: Untouchability.
 
 @@ 12
+SCENE: 🏛️ 🗳️ 📜 | The state government!
+
 ## State government
 India has a government at the **state** level, in addition to the central government.
+
+SAY: riya-think | Who makes laws for our state?
+SAY: buddy-happy | MLAs in the Legislative Assembly, elected by the people.
 
 ## The Legislative Assembly
 - Each state is divided into **constituencies**. People elect one **MLA (Member of Legislative Assembly)** from each.
 - The party (or group of parties) with a **majority** of MLAs forms the government (**ruling party**); the rest form the **opposition**.
 - MLAs discuss problems, ask questions and make **laws** for the state.
+
+SAY: aarav-happy | The Chief Minister leads the state government!
 
 ## The Executive
 - The leader of the majority party becomes the **Chief Minister**.
@@ -359,6 +448,10 @@ Q: What is a constituency?
 A: An area from which people elect one representative.
 
 @@ 13
+SCENE: 📺 📰 📱 | Media and advertising!
+
+SAY: aarav-think | Should I believe every advert I see?
+
 ## Mass media
 **Media** are the ways of communicating with many people – TV, radio, newspapers, magazines, the internet and social media. **Mass media** reach millions at once.
 
@@ -371,11 +464,15 @@ Media use costly technology, so they need money. They earn from **advertisements
 - Media are expected to be **independent** – free from government or business control.
 - Media **set the agenda** – what they focus on, people discuss.
 
+SAY: buddy-happy | Ads try to make us buy things. Ask: do I really need it?
+
 ## Advertising
 Advertisements tell us about products and try to persuade us to buy them.
 - They create a **brand** – a special name and image for a product.
 - They use emotions, celebrities and **values** like happiness and being modern.
 - **Social advertisements** are made by the government or organisations to spread messages – e.g. about health, safety, saving water.
+
+SAY: riya-happy | A smart viewer checks the news from more than one source!
 
 ## Being a smart viewer
 Ask: who made this message? What is left out? Is it true? Advertisements can make people feel bad if they can't afford things.
@@ -390,15 +487,23 @@ Q: What is a social advertisement?
 A: An advertisement with a message for society, often made by the government.
 
 @@ 14
+SCENE: 🛒 🏪 💻 | Markets around us!
+
+SAY: riya-happy | We buy vegetables at the weekly haat!
+
 ## Markets around us
 A **market** is any place where buying and selling happens.
 - **Weekly markets (haats):** held on a fixed day; low prices because sellers don't pay rent; many sellers sell the same things, so buyers can bargain.
 - **Neighbourhood shops:** daily needs; credit for regular customers.
 - **Shopping complexes and malls:** large, air-conditioned buildings with branded goods at higher prices.
 
+SAY: buddy-happy | Goods pass through a chain of markets – from farmer to wholesaler to shop.
+
 ## Chain of markets
 Goods travel from producers through **wholesalers** (who buy in bulk) to **retailers** (who sell to consumers). Each takes a profit, so prices rise along the chain.
 Example: a farmer sells tomatoes to a wholesale trader in a mandi → vegetable vendors buy and sell them in the neighbourhood.
+
+SAY: aarav-wow | Now we can shop online too!
 
 ## Online shopping
 Buying through the internet; goods are delivered home.

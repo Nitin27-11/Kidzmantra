@@ -1,9 +1,14 @@
 @@ 1
+SCENE: ⏳ 🤔 🎯 | Tenses and modals!
+
 ## Tenses – advanced use
 - **Present perfect vs simple past:** "I **have visited** Ladakh" (experience, time not stated) vs "I **visited** Ladakh in 2023" (time stated).
 - **Past perfect continuous:** an action going on before another past action – "She **had been studying** for three hours when the power went out."
 - **Future perfect:** completed before a future time – "By June, they **will have built** the bridge."
 - **Future continuous:** in progress at a future time – "This time tomorrow, I **will be flying** to Chennai."
+
+SAY: aarav-think | "Might", "may", "must" – they all sound so similar!
+SAY: buddy-happy | Modals show how sure we are or how strong a need is. "Must" is strongest!
 
 ## Modals – deeper meanings
 - **Ability:** can, could, be able to – "She **will be able to** swim soon."
@@ -12,6 +17,8 @@
 - **Deduction:** must (sure yes), can't (sure no), might/may (possible) – "He **must** be at home; the lights are on." "That **can't** be true."
 - **Advice:** should, ought to, had better – "You **had better** leave now."
 - **Past possibility/regret:** should have, could have, might have + V3 – "You **should have told** me."
+
+SAY: riya-happy | "I ought to study" and "I have to study" – semi-modals!
 
 ## Semi-modals
 need, dare, used to – "You **needn't** worry." "He **used to** live in Pune."
@@ -26,6 +33,8 @@ Q: Correct: "You must to submit the form."
 A: You must submit the form.
 
 @@ 2
+SCENE: 🔄 📰 🏛️ | Voice in formal writing!
+
 ## Voice – all forms
 **Active → passive:** object becomes subject + be (in tense) + V3 + (by agent).
 - Simple present: They **speak** English. → English **is spoken**.
@@ -37,9 +46,14 @@ A: You must submit the form.
 - Future: They **will open** the mall. → The mall **will be opened**.
 - Modal: We **should save** water. → Water **should be saved**.
 
+SAY: riya-think | Why do newspapers say "a bridge was opened" instead of who opened it?
+SAY: buddy-happy | Passive voice puts the focus on the action, not the doer – common in formal writing.
+
 ## Passive in formal writing
 Used in reports, science and news, where the action matters more than the doer:
 "The solution **was heated** for five minutes." "Three people **were injured** in the accident."
+
+SAY: aarav-wow | "It is said that…" – that's the impersonal passive!
 
 ## Impersonal passive
 "People say that he is rich." → "**It is said** that he is rich." / "He **is said to be** rich."
@@ -54,15 +68,21 @@ Q: Rewrite: "People believe that the house is haunted." (It is…)
 A: It is believed that the house is haunted.
 
 @@ 3
+SCENE: 💬 🗣️ 📝 | Reported speech – the complete guide!
+
 ## Reported speech – complete guide
 **Reporting verb in the past → backshift** tenses, change pronouns and time/place words.
 - "I **am** working **now**," he said. → He said that he **was** working **then**.
 - "We **went** there **yesterday**," they said. → They said that they **had gone** there **the previous day**.
 - "I **will** finish it **tomorrow**," she said. → She said that she **would** finish it **the next day**.
 
+SAY: aarav-happy | He asked me where I lived!
+
 ## Questions
 - "Have you seen my keys?" Dad asked. → Dad asked me **whether I had seen** his keys.
 - "Why are you crying?" the teacher asked. → The teacher asked **why I was crying**.
+
+SAY: buddy-happy | Advice becomes "advised to", requests become "requested to".
 
 ## Commands, requests, advice
 - "Switch off the lights," Mother said. → Mother **told** us **to switch off** the lights.
@@ -72,6 +92,8 @@ A: It is believed that the house is haunted.
 ## Exclamations and wishes
 - "Hurrah! We've won!" they said. → They **exclaimed with joy** that they had won.
 - "May you live long!" Grandma said. → Grandma **blessed** me **that I might live long**.
+
+SAY: riya-think | Universal truths don't change: He said that the Earth goes round the Sun!
 
 ## No backshift when…
 - the reporting verb is present: She **says**, "I'm tired." → She says that she **is** tired.
@@ -87,6 +109,10 @@ Q: Report: "Don't go near the fire," Mother said to the child.
 A: Mother warned the child not to go near the fire.
 
 @@ 4
+SCENE: 🧩 🔀 ❓ | Clauses and conditionals!
+
+SAY: riya-happy | Simple, compound and complex sentences!
+
 ## Types of sentences by structure
 - **Simple:** one independent clause – "The rain stopped."
 - **Compound:** two or more independent clauses joined by and, but, or, so, yet – "The rain stopped, **and** the children ran out."
@@ -98,11 +124,15 @@ A: Mother warned the child not to go near the fire.
 - **Relative (adjective) clause:** "The book **that you lent me** was exciting."
 - **Adverb clause:** time (when, after), reason (because, since), condition (if, unless), contrast (although, though), purpose (so that).
 
+SAY: buddy-happy | Conditionals show "if… then": If it rains, we will stay home.
+
 ## Conditionals
 - **Zero:** facts – If you heat ice, it **melts**.
 - **First:** real future – If it rains, we **will stay** in.
 - **Second:** unreal present – If I **were** a bird, I **would fly**.
 - **Third:** unreal past – If you **had studied**, you **would have passed**.
+
+SAY: aarav-think | "Though he was tired, he worked" = "He was tired, but he worked"!
 
 ## Transforming sentences
 "He is poor. He is honest." → Simple: "**Despite being** poor, he is honest." Compound: "He is poor **but** honest." Complex: "**Although** he is poor, he is honest."
@@ -117,6 +147,11 @@ Q: Combine into a compound sentence: "The bell rang. The students left."
 A: The bell rang, and the students left.
 
 @@ 5
+SCENE: 🌊 🐢 🥤 | Plastic in our oceans!
+
+SAY: aarav-think | How do I read critically?
+SAY: buddy-happy | Ask: what is the writer's purpose, what evidence do they give, and do I agree?
+
 ## Critical reading
 Beyond finding answers, good readers think about **purpose, tone, bias and evidence**.
 - **Main idea:** what is the passage mostly about?
@@ -127,6 +162,8 @@ Beyond finding answers, good readers think about **purpose, tone, bias and evide
 ## Read the passage: Plastic in Our Oceans
 Every year, more than eight million tonnes of plastic enter the oceans. Much of it comes from rivers carrying waste from cities. Sea turtles mistake plastic bags for jellyfish; seabirds feed bottle caps to their chicks. Tiny pieces called **microplastics** have been found in fish, salt and even drinking water.
 Some argue that recycling alone will solve the problem. However, only a small fraction of plastic ever made has been recycled. Experts agree that we must reduce single-use plastic, design products that last, and hold companies responsible for the waste they create. Change, they say, must begin both in parliaments and in our own kitchens.
+
+SAY: riya-wow | Sea turtles can mistake plastic bags for jellyfish!
 
 ## Notice the writer's craft
 - **Statistics** ("eight million tonnes") give evidence.
@@ -143,11 +180,17 @@ Q: Is "Change must begin in our kitchens" a fact or an opinion?
 A: An opinion.
 
 @@ 6
+SCENE: ✉️ 📧 🏢 | Formal letters and emails!
+
+SAY: riya-think | How do I complain politely?
+
 ## Formal letter types
 - **Letter of complaint** – to an authority or company about a problem.
 - **Letter of enquiry** – asking for information (courses, products).
 - **Letter to the editor** – raising public issues.
 - **Application** – for a job, leave or permission.
+
+SAY: buddy-happy | State the problem clearly, give details, and suggest what should be done.
 
 ## Sample: letter of complaint
 **Subject: Complaint about a defective water purifier**
@@ -156,6 +199,8 @@ I purchased a water purifier (Model AquaPure X2, invoice no. 45821) from your In
 I request you to replace the product or refund the amount at the earliest. Copies of the invoice and warranty card are enclosed.
 Yours faithfully,
 Rohan Kulkarni
+
+SAY: aarav-happy | Emails need a clear subject line too!
 
 ## Emails
 - **To / Cc / Subject** fields.
@@ -173,17 +218,24 @@ Q: Which closing goes with "Dear Sir/Madam"?
 A: Yours faithfully.
 
 @@ 7
+SCENE: 📝 📱 📰 | Essays and articles!
+
 ## Essay writing
 - **Introduction:** hook (a question, quote or striking fact) + topic statement.
 - **Body:** 3 paragraphs, each with a topic sentence, explanation and example.
 - **Conclusion:** summarise and end with a thought or call to action.
 **Types:** descriptive, narrative, argumentative (for/against), reflective.
 
+SAY: aarav-think | Should mobile phones be allowed in schools?
+SAY: buddy-happy | Great topic! Give points for both sides, then your reasoned conclusion.
+
 ## Sample argumentative outline: Should mobile phones be allowed in schools?
 - Intro: Phones are everywhere; schools must decide.
 - For: emergencies, learning apps, research.
 - Against: distraction, cyberbullying, cheating, less outdoor play.
 - Conclusion: allow limited, supervised use.
+
+SAY: riya-happy | An article needs a catchy heading and the writer's name!
 
 ## Article writing
 Written for a newspaper or magazine.
@@ -204,9 +256,15 @@ Q: What should an argumentative essay's conclusion do?
 A: Summarise the arguments and give a clear opinion or suggestion.
 
 @@ 8
+SCENE: 🎁 ⌚ 💇 | The Gift of the Magi and "If—"!
+
+SAY: riya-wow | Della sold her hair and Jim sold his watch – to buy gifts for each other!
+
 ## Prose: The Gift of the Magi (O. Henry, summary)
 Della and Jim, a poor young couple, want to buy each other Christmas gifts. Della has only $1.87. She sells her beautiful long hair to buy a platinum chain for Jim's prized gold watch. Jim, meanwhile, sells his watch to buy a set of expensive combs for Della's hair. When they exchange gifts, both are useless – yet they realise their love is the greatest treasure.
 **Theme:** true love means selfless sacrifice. **Device:** **situational irony** – the outcome is the opposite of what was expected.
+
+SAY: buddy-happy | The truest gift is love and sacrifice. That's O. Henry's twist!
 
 ## Poem: If— (lines by Rudyard Kipling)
 If you can keep your head when all about you
@@ -215,6 +273,8 @@ If you can trust yourself when all men doubt you,
 But make allowance for their doubting too…
 Yours is the Earth and everything that's in it,
 And—which is more—you'll be a Man, my son!
+
+SAY: aarav-happy | "If—" teaches us to stay calm and keep going!
 
 ## Understanding the poem
 A father advises his son on how to become a mature person: stay calm in crises, believe in yourself while respecting others, handle success and failure equally. The poem uses **repetition** ("If you can…") to build up to its conclusion.

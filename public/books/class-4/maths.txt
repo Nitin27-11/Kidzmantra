@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🔢 🏙️ 🌍 | Large numbers!
+
 ## Five- and six-digit numbers
 After 9,999 comes **10,000** (ten thousand). After 99,999 comes **1,00,000** (one lakh).
+
+SAY: aarav-wow | 1,00,000 is one lakh!
+SAY: buddy-happy | Yes! In the Indian system we group by thousands, lakhs and crores.
 
 ## Indian place value chart
 In 3,45,627:
@@ -11,6 +16,8 @@ In 3,45,627:
 The same number is written 345,627 and read as **three hundred forty-five thousand six hundred twenty-seven**.
 - 1 lakh = 100 thousand
 - 10 lakh = 1 million
+
+SAY: riya-think | 4,786 rounded to the nearest hundred is 4,800!
 
 ## Rounding off
 Round 3,468 to the nearest hundred: look at the tens digit (6). 6 ≥ 5 → round up → **3,500**.
@@ -26,19 +33,27 @@ Q: What is the place value of 6 in 6,24,315?
 A: 6,00,000 (6 lakh).
 
 @@ 2
+SCENE: ➕ ➖ 🎯 | Big additions and subtractions!
+
 ## Adding big numbers
 Line up the digits by place value and add from the ones, carrying when needed.
   45,678
 + 23,947
 = **69,625**
 
+SAY: riya-happy | I lined up the digits by place value!
+
 ## Subtracting big numbers
   80,000
 – 36,452
 = **43,548** (borrow across the zeros)
 
+SAY: buddy-happy | Estimate first – round the numbers to check if your answer makes sense.
+
 ## Estimation
 To check if an answer makes sense, round first: 45,678 + 23,947 ≈ 46,000 + 24,000 = 70,000. Our answer 69,625 is close ✔
+
+SAY: aarav-think | 4,980 + 3,020 is about 5,000 + 3,000 = 8,000!
 
 ## Word problem
 A town had 52,340 people. 8,765 moved away. How many are left?
@@ -54,10 +69,15 @@ Q: Estimate 3,890 + 6,120 to the nearest thousand.
 A: 4,000 + 6,000 = 10,000.
 
 @@ 3
+SCENE: ✖️ 🔟 💯 | Multiplication!
+
 ## Multiplying by one digit
   1,234
 ×     6
 = **7,404**
+
+SAY: aarav-think | How do I multiply by a two-digit number?
+SAY: buddy-happy | Multiply by the ones, then by the tens, then add both answers.
 
 ## Multiplying by two digits
   346
@@ -65,6 +85,8 @@ A: 4,000 + 6,000 = 10,000.
 Step 1: 346 × 7 = 2,422
 Step 2: 346 × 20 = 6,920
 Step 3: Add: 2,422 + 6,920 = **9,342**
+
+SAY: riya-wow | 45 × 100 = 4500. Just add two zeros!
 
 ## Multiplying by 10, 100, 1000
 Add zeros: 57 × 10 = 570; 57 × 100 = 5,700; 57 × 1,000 = 57,000.
@@ -83,14 +105,21 @@ Q: A box has 24 mangoes. How many mangoes in 15 boxes?
 A: 360.
 
 @@ 4
+SCENE: ➗ 📐 🍬 | Long division!
+
 ## Long division
 Division by one digit, step by step: **Divide, Multiply, Subtract, Bring down**.
+
+SAY: riya-think | 756 ÷ 6 looks so long!
+SAY: buddy-happy | Divide, multiply, subtract, bring down – repeat!
 
 ## Example: 756 ÷ 6
 - 7 ÷ 6 = 1, 1 × 6 = 6, 7 – 6 = 1. Bring down 5 → 15.
 - 15 ÷ 6 = 2, 2 × 6 = 12, 15 – 12 = 3. Bring down 6 → 36.
 - 36 ÷ 6 = 6, 6 × 6 = 36, 36 – 36 = 0.
 Answer: **126**
+
+SAY: aarav-happy | 25 ÷ 4 = 6, remainder 1!
 
 ## With a remainder
 845 ÷ 4 = **211 remainder 1**. Check: 211 × 4 + 1 = 845 ✔
@@ -108,9 +137,14 @@ Q: 96 pencils are shared among 8 children. How many each?
 A: 12 pencils.
 
 @@ 5
+SCENE: 🔢 🧩 ✖️ | Factors and multiples!
+
 ## Factors
 **Factors** of a number are numbers that divide it exactly (no remainder).
 Factors of 12: **1, 2, 3, 4, 6, 12** (because 1×12, 2×6, 3×4).
+
+SAY: aarav-think | Factors of 12 are 1, 2, 3, 4, 6 and 12!
+SAY: buddy-happy | Right! And multiples of 3 are 3, 6, 9, 12…
 
 ## Multiples
 **Multiples** of a number are what you get when you multiply it by 1, 2, 3, …
@@ -120,6 +154,8 @@ Multiples of 4: **4, 8, 12, 16, 20, …** (they go on forever).
 - **Prime number:** has exactly two factors – 1 and itself. 2, 3, 5, 7, 11, 13, 17, 19…
 - **Composite number:** has more than two factors. 4, 6, 8, 9, 10…
 - 1 is neither prime nor composite. 2 is the only even prime.
+
+SAY: riya-wow | Numbers ending in 0 or 5 are divisible by 5!
 
 ## Divisibility rules
 - By **2**: last digit is even.
@@ -137,8 +173,12 @@ Q: Is 15 prime or composite?
 A: Composite (factors 1, 3, 5, 15).
 
 @@ 6
+SCENE: 🍕 🍫 🥧 | Fractions!
+
 ## What is a fraction?
 A **fraction** shows a part of a whole. In ¾, **3** is the **numerator** (parts taken) and **4** is the **denominator** (equal parts in all).
+
+SAY: riya-happy | ¾ of a pizza – 3 out of 4 equal slices!
 
 ## Kinds of fractions
 - **Proper fraction:** numerator < denominator – ²⁄₅
@@ -147,8 +187,12 @@ A **fraction** shows a part of a whole. In ¾, **3** is the **numerator** (parts
 - **Like fractions:** same denominator – ²⁄₇, ⁵⁄₇
 - **Unlike fractions:** different denominators – ½, ⅓
 
+SAY: buddy-happy | And ½ = 2/4 = 4/8 – they are equivalent fractions.
+
 ## Equivalent fractions
 Multiply or divide top and bottom by the same number: ½ = ²⁄₄ = ³⁄₆ = ⁴⁄₈.
+
+SAY: aarav-think | 1/5 + 2/5 = 3/5. Just add the tops!
 
 ## Adding and subtracting like fractions
 Add or subtract the numerators; keep the denominator: ²⁄₇ + ³⁄₇ = ⁵⁄₇; ⁵⁄₈ – ²⁄₈ = ³⁄₈.
@@ -163,14 +207,21 @@ Q: ³⁄₁₀ + ⁴⁄₁₀ = ?
 A: ⁷⁄₁₀.
 
 @@ 7
+SCENE: 🔟 💯 💲 | Decimals!
+
 ## Tenths and hundredths
 A **decimal** is another way to write fractions with denominators 10, 100, 1000.
 - ¹⁄₁₀ = **0.1** (one tenth)
 - ¹⁄₁₀₀ = **0.01** (one hundredth)
 - ⁷⁵⁄₁₀₀ = **0.75**
 
+SAY: aarav-think | What does the dot in 2.5 mean?
+SAY: buddy-happy | It's a decimal point! 2.5 means 2 and 5 tenths.
+
 ## Decimal point
 In 23.45: 23 is the **whole number part**, and .45 is the **decimal part** (4 tenths and 5 hundredths).
+
+SAY: riya-happy | ₹12.50 is a decimal too!
 
 ## Decimals in daily life
 - Money: ₹12.50 = 12 rupees 50 paise.
@@ -190,6 +241,8 @@ Q: Which is greater: 0.6 or 0.58?
 A: 0.6.
 
 @@ 8
+SCENE: 📐 ⏰ ↗️ | Lines and angles!
+
 ## Lines
 - **Line segment:** has two end points. AB.
 - **Ray:** has one end point and goes on forever in one direction, like a sunbeam.
@@ -198,6 +251,9 @@ A: 0.6.
 - **Intersecting lines:** cross each other at a point.
 - **Perpendicular lines:** meet at a right angle, like the corner of a book.
 
+SAY: riya-wow | The hands of a clock make an angle!
+SAY: buddy-happy | When two lines meet at a point, they make an angle. At 3 o'clock, it's a right angle!
+
 ## Angles
 An **angle** is made when two rays meet at a point called the **vertex**.
 - **Right angle:** exactly 90°, like the corner of a page.
@@ -205,6 +261,8 @@ An **angle** is made when two rays meet at a point called the **vertex**.
 - **Obtuse angle:** more than 90° but less than 180°.
 - **Straight angle:** 180°.
 > 💡 We measure angles in degrees (°) using a protractor.
+
+SAY: aarav-happy | The corner of my book is a right angle!
 
 ## Let's check
 Q: Which lines never meet?
@@ -215,11 +273,18 @@ Q: Is a 120° angle acute or obtuse?
 A: Obtuse.
 
 @@ 9
+SCENE: 🧱 📏 🟩 | Perimeter and area!
+
+SAY: aarav-think | How much fencing do we need around the garden?
+SAY: buddy-happy | Add all the sides – that's the perimeter!
+
 ## Perimeter
 **Perimeter** is the total length of the boundary of a shape.
 - Rectangle: perimeter = 2 × (length + breadth)
 - Square: perimeter = 4 × side
 Example: a rectangle 8 cm by 5 cm → perimeter = 2 × (8 + 5) = **26 cm**.
+
+SAY: riya-happy | Area is the space inside – length × breadth!
 
 ## Area
 **Area** is the amount of surface a shape covers. It is measured in **square units** (sq cm, cm²).
@@ -240,14 +305,21 @@ Q: To put a fence around a park, do we need area or perimeter?
 A: Perimeter.
 
 @@ 10
+SCENE: 📏 ⚖️ 🥛 | Measurement!
+
 ## Units of measurement
 - **Length:** 10 mm = 1 cm; 100 cm = 1 m; 1,000 m = 1 km
 - **Weight (mass):** 1,000 mg = 1 g; 1,000 g = 1 kg
 - **Capacity:** 1,000 mL = 1 L
 
+SAY: riya-happy | 1 kilometre = 1000 metres!
+SAY: buddy-happy | Also 1 kg = 1000 g, and 1 litre = 1000 mL.
+
 ## Converting
 - Big unit → small unit: **multiply**. 4 km = 4 × 1,000 = 4,000 m.
 - Small unit → big unit: **divide**. 3,500 g = 3,500 ÷ 1,000 = 3.5 kg.
+
+SAY: aarav-think | Add metres with metres and centimetres with centimetres!
 
 ## Adding measurements
   5 kg 450 g
@@ -264,6 +336,10 @@ Q: Which is heavier: 1.5 kg or 1,400 g?
 A: 1.5 kg (1,500 g).
 
 @@ 11
+SCENE: ⏰ 📅 🚆 | Time and calendar!
+
+SAY: aarav-wow | Trains use the 24-hour clock! 17:00 is 5 p.m.!
+
 ## 24-hour clock
 Railways and airports use the 24-hour clock so there is no confusion between a.m. and p.m.
 - 9:00 a.m. = **09:00**
@@ -272,8 +348,12 @@ Railways and airports use the 24-hour clock so there is no confusion between a.m
 - 11:45 p.m. = **23:45**
 - Midnight = **00:00**
 
+SAY: buddy-happy | Elapsed time is how much time has passed.
+
 ## Elapsed time
 A train leaves at 08:45 and reaches at 13:15. Time taken: from 08:45 to 12:45 is 4 hours; 12:45 to 13:15 is 30 minutes → **4 h 30 min**.
+
+SAY: riya-happy | A leap year has 366 days!
 
 ## Calendar
 - 7 days = 1 week, about 4 weeks = 1 month, 12 months = 1 year.
@@ -289,8 +369,12 @@ Q: How many years in a decade?
 A: 10.
 
 @@ 12
+SCENE: 🧾 🛒 💰 | Money and bills!
+
 ## Money and bills
 Money is written with rupees and paise: ₹45.75 = 45 rupees 75 paise.
+
+SAY: riya-happy | I made a bill for our class party!
 
 ## Making a bill
 - Notebook: 4 × ₹35 = ₹140
@@ -298,8 +382,12 @@ Money is written with rupees and paise: ₹45.75 = 45 rupees 75 paise.
 - Pens: 3 × ₹12.50 = ₹37.50
 - **Total: ₹262.50**
 
+SAY: buddy-happy | Unit price is the cost of one item. Multiply it by the quantity!
+
 ## Unit price
 If 6 pens cost ₹90, one pen costs ₹90 ÷ 6 = **₹15**.
+
+SAY: aarav-wow | Selling for more than the cost price is a profit!
 
 ## Profit and loss (introduction)
 If a shopkeeper buys a toy for ₹200 and sells it for ₹250, he makes a **profit** of ₹50. If he sells it for ₹180, he has a **loss** of ₹20.
@@ -314,8 +402,13 @@ Q: ₹100 – ₹63.50 = ?
 A: ₹36.50.
 
 @@ 13
+SCENE: 📊 🥧 🍎 | Data handling!
+
 ## Collecting and showing data
 **Data** is information collected to answer a question. We organise it in tables and graphs.
+
+SAY: aarav-happy | Bar graphs make comparing so easy!
+SAY: buddy-happy | Yes! Each bar's height shows how much or how many.
 
 ## Bar graph
 A bar graph shows data using bars.
@@ -325,6 +418,8 @@ Example – books read in a month:
 - Chitra: 8
 - Dev: 5
 The tallest bar (Chitra, 8) shows who read the most.
+
+SAY: riya-wow | A pie chart shows parts of a whole circle!
 
 ## Pie chart (introduction)
 A circle divided into parts shows how a whole is shared – e.g. how you spend your day.

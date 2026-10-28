@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🔢 🔟 5️⃣ | Let's count up to 50!
+
 ## Numbers 1 to 50
 We already know 1 to 10. Now let's count all the way to **50**!
+
+SAY: aarav-wow | 50 is a really big number!
+SAY: buddy-happy | It is! Let's count in tens: 10, 20, 30, 40, 50.
 
 ## Count in tens
 - 1 2 3 4 5 6 7 8 9 **10**
@@ -16,6 +21,8 @@ We already know 1 to 10. Now let's count all the way to **50**!
 ## Let's do
 Count your steps from the door to your bed. Did you reach 20?
 
+SAY: riya-happy | I can write the number name too: ten!
+
 ## Let's check
 Q: What comes after 29?
 A: 30.
@@ -25,8 +32,13 @@ Q: What number comes just before 50?
 A: 49.
 
 @@ 2
+SCENE: ✏️ 🍪 🔢 | Count and write numbers!
+
 ## Counting and writing numbers
 When we count things, we touch each thing once and say one number.
+
+SAY: riya-happy | I counted 7 cookies on the plate!
+SAY: buddy-happy | Great! Point at each one and count, so you don't miss any.
 
 ## Count and write
 - 🍎🍎🍎 → **3**
@@ -43,6 +55,8 @@ When we count things, we touch each thing once and say one number.
 ## Let's do
 Count the spoons in your kitchen. Write the number on paper.
 
+SAY: aarav-happy | I wrote 7 on my slate!
+
 ## Let's check
 Q: Count: 🐟🐟🐟🐟. How many fish?
 A: 4.
@@ -50,8 +64,13 @@ Q: Which two numbers make 10?
 A: 1 and 0 written together.
 
 @@ 3
+SCENE: ⬅️ 🔢 ➡️ | What comes before and after?
+
 ## Before and after
 Numbers come in order. Each number has a friend **before** it and a friend **after** it.
+
+SAY: aarav-think | What comes after 9?
+SAY: buddy-happy | 10! After means one more. Before means one less.
 
 ## Look at the number line
 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
@@ -64,6 +83,8 @@ Numbers come in order. Each number has a friend **before** it and a friend **aft
 - After 35 comes **36**.
 > 💡 "After" means count one step forward. "Before" means count one step back.
 
+SAY: riya-happy | Before 5 comes 4!
+
 ## Let's check
 Q: What comes after 7?
 A: 8.
@@ -73,8 +94,13 @@ Q: What comes after 39?
 A: 40.
 
 @@ 4
+SCENE: 🍬 🍭 ⚖️ | More or less? Let's compare!
+
 ## More and less
 When we compare two groups, one may have **more** and the other may have **less**.
+
+SAY: riya-wow | I have 5 sweets and Aarav has 3. I have more!
+SAY: buddy-happy | Yes! 5 is more than 3. And 3 is less than 5.
 
 ## Look and compare
 - 🍬🍬🍬🍬🍬 and 🍬🍬 → 5 is **more** than 2.
@@ -87,6 +113,8 @@ When we compare two groups, one may have **more** and the other may have **less*
 - Bigger numbers mean more things.
 > 💡 Line up the two groups side by side. The longer line has more!
 
+SAY: aarav-think | Next time I want more sweets!
+
 ## Let's check
 Q: Which is more: 7 or 4?
 A: 7.
@@ -96,8 +124,13 @@ Q: 3 apples and 3 apples. More, less or same?
 A: Same.
 
 @@ 5
+SCENE: 🔴 🟦 🔺 | Shapes and colours!
+
 ## Shapes and colours
 Shapes have colours, and colours make shapes bright and easy to spot!
+
+SAY: aarav-happy | A red circle and a blue square!
+SAY: buddy-happy | Good! Shapes have names, and they come in many colours.
 
 ## Our shapes
 - **Circle** – round, no corners. Like a red tomato. 🔴
@@ -111,6 +144,8 @@ Shapes have colours, and colours make shapes bright and easy to spot!
 Draw a house: a square for the room, a triangle for the roof, a rectangle for the door. Colour it!
 > 💡 A rectangle looks like a stretched square.
 
+SAY: riya-happy | The yellow sun is a big circle!
+
 ## Let's check
 Q: Which shape has 3 corners?
 A: A triangle.
@@ -120,8 +155,13 @@ Q: An egg looks like which shape?
 A: An oval.
 
 @@ 6
+SCENE: 🔴 🔵 ❓ | What comes next in the pattern?
+
 ## Patterns
 A **pattern** is something that repeats again and again in the same order.
+
+SAY: riya-think | Red, blue, red, blue… what comes next?
+SAY: buddy-happy | Red! A pattern repeats again and again.
 
 ## Find what comes next
 - 🔴🔵🔴🔵🔴 … next is **🔵**
@@ -135,6 +175,8 @@ Patterns are on rangoli, sarees, floor tiles and even on a zebra's stripes! 🦓
 ## Let's do
 Clap, stamp, clap, stamp… Make your own sound pattern!
 > 💡 Find the part that repeats. Then you can always tell what comes next.
+
+SAY: aarav-wow | My shirt has stripes, it's a pattern too!
 
 ## Let's check
 Q: Red, blue, red, blue… what comes next?

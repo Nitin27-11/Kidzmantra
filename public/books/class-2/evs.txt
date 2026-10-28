@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🫀 🧠 👃 | Our amazing body!
+
 ## Our body
 Our body is like a wonderful machine. Many parts work together to keep us alive.
+
+SAY: aarav-think | What does my heart do?
+SAY: buddy-happy | It pumps blood all over your body, all day and night!
 
 ## Inside our body
 - **Brain** – controls everything we do and think. It is inside the skull.
@@ -9,6 +14,8 @@ Our body is like a wonderful machine. Many parts work together to keep us alive.
 - **Stomach** – helps digest food.
 - **Bones** – give our body shape. Together they make the **skeleton**.
 - **Muscles** – help us move.
+
+SAY: riya-wow | We have five sense organs: eyes, ears, nose, tongue and skin!
 
 ## Sense organs
 Eyes (see), ears (hear), nose (smell), tongue (taste), skin (touch).
@@ -23,13 +30,20 @@ Q: Which organ helps us breathe?
 A: The lungs.
 
 @@ 2
+SCENE: 🥗 🥛 🍎 | Food keeps us healthy!
+
 ## Food and health
 Food gives us **energy** to work and play, and helps us **grow** and stay **healthy**.
+
+SAY: riya-think | Why should I eat vegetables?
+SAY: buddy-happy | They give vitamins and minerals that protect us from illness.
 
 ## Kinds of food
 - **Energy-giving food:** rice, wheat, potatoes, sugar, ghee.
 - **Body-building food:** dal, milk, eggs, paneer, fish.
 - **Protective food:** fruits and vegetables – they keep us from falling sick.
+
+SAY: aarav-happy | A balanced diet has all kinds of food in the right amount!
 
 ## A balanced diet
 A **balanced diet** has all three kinds of food in the right amount, plus water.
@@ -49,8 +63,13 @@ Q: Why should we cover food?
 A: To keep flies and germs away.
 
 @@ 3
+SCENE: 🌱 🌳 ☀️ | Plants!
+
 ## Plants
 Plants are living things. They make their own food using sunlight, air and water.
+
+SAY: aarav-wow | Roots drink water from the soil!
+SAY: buddy-happy | Yes! And leaves make food for the plant using sunlight.
 
 ## Parts of a plant and their work
 - **Root** – holds the plant in the soil and takes in water.
@@ -59,6 +78,8 @@ Plants are living things. They make their own food using sunlight, air and water
 - **Flower** – becomes the fruit.
 - **Fruit** – has seeds inside.
 - **Seed** – grows into a new plant.
+
+SAY: riya-happy | Plants need water, air and sunlight to grow.
 
 ## What plants need
 Sunlight, water, air and soil.
@@ -79,8 +100,13 @@ Q: Which part of sugarcane do we eat?
 A: The stem.
 
 @@ 4
+SCENE: 🐄 🦁 🐝 | The world of animals!
+
 ## Animals
 Animals are living things. They need food, water and shelter.
+
+SAY: riya-think | Why does a lion eat meat and a cow eat grass?
+SAY: buddy-happy | Animals eat different food. Plant-eaters are herbivores, meat-eaters are carnivores.
 
 ## Kinds of animals
 - **Domestic animals** live with us: cow, dog, goat.
@@ -90,6 +116,8 @@ Animals are living things. They need food, water and shelter.
 - **Herbivores** eat plants: cow, horse, deer.
 - **Carnivores** eat other animals: lion, tiger, eagle.
 - **Omnivores** eat both: bear, crow, human.
+
+SAY: aarav-happy | Bees give us honey and sheep give us wool!
 
 ## Animals give us
 Milk (cow, goat, buffalo), eggs (hen), wool (sheep), honey (bees), silk (silkworm).
@@ -104,8 +132,13 @@ Q: Is a bear a herbivore, carnivore or omnivore?
 A: An omnivore.
 
 @@ 5
+SCENE: 💧 🌊 🧊 | Water!
+
 ## Water
 Water is needed by all living things. We cannot live without water.
+
+SAY: aarav-happy | We get water from rivers, wells and rain!
+SAY: buddy-happy | Yes! And water can be ice, liquid water or steam.
 
 ## Sources of water
 - **Rain** – the main source.
@@ -121,6 +154,8 @@ Water is needed by all living things. We cannot live without water.
 ## Clean water
 Make water safe by **boiling**, **filtering** or using a **water purifier**.
 
+SAY: riya-happy | I close the tap tightly to save water.
+
 ## Save water
 Turn off taps, use a bucket to bathe, reuse water from washing vegetables to water plants.
 > 💡 Most of Earth is covered with water, but very little of it is fresh water we can drink.
@@ -134,8 +169,13 @@ Q: Give two ways to make water safe to drink.
 A: Boiling and filtering.
 
 @@ 6
+SCENE: 🌬️ 🪁 🎈 | Air is everywhere!
+
 ## Air
 Air is all around us. We cannot see it, but we can **feel** it.
+
+SAY: riya-think | I can't see air. How do I know it's there?
+SAY: buddy-happy | Watch a kite fly or a balloon fill up. That's air!
 
 ## Air is everywhere
 When the wind blows, leaves move and clothes on the line flutter. A balloon fills up with air.
@@ -145,6 +185,8 @@ When the wind blows, leaves move and clothes on the line flutter. A balloon fill
 - Air dries wet clothes.
 - Air helps kites fly and windmills turn.
 - Moving air (wind) moves sailing boats.
+
+SAY: aarav-happy | Trees help keep the air fresh and clean.
 
 ## Fresh air
 Plants give out fresh air. Smoke from cars and factories makes air dirty. This is called **air pollution**.
@@ -162,8 +204,13 @@ Q: How do plants help keep air clean?
 A: They give out fresh air (oxygen).
 
 @@ 7
+SCENE: 🏘️ 🏥 🏫 | Our neighbourhood!
+
 ## Our neighbourhood
 A **neighbourhood** is the area around our home. The people living near us are our **neighbours**.
+
+SAY: aarav-happy | There's a park, a school and a hospital near my house!
+SAY: buddy-happy | A neighbourhood is the place around our home with useful places.
 
 ## Places in a neighbourhood
 - **School** – where we learn.
@@ -174,6 +221,8 @@ A **neighbourhood** is the area around our home. The people living near us are o
 - **Police station** – where police keep us safe.
 - **Bank** – where people keep money.
 - **Places of worship** – temple, mosque, church, gurudwara.
+
+SAY: riya-happy | Good neighbours help each other!
 
 ## Good neighbours
 Good neighbours help each other, share happiness and keep the area clean.
@@ -188,8 +237,13 @@ Q: Name two places of worship.
 A: Temple, mosque, church or gurudwara.
 
 @@ 8
+SCENE: 🪔 🌾 🇮🇳 | Festivals of India!
+
 ## Festivals of India
 India has people of many religions and cultures. We celebrate many festivals together.
+
+SAY: riya-happy | We celebrate Diwali, Eid, Christmas and Gurpurab!
+SAY: buddy-happy | India has many religious festivals, and everyone celebrates together.
 
 ## Religious festivals
 - **Diwali** – festival of lights; we light diyas and share sweets.
@@ -198,6 +252,8 @@ India has people of many religions and cultures. We celebrate many festivals tog
 - **Christmas** – birthday of Jesus Christ, on 25 December.
 - **Guru Nanak Jayanti** – birthday of Guru Nanak Dev Ji.
 - **Buddha Purnima** – birthday of Lord Buddha.
+
+SAY: aarav-wow | Pongal, Baisakhi and Onam are harvest festivals!
 
 ## Harvest festivals
 Pongal (Tamil Nadu), Onam (Kerala), Baisakhi (Punjab), Bihu (Assam), Lohri, Makar Sankranti.
@@ -215,8 +271,13 @@ Q: When is Republic Day?
 A: 26 January.
 
 @@ 9
+SCENE: 🚲 🚢 🚁 | How do we travel?
+
 ## Transport
 **Transport** means moving people and goods from one place to another.
+
+SAY: aarav-happy | I go to school by bicycle!
+SAY: buddy-happy | Land, water and air – there are three kinds of transport.
 
 ## Land transport
 Bicycle, scooter, car, bus, truck, train, auto-rickshaw, bullock cart.
@@ -226,6 +287,8 @@ Boat, ship, steamer, ferry. Ships carry goods across the seas.
 
 ## Air transport
 Aeroplane and helicopter. Air travel is the fastest.
+
+SAY: riya-think | Long ago, people used bullock carts and horses!
 
 ## Old and new
 Long ago, people walked or used animals like horses, camels and elephants. Now we have fast trains like the metro and Vande Bharat.
@@ -240,14 +303,21 @@ Q: Name two kinds of water transport.
 A: Boat and ship.
 
 @@ 10
+SCENE: 🚦 🦺 ⚠️ | Safety first!
+
 ## Safety rules
 Following safety rules protects us from accidents.
+
+SAY: riya-happy | We cross the road at a zebra crossing!
+SAY: buddy-happy | Yes! And always look right, left and right again.
 
 ## Safety on the road
 - Walk on the **footpath**.
 - Cross at the **zebra crossing** when the signal is green for walkers.
 - Look right, left, then right again before crossing.
 - Wear a **helmet** on a two-wheeler and a **seat belt** in a car.
+
+SAY: aarav-think | I shouldn't touch electric switches with wet hands!
 
 ## Safety at home
 - Do not touch electric switches with wet hands.

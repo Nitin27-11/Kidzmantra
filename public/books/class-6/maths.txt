@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🔢 🌻 🔺 | Become a pattern detective!
+
 ## 🎬 Let's begin
 Look at a sunflower, a honeycomb, the tiles on your floor or a rangoli at Diwali. They all follow a **pattern**. Mathematics is often called **the science of patterns**. In this chapter, we become pattern detectives! 🕵️
+
+SAY: riya-think | Is maths only about counting?
+SAY: buddy-happy | Not at all! Maths is often called the science of patterns.
 
 ## 🤔 What is a pattern?
 > 📌 A **pattern** is something that repeats or grows according to a **rule**. If you know the rule, you can say what comes next.
@@ -24,6 +29,8 @@ Many sequences get their names from the shapes they make with dots:
 - **Square numbers** make squares: 2 rows of 2 = 4, 3 rows of 3 = 9.
 - **Cube numbers** make cubes: 2 layers of 2×2 = 8 small cubes.
 > 💡 Drawing a pattern often shows you **why** it works!
+
+SAY: aarav-wow | 1 + 3 + 5 = 9 = 3 × 3! Odd numbers add up to squares!
 
 ## ⚙️ Wonderful connections between sequences
 **1. Adding odd numbers gives square numbers.**
@@ -77,6 +84,8 @@ Arrange coins or bottle caps to make the first four triangular numbers. Then put
 - **Term** – each number in a sequence
 - **Regular polygon** – a shape with all sides and angles equal
 
+SAY: buddy-happy | Pattern detectives, it's quiz time!
+
 ## 🎮 Quiz time!
 MCQ: What comes next: 1, 4, 9, 16, … ? | 20 | *25 | 24 | 32 || These are square numbers: 5 × 5 = 25.
 MCQ: Which sequence is 1, 3, 6, 10, 15, …? | Square numbers | Odd numbers | *Triangular numbers | Cube numbers || Add 2, then 3, then 4, then 5.
@@ -87,8 +96,13 @@ FILL: 2 × 2 × 2 = ___, which is a cube number. | 8 || Two layers of 2 × 2 cub
 TF: A hexagon has 5 sides. | false || A hexagon has 6 sides; a pentagon has 5.
 
 @@ 2
+SCENE: 📐 ⏰ ✂️ | Lines and angles everywhere!
+
 ## 🎬 Let's begin
 Look at the hands of a clock, an open door, a slice of pizza or a pair of scissors. Each one makes a "corner" or an **opening**. Today we learn to name, compare and measure these openings – called **angles**! 📐
+
+SAY: aarav-think | Is a line the same as a line segment?
+SAY: buddy-happy | No! A line goes on forever both ways. A segment has two end points.
 
 ## 🤔 Points and lines – the building blocks
 > 📌 A **point** is an exact location. It has no length or width. We draw it as a tiny dot and name it with a capital letter, like **P**.
@@ -113,6 +127,8 @@ How to use a protractor:
 1. Place the centre point of the protractor on the **vertex**.
 2. Line up the **base line (0°)** with one arm.
 3. Read the number where the other arm crosses the scale. Start counting from the 0° on that arm's side!
+
+SAY: riya-wow | A right angle is exactly 90°, like the corner of a book!
 
 ## 🧩 Types of angles
 - **Acute angle:** less than 90° (e.g. 45°) – a sharp corner, like a pizza slice.
@@ -158,8 +174,12 @@ TF: The longer the arms, the bigger the angle. | false || Angle size depends onl
 FILL: A full turn is ___ degrees. | 360;360° || The circle is divided into 360 equal parts.
 
 @@ 3
+SCENE: 🔢 🪄 🧮 | Let's play with numbers!
+
 ## 🎬 Let's begin
 Numbers can be playful! They hide secrets, make magic tricks, and follow surprising rules. In this chapter we **play** with numbers like puzzles. 🧩
+
+SAY: riya-happy | Numbers can tell us so many things!
 
 ## 🤔 Numbers can tell us things
 Imagine children standing in a line. Each child says how many children **next to them** are taller than them. The numbers they say carry information about the line!
@@ -174,6 +194,9 @@ Numbers placed on a line in order, at equal gaps. Numbers increase as we go righ
 - How many numbers between 1 and 100 have a digit sum of 14? (59, 68, 77, 86, 95 → 5 numbers!)
 - **Palindromes:** numbers that read the same forwards and backwards – 121, 4334, 77.
 - **Reverse-and-add:** 39 + 93 = 132; 132 + 231 = 363 ✔ a palindrome! Many numbers become palindromes this way.
+
+SAY: aarav-wow | 6174 is a magic number? Any 4-digit number leads to it?
+SAY: buddy-happy | Almost any! Arrange digits big-to-small, subtract small-to-big, and repeat. Try it!
 
 ## 🪄 The magic number 6174
 Discovered by the Indian mathematician **D. R. Kaprekar**:
@@ -192,6 +215,8 @@ You always reach **6174** in at most 7 steps. It is called **Kaprekar's constant
 - Add in parts: 48 + 37 = 48 + 2 + 35 = 85.
 - Use round numbers: 99 × 7 = 100 × 7 – 7 = 693.
 - Estimate first: is 498 + 512 close to 1,000? Yes!
+
+SAY: riya-think | The Collatz game – halve if even, 3n+1 if odd. Do we always reach 1?
 
 ## 🌀 The Collatz game
 Start with any number. If it is even, halve it; if odd, multiply by 3 and add 1. Keep going.
@@ -225,8 +250,13 @@ FILL: 99 × 5 = ___ | 495 || 100 × 5 – 5 = 495.
 TF: The Collatz conjecture has been proved for all numbers. | false || It is still an unsolved problem.
 
 @@ 4
+SCENE: 📊 ✏️ 🖼️ | Data tells a story!
+
 ## 🎬 Let's begin
 Your class wants to choose a picnic spot. Everyone shouts different places – it's confusing! But if we **write down** each vote and **show** the result as a picture, the answer becomes clear in seconds. That is **data handling**. 📊
+
+SAY: aarav-think | What exactly is data?
+SAY: buddy-happy | Facts and numbers we collect to answer a question.
 
 ## 🤔 What is data?
 > 📌 **Data** is a collection of facts or numbers gathered to answer a question.
@@ -253,6 +283,8 @@ Favourite fruit:
 - Banana: 🍎🍎 → 10 children
 - Apple: 🍎½ → about 7–8 children (half a picture = 2 or 3)
 > 💡 Pictographs are eye-catching but hard to draw when numbers are big or not neat multiples.
+
+SAY: riya-happy | Bar graphs make it easy to compare!
 
 ## 📊 Bar graphs
 > 📌 A **bar graph** uses bars of **equal width** with **equal gaps** between them. The **height** (or length) shows the value.
@@ -299,8 +331,12 @@ MCQ: The number of times a value occurs is its | Scale | Key | *Frequency | Rang
 TF: Raw data is already arranged in a table. | false || Raw data is unorganised.
 
 @@ 5
+SCENE: 🔢 🧩 🔐 | Prime time!
+
 ## 🎬 Let's begin
 Two friends play a game. They count 1, 2, 3… taking turns. On multiples of 3 you say "**idli**", on multiples of 5 you say "**vada**", and on multiples of both you say "**idli-vada**!" Which is the first number that is "idli-vada"? It's **15**. Welcome to the world of factors, multiples and primes! 🥟
+
+SAY: riya-think | Is 1 a prime number?
 
 ## 🤔 Factors and multiples
 > 📌 A **factor** of a number divides it exactly (no remainder). A **multiple** of a number is what you get when you multiply it by 1, 2, 3, …
@@ -308,6 +344,8 @@ Two friends play a game. They count 1, 2, 3… taking turns. On multiples of 3 y
 - Multiples of 4: 4, 8, 12, 16, 20, … (they never end!)
 - **Common multiples** of 3 and 5: 15, 30, 45, … – the idli-vada numbers.
 - **Common factors** of 12 and 18: 1, 2, 3, 6.
+
+SAY: buddy-happy | No! A prime has exactly two factors – 1 and itself. 1 has only one.
 
 ## 🧩 Prime and composite numbers
 > 📌 A **prime number** has **exactly two** factors: 1 and itself. A **composite number** has **more than two** factors.
@@ -317,6 +355,8 @@ Two friends play a game. They count 1, 2, 3… taking turns. On multiples of 3 y
 - **2 is the only even prime.**
 - **Co-prime numbers:** two numbers whose only common factor is 1 – like 8 and 15 (neither has to be prime!).
 - **Twin primes:** primes that differ by 2 – (3, 5), (11, 13), (17, 19).
+
+SAY: aarav-wow | The Sieve of Eratosthenes crosses out numbers to find primes!
 
 ## ⚙️ Finding primes: the Sieve of Eratosthenes
 1. Write numbers 1 to 100.
@@ -372,8 +412,13 @@ MCQ: Which number is divisible by 4? | 3,714 | *5,316 | 2,122 | 1,250 || 16 is d
 FILL: The only even prime number is ___. | 2;two ||
 
 @@ 6
+SCENE: 🟩 📏 🏡 | Perimeter and area!
+
 ## 🎬 Let's begin
 Your school wants to put a fence around the garden and plant grass inside it. How much fencing? How much grass? To answer, we need two big ideas: **perimeter** and **area**. 🌱
+
+SAY: aarav-think | How much fence goes around our garden?
+SAY: buddy-happy | That's perimeter – the distance around a shape.
 
 ## 🤔 What is perimeter?
 > 📌 **Perimeter** is the **total length of the boundary** of a closed shape. It tells how far you walk to go once around it.
@@ -401,6 +446,8 @@ For any shape, count squares:
 - More than half a square = 1
 - Exactly half = ½
 - Less than half = 0 (ignore)
+
+SAY: riya-wow | Two shapes with the same perimeter can have different areas!
 
 ## 🤯 Same perimeter, different area!
 Rectangles with perimeter 20 cm:
@@ -438,14 +485,20 @@ MCQ: A regular pentagon has side 5 cm. Its perimeter is | 20 cm | *25 cm | 30 cm
 FILL: Area of a right triangle with sides 10 cm and 6 cm around the right angle is ___ sq cm. | 30 || ½ × 10 × 6.
 
 @@ 7
+SCENE: 🍕 🥧 📏 | Fractions!
+
 ## 🎬 Let's begin
 Three friends share 2 rotis equally. How much does each get? Not a whole roti… a **part** of one. We need **fractions** to answer! 🫓
+
+SAY: riya-happy | Half a roti is ½ – one of two equal parts!
 
 ## 🤔 What is a fraction?
 > 📌 A **fraction** names a part of a whole that is divided into **equal** parts. In ¾, the **numerator** (3) tells how many parts we take, and the **denominator** (4) tells into how many equal parts the whole is divided.
 - **Fractional unit:** one equal part, like ¼ or ⅕.
 - ¾ means three ¼ units: ¼ + ¼ + ¼.
 Sharing 2 rotis among 3: each gets **⅔** of a roti.
+
+SAY: buddy-happy | Fractions also sit on the number line between whole numbers.
 
 ## 📏 Fractions on the number line
 Divide the gap between 0 and 1 into equal parts. For fifths, mark 5 equal parts: ⅕, ⅖, ⅗, ⅘, 1.
@@ -456,6 +509,8 @@ Fractions greater than 1 continue beyond 1: ⁷⁄₅ is 2 fifths past 1.
 - **Improper:** numerator ≥ denominator → ⁷⁄₄ (1 or more)
 - **Mixed:** a whole and a part → 1¾ (= ⁷⁄₄)
 Change ⁷⁄₄ to mixed: 7 ÷ 4 = 1 remainder 3 → **1¾**.
+
+SAY: aarav-think | ½ = 2/4 = 3/6? They look different but are equal!
 
 ## 🔁 Equivalent fractions
 > 📌 Fractions that show the **same amount** are **equivalent**.
@@ -502,8 +557,12 @@ MCQ: ½ + ⅓ = | ²⁄₅ | *⅚ | ⅔ | ⅙ || ³⁄₆ + ²⁄₆.
 FILL: The simplest form of ⁸⁄₁₂ is ___ | 2/3;⅔ || Divide by 4.
 
 @@ 8
+SCENE: 📐 ⭕ ✏️ | Let's construct!
+
 ## 🎬 Let's begin
 Can you draw a perfect circle, or a perfectly square rangoli, without tracing? With just a **compass** and a **ruler**, mathematicians for thousands of years have drawn amazing shapes. Let's become architects! 📐✏️
+
+SAY: aarav-happy | I've got my compass, ruler and pencil ready!
 
 ## 🤔 Our tools
 - **Ruler (straight edge):** draws straight lines and measures lengths.
@@ -512,6 +571,8 @@ Can you draw a perfect circle, or a perfectly square rangoli, without tracing? W
 - **Diameter** = 2 × radius (a line through the centre from edge to edge).
 - **Arc** = a part of a circle.
 
+SAY: buddy-happy | Set the compass to 3 cm, fix the point and turn. A perfect circle!
+
 ## ⚙️ Drawing a circle of radius 3 cm
 1. Open the compass so the pencil tip is 3 cm from the point (use the ruler).
 2. Place the point on the paper – this is the centre.
@@ -519,6 +580,8 @@ Can you draw a perfect circle, or a perfectly square rangoli, without tracing? W
 
 ## 📐 Drawing a perpendicular
 To draw a line perpendicular to AB through a point on it, place a set square or protractor at 90°, or use arcs from equal distances on both sides – the line joining the crossing arcs is perpendicular.
+
+SAY: riya-wow | I drew a 6 cm × 4 cm rectangle with perfect right angles!
 
 ## ⬛ Constructing a rectangle 6 cm × 4 cm
 1. Draw AB = 6 cm.
@@ -557,8 +620,13 @@ MCQ: Stepping the radius around a circle gives how many points? | 4 | 5 | *6 | 8
 TF: All points on a circle are at different distances from the centre. | false || They are all at the same distance – the radius.
 
 @@ 9
+SCENE: 🦋 🔤 🔄 | Symmetry is beautiful!
+
 ## 🎬 Let's begin
 Fold a butterfly picture along the middle – both wings match perfectly! The Taj Mahal, a rangoli and a snowflake all have this beautiful balance called **symmetry**. 🦋
+
+SAY: riya-wow | A butterfly's wings are mirror images!
+SAY: buddy-happy | That's line symmetry – fold along the line and both halves match.
 
 ## 🤔 What is line symmetry?
 > 📌 A shape has **line symmetry** if a line divides it into **two identical halves** that match exactly when folded. This line is the **line (axis) of symmetry**.
@@ -579,6 +647,8 @@ Think of the line as a **mirror** – one half is the reflection of the other.
 - Horizontal line: B, C, D, E, H, I, K, O, X
 - Both: H, I, O, X
 - None: F, G, J, L, N, P, Q, R, S, Z
+
+SAY: aarav-think | A fan looks the same after a turn – rotational symmetry!
 
 ## 🔄 What is rotational symmetry?
 > 📌 A shape has **rotational symmetry** if it looks **exactly the same** after turning it about its centre by less than a full turn. The smallest such turn is the **angle of symmetry**.
@@ -616,8 +686,13 @@ MCQ: How many lines of symmetry does a circle have? | 1 | 2 | 360 | *Infinitely 
 FILL: A regular hexagon has ___ lines of symmetry. | 6;six ||
 
 @@ 10
+SCENE: ➖ 🏢 🌡️ | The other side of zero!
+
 ## 🎬 Let's begin
 In a tall building, the lift shows floors 1, 2, 3 going up… and when you go to the basement parking it shows **B1, B2** or **–1, –2**! Numbers **below zero** are everywhere – in temperatures, bank accounts and below sea level. Let's explore the other side of zero! 🛗
+
+SAY: aarav-think | Can a number be less than zero?
+SAY: buddy-happy | Yes! Negative numbers, like −5 °C on a cold day.
 
 ## 🤔 What are negative numbers?
 > 📌 Numbers less than zero are **negative numbers**: –1, –2, –3, … Together with zero and the positive numbers (1, 2, 3, …), they make the **integers**: … –3, –2, –1, 0, 1, 2, 3 …
@@ -629,6 +704,8 @@ In a tall building, the lift shows floors 1, 2, 3 going up… and when you go to
 Zero sits in the middle. Positive numbers go right; negative numbers go left.
 - Moving **right** = adding; moving **left** = subtracting.
 - A number to the right is **greater**: –2 > –5 (–2 is to the right of –5).
+
+SAY: riya-happy | Basement floors in a lift are like negative numbers!
 
 ## 🏢 The building lift model
 Start at floor 0 (ground).

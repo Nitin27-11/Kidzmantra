@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🍌 💧 🪙 | Can dew turn metal into gold?
+
 ## 🎬 Before you read
 Have you ever wished for a magic trick to become rich overnight? 🪄 What if the real magic was something you already had?
+
+SAY: aarav-wow | A magic bottle of dew that turns metal into gold? I want one!
+SAY: buddy-think | Read on, Aarav! The sage has a clever lesson hidden in this story.
 
 ## 📖 About the chapter
 **A Bottle of Dew** is a folk-style story from **Unit 1: Fables and Folk Tales**. Like most folk tales, it teaches a lesson through a simple, memorable story.
@@ -16,6 +21,8 @@ Have you ever wished for a magic trick to become rich overnight? 🪄 What if th
 - **Rama Natha** – lazy at first, dreams of easy wealth; changes through hard work.
 - **The sage** – wise and clever; teaches the lesson without lecturing.
 - **Rama Natha's wife** – sensible and hard-working.
+
+SAY: riya-happy | Rama Natha got rich by growing bananas – through hard work, not magic!
 
 ## 💡 Message
 Wealth and success come from **patience** and **honest effort**, not from shortcuts or magic.
@@ -39,6 +46,8 @@ Wealth and success come from **patience** and **honest effort**, not from shortc
 ## ✍️ Writing task
 Write 5 sentences about a time when hard work helped you (learning to ride a cycle, preparing for a test…).
 
+SAY: buddy-happy | There's no shortcut to success. Now try the quiz!
+
 ## 🎮 Quiz time!
 MCQ: What did the sage ask Rama Natha to collect? | Gold coins | *Dew from banana leaves | River water | Honey ||
 MCQ: What made Rama Natha rich in the end? | Magic | A treasure | *Hard work on the banana plantation | Luck ||
@@ -47,8 +56,13 @@ FILL: "A ___ of bananas" (collective noun) | bunch ||
 TF: "Gold" is a material noun. | true ||
 
 @@ 2
+SCENE: 🐦‍⬛ 🦊 🧀 | Beware of flattery!
+
 ## 🎬 Before you read
 Has anyone ever praised you a lot just to get something from you? 🦊 Let's see what happens to a bird who believed sweet words.
+
+SAY: riya-think | Why would a fox praise a raven's voice?
+SAY: buddy-think | Good question! Watch what the fox really wants.
 
 ## 📖 About the chapter
 **The Raven and the Fox** is a **poem-fable** based on the famous fable by the French poet **Jean de La Fontaine** (17th century), who retold Aesop's fables in verse.
@@ -63,6 +77,9 @@ Has anyone ever praised you a lot just to get something from you? 🦊 Let's see
 ## 🎭 Characters
 - **The fox** – cunning, smooth-talking, selfish.
 - **The raven** – vain (proud of its looks) and easily fooled.
+
+SAY: aarav-wow | The raven opened its beak to sing and dropped the cheese!
+SAY: buddy-happy | Exactly – people who flatter us often want something.
 
 ## 💡 Message
 Beware of **flattery** – people who praise you too much may want something from you. Think before you act on sweet words.
@@ -98,12 +115,18 @@ MCQ: In "The raven blamed itself", "itself" is a | Personal pronoun | *Reflexive
 FILL: Praising someone too much to get something is called ___. | flattery;flattering ||
 
 @@ 3
+SCENE: 🏹 🌾 🦸 | Help can come from anywhere!
+
 ## 🎬 Before you read
 Think of a time someone came to help just when things were going wrong. Heroes don't always wear capes! 🦸
+
+SAY: aarav-think | What makes a story a folk tale?
 
 ## 📖 About the chapter
 **Rama to the Rescue** is the third chapter of **Unit 1: Fables and Folk Tales**, about a rescue that comes from an unexpected place.
 > 📌 **Read the chapter in your NCERT Poorvi book first.** Then use this page to build vocabulary, grammar and writing skills on the unit's theme.
+
+SAY: buddy-happy | Folk tales were passed on by word of mouth. They often have clever heroes and a lesson.
 
 ## 🧩 Folk tales – what makes them special?
 - They were **told orally** for generations before being written.
@@ -116,6 +139,8 @@ Think of a time someone came to help just when things were going wrong. Heroes d
 - What was surprising about the rescuer?
 - What qualities helped solve the problem – courage, quick thinking, kindness?
 - What would you have done in that situation?
+
+SAY: riya-happy | Big, bigger, biggest – I'm good at degrees of comparison now!
 
 ## ✏️ Grammar corner: Adjectives and degrees of comparison
 > 📌 An **adjective** describes a noun – it tells **what kind, how many, which** or **whose**.
@@ -142,12 +167,18 @@ FILL: The superlative of "beautiful" is most ___. | beautiful ||
 TF: We use the comparative degree to compare two things. | true ||
 
 @@ 4
+SCENE: 🤝 🐘 🐕 | Friends come in all shapes and sizes!
+
 ## 🎬 Before you read
 Can two very different creatures become best friends? 🐘🐕 Sometimes the most surprising friendships are the strongest!
+
+SAY: riya-think | Can two very different people become best friends?
 
 ## 📖 About the chapter
 **The Unlikely Best Friends** opens **Unit 2: Friendship**. "Unlikely" means **not expected** – this is a story of a friendship nobody would have guessed.
 > 📌 **Read the chapter in your NCERT Poorvi book first.** Then use this page to think about friendship and practise language skills.
+
+SAY: buddy-happy | Of course! Kindness, trust and caring matter more than being alike.
 
 ## 💛 What makes a good friend?
 - **Trust** – you can share secrets safely.
@@ -161,6 +192,8 @@ Can two very different creatures become best friends? 🐘🐕 Sometimes the mos
 - How did the friends show care for each other?
 - What happened when they were separated or in trouble?
 - What does the story teach about differences?
+
+SAY: aarav-happy | Verbs are doing words – like play, share and help!
 
 ## ✏️ Grammar corner: Verbs
 > 📌 A **verb** is a word that shows an **action** (run, eat) or a **state** (is, seem, belong).
@@ -182,12 +215,18 @@ FILL: In "She is reading a book", the helping verb is ___. | is ||
 MCQ: Which quality means standing by someone in hard times? | Honesty | *Loyalty | Humour | Speed ||
 
 @@ 5
+SCENE: 🙏 💛 🤝 | A prayer for a friend!
+
 ## 🎬 Before you read
 If you could make a wish for your friend, what would it be? 🙏
+
+SAY: aarav-think | How do I read a poem well?
 
 ## 📖 About the chapter
 **A Friend's Prayer** is a **poem** in **Unit 2: Friendship**. A prayer is a heartfelt wish – here, the speaker shares hopes about friendship.
 > 📌 **Read the poem in your NCERT Poorvi book first.** Use this page to understand how to read and enjoy a poem.
+
+SAY: buddy-happy | Read slowly, feel the rhythm, and pause at the commas and full stops.
 
 ## 🎵 How to read a poem
 1. Read it **aloud**, slowly, at least twice.
@@ -201,6 +240,8 @@ If you could make a wish for your friend, what would it be? 🙏
 - **Stanza** – a group of lines, like a paragraph in a poem.
 - **Rhyme scheme** – the pattern of rhymes, shown by letters: aabb, abab.
 - **Refrain** – a line or phrase that repeats.
+
+SAY: riya-happy | Adverbs tell how – I read the poem softly and slowly!
 
 ## ✏️ Grammar corner: Adverbs
 > 📌 An **adverb** tells us more about a **verb**, an **adjective** or another **adverb**.
@@ -223,8 +264,12 @@ TF: "Very" is an adverb of degree. | true ||
 MCQ: The rhyme scheme where lines 1-2 and 3-4 rhyme is | abab | *aabb | abba | aaaa ||
 
 @@ 6
+SCENE: 🪑 🧩 📖 | The story of a chair!
+
 ## 🎬 Before you read
 Every object in your home has a story – an old chair might have seen three generations of your family! 🪑
+
+SAY: riya-happy | Every story has characters, a setting, a problem and an ending!
 
 ## 📖 About the chapter
 **The Chair** completes **Unit 2: Friendship**.
@@ -236,11 +281,15 @@ Every object in your home has a story – an old chair might have seen three gen
 - How do the characters feel at the beginning and at the end?
 - Which moment in the story did you like most, and why?
 
+SAY: buddy-happy | That's right! Look for these story elements as you read.
+
 ## 🧩 Story elements
 - **Characters** – who the story is about.
 - **Setting** – where and when it happens.
 - **Plot** – the events in order: beginning, problem, climax, ending.
 - **Theme** – the main message.
+
+SAY: aarav-think | The book is on the chair, the cat is under it – prepositions!
 
 ## ✏️ Grammar corner: Prepositions
 > 📌 A **preposition** shows the **relationship** of a noun or pronoun to another word – often **place**, **time** or **direction**.
@@ -263,11 +312,17 @@ TF: The setting of a story tells where and when it happens. | true ||
 FILL: The school starts ___ 8 o'clock. (in/on/at) | at ||
 
 @@ 7
+SCENE: 🌳 🍃 💊 | Neem Baba speaks!
+
 ## 🎬 Before you read
 If a tree could talk, what would it tell you? 🌳 In this chapter, a wise old **neem** tree shares its story!
 
+SAY: aarav-wow | A talking neem tree? Like a grandfather?
+
 ## 📖 About the chapter
 **Neem Baba** opens **Unit 3: Nurturing Nature**. "Baba" is a respectful word for an elder. The neem tree speaks like a grandfather, telling how useful and precious it is.
+
+SAY: buddy-happy | Yes! Neem is called the village pharmacy – its leaves and twigs have many uses.
 
 ## 🌿 Neem – the village pharmacy
 Neem (Azadirachta indica) is native to India and has been used for thousands of years:
@@ -276,6 +331,8 @@ Neem (Azadirachta indica) is native to India and has been used for thousands of 
 - **Bark and oil:** used in traditional medicines and natural pesticides.
 - **Shade and air:** neem trees give cool shade and survive in dry, hot places.
 > 😮 Neem is so useful that it is often called **"Sarva Roga Nivarini"** – the curer of all ailments!
+
+SAY: riya-happy | Trees take care of us, so we must take care of them!
 
 ## 💡 Message
 Nature gives us so much without asking anything in return. We must **respect, protect and nurture** trees.
@@ -303,17 +360,25 @@ MCQ: Which is a correlative conjunction? | and | because | *either…or | so ||
 TF: "Because" is a subordinating conjunction. | true ||
 
 @@ 8
+SCENE: 🥚 🐣 🪺 | What does a baby bird think?
+
 ## 🎬 Before you read
 Imagine you are a tiny bird inside an egg. What would you think the whole world looks like? 🥚🐣
 
+SAY: riya-wow | The bird thought the whole world was blue like its eggshell!
+
 ## 📖 About the chapter
 **What a Bird Thought** is a short, playful **poem** in **Unit 3: Nurturing Nature**, written from a baby bird's point of view.
+
+SAY: buddy-happy | Then it hatched and thought the world was made of straw. The world kept getting bigger!
 
 ## 🧵 The poem in short
 - Inside the **egg**, the little bird thinks the whole world is small, round and pale blue – just like its shell.
 - After hatching, it lives in the **nest**, and now thinks the world is made of straw.
 - When it hops out onto the branches, it believes the world is made of **leaves**.
 - Finally, it flies out and sees the **sky, trees and fields** – and realises the world is far bigger than it ever imagined, and it doesn't really know how big!
+
+SAY: aarav-think | We also learn that the world is bigger than what we see!
 
 ## 💡 Message
 Our ideas about the world grow as we **grow and explore**. What we know is often much smaller than what there is to know – so stay **curious and humble**.
@@ -343,11 +408,17 @@ MCQ: "It will fly tomorrow" is in the | Simple present | Simple past | *Simple f
 FILL: Past tense of "fly" is ___. | flew ||
 
 @@ 9
+SCENE: 🌶️ 🧄 🫚 | Spices that heal!
+
 ## 🎬 Before you read
 Open your kitchen's spice box – haldi, jeera, kali mirch, laung, dalchini, adrak! 🌶️ They make food tasty… but did you know they can also **heal**?
 
+SAY: aarav-happy | My Dadi puts haldi in milk when I have a cold!
+
 ## 📖 About the chapter
 **Spices that Heal Us** is an **informative** chapter in **Unit 3: Nurturing Nature**. It shows how common Indian spices are useful for health.
+
+SAY: buddy-happy | Turmeric, ginger, tulsi and many spices have been used for health in India for ages.
 
 ## 🧩 Spices and their benefits
 - **Turmeric (haldi):** has **curcumin**; used on cuts and in "haldi doodh" for coughs and colds. Natural antiseptic.
@@ -358,6 +429,8 @@ Open your kitchen's spice box – haldi, jeera, kali mirch, laung, dalchini, adr
 - **Cinnamon (dalchini):** warm, sweet spice; used in kadha and sweets.
 - **Fenugreek (methi)** and **fennel (saunf):** help digestion; saunf is chewed after meals.
 > ⚠️ Spices help in small amounts, but they are **not a replacement for a doctor's medicine** when someone is really ill.
+
+SAY: riya-wow | Traders came from far away to buy Indian spices!
 
 ## 🌍 India – the land of spices
 Kerala's spices (especially black pepper, called "**black gold**") drew traders from Arabia, Rome and Europe for centuries.
@@ -385,12 +458,18 @@ TF: Spices can replace a doctor's medicine for serious illness. | false ||
 MCQ: Black pepper is called | white gold | *black gold | green gold | red gold ||
 
 @@ 10
+SCENE: 🏃 🏅 💛 | A change of heart!
+
 ## 🎬 Before you read
 Have you ever changed your mind about someone after getting to know them better? 💭
+
+SAY: riya-think | What does a "change of heart" mean?
 
 ## 📖 About the chapter
 **Change of Heart** opens **Unit 4: Sports and Wellness**. A "change of heart" means **changing one's feelings or opinion** about something.
 > 📌 **Read the chapter in your NCERT Poorvi book first.** Use this page to explore sportsmanship and practise language.
+
+SAY: buddy-happy | Changing your feelings about something. Good sportsmanship means playing fair and respecting others.
 
 ## 🏅 What is sportsmanship?
 > 📌 **Sportsmanship** means playing **fairly**, respecting **rules**, **opponents** and **officials**, and being **gracious** whether you win or lose.
@@ -404,6 +483,8 @@ Have you ever changed your mind about someone after getting to know them better?
 - Whose heart changed in the story, and why?
 - What did the character learn about winning and losing?
 - Would you have made the same choice?
+
+SAY: aarav-happy | "Well played!" is an exclamatory sentence. I say it after every match!
 
 ## ✏️ Grammar corner: Sentences – kinds
 > 📌 A **sentence** is a group of words that makes **complete sense**.
@@ -425,12 +506,18 @@ FILL: "Please close the door" is an ___ sentence. | imperative ||
 MCQ: In "The team won the cup", the subject is | won | *The team | the cup | won the cup ||
 
 @@ 11
+SCENE: 🏆 🌟 🏃 | What makes a winner?
+
 ## 🎬 Before you read
 Who is a real winner – the one with the gold medal, or the one who never gives up? 🏆
+
+SAY: aarav-think | Is the winner only the one who comes first?
 
 ## 📖 About the chapter
 **The Winner** is a **poem** in **Unit 4: Sports and Wellness**, about what it truly means to win.
 > 📌 **Read the poem in your NCERT Poorvi book first.** Use this page to explore its theme and language.
+
+SAY: buddy-happy | A true winner tries their best, never gives up and stays kind.
 
 ## 🌟 What makes a winner?
 - **Effort** – giving your best, every time.
@@ -443,6 +530,8 @@ Who is a real winner – the one with the gold medal, or the one who never gives
 - According to the poet, who is a winner?
 - Find lines that talk about effort or not giving up.
 - How does the poem make you feel?
+
+SAY: riya-happy | She runs, they run – subject and verb must agree!
 
 ## ✏️ Grammar corner: Subject–verb agreement
 > 📌 The **verb** must **agree** with its **subject** in number.
@@ -465,11 +554,17 @@ TF: Perseverance means giving up easily. | false || It means continuing despite 
 MCQ: Choose: "Neither the coach nor the players ___ late." | was | *were | is | be ||
 
 @@ 12
+SCENE: 🧘 🌅 🫁 | Yoga – a way of life!
+
 ## 🎬 Before you read
 Stretch your arms up high… breathe in deeply… and slowly breathe out. Feel calmer? That's a tiny taste of **yoga**! 🧘
 
+SAY: riya-happy | We do yoga every morning at school!
+
 ## 📖 About the chapter
 **Yoga – A Way of Life** is an **informative** chapter in **Unit 4: Sports and Wellness**, about India's ancient gift to the world.
+
+SAY: buddy-happy | Yoga joins body, breath and mind. 21 June is International Day of Yoga.
 
 ## 🤔 What is yoga?
 > 📌 **Yoga** is an ancient Indian practice that brings together the **body, breath and mind** through postures, breathing and meditation. The word comes from Sanskrit **"yuj"**, meaning **to join or unite**.
@@ -480,6 +575,8 @@ Stretch your arms up high… breathe in deeply… and slowly breathe out. Feel c
 - **Asanas (postures):** Tadasana (mountain pose), Vrikshasana (tree pose), Bhujangasana (cobra pose), Padmasana (lotus pose), Surya Namaskar (sun salutation – 12 steps).
 - **Pranayama (breathing):** Anulom-Vilom (alternate nostril breathing), Bhramari (humming bee breath).
 - **Dhyana (meditation):** sitting quietly and focusing the mind.
+
+SAY: aarav-wow | Yoga makes me calm and helps me concentrate!
 
 ## 🌟 Benefits
 - Flexibility, strength and good posture.
@@ -513,11 +610,17 @@ FILL: She ___ (do) yoga right now. | is doing ||
 TF: Patanjali wrote the Yoga Sutras. | true ||
 
 @@ 13
+SCENE: 🇮🇳 🎭 🏔️ | Hamara Bharat – Incredible India!
+
 ## 🎬 Before you read
 Snowy mountains, golden deserts, green rainforests, sunny beaches, ancient temples and buzzing cities – all in **one country**! 🇮🇳
 
+SAY: aarav-wow | India has snowy mountains, deserts, beaches and jungles!
+
 ## 📖 About the chapter
 **Hamara Bharat – Incredible India!** opens **Unit 5: Culture and Tradition**. It celebrates India's amazing variety and shared spirit.
+
+SAY: buddy-happy | And so many languages, festivals and foods – yet we are one nation.
 
 ## 🌏 India's diversity
 - **Geography:** the Himalayas, the Thar Desert, the Indo-Gangetic plains, the Deccan Plateau, long coastlines and islands.
@@ -526,6 +629,8 @@ Snowy mountains, golden deserts, green rainforests, sunny beaches, ancient templ
 - **Dances:** Bharatanatyam, Kathak, Kathakali, Kuchipudi, Odissi, Manipuri, Mohiniyattam, Sattriya (classical), and folk dances like Bhangra, Garba, Bihu.
 - **Festivals:** Diwali, Eid, Christmas, Guru Purab, Onam, Pongal, Durga Puja, Bihu.
 - **Heritage:** the Taj Mahal, Konark Sun Temple, Hampi, Qutub Minar, Ajanta–Ellora caves.
+
+SAY: riya-happy | Unity in diversity – that's what makes India special!
 
 ## 🤝 One nation
 Different as we are, we share a history, a Constitution, national symbols, and values like **hospitality** – "Atithi Devo Bhava".
@@ -557,12 +662,18 @@ TF: The apostrophe in "India's" shows possession. | true ||
 MCQ: "Atithi Devo Bhava" is about | Bravery | *Hospitality | Cleanliness | Trade ||
 
 @@ 14
+SCENE: 🪁 🌬️ ☀️ | Let's fly kites!
+
 ## 🎬 Before you read
 On Makar Sankranti and Independence Day, the sky fills with colourful kites! Can you hear "**Kai po che!**"? 🪁
+
+SAY: riya-happy | We fly kites on Makar Sankranti!
 
 ## 📖 About the chapter
 **The Kites** is a **poem** in **Unit 5: Culture and Tradition**.
 > 📌 **Read the poem in your NCERT Poorvi book first.** Use this page to learn about kite traditions and practise language.
+
+SAY: buddy-happy | Kite flying is a joyful tradition in many parts of India.
 
 ## 🪁 Kite flying in India
 - **Uttarayan (Makar Sankranti)** in Gujarat, especially Ahmedabad, is famous for its **International Kite Festival** in January.
@@ -574,6 +685,8 @@ On Makar Sankranti and Independence Day, the sky fills with colourful kites! Can
 - What do the kites look like in the poem?
 - What feelings does the poet show – joy, freedom, excitement?
 - Find words that describe colour or movement.
+
+SAY: aarav-think | Happy and joyful are synonyms; happy and sad are antonyms!
 
 ## ✏️ Grammar corner: Synonyms and antonyms
 > 📌 **Synonyms** are words with **similar** meanings. **Antonyms** are words with **opposite** meanings.
@@ -592,17 +705,25 @@ FILL: The antonym of "honest" using a prefix is ___. | dishonest ||
 TF: Glass-coated manjha is safe for birds. | false ||
 
 @@ 15
+SCENE: 🧵 🪡 🌟 | Embroidering dreams!
+
 ## 🎬 Before you read
 Could you sew, embroider or paint using only your **feet**? Meet someone who does it beautifully! 🧵🦶
 
+SAY: aarav-wow | Ila Sachani does embroidery with her feet?
+
 ## 📖 About the chapter
 **Ila Sachani: Embroidering Dreams with her Feet** is a **biographical** chapter in **Unit 5: Culture and Tradition**. It is the true story of **Ila Sachani**, an embroidery artist from **Gujarat**.
+
+SAY: buddy-happy | Yes! She couldn't use her hands, so she learned to stitch with her feet. That's determination!
 
 ## 🌟 Her story
 - Ila was born with a condition that left her **unable to use her hands** properly.
 - Instead of giving up, she learnt to use her **feet** to do the delicate work most people do with fingers.
 - She mastered traditional **Gujarati embroidery** (such as Kutch-style needlework with bright threads and mirror work).
 - Her beautiful work, done with great patience, brought her **recognition and awards**, and she has inspired many people.
+
+SAY: riya-happy | Nothing can stop someone who never gives up!
 
 ## 💡 Message
 Challenges don't decide what we can achieve – **determination**, **patience** and **practice** do. Every person has abilities that deserve respect.
@@ -632,11 +753,17 @@ MCQ: Choose: "She ___ many awards so far." | won | *has won | wins | winning ||
 TF: A biography is the story of a real person's life. | true ||
 
 @@ 16
+SCENE: 🏛️ 🇮🇳 🕯️ | National War Memorial!
+
 ## 🎬 Before you read
 Near India Gate in New Delhi stands a place where the names of thousands of brave soldiers are written on walls of honour. 🇮🇳🕯️
 
+SAY: riya-think | Why do we have a war memorial?
+
 ## 📖 About the chapter
 **National War Memorial** is an **informative** chapter in **Unit 5: Culture and Tradition**, about the memorial that honours India's soldiers.
+
+SAY: buddy-happy | To honour the soldiers who gave their lives for India. It's near India Gate in New Delhi.
 
 ## 🏛️ About the memorial
 - Located near **India Gate, New Delhi**; inaugurated in **February 2019**.
@@ -647,6 +774,8 @@ Near India Gate in New Delhi stands a place where the names of thousands of brav
   3. **Tyag Chakra** – the circle of sacrifice, with granite tablets bearing soldiers' names.
   4. **Rakshak Chakra** – the circle of protection, lined with trees standing like soldiers guarding the nation.
 - **Param Yodha Sthal** has busts of soldiers awarded the **Param Vir Chakra**, India's highest gallantry award.
+
+SAY: aarav-happy | I salute our brave soldiers!
 
 ## 💡 Message
 We live safely because soldiers protect our borders. We honour them by being **good, responsible citizens** and remembering their sacrifice.

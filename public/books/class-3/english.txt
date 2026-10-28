@@ -1,15 +1,24 @@
 @@ 1
+SCENE: 🍎 🦉 🏫 | Nouns, and the little words a, an and the!
+
 ## Nouns and articles
 A **noun** is the name of a person, place, animal, thing or idea. **Articles** are the small words **a**, **an** and **the** that come before nouns.
+
+SAY: aarav-think | Why do we say "an apple" but "a ball"?
+SAY: buddy-happy | We use "an" before a vowel sound – a, e, i, o, u. Otherwise "a".
 
 ## Kinds of nouns
 - **Common noun:** a general name – girl, river, city.
 - **Proper noun:** a particular name – Kavya, Yamuna, Chennai. It starts with a capital letter.
 - **Collective noun:** a name for a group – a **herd** of cows, a **flock** of birds, a **bunch** of grapes, a **team** of players.
 
+SAY: riya-wow | So it's "an owl" and "an umbrella"!
+
 ## Using a and an
 - Use **a** before words that begin with a consonant **sound**: a pen, a dog, a uniform (u sounds like "you").
 - Use **an** before words that begin with a vowel **sound**: an apple, an egg, an hour (h is silent).
+
+SAY: buddy-happy | And "the" points to one particular thing, like "the sun".
 
 ## Using the
 Use **the** for something particular or already known: "I saw a cat. **The** cat was black." Also for unique things: **the** sun, **the** moon.
@@ -24,8 +33,13 @@ Q: Is "Himalayas" a common or proper noun?
 A: A proper noun.
 
 @@ 2
+SCENE: 👦 👧 🎒 | Pronouns help us!
+
 ## Pronouns
 A **pronoun** takes the place of a noun so we don't repeat it.
+
+SAY: riya-happy | I, you, he, she, it, we, they – personal pronouns!
+SAY: buddy-happy | Yes! And mine, yours, his, hers show who owns something.
 
 ## Personal pronouns
 - Speaking about yourself: **I, me, we, us**
@@ -35,6 +49,8 @@ A **pronoun** takes the place of a noun so we don't repeat it.
 ## Possessive pronouns
 These show ownership: **mine, yours, his, hers, ours, theirs**.
 "This bag is **mine**." "That pen is **hers**."
+
+SAY: aarav-think | "This bag is mine" – not "This bag is me"!
 
 ## Using pronouns correctly
 - **I** and **we** do the action: "**I** play."
@@ -51,8 +67,13 @@ Q: Make it correct: "Me and Rahul went to the park."
 A: Rahul and I went to the park.
 
 @@ 3
+SCENE: ⏪ ⏺️ ⏩ | Verbs tell time too!
+
 ## Verbs and tenses
 A **verb** shows an action or a state. **Tense** tells us **when** the action happens.
+
+SAY: aarav-think | How does a verb show time?
+SAY: buddy-happy | It changes! I play (present), I played (past), I will play (future).
 
 ## Three main tenses
 - **Present tense** – happening now or every day: "She **walks** to school."
@@ -63,6 +84,8 @@ A **verb** shows an action or a state. **Tense** tells us **when** the action ha
 - Add **-ed**: play → played, jump → jumped
 - Add **-d**: dance → danced, smile → smiled
 - Irregular verbs change: go → went, eat → ate, see → saw, write → wrote, run → ran
+
+SAY: riya-happy | He plays, she sings, it runs – add -s for he, she and it!
 
 ## Present tense with he/she/it
 Add **-s** or **-es**: He play**s**. She watch**es**.
@@ -77,14 +100,21 @@ Q: Fill in: "He ___ (go) to school every day."
 A: goes.
 
 @@ 4
+SCENE: 🐘 🐁 🏆 | Adjectives describe!
+
 ## Adjectives
 An **adjective** describes a noun – it tells us more about it.
+
+SAY: riya-happy | Five red roses! "Five" and "red" are adjectives!
+SAY: buddy-happy | Right! Adjectives tell what kind, how many and which one.
 
 ## Kinds of adjectives
 - **Quality:** what kind? – a **brave** soldier, a **soft** pillow.
 - **Quantity:** how much? – **some** milk, **little** water.
 - **Number:** how many? – **five** pencils, **many** books.
 - **Colour/size/shape:** a **round**, **red** ball.
+
+SAY: aarav-wow | Tall, taller, tallest! Adjectives can compare too!
 
 ## Comparing with adjectives
 - tall → taller → tallest
@@ -102,8 +132,13 @@ Q: Complete: good, ___, best
 A: better.
 
 @@ 5
+SCENE: ❓ ❗ ✏️ | Punctuation marks!
+
 ## Punctuation
 **Punctuation marks** are signs that help us read and understand writing.
+
+SAY: aarav-think | What's the use of a full stop?
+SAY: buddy-happy | It shows where a sentence ends. Commas, question marks and more help us read clearly.
 
 ## Main punctuation marks
 - **Full stop (.)** – ends a telling sentence. "I like books."
@@ -112,6 +147,8 @@ A: better.
 - **Comma (,)** – separates items in a list or shows a short pause. "I bought apples, bananas and grapes."
 - **Apostrophe (')** – shows ownership or shortened words. "Riya's bag", "don't" (do not).
 - **Capital letters** – start of a sentence, names, the word "I".
+
+SAY: riya-wow | Without punctuation, sentences get so confusing!
 
 ## Without punctuation
 "lets eat grandma" vs "Let's eat, Grandma!" – a comma can save a life! 😄
@@ -126,8 +163,13 @@ Q: Add commas: "I like red blue and green."
 A: I like red, blue and green.
 
 @@ 6
+SCENE: ❓ 💬 🗣️ | Sentences and questions!
+
 ## Sentences and questions
 A **sentence** is a group of words that gives complete meaning.
+
+SAY: riya-happy | "Close the door" is an order – an imperative sentence!
+SAY: buddy-happy | Yes! There are telling, asking, ordering and exclaiming sentences.
 
 ## Kinds of sentences
 - **Statement** – tells something. "The sun rises in the east."
@@ -138,6 +180,8 @@ A **sentence** is a group of words that gives complete meaning.
 ## Question words
 **Who** (person), **What** (thing), **Where** (place), **When** (time), **Why** (reason), **How** (way), **Which** (choice).
 "**Where** do you live?" "**Why** are you late?"
+
+SAY: aarav-think | "You are happy" becomes "Are you happy?" – just swap the words!
 
 ## Turning statements into questions
 "She is happy." → "**Is** she happy?"
@@ -153,14 +197,21 @@ Q: Make a question: "He is your brother."
 A: Is he your brother?
 
 @@ 7
+SCENE: 🐜 🦗 ❄️ | The Ant and the Grasshopper!
+
 ## Reading comprehension
 Reading carefully and answering questions helps us understand better.
+
+SAY: aarav-think | Why does the ant work hard in summer?
+SAY: buddy-happy | Read the passage to find out! The answer is in the story.
 
 ## Read the passage: The Ant and the Grasshopper
 It was summer. A little ant was busy carrying grains of wheat to her home. A grasshopper sat on a leaf, singing happily. "Why do you work so hard?" he laughed. "Come and sing with me!"
 "I am saving food for winter," said the ant. "You should do the same."
 The grasshopper only laughed and kept singing.
 Winter came. The fields were covered with snow. The grasshopper had no food and was very hungry. He went to the ant. The kind ant shared some food with him. The grasshopper learnt his lesson.
+
+SAY: riya-happy | We should work today to be ready for tomorrow!
 
 ## Moral
 **Work today to be ready for tomorrow.**
@@ -178,8 +229,13 @@ Q: What lesson did the grasshopper learn?
 A: We should work hard and save for the future.
 
 @@ 8
+SCENE: ✉️ 📮 👵 | Let's write a letter!
+
 ## Letter writing
 We write **letters** to share news with family and friends. An informal letter is written to people we know well.
+
+SAY: riya-happy | I want to write to my Dadi in Jaipur!
+SAY: buddy-happy | Lovely! An informal letter has an address, date, greeting, body and ending.
 
 ## Parts of an informal letter
 1. **Address and date** – at the top left.
@@ -187,6 +243,8 @@ We write **letters** to share news with family and friends. An informal letter i
 3. **Body** – what you want to say.
 4. **Closing** – With love,
 5. **Your name**
+
+SAY: aarav-wow | I'll end mine with "Your loving grandson"!
 
 ## Sample letter
 12, Rose Lane, Pune
@@ -207,8 +265,13 @@ Q: How can you close a letter to your grandmother?
 A: With love, followed by your name.
 
 @@ 9
+SCENE: 🌧️ 🐸 ☔ | Poems about rain!
+
 ## Poems
 Poems use **rhythm**, **rhyme** and **pictures in words** to share feelings.
+
+SAY: aarav-wow | Pitter-patter! I can hear the rain in the poem!
+SAY: buddy-happy | Pitter-patter is a sound word. It copies the sound of rain.
 
 ## The Rain
 Pitter-patter falls the rain,
@@ -222,6 +285,8 @@ Washed and shining, fresh and clean.
 - The poet describes a rainy day.
 - "Pitter-patter" copies the sound of rain. Words that copy sounds are called **sound words**.
 - Rhyming pairs: rain – pane, street – feet, green – clean.
+
+SAY: riya-happy | I read it aloud with expression, slowly and clearly!
 
 ## Reading a poem well
 Read slowly, pause at commas, and feel the beat.

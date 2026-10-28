@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 👀 👂 👃 | Let's know our body!
+
 ## My body
 My body helps me do so many things! Let's learn the parts of my body.
+
+SAY: riya-happy | I see with my eyes and hear with my ears!
+SAY: buddy-happy | Yes, Riya! Every part of our body has a job.
 
 ## Touch and say
 - **Head** – on top of my body.
@@ -16,6 +21,8 @@ Head, shoulders, knees and toes, knees and toes!
 Eyes and ears and mouth and nose!
 > 💡 Keep your body clean: wash your hands before you eat.
 
+SAY: aarav-happy | I clap with my hands and jump with my legs!
+
 ## Let's check
 Q: What do we see with?
 A: Our eyes.
@@ -25,8 +32,13 @@ Q: What do we smell with?
 A: Our nose.
 
 @@ 2
+SCENE: 👨‍👩‍👧 🏠 ❤️ | We love our family!
+
 ## My family
 A family is the people who love us and take care of us.
+
+SAY: aarav-happy | My family is Mummy, Papa, Dadi and me!
+SAY: buddy-happy | How lovely! Family members love and care for each other.
 
 ## Who is in my family?
 - **Mother** (Mummy, Maa) – she loves me.
@@ -41,6 +53,8 @@ Some families are small. Some families are big. Every family is special! ❤️
 Draw your family. Tell your teacher the name of each person.
 > 💡 We help our family: we put toys away and say "thank you".
 
+SAY: riya-happy | I help Mummy set the table. We help each other!
+
 ## Let's check
 Q: Who tells stories in many families?
 A: Grandfather and grandmother.
@@ -48,8 +62,13 @@ Q: How can you help your family?
 A: Put toys away, help with small jobs, and be kind.
 
 @@ 3
+SCENE: 🌈 🎨 🍓 | So many colours around us!
+
 ## Colours around us
 The world is full of colours! 🌈
+
+SAY: riya-wow | The sky is blue and the leaves are green!
+SAY: buddy-happy | Yes! A strawberry is red and a banana is yellow.
 
 ## Look and say
 - **Red** – an apple, a tomato. 🍎
@@ -64,6 +83,8 @@ The world is full of colours! 🌈
 "I spy something **red**!" Can you find it?
 > 💡 Mix yellow and blue paint. You get green!
 
+SAY: aarav-happy | I spy something orange… an orange!
+
 ## Let's check
 Q: What colour is the sky?
 A: Blue.
@@ -73,8 +94,13 @@ Q: What colour is a parrot?
 A: Green.
 
 @@ 4
+SCENE: 🐶 🐱 🐟 | Let's meet our pet friends!
+
 ## Pet animals
 Pets are animals that live with us at home. We love them and take care of them.
+
+SAY: aarav-happy | My dog Moti wags his tail when I come home!
+SAY: buddy-happy | Pets love us. We give them food, water and love.
 
 ## Our pet friends
 - **Dog** 🐶 says "woof woof". It guards our home.
@@ -87,6 +113,8 @@ Pets are animals that live with us at home. We love them and take care of them.
 Pets need food, clean water, a home and love. Be gentle with them!
 > 💡 Always wash your hands after playing with a pet.
 
+SAY: riya-happy | I give fresh water to my cat every day.
+
 ## Let's check
 Q: Which pet says "meow"?
 A: A cat.
@@ -96,8 +124,13 @@ Q: What do pets need?
 A: Food, water, a home and love.
 
 @@ 5
+SCENE: 🍎 🍌 🥭 | Yummy fruits!
+
 ## Yummy fruits
 Fruits are tasty and good for our body. They make us strong. 💪
+
+SAY: riya-wow | Mango is my favourite fruit!
+SAY: buddy-happy | Fruits are tasty and keep us healthy and strong.
 
 ## Let's name fruits
 - **Mango** 🥭 – the king of fruits. It is sweet and yellow.
@@ -111,6 +144,8 @@ Fruits are tasty and good for our body. They make us strong. 💪
 Which fruit did you eat today? Tell your friend its colour and taste.
 > 💡 Wash fruits before you eat them.
 
+SAY: aarav-happy | We wash fruits before we eat them!
+
 ## Let's check
 Q: Which fruit is called the king of fruits?
 A: Mango.
@@ -118,8 +153,13 @@ Q: Which fruit is green outside and red inside?
 A: Watermelon.
 
 @@ 6
+SCENE: 🚌 🚂 ✈️ | Vehicles take us places!
+
 ## Vehicles take us places
 Vehicles help us go from one place to another. 🚗
+
+SAY: aarav-wow | Vroom! A bus goes on the road!
+SAY: buddy-happy | A train goes on the tracks, and a plane flies in the sky.
 
 ## On the road
 - **Car** 🚗, **bus** 🚌, **auto-rickshaw** 🛺, **bicycle** 🚲 and **scooter** 🛵.
@@ -129,6 +169,8 @@ Vehicles help us go from one place to another. 🚗
 
 ## In the sky
 - **Aeroplane** ✈️ and **helicopter** 🚁 fly in the sky.
+
+SAY: riya-happy | A boat goes on the water!
 
 ## On the water
 - **Boat** ⛵ and **ship** 🚢 move on water.
@@ -146,8 +188,13 @@ Q: Which vehicle moves on water?
 A: A boat or a ship.
 
 @@ 7
+SCENE: 🙏 😊 🤝 | Let's learn good manners!
+
 ## Good manners
 Good manners make everyone happy. 😊
+
+SAY: riya-happy | I always say "please" and "thank you"!
+SAY: buddy-happy | Those are magic words, Riya! They make everyone happy.
 
 ## Magic words
 - Say **"Please"** when you ask for something.
@@ -161,6 +208,8 @@ Good manners make everyone happy. 😊
 - Cover your mouth when you cough or sneeze.
 - Throw rubbish in the dustbin.
 > 💡 Kind words are like sunshine. They make everyone smile.
+
+SAY: aarav-happy | I say "sorry" when I make a mistake.
 
 ## Let's check
 Q: What do you say when someone gives you something?

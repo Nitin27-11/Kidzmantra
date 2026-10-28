@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🫀 🦴 💪 | Let's learn about my body!
+
 ## My body
 Our body has many parts. Each part has a special job.
+
+SAY: riya-think | What is inside my body?
+SAY: buddy-happy | Your heart, lungs, bones and brain work inside you all day!
 
 ## Outer parts
 Head, hair, eyes, ears, nose, mouth, neck, shoulders, arms, hands, fingers, stomach, legs, knees, feet and toes.
@@ -10,6 +15,8 @@ Head, hair, eyes, ears, nose, mouth, neck, shoulders, arms, hands, fingers, stom
 - The **lungs** help us breathe.
 - The **brain** helps us think and remember. 🧠
 - **Bones** hold our body up.
+
+SAY: aarav-happy | Exercise and good food keep my body healthy!
 
 ## Keep your body healthy
 - Bathe every day and brush your teeth twice.
@@ -26,8 +33,13 @@ Q: How many times should we brush our teeth each day?
 A: Twice.
 
 @@ 2
+SCENE: 👨‍👩‍👧‍👦 🏠 ❤️ | My family!
+
 ## My family
 A family is a group of people who live together and care for each other.
+
+SAY: aarav-happy | My family is big. Dada, Dadi, Chacha and cousins live with us!
+SAY: buddy-happy | Some families are big, some are small. Both are full of love!
 
 ## Small and big families
 - A **small family** has parents and their children.
@@ -42,6 +54,8 @@ A family is a group of people who live together and care for each other.
 We share work at home: laying the table, watering plants, folding clothes.
 > 💡 Spend time with grandparents. They know wonderful stories!
 
+SAY: riya-happy | I help Dadi water the plants.
+
 ## Let's check
 Q: What is a joint family?
 A: A big family with grandparents, uncles, aunts and cousins.
@@ -49,8 +63,13 @@ Q: What do we call our mother's brother?
 A: Mamaji.
 
 @@ 3
+SCENE: 🦁 🐝 🐟 | Animals and their homes!
+
 ## Animals and their homes
 Just like us, animals need homes. Different animals live in different places.
+
+SAY: riya-think | Where does a bee live?
+SAY: buddy-happy | In a hive! A lion lives in a den and a bird lives in a nest.
 
 ## Who lives where?
 - **Bird** – nest 🪺
@@ -68,6 +87,8 @@ Just like us, animals need homes. Different animals live in different places.
 Frogs live both on land and in water.
 > 💡 Never disturb a bird's nest or a beehive.
 
+SAY: aarav-wow | A frog can live in water and on land!
+
 ## Let's check
 Q: Where does a lion live?
 A: In a den.
@@ -77,8 +98,13 @@ Q: What is a horse's home called?
 A: A stable.
 
 @@ 4
+SCENE: 🍌 🍆 🥕 | Fruits and vegetables!
+
 ## Fruits and vegetables
 Fruits and vegetables give us **vitamins**. Vitamins help us grow and keep us from falling sick.
+
+SAY: aarav-happy | A banana is yellow and a grape is green!
+SAY: buddy-happy | Fruits come in many colours. Eat a rainbow of fruits!
 
 ## Fruits by colour
 - Red: apple, strawberry, pomegranate
@@ -93,6 +119,8 @@ Fruits and vegetables give us **vitamins**. Vitamins help us grow and keep us fr
 - **Fruits** we cook as vegetables: tomato, brinjal, lady's finger.
 > 💡 Eat a "rainbow plate" – many colours of fruits and vegetables every day.
 
+SAY: riya-wow | A carrot is a root, and spinach is a leaf!
+
 ## Let's check
 Q: Name two leafy vegetables.
 A: Spinach and cabbage (or coriander).
@@ -102,8 +130,13 @@ Q: Which part of the carrot do we eat?
 A: The root.
 
 @@ 5
+SCENE: 🔴 🟡 🔵 | Let's play with colours!
+
 ## Colours
 Colours make our world bright and beautiful.
+
+SAY: riya-think | What happens if I mix red and yellow?
+SAY: buddy-happy | You get orange! Red, yellow and blue are primary colours.
 
 ## Primary colours
 **Red, yellow and blue** are primary colours. We can mix them to make new colours.
@@ -114,6 +147,8 @@ Colours make our world bright and beautiful.
 - Red + Blue = **Purple** 🟣
 - Red + White = **Pink**
 - Black + White = **Grey**
+
+SAY: aarav-happy | Our flag has saffron, white and green!
 
 ## Colours of our flag
 India's flag has **saffron**, **white** and **green**, with a **navy blue** wheel in the middle. 🇮🇳
@@ -128,8 +163,13 @@ Q: What colour is the wheel on India's flag?
 A: Navy blue.
 
 @@ 6
+SCENE: ☀️ 🌧️ ❄️ | Weather and seasons!
+
 ## Weather and seasons
 **Weather** is how the air outside is today: sunny, rainy, windy or cold.
+
+SAY: aarav-happy | I love the rainy season! I jump in puddles!
+SAY: buddy-happy | India has summer, rainy season and winter.
 
 ## Seasons in India
 - **Summer** – hot days. We wear cotton clothes and drink lots of water. ☀️
@@ -141,6 +181,8 @@ A: Navy blue.
 Sunny, cloudy, rainy, windy, foggy, stormy.
 > 💡 Never stand under a tree during a thunderstorm.
 
+SAY: riya-think | Today is sunny and hot. I will wear a cap!
+
 ## Let's check
 Q: In which season do we wear sweaters?
 A: Winter.
@@ -150,8 +192,13 @@ Q: What clothes are best in summer?
 A: Cotton clothes.
 
 @@ 7
+SCENE: 🪥 🧼 🤝 | Good habits!
+
 ## Good habits
 Good habits keep us healthy, happy and safe.
+
+SAY: riya-happy | I brush my teeth every morning and night!
+SAY: buddy-happy | Good habits keep us healthy, kind and safe.
 
 ## Healthy habits
 - Wake up early and brush your teeth.
@@ -169,6 +216,8 @@ Good habits keep us healthy, happy and safe.
 - Do not talk to strangers.
 - Do not play with fire or electric plugs.
 > 💡 Wash hands for 20 seconds – as long as singing "Happy Birthday" twice!
+
+SAY: aarav-happy | I share my toys with my friends!
 
 ## Let's check
 Q: When should we wash our hands?

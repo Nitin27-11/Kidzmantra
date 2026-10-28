@@ -1,4 +1,9 @@
 @@ 1
+SCENE: ⏪ ⏺️ ⏩ | A quick tour of tenses!
+
+SAY: aarav-think | There are so many tenses. How do I choose the right one?
+SAY: buddy-happy | Ask two questions: when did it happen, and is it complete, ongoing or both?
+
 ## The tense system at a glance
 - **Simple present:** habits, facts – "The Earth revolves around the Sun."
 - **Present continuous:** now, or a fixed future plan – "We are leaving for Goa tomorrow."
@@ -9,8 +14,12 @@
 - **Past perfect:** the earlier of two past actions – "The film had started before we arrived."
 - **Future forms:** will (decision/prediction), going to (plan/evidence), present continuous (arrangement).
 
+SAY: riya-happy | He said that he was tired – the reported verb moves back in time!
+
 ## Sequence of tenses
 If the main verb is in the past, the verb in the dependent clause is usually past too: "He said that he **was** tired." But universal truths stay present: "The teacher said that light **travels** faster than sound."
+
+SAY: aarav-wow | "I have seen him yesterday" is wrong? It's "I saw him yesterday"!
 
 ## Common mistakes
 - ✗ I didn't went. ✓ I didn't **go**. (after did, use the base form)
@@ -27,6 +36,11 @@ Q: Fill in: "Look at those clouds! It ___ (rain)."
 A: is going to rain.
 
 @@ 2
+SCENE: 🧩 🔗 📝 | Clauses build sentences!
+
+SAY: riya-think | What's the difference between a clause and a phrase?
+SAY: buddy-happy | A clause has a subject and a verb. A phrase doesn't.
+
 ## What is a clause?
 A **clause** is a group of words with a **subject and a verb**.
 - **Independent (main) clause:** makes complete sense alone – "I stayed home."
@@ -39,6 +53,8 @@ A **clause** is a group of words with a **subject and a verb**.
 
 ## Phrase vs clause
 A **phrase** has no subject–verb pair: "in the morning", "a very tall tree". A clause always has one.
+
+SAY: aarav-happy | "I stayed home because it was raining." Two clauses joined!
 
 ## Joining sentences with clauses
 "I met a girl. She speaks five languages." → "I met a girl **who speaks five languages**."
@@ -53,6 +69,10 @@ Q: Is "under the old bridge" a phrase or a clause?
 A: A phrase.
 
 @@ 3
+SCENE: 🔄 🏏 📦 | Active and passive voice!
+
+SAY: aarav-happy | "Kohli hit the ball" becomes "The ball was hit by Kohli"!
+
 ## Active to passive – all patterns
 **Formula:** object → subject + be (tense) + past participle + by + agent
 - Present simple: They **build** houses. → Houses **are built** (by them).
@@ -64,10 +84,14 @@ A: A phrase.
 - Future: We **will announce** the results. → The results **will be announced**.
 - Modals: You **must finish** the work. → The work **must be finished**.
 
+SAY: buddy-happy | Even questions and commands can be passive: "Let the door be closed."
+
 ## Questions and imperatives
 - **Who** wrote this? → **By whom** was this written?
 - **Did** she cook dinner? → **Was** dinner cooked by her?
 - Bring the book. → **Let** the book **be brought**. / You **are asked to** bring the book.
+
+SAY: riya-think | "He gave me a pen" has two objects – so two passives are possible!
 
 ## Verbs with two objects
 "The teacher gave **me** a **prize**." → "**I** was given a prize." or "A prize was given to me."
@@ -82,11 +106,17 @@ Q: Can "The baby sleeps" be changed to passive?
 A: No, "sleeps" has no object.
 
 @@ 4
+SCENE: 💬 🗣️ 📰 | Reported speech!
+
+SAY: riya-happy | Aarav said, "I am hungry." → Aarav said that he was hungry.
+
 ## Reporting statements, questions and commands
 **Reporting verbs:** said, told, asked, enquired, ordered, requested, advised, exclaimed.
 
 ## Statements
 "I have finished my work," said Anu. → Anu said that she **had finished** her work.
+
+SAY: buddy-happy | When the reporting verb is in the past, tenses move one step back.
 
 ## Tense backshift table
 - is/am → was · are → were · has/have → had
@@ -95,6 +125,8 @@ A: No, "sleeps" has no object.
 ## Questions
 - "Where are you going?" asked Mother. → Mother **asked** me **where I was going**. (no question mark; statement word order)
 - "Do you like music?" he said to me. → He **asked** me **if/whether** I liked music.
+
+SAY: aarav-think | Commands become "told me to…" – "Sit down" → She told me to sit down!
 
 ## Commands and requests
 - "Stand up," said the teacher. → The teacher **ordered** us **to stand** up.
@@ -114,6 +146,11 @@ Q: Report: "Please help me," said the old man.
 A: The old man requested me to help him.
 
 @@ 5
+SCENE: 🌧️ ☁️ 🌾 | Read like a detective!
+
+SAY: aarav-think | How can I read faster and still understand?
+SAY: buddy-happy | Skim for the main idea first, then scan for details when you answer.
+
 ## Strategies for comprehension
 1. **Skim** to find the main idea.
 2. **Read the questions** before reading closely.
@@ -124,6 +161,8 @@ A: The old man requested me to help him.
 ## Read the passage: The Monsoon
 For millions of Indian farmers, the monsoon is not just weather – it is life. Nearly half of India's farmland still depends on rain rather than canals. When the south-west monsoon arrives in Kerala around the first of June, the whole country watches. A good monsoon fills reservoirs, recharges wells and brings bumper harvests; prices of vegetables and grain fall. A weak monsoon can mean drought, debt and hardship.
 Yet heavy, unpredictable rain brings its own dangers – floods, landslides and crop damage. Scientists say climate change is making the monsoon more erratic: long dry spells broken by sudden, extreme downpours. Better water storage, crop insurance and accurate forecasts are now more important than ever.
+
+SAY: riya-wow | Nearly half of India's farmland still depends on monsoon rain!
 
 ## Vocabulary
 - **reservoir:** a large natural or artificial lake used to store water
@@ -140,6 +179,11 @@ Q: Give the meaning of "erratic".
 A: Not regular or predictable.
 
 @@ 6
+SCENE: 📔 ✉️ 🖊️ | Diaries and letters!
+
+SAY: riya-happy | I write my diary every night before bed!
+SAY: buddy-happy | A diary entry has a date, a personal tone and your feelings.
+
 ## Diary entry
 A **diary** records personal experiences, thoughts and feelings.
 Format:
@@ -154,6 +198,8 @@ Dear Diary,
 Today was Children's Day and I'm still smiling! Our class performed a skit on saving water, and I played the role of a thirsty river. I was so nervous before going on stage that my hands were shaking, but when the audience laughed at my lines, I relaxed. Our principal praised us and said we should perform it for the whole district! I've learned that practice really does beat fear.
 Kavya
 
+SAY: aarav-happy | An informal letter to a friend can be chatty and warm!
+
 ## Informal letter
 Written to friends and family. Address, date, "Dear …", body, "Yours lovingly/With love", name. The tone is warm and personal.
 > 💡 A diary is written for yourself – be honest about your feelings.
@@ -167,6 +213,11 @@ Q: How does an informal letter differ from a formal one?
 A: It is personal and friendly, with no subject line, and closes with words like "With love".
 
 @@ 7
+SCENE: 📖 🐉 ✍️ | Let's write stories!
+
+SAY: aarav-think | What makes a story interesting?
+SAY: buddy-happy | Strong characters, a problem to solve, rising tension and a satisfying ending.
+
 ## Elements of a story
 - **Characters:** who the story is about.
 - **Setting:** where and when it happens.
@@ -176,6 +227,8 @@ A: It is personal and friendly, with no subject line, and closes with words like
 
 ## Writing a story from an outline
 Outline: a girl finds a wallet → it has a lot of money and an address → tempted, she decides to return it → the owner, an old man, is a retired teacher who had lost his pension → he blesses her; her school honours her honesty.
+
+SAY: riya-happy | Show, don't tell – "her hands shook" instead of "she was scared"!
 
 ## Tips
 - Begin with an interesting line: "It was the last thing Meera expected to find under the bus seat."
@@ -193,8 +246,12 @@ Q: Give one tip to make a story lively.
 A: Use dialogue, describe feelings through actions, start with an interesting line.
 
 @@ 8
+SCENE: 🛤️ 🍂 🌲 | The Road Not Taken!
+
 ## Reading literature
 When studying prose and poetry, think about: **What happens? Who are the characters? What is the message? How has the writer used language?**
+
+SAY: riya-think | Is the poem really about two roads in a wood?
 
 ## Poem: The Road Not Taken (lines by Robert Frost)
 Two roads diverged in a yellow wood,
@@ -207,8 +264,12 @@ Two roads diverged in a wood, and I—
 I took the one less traveled by,
 And that has made all the difference.
 
+SAY: buddy-happy | It's about the choices we make in life, and how they shape who we become.
+
 ## Understanding the poem
 The traveller must choose between two paths in a forest – a **metaphor** for choices in life. He picks the one "less traveled by" and believes this choice shaped his whole life. The poem reminds us that our decisions matter and we can't go back to try every path.
+
+SAY: aarav-wow | The two roads are a metaphor!
 
 ## Literary devices
 - **Metaphor:** roads = life choices

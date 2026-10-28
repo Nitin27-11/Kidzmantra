@@ -1,0 +1,48 @@
+1 | 🔢 🌏 🏦 | Large numbers and place value!
+1.2 aarav-think | In 5,674, what's the difference between place value and face value of 6?
+1.2 buddy-happy | Face value is just 6. Place value is 600, because it's in the hundreds place!
+1.3 riya-happy | 10 lakh = 1 million!
+2 | ➕ ✖️ ➗ | Four operations – in the right order!
+2.1 riya-think | Is 2 + 3 × 4 equal to 20 or 14?
+2.1 buddy-happy | 14! Brackets first, then × and ÷, then + and −.
+2.4 aarav-happy | I check subtraction answers by adding back!
+3 | 🔢 🧩 🔗 | HCF and LCM!
+3.1 aarav-think | What's the HCF of 12 and 18?
+3.1 buddy-happy | 6 – the biggest number that divides both exactly!
+3.4 riya-wow | Two bells ringing every 4 and 6 minutes ring together every 12 minutes – that's the LCM!
+4 | 🍕 🥧 🍫 | Fractions!
+4.2 riya-think | How do I add ½ and ⅓?
+4.2 buddy-happy | Make the bottoms the same first: 3/6 + 2/6 = 5/6!
+4.5 aarav-happy | 7/4 is the same as 1¾ – a mixed number!
+5 | 🔟 💲 📏 | Decimals!
+5.2 aarav-happy | Line up the decimal points when adding!
+5.3 buddy-happy | When multiplying, count the decimal places in both numbers.
+5.4 riya-wow | 4.5 ÷ 10 = 0.45. The point moves left!
+6 | 💯 📊 🏷️ | Percentage!
+6.1 riya-happy | Percent means "out of 100"!
+6.3 buddy-happy | 25% of 80 = 25/100 × 80 = 20!
+6.4 aarav-wow | 20% off on toys – that's a discount!
+7 | 📐 ⏰ ↗️ | Angles!
+7.2 aarav-think | What's the difference between acute and obtuse angles?
+7.2 buddy-happy | Acute is less than 90°, obtuse is between 90° and 180°.
+7.4 riya-happy | I'll measure angles with a protractor!
+8 | 🔺 🟦 🪁 | Triangles and quadrilaterals!
+8.1 riya-wow | The angles of every triangle add up to 180°!
+8.2 buddy-happy | And the angles of a quadrilateral add up to 360°.
+8.3 aarav-happy | A square is a special rectangle!
+9 | 📦 🟩 🥤 | Perimeter, area and volume!
+9.1 aarav-think | How much space is inside a box?
+9.2 buddy-happy | That's volume! Length × breadth × height.
+9.3 riya-happy | 1 litre = 1000 cubic centimetres!
+10 | 🚗 ⏱️ 📍 | Time and speed!
+10.2 riya-think | A car travels 120 km in 2 hours. How fast is it?
+10.2 buddy-happy | Speed = distance ÷ time = 60 km per hour!
+10.3 aarav-wow | Distance = speed × time!
+11 | 📊 🥧 ➗ | Data handling!
+11.2 aarav-think | My scores are 8, 6 and 10. What's my average?
+11.2 buddy-happy | Add them and divide by 3: 24 ÷ 3 = 8!
+11.4 riya-happy | A pie chart shows how a whole is divided into parts!
+12 | 🔢 ✨ 🔺 | Magical patterns!
+12.2 riya-wow | 11 × 11 = 121, 111 × 111 = 12321!
+12.2 buddy-happy | Maths is full of magic patterns!
+12.4 aarav-think | 3, 6, 12, 24… the rule is "double it"!

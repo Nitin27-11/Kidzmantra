@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 🔢 💯 🧮 | Numbers up to 1000!
+
 ## Numbers up to 1000
 Now we count with **hundreds**, **tens** and **ones**.
+
+SAY: aarav-wow | 1000 is ten hundreds!
+SAY: buddy-happy | Yes! In 345, 3 is in the hundreds place, 4 tens and 5 ones.
 
 ## Place value
 - 1 hundred = 10 tens = 100 ones
@@ -12,6 +17,9 @@ Now we count with **hundreds**, **tens** and **ones**.
 - 125 – one hundred twenty-five
 - 460 – four hundred sixty
 - 999 – nine hundred ninety-nine
+
+SAY: riya-think | Which is bigger, 456 or 465?
+SAY: buddy-happy | Compare hundreds first, then tens. 465 is bigger!
 
 ## Comparing numbers
 Compare hundreds first. 452 > 398 because 4 hundreds is more than 3 hundreds.
@@ -27,8 +35,13 @@ Q: What is the place value of 7 in 374?
 A: 70 (7 tens).
 
 @@ 2
+SCENE: ➕ 🎒 🔁 | Addition with carrying!
+
 ## Addition with carrying
 When the ones add up to **10 or more**, we **carry** 1 ten to the tens place.
+
+SAY: riya-think | What if the ones add up to more than 9?
+SAY: buddy-happy | Carry the extra ten to the tens column!
 
 ## Example
   47
@@ -46,6 +59,8 @@ Hundreds: 1 + 2 + 1 = 4.
 Answer: **422**
 > 💡 Always start adding from the ones place (the right side).
 
+SAY: aarav-happy | 38 + 25 = 63. I carried 1 ten!
+
 ## Let's check
 Q: 56 + 27 = ?
 A: 83.
@@ -55,8 +70,13 @@ Q: A shop sold 65 pens on Monday and 48 on Tuesday. How many in all?
 A: 113 pens.
 
 @@ 3
+SCENE: ➖ 🔙 🍬 | Subtraction with borrowing!
+
 ## Subtraction with borrowing
 When the top digit is **smaller** than the bottom digit, we **borrow** 1 ten from the tens place.
+
+SAY: aarav-think | How do I take 7 from 2 in 42 – 17?
+SAY: buddy-happy | Borrow 1 ten! Then 12 – 7 = 5.
 
 ## Example
   52
@@ -72,6 +92,8 @@ Ones: 3 – 6? Borrow. The tens is 0, so borrow from hundreds first: 4 hundreds 
 13 – 6 = 7, 9 – 5 = 4, 3 – 1 = 2 → **247**
 > 💡 Check subtraction by adding: 247 + 156 = 403 ✔
 
+SAY: riya-happy | 42 – 17 = 25. Easy now!
+
 ## Let's check
 Q: 61 – 34 = ?
 A: 27.
@@ -81,8 +103,13 @@ Q: There were 90 children. 46 went home. How many are left?
 A: 44.
 
 @@ 4
+SCENE: ✖️ 🍫 🔢 | Let's multiply!
+
 ## Introduction to multiplication
 **Multiplication** is quick, repeated addition of equal groups. We use the sign **×**.
+
+SAY: riya-wow | 3 groups of 4 sweets make 12!
+SAY: buddy-happy | Multiplication is quick adding of equal groups: 4 + 4 + 4 = 3 × 4.
 
 ## Equal groups
 3 plates with 4 laddoos each: 4 + 4 + 4 = 12
@@ -93,6 +120,8 @@ So **3 × 4 = 12** (3 groups of 4).
 - 3 × 1 = 3, 3 × 2 = 6, 3 × 3 = 9 … 3 × 10 = 30
 - 5 × 1 = 5, 5 × 2 = 10 … 5 × 10 = 50
 - 10 × 1 = 10 … 10 × 10 = 100
+
+SAY: aarav-happy | I learned the tables of 2, 3, 4 and 5!
 
 ## Fun facts
 - Any number × 1 = the same number.
@@ -109,6 +138,11 @@ Q: A cycle has 2 wheels. How many wheels on 7 cycles?
 A: 14.
 
 @@ 5
+SCENE: 📐 🔺 🎲 | Shapes and lines!
+
+SAY: aarav-think | Are all lines straight?
+SAY: buddy-happy | No! Lines can be straight or curved, standing or sleeping.
+
 ## Kinds of lines
 Lines and shapes are the building blocks of every drawing.
 - **Straight line** — like the edge of a ruler.
@@ -123,6 +157,8 @@ Lines and shapes are the building blocks of every drawing.
 - **Rectangle:** 4 sides, opposite sides equal.
 - **Circle:** 1 curved line, no corners.
 
+SAY: riya-wow | A cube has 6 faces!
+
 ## Solid shapes
 Cube, cuboid, sphere, cylinder, cone. A cube has **6 faces**, **12 edges** and **8 corners**.
 > 💡 A circle has a centre. Every point on the circle is the same distance from it.
@@ -136,14 +172,21 @@ Q: Which shape has 4 equal sides?
 A: A square.
 
 @@ 6
+SCENE: 📏 ⚖️ 🍉 | Length and weight!
+
 ## Length and weight
 We measure **length** to know how long something is, and **weight** to know how heavy it is.
+
+SAY: riya-happy | I measure my book with a ruler in centimetres!
+SAY: buddy-happy | We measure length in centimetres and metres, and weight in kilograms.
 
 ## Length
 - Small lengths are measured in **centimetres (cm)** using a ruler.
 - Big lengths are measured in **metres (m)**.
 - **1 metre = 100 centimetres**
 - A pencil is about 15 cm long. A door is about 2 m tall.
+
+SAY: aarav-wow | A watermelon is heavier than an apple!
 
 ## Weight
 - We measure weight in **grams (g)** and **kilograms (kg)**.
@@ -161,11 +204,18 @@ Q: Which is heavier: 1 kg of cotton or 1 kg of iron?
 A: Both weigh the same – 1 kg!
 
 @@ 7
+SCENE: ⏰ 📅 🎂 | Time and calendar!
+
+SAY: aarav-think | Which hand of the clock shows the hour?
+SAY: buddy-happy | The short hand shows hours, the long hand shows minutes.
+
 ## Reading a clock
 A clock has a **short hand** (hour hand) and a **long hand** (minute hand).
 - When the long hand is at **12**, it is "o'clock". Short hand at 3 → **3 o'clock**.
 - When the long hand is at **6**, it is "half past". Short hand between 3 and 4 → **half past 3** (3:30).
 - 1 hour = 60 minutes. 1 day = 24 hours.
+
+SAY: riya-happy | My birthday is in March!
 
 ## The calendar
 - A year has **12 months** and **365 days** (366 in a leap year).
@@ -182,13 +232,21 @@ Q: The long hand is at 12 and the short hand is at 8. What time is it?
 A: 8 o'clock.
 
 @@ 8
+SCENE: 🪙 💵 🛍️ | Money, money!
+
+SAY: riya-happy | 100 paise make 1 rupee!
+
 ## Rupees and paise
 - **₹1 = 100 paise**.
 - Coins: ₹1, ₹2, ₹5, ₹10, ₹20.
 - Notes: ₹10, ₹20, ₹50, ₹100, ₹200, ₹500.
 
+SAY: buddy-happy | Right! Now let's add money and give change while shopping.
+
 ## Adding money
 A notebook costs ₹25 and a pen costs ₹12. Total = ₹25 + ₹12 = **₹37**.
+
+SAY: aarav-think | If a pencil costs 7 rupees and I give 10, I get 3 rupees back!
 
 ## Giving change
 You buy a toy for ₹35 and pay ₹50. Change = ₹50 – ₹35 = **₹15**.
@@ -206,8 +264,13 @@ Q: You pay ₹100 for a book of ₹68. What change do you get?
 A: ₹32.
 
 @@ 9
+SCENE: 📊 🍎 ✋ | Let's collect data!
+
 ## Data handling
 **Data** is information we collect, like the number of children who like each fruit. We can show it with **tally marks** and **pictographs**.
+
+SAY: aarav-happy | I used tally marks to count favourite fruits!
+SAY: buddy-happy | Tally marks make counting easy: every 5th line crosses the other four.
 
 ## Tally marks
 Each line stands for 1. The fifth line crosses the first four: |||| with a line across = 5.
@@ -216,6 +279,8 @@ Each line stands for 1. The fifth line crosses the first four: |||| with a line 
 - Mango: 8 children
 - Banana: 5 children
 - Apple: 3 children
+
+SAY: riya-wow | A pictograph shows data with pictures!
 
 ## Pictograph
 Mango: 🥭🥭🥭🥭🥭🥭🥭🥭

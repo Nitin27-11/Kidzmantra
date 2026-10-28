@@ -1,6 +1,11 @@
 @@ 1
+SCENE: 1️⃣ 🍎 🔟 | Let's meet numbers 1 to 10!
+
 ## Let's meet numbers
 Numbers tell us **how many**. Let's count from 1 to 10!
+
+SAY: aarav-happy | I am 4 years old. I can show 4 fingers!
+SAY: buddy-happy | Great, Aarav! Numbers tell us how many.
 
 ## Count with me
 - **1** – one sun ☀️
@@ -19,6 +24,8 @@ Clap and count: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10!
 Now jump and count backwards: 10, 9, 8… 1. Blast off! 🚀
 > 💡 Find numbers around you: on the clock, the lift, the phone and the calendar.
 
+SAY: riya-wow | I counted 10 apples. One, two, three… ten!
+
 ## Let's check
 Q: How many eyes do you have?
 A: Two eyes.
@@ -28,8 +35,13 @@ Q: How many fingers on two hands?
 A: 10.
 
 @@ 2
+SCENE: ✋ 🖐️ 🤚 | Our fingers can count!
+
 ## Our fingers can count
 Our fingers are our very own counting helpers! We have 5 fingers on each hand.
+
+SAY: riya-wow | I have 5 fingers on one hand!
+SAY: buddy-happy | Yes! And 5 and 5 make 10 fingers on two hands.
 
 ## Count with fingers
 - Show **1** finger. That is one.
@@ -43,6 +55,8 @@ Ask a friend: "Show me 4!" They hold up 4 fingers.
 Now it's your turn. "Show me 8!"
 > 💡 Touch each finger as you count, so you don't miss any.
 
+SAY: aarav-happy | Show me 3! Look, 1, 2, 3 fingers!
+
 ## Let's check
 Q: How many fingers on one hand?
 A: 5.
@@ -50,8 +64,13 @@ Q: Show 5 on one hand and 1 on the other. How many?
 A: 6.
 
 @@ 3
+SCENE: ⚪ ⬜ 🔺 | Shapes are everywhere!
+
 ## Shapes are everywhere
 Look around! Things have shapes. Today we learn three shapes.
+
+SAY: aarav-wow | My ball is round like a circle!
+SAY: buddy-happy | Yes! A circle is round. A square has 4 sides, all the same.
 
 ## Circle ⚪
 A circle is round. It has **no corners**.
@@ -64,6 +83,8 @@ A carrom board and a chess board are squares.
 ## Triangle 🔺
 A triangle has **3 sides** and **3 corners**.
 A slice of pizza and a samosa look like triangles.
+
+SAY: riya-happy | A slice of pizza looks like a triangle!
 
 ## Let's do
 Draw a circle, a square and a triangle in the air.
@@ -79,8 +100,13 @@ Q: A roti looks like which shape?
 A: A circle.
 
 @@ 4
+SCENE: 🐘 🐭 🏠 | Big or small? Let's look!
+
 ## Big and small
 Some things are **big**. Some things are **small**.
+
+SAY: riya-wow | The elephant is so big! The mouse is so small!
+SAY: buddy-happy | Right, Riya! We look and compare: big and small.
 
 ## Look and compare
 - An elephant is **big**. A mouse is **small**.
@@ -93,6 +119,8 @@ Make yourself **big**: stretch your arms up high!
 Make yourself **small**: curl up like a ball!
 > 💡 We say "bigger" when we compare: a dog is bigger than a cat.
 
+SAY: aarav-happy | My papa's shoe is big. My shoe is small!
+
 ## Let's check
 Q: Which is big: an elephant or a mouse?
 A: An elephant.
@@ -100,9 +128,14 @@ Q: Which is small: a grape or a watermelon?
 A: A grape.
 
 @@ 5
+SCENE: 🧦 🧸 🧺 | Let's match and sort!
+
 ## Matching and sorting
 **Matching** means finding things that are the same.
 **Sorting** means putting things into groups that go together.
+
+SAY: aarav-think | Where is the other sock?
+SAY: buddy-happy | Look for the one that is the same. That is matching!
 
 ## Let's match
 - A sock goes with another sock. 🧦🧦
@@ -118,6 +151,8 @@ Put your toys into groups:
 ## Let's do
 Help at home: sort the spoons and the forks. Match the socks after washing!
 > 💡 We can sort by colour, by shape or by size.
+
+SAY: riya-happy | I put all the red toys in one basket. That is sorting!
 
 ## Let's check
 Q: What goes with a cup?

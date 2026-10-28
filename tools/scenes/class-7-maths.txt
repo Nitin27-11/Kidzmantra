@@ -1,0 +1,56 @@
+1 | ➖ ➕ 🌡️ | Integers!
+1.2 aarav-think | Why is (−3) × (−4) positive?
+1.2 buddy-happy | Think of it as reversing a reverse! Negative × negative = positive.
+1.5 riya-happy | The temperature dropped 2 °C every hour for 5 hours: −10 °C change!
+2 | 🍕 🔟 ➗ | Fractions and decimals!
+2.2 riya-think | Why do we flip the fraction when dividing?
+2.2 buddy-happy | Dividing by ½ asks "how many halves fit?" – that's the same as multiplying by 2!
+2.4 aarav-wow | 2.4 ÷ 0.2 = 24 ÷ 2 = 12!
+3 | 📊 🎲 🪙 | Data and chance!
+3.1 aarav-think | Mean, median, mode – what's the difference?
+3.1 buddy-happy | Mean is the average, median is the middle value, mode is the most common.
+3.4 riya-wow | A coin has an equal chance of heads or tails – ½ each!
+4 | ⚖️ ❓ 🧮 | Simple equations!
+4.2 riya-happy | x + 5 = 12, so x = 7!
+4.2 buddy-happy | Like a balance – whatever you do to one side, do to the other.
+4.4 aarav-think | Riya's age is twice mine minus 2… let me make an equation!
+5 | 📐 🛤️ ✂️ | Lines and angles!
+5.1 aarav-happy | Complementary angles add to 90°, supplementary to 180°!
+5.2 buddy-happy | When a transversal cuts parallel lines, corresponding angles are equal.
+5.3 riya-wow | Railway tracks are parallel lines!
+6 | 🔺 📐 🧱 | Triangles and their properties!
+6.2 riya-wow | The angles of a triangle always add up to 180°!
+6.4 buddy-happy | And any two sides together are longer than the third side.
+6.5 aarav-think | In a right triangle, 3² + 4² = 5². That's Pythagoras!
+7 | 🔺 🔺 🪞 | Congruent triangles!
+7.1 riya-think | When are two triangles exactly the same?
+7.2 buddy-happy | When they match by SSS, SAS, ASA or RHS!
+7.4 aarav-wow | AAA isn't a rule – same angles can mean different sizes!
+8 | 💯 🛍️ 🏦 | Percentages, profit and loss!
+8.2 aarav-happy | Bought for ₹80, sold for ₹100 – profit of ₹20!
+8.2 buddy-happy | That's a 25% profit, because 20 is 25% of 80 – the cost price.
+8.3 riya-think | Simple interest = P × R × T ÷ 100!
+9 | ➗ 🔢 📏 | Rational numbers!
+9.1 riya-think | Is −3/4 a rational number?
+9.1 buddy-happy | Yes! Any number p/q, where q is not zero, is rational.
+9.4 aarav-happy | To compare, make the denominators the same!
+10 | 🟩 ⭕ 🌳 | Perimeter and area!
+10.1 aarav-think | How do I find the area of a circle?
+10.1 buddy-happy | π × r × r. And its perimeter, the circumference, is 2 × π × r.
+10.3 riya-happy | A path around a garden – big rectangle minus small rectangle!
+11 | 🔤 ➕ 🔢 | Algebraic expressions!
+11.1 riya-happy | In 3x + 5, 3 is the coefficient of x!
+11.3 buddy-happy | We can add only like terms: 3x + 2x = 5x, but 3x + 2y stays as it is.
+11.4 aarav-wow | If x = 2, then 3x + 5 = 11!
+12 | 🔢 🚀 🌌 | Exponents and powers!
+12.1 aarav-wow | 2¹⁰ = 1024! Powers grow so fast!
+12.2 buddy-happy | Laws of exponents make big calculations easy – like aᵐ × aⁿ = aᵐ⁺ⁿ.
+12.3 riya-happy | The Earth's mass is about 5.97 × 10²⁴ kg – scientific notation!
+13 | 🦋 ⭐ 🔄 | Symmetry!
+13.2 riya-think | How many times does a square look the same in one full turn?
+13.2 buddy-happy | 4 times! So it has rotational symmetry of order 4.
+13.4 aarav-wow | A square has both line and rotational symmetry!
+14 | 🎲 📦 🏠 | Visualising solid shapes!
+14.2 aarav-happy | A cube has 6 faces, 12 edges and 8 vertices!
+14.3 buddy-happy | Unfold a box and you get its net!
+14.5 riya-wow | Slice a cylinder across and you get a circle!

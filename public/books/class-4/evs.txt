@@ -1,4 +1,9 @@
 @@ 1
+SCENE: 👀 👂 🦇 | Our five senses!
+
+SAY: aarav-think | Which sense do I use to enjoy a mango?
+SAY: buddy-happy | Taste, smell, touch, sight… maybe all of them!
+
 ## Our five senses
 Our **sense organs** tell our brain what is happening around us.
 - **Eyes** – sight. Light enters the eye, and the brain makes a picture.
@@ -6,6 +11,8 @@ Our **sense organs** tell our brain what is happening around us.
 - **Nose** – smell. It also cleans the air we breathe with tiny hairs.
 - **Tongue** – taste. Taste buds sense sweet, salty, sour and bitter.
 - **Skin** – touch. It feels heat, cold, pain, pressure and texture. It is the largest organ of the body.
+
+SAY: riya-wow | Dogs can smell much better than us!
 
 ## Senses in animals
 - Eagles can see a rabbit from very high up.
@@ -26,6 +33,11 @@ Q: How do bats find their way in the dark?
 A: By using echoes of sounds they make.
 
 @@ 2
+SCENE: 🍎 🫃 🔄 | The journey of food!
+
+SAY: riya-think | Where does my food go after I swallow it?
+SAY: buddy-happy | Down the food pipe to the stomach, then the intestines!
+
 ## The journey of food
 **Digestion** is the process of breaking food into very small parts that the body can use.
 
@@ -35,6 +47,8 @@ A: By using echoes of sounds they make.
 3. **Stomach** – churns food and mixes it with digestive juices.
 4. **Small intestine** – digested food is absorbed into the blood here. It is about 6–7 metres long!
 5. **Large intestine** – absorbs water; waste leaves the body.
+
+SAY: aarav-happy | I chew my food well – it helps digestion!
 
 ## Healthy digestion
 - Chew food well – about 30 times!
@@ -52,8 +66,13 @@ Q: What is the job of the large intestine?
 A: To absorb water and remove waste.
 
 @@ 3
+SCENE: 🦷 🪥 🍬 | Our teeth!
+
 ## Our teeth
 Teeth help us **bite**, **chew** and **speak** clearly.
+
+SAY: aarav-wow | My milk teeth are falling out!
+SAY: buddy-happy | Don't worry! Permanent teeth will grow in their place.
 
 ## Two sets of teeth
 - **Milk teeth:** 20 teeth that come in childhood and start falling around age 6.
@@ -63,6 +82,8 @@ Teeth help us **bite**, **chew** and **speak** clearly.
 - **Incisors** (8) – sharp, flat front teeth for **cutting**.
 - **Canines** (4) – pointed teeth for **tearing**.
 - **Premolars** (8) and **molars** (12) – broad teeth at the back for **grinding** and **chewing**.
+
+SAY: riya-happy | I brush twice a day and eat fewer sweets!
 
 ## Caring for teeth
 - Brush twice a day and rinse after every meal.
@@ -80,8 +101,13 @@ Q: What causes tooth decay?
 A: Germs that feed on food left on teeth.
 
 @@ 4
+SCENE: 🌱 🌰 🌬️ | Seeds and how they grow!
+
 ## Seeds and how they grow
 A seed has a tiny baby plant inside it, with stored food and a protective **seed coat**.
+
+SAY: riya-think | How does a seed start growing?
+SAY: buddy-happy | With water, air and warmth, it germinates – a tiny root and shoot come out!
 
 ## Germination
 When a seed gets **water**, **air** and **warmth**, it starts to grow. This is called **germination**.
@@ -89,6 +115,8 @@ When a seed gets **water**, **air** and **warmth**, it starts to grow. This is c
 2. A tiny root comes out first and grows downward.
 3. A shoot grows upward towards light.
 4. Leaves open and start making food.
+
+SAY: aarav-wow | Some seeds fly with the wind, like cotton!
 
 ## How seeds travel (dispersal)
 Plants spread their seeds far away so new plants have space:
@@ -110,8 +138,12 @@ Q: How are coconut seeds dispersed?
 A: By water.
 
 @@ 5
+SCENE: 🐪 🐧 🐸 | Animals and their homes!
+
 ## Habitats
 A **habitat** is the natural home of a plant or animal, where it gets food, water and shelter.
+
+SAY: aarav-think | How does a camel live in the hot desert?
 
 ## Kinds of habitats
 - **Forests:** tigers, monkeys, deer, many birds.
@@ -120,6 +152,9 @@ A **habitat** is the natural home of a plant or animal, where it gets food, wate
 - **Mountains:** yaks and snow leopards with thick fur.
 - **Water:** fish breathe through **gills**; ducks have webbed feet for swimming.
 - **Grasslands:** zebras, deer, lions.
+
+SAY: buddy-happy | It can go many days without water and has thick eyelashes for sandstorms!
+SAY: riya-happy | That's adaptation – animals suit the place they live in!
 
 ## Adaptation
 Special features that help animals live in their habitat are called **adaptations**.
@@ -137,11 +172,17 @@ Q: How is a camel adapted to the desert?
 A: It stores fat in its hump and can go without water for days; it has long legs and thick eyelashes against sand.
 
 @@ 6
+SCENE: 💧 🚰 🧪 | Water and its uses!
+
+SAY: riya-happy | We use water for drinking, cooking, farming and factories!
+
 ## Uses of water
 Drinking, cooking, bathing, cleaning, farming (irrigation), making electricity, factories, transport by boats and ships.
 
 ## Water around us
 About three-fourths of the Earth is covered with water, but most of it is salty sea water. Only a tiny part is fresh water we can use.
+
+SAY: buddy-happy | But dirty water spreads diseases. Boil or filter it before drinking.
 
 ## Clean and dirty water
 Dirty water can carry germs that cause diseases like cholera, typhoid and diarrhoea.
@@ -150,6 +191,8 @@ Ways to clean water:
 - **Filtration:** pass water through cloth or a filter.
 - **Boiling:** kills germs.
 - **Chlorine tablets:** kill germs.
+
+SAY: aarav-happy | I'll use a bucket, not a shower!
 
 ## Saving water
 Fix leaking taps, collect rainwater, water plants in the evening, reuse water.
@@ -164,8 +207,13 @@ Q: Why is little of Earth's water fit to drink?
 A: Most of it is salty sea water.
 
 @@ 7
+SCENE: 🌬️ 🎈 🏭 | Air is all around us!
+
 ## Air is all around us
 Air is a mixture of gases: mainly **nitrogen** (about 78%), **oxygen** (about 21%), and small amounts of carbon dioxide, water vapour and other gases.
+
+SAY: aarav-think | Does air have weight?
+SAY: buddy-happy | Yes! A balloon full of air is heavier than an empty one.
 
 ## Air has weight and takes up space
 - A blown-up balloon is heavier than an empty one.
@@ -176,6 +224,8 @@ Air is a mixture of gases: mainly **nitrogen** (about 78%), **oxygen** (about 21
 - Plants use carbon dioxide to make food and give out oxygen.
 - Fire needs oxygen to burn.
 - Wind turns windmills, dries clothes and moves sailboats.
+
+SAY: riya-think | Smoke from factories and cars makes air dirty.
 
 ## Air pollution
 Smoke from vehicles, factories and burning garbage pollutes air and causes breathing problems.
@@ -190,13 +240,20 @@ Q: Give one cause of air pollution.
 A: Smoke from vehicles, factories or burning garbage.
 
 @@ 8
+SCENE: 👕 🧥 🧶 | The clothes we wear!
+
 ## Why we wear clothes
 Clothes protect us from heat, cold, rain, dust and insects. They also show culture and occasions.
+
+SAY: riya-happy | Cotton clothes keep me cool in summer!
+SAY: buddy-happy | And woollen clothes keep us warm in winter.
 
 ## Clothes for seasons
 - **Summer:** light-coloured cotton clothes – they absorb sweat and keep us cool.
 - **Winter:** woollen clothes – they trap warm air and keep us warm.
 - **Rainy season:** raincoats and gumboots made of waterproof material.
+
+SAY: aarav-wow | Silk comes from silkworms!
 
 ## Where fabric comes from
 - **Natural fibres:** cotton (cotton plant), jute (jute plant), wool (sheep, goats), silk (silkworm).
@@ -218,8 +275,13 @@ Q: Name one man-made fibre.
 A: Nylon, polyester or rayon.
 
 @@ 9
+SCENE: 🗺️ 🌍 🧭 | Reading maps!
+
 ## Reading maps
 A **map** shows places on a flat surface, as seen from above.
+
+SAY: aarav-think | How can a whole country fit on one page?
+SAY: buddy-happy | A map is drawn to scale – big distances shown small!
 
 ## Parts of a map
 - **Title:** what the map shows.
@@ -231,6 +293,8 @@ A **map** shows places on a flat surface, as seen from above.
 - **Blue:** water – seas, rivers, lakes.
 - **Green:** plains and forests.
 - **Brown/yellow:** mountains and plateaus.
+
+SAY: riya-wow | A globe is a round model of the Earth!
 
 ## Globe
 A **globe** is a round model of the Earth. It shows continents and oceans correctly but is hard to carry. Maps are easier to carry and can show more detail.
@@ -245,11 +309,17 @@ Q: What is a globe?
 A: A round model of the Earth.
 
 @@ 10
+SCENE: 🇮🇳 🏔️ 🐅 | Our country, India!
+
 ## Our country, India
 India is a large country in **South Asia**. Its capital is **New Delhi**.
 
+SAY: riya-happy | India has 28 states and 8 union territories!
+
 ## States and union territories
 India has **28 states** and **8 union territories**. Each state has its own capital, languages and culture.
+
+SAY: buddy-happy | India has mountains, plains, deserts, plateaus and coasts.
 
 ## Physical features
 - **The Himalayas** in the north – the highest mountains in the world.
@@ -258,6 +328,8 @@ India has **28 states** and **8 union territories**. Each state has its own capi
 - **The Deccan Plateau** in the south.
 - **Coastal plains** along the Arabian Sea and the Bay of Bengal.
 - **Islands:** Andaman and Nicobar, Lakshadweep.
+
+SAY: aarav-wow | The tiger is our national animal!
 
 ## National symbols
 - National flag: Tiranga · National animal: tiger · National bird: peacock
@@ -273,8 +345,13 @@ Q: What is the national flower of India?
 A: The lotus.
 
 @@ 11
+SCENE: 👩‍🌾 👨‍🍳 🏡 | Families and work!
+
 ## Families and work
 People do different kinds of work to earn a living and support their families.
+
+SAY: aarav-happy | My mother is a teacher and my father is a farmer!
+SAY: buddy-happy | All work is important and deserves respect.
 
 ## Kinds of work
 - **Farmers** grow crops.
@@ -286,6 +363,8 @@ People do different kinds of work to earn a living and support their families.
 
 ## Sharing work at home
 Everyone in a family can share household work: cooking, cleaning, shopping, caring for elders. Boys and girls can do all kinds of work.
+
+SAY: riya-think | Children should go to school, not work!
 
 ## Child labour
 Children should study and play, not do paid work. Child labour is against the law in India.

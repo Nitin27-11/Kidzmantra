@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 240" width="560" height="240" font-family="Arial, sans-serif">
+  <defs><marker id="b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#1d8a4e"/></marker></defs>
+  <rect width="560" height="240" fill="#fff"/>
+  <!-- nail -->
+  <rect x="90" y="170" width="360" height="12" fill="#8a8a8a"/><polygon points="450,170 480,176 450,182" fill="#8a8a8a"/><rect x="80" y="162" width="12" height="28" fill="#6d6d6d"/>
+  <text x="270" y="215" font-size="15" text-anchor="middle" fill="#222">Iron nail</text>
+  <!-- magnet tilted, at the start -->
+  <g transform="rotate(-30 120 120)"><rect x="100" y="40" width="40" height="60" fill="#3a6fd8"/><rect x="100" y="100" width="40" height="60" fill="#e04848"/><text x="120" y="136" font-size="18" font-weight="bold" fill="#fff" text-anchor="middle">N</text><text x="120" y="76" font-size="18" font-weight="bold" fill="#fff" text-anchor="middle">S</text></g>
+  <!-- path arrows -->
+  <path d="M150 150 C 250 120, 360 120, 450 150" stroke="#1d8a4e" stroke-width="3" fill="none" stroke-dasharray="8 6" marker-end="url(#b)"/>
+  <path d="M450 110 C 360 60, 240 60, 160 100" stroke="#999" stroke-width="2" fill="none" stroke-dasharray="3 6"/>
+  <text x="300" y="112" font-size="14" text-anchor="middle" fill="#1d8a4e">stroke from head to tip</text>
+  <text x="300" y="52" font-size="14" text-anchor="middle" fill="#777">lift the magnet high and bring it back to the start</text>
+</svg>
