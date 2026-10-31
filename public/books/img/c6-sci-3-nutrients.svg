@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" font-family="Arial, sans-serif">
+  <rect width="720" height="260" fill="#fff"/>
+  <g text-anchor="middle">
+    <rect x="12" y="12" width="224" height="236" rx="18" fill="#fff1cc"/>
+    <text x="124" y="44" font-size="18" font-weight="bold" fill="#8a5a00">Energy-giving</text>
+    <text x="124" y="64" font-size="13" fill="#555">carbohydrates and fats</text>
+    <text x="124" y="130" font-size="40">🍚 🌾 🥔</text><text x="124" y="190" font-size="40">🍌 🧈 🥜</text>
+    <text x="124" y="232" font-size="12" fill="#555">rice, wheat, potato, banana, ghee, nuts</text>
+    <rect x="248" y="12" width="224" height="236" rx="18" fill="#ffe0e6"/>
+    <text x="360" y="44" font-size="18" font-weight="bold" fill="#a3283f">Body-building</text>
+    <text x="360" y="64" font-size="13" fill="#555">proteins</text>
+    <text x="360" y="130" font-size="40">🫘 🥛 🥚</text><text x="360" y="190" font-size="40">🐟 🧀 🫛</text>
+    <text x="360" y="232" font-size="12" fill="#555">dal, milk, egg, fish, paneer, peas</text>
+    <rect x="484" y="12" width="224" height="236" rx="18" fill="#d8f5e7"/>
+    <text x="596" y="44" font-size="18" font-weight="bold" fill="#1d6b48">Protective</text>
+    <text x="596" y="64" font-size="13" fill="#555">vitamins and minerals</text>
+    <text x="596" y="130" font-size="40">🥕 🍊 🥬</text><text x="596" y="190" font-size="40">🍅 🥭 🍋</text>
+    <text x="596" y="232" font-size="12" fill="#555">carrot, orange, spinach, tomato, mango</text>
+  </g>
+</svg>

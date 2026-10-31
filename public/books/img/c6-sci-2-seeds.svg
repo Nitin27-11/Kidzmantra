@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260" width="600" height="260" font-family="Arial, sans-serif">
+  <rect width="600" height="260" fill="#fff"/>
+  <!-- (a) gram: two halves opened -->
+  <g transform="translate(150 115)">
+    <path d="M-8 -60 q-70 10 -70 60 q0 50 70 60 z" fill="#e8c27a" stroke="#a0703a" stroke-width="3"/>
+    <path d="M8 -60 q70 10 70 60 q0 50 -70 60 z" fill="#e8c27a" stroke="#a0703a" stroke-width="3"/>
+    <path d="M-8 -20 q-14 4 -18 18" stroke="#6aa84f" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="-44" y="5" font-size="13" fill="#5a3a12" text-anchor="middle">1</text><text x="44" y="5" font-size="13" fill="#5a3a12" text-anchor="middle">2</text>
+  </g>
+  <!-- (b) maize grain -->
+  <g transform="translate(440 115)">
+    <path d="M0 -70 q60 10 50 70 q-10 60 -50 60 q-40 0 -50 -60 q-10 -60 50 -70z" fill="#ffd34d" stroke="#c99a12" stroke-width="3"/>
+    <path d="M-20 50 q-10 -40 6 -70 q22 10 20 70z" fill="#fff3c4" stroke="#c99a12" stroke-width="2"/>
+    <text x="22" y="10" font-size="13" fill="#7a5a10" text-anchor="middle">1</text>
+  </g>
+  <g font-size="12" fill="#555" text-anchor="middle"><text x="150" y="200">two cotyledons (seed leaves)</text><text x="440" y="200">one cotyledon</text></g>
+  <g font-size="15" text-anchor="middle" fill="#222"><text x="150" y="240">(a) Gram seed – dicot</text><text x="440" y="240">(b) Maize grain – monocot</text></g>
+</svg>

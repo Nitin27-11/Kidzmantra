@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="Arial, sans-serif">
+  <rect width="640" height="300" fill="#fff"/>
+  <circle cx="320" cy="150" r="58" fill="#1e2a3a"/><text x="320" y="157" font-size="22" font-weight="bold" fill="#ffd166" text-anchor="middle">Science</text>
+  <g stroke="#bbb" stroke-width="3"><path d="M268 125 L180 75M372 125 L460 75M268 175 L180 225M372 175 L460 225M320 92 V60"/></g>
+  <g text-anchor="middle">
+    <rect x="70" y="40" width="160" height="64" rx="14" fill="#d8f5e7"/><text x="150" y="68" font-size="17" font-weight="bold" fill="#1d6b48">🌿 Biology</text><text x="150" y="90" font-size="12" fill="#333">living things</text>
+    <rect x="410" y="40" width="160" height="64" rx="14" fill="#cfe6ff"/><text x="490" y="68" font-size="17" font-weight="bold" fill="#244c9e">⚡ Physics</text><text x="490" y="90" font-size="12" fill="#333">force, energy, light, sound</text>
+    <rect x="70" y="196" width="160" height="64" rx="14" fill="#ffe0c2"/><text x="150" y="224" font-size="17" font-weight="bold" fill="#a3511a">🧪 Chemistry</text><text x="150" y="246" font-size="12" fill="#333">materials and changes</text>
+    <rect x="410" y="196" width="160" height="64" rx="14" fill="#f1dfbd"/><text x="490" y="224" font-size="17" font-weight="bold" fill="#7a5a1e">🌋 Earth science</text><text x="490" y="246" font-size="12" fill="#333">rocks, weather, oceans</text>
+    <rect x="245" y="8" width="150" height="54" rx="14" fill="#e6dcff"/><text x="320" y="34" font-size="17" font-weight="bold" fill="#4b2a9e">🔭 Astronomy</text><text x="320" y="52" font-size="12" fill="#333">stars and planets</text>
+  </g>
+</svg>

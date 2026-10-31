@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" width="520" height="260" font-family="Arial, sans-serif">
+  <rect width="520" height="260" fill="#fff"/>
+  <!-- dropper -->
+  <g transform="translate(170 20) rotate(15)">
+    <rect x="-12" y="0" width="24" height="34" rx="10" fill="#e04848"/>
+    <path d="M-8 34 h16 l-4 70 h-8z" fill="#e8f4ff" stroke="#555" stroke-width="2"/>
+    <path d="M-6 70 h12 l-3 34 h-6z" fill="#8a5a20"/>
+  </g>
+  <circle cx="150" cy="140" r="6" fill="#8a5a20"/>
+  <!-- plate and potato -->
+  <ellipse cx="150" cy="200" rx="120" ry="34" fill="#eee" stroke="#bbb" stroke-width="3"/>
+  <ellipse cx="150" cy="190" rx="70" ry="26" fill="#f7e6a8" stroke="#d2b55b" stroke-width="3"/>
+  <ellipse cx="150" cy="188" rx="26" ry="11" fill="#1f2350"/>
+  <!-- cucumber -->
+  <ellipse cx="400" cy="200" rx="100" ry="30" fill="#eee" stroke="#bbb" stroke-width="3"/>
+  <ellipse cx="400" cy="190" rx="44" ry="22" fill="#d8f5c0" stroke="#4c9a3a" stroke-width="5"/>
+  <ellipse cx="400" cy="188" rx="16" ry="7" fill="#c9a24a" opacity=".8"/>
+  <g font-size="14" text-anchor="middle" fill="#222">
+    <text x="150" y="252">Potato: turns blue-black (starch)</text>
+    <text x="400" y="252">Cucumber: no blue-black colour</text>
+  </g>
+  <text x="230" y="60" font-size="13" fill="#555">iodine solution</text>
+</svg>

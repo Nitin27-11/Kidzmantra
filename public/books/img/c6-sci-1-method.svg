@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" width="560" height="420" font-family="Arial, sans-serif">
+  <rect width="560" height="420" fill="#fff"/>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#2bb3a3"/></marker></defs>
+    <g stroke="#2bb3a3" stroke-width="3" fill="none" marker-end="url(#a)">
+    <path d="M345 76 A150 150 0 0 1 410 122"/><path d="M430 180 A150 150 0 0 1 425 250"/><path d="M398 310 A150 150 0 0 1 340 348"/>
+    <path d="M220 350 A150 150 0 0 1 160 308"/><path d="M132 248 A150 150 0 0 1 130 180"/><path d="M152 120 A150 150 0 0 1 212 76"/>
+  </g>
+  <g font-size="15" text-anchor="middle" fill="#1e2a3a" font-weight="bold">
+    <rect x="215" y="38" width="130" height="44" rx="22" fill="#ffe9a8"/><text x="280" y="66">1. Observe</text>
+    <rect x="390" y="118" width="150" height="44" rx="22" fill="#cfe6ff"/><text x="465" y="146">2. Ask a question</text>
+    <rect x="390" y="256" width="150" height="44" rx="22" fill="#d8f5e7"/><text x="465" y="284">3. Hypothesis</text>
+    <rect x="215" y="338" width="130" height="44" rx="22" fill="#ffd9e2"/><text x="280" y="366">4. Experiment</text>
+    <rect x="20" y="256" width="160" height="44" rx="22" fill="#e6dcff"/><text x="100" y="284">5. Record results</text>
+    <rect x="30" y="118" width="140" height="44" rx="22" fill="#ffe0c2"/><text x="100" y="146">6. Conclude</text>
+  </g>
+  <g text-anchor="middle" fill="#555"><text x="280" y="200" font-size="16" font-weight="bold">7. Share and ask</text><text x="280" y="222" font-size="16" font-weight="bold">new questions</text><text x="280" y="258" font-size="28">🔁</text></g>
+</svg>

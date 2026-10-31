@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="720" height="280" font-family="Arial, sans-serif">
+  <rect width="720" height="280" fill="#fff"/>
+  <!-- desert -->
+  <rect x="10" y="20" width="220" height="210" rx="14" fill="#fff1cc"/><path d="M10 190 q60 -30 120 0 q50 25 100 -5 v45 h-220z" fill="#f2c879"/>
+  <circle cx="190" cy="56" r="18" fill="#ffb627"/>
+  <g transform="translate(110 182)" fill="#c8924a">
+    <path d="M-62 -44 q0 -22 22 -26 q10 -34 34 -30 q22 4 26 30 q20 0 26 18 l0 4 q-8 22 -40 24 h-44 q-24 0 -24 -20z"/>
+    <path d="M36 -38 q10 -6 14 -26 q4 -22 16 -30 q14 -6 24 2 l8 8 q2 6 -6 8 l-12 -2 q-6 4 -8 18 q-4 26 -24 36z"/>
+    <circle cx="84" cy="-88" r="2.5" fill="#3a2a1a"/>
+    <g stroke="#c8924a" stroke-width="8" stroke-linecap="round"><path d="M-48 -26 l-4 44 M-32 -24 v44 M14 -24 v44 M28 -26 l4 44"/></g>
+    <path d="M-62 -40 q-12 6 -10 24" stroke="#c8924a" stroke-width="4" fill="none"/>
+  </g>
+  <!-- water -->
+  <rect x="250" y="20" width="220" height="210" rx="14" fill="#cfe9ff"/>
+  <g fill="#fff" opacity=".7"><circle cx="300" cy="70" r="5"/><circle cx="310" cy="55" r="3"/><circle cx="420" cy="90" r="4"/></g>
+  <g transform="translate(360 135)">
+    <path d="M-60 0 q40 -40 90 0 q-50 40 -90 0z" fill="#f39c34"/>
+    <path d="M30 0 l26 -20 v40z" fill="#f39c34"/>
+    <path d="M-18 -26 l14 -14 l8 16z M-18 26 l14 14 l8 -16z" fill="#e07b14"/>
+    <circle cx="-40" cy="-4" r="4" fill="#222"/><path d="M-26 -14 q6 14 0 28" stroke="#c45f0c" stroke-width="3" fill="none"/>
+  </g>
+  <g font-size="11" fill="#244c9e"><text x="300" y="196">gills</text><text x="384" y="180">fins</text></g>
+  <!-- mountains -->
+  <rect x="490" y="20" width="220" height="210" rx="14" fill="#e6eef6"/>
+  <path d="M490 170 l60 -100 l40 60 l40 -90 l80 130 v60 h-220z" fill="#b8c4d2"/>
+  <path d="M550 70 l14 22 l-28 0z M630 40 l18 30 l-36 0z" fill="#fff"/>
+  <g transform="translate(600 190)">
+    <path d="M-52 0 q-4 -40 30 -44 h40 q24 0 28 20 l12 -6 q10 6 6 20 q-6 10 -18 8 l-6 2 q-20 10 -40 6 q-34 4 -52 -6z" fill="#4a3426"/>
+    <path d="M-52 0 q4 10 0 22 M-30 6 q4 10 0 18 M10 6 q4 10 0 18 M24 2 q4 10 0 20" stroke="#4a3426" stroke-width="8" stroke-linecap="round"/>
+    <path d="M40 -26 q8 -14 18 -10 M40 -26 q-2 -16 -12 -18" stroke="#ddd" stroke-width="3" fill="none"/>
+  </g>
+  <g font-size="15" text-anchor="middle" fill="#222"><text x="120" y="262">(a) Camel – desert</text><text x="360" y="262">(b) Fish – water</text><text x="600" y="262">(c) Yak – mountains</text></g>
+</svg>

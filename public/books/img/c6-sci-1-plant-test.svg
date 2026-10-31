@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" font-family="Arial, sans-serif">
+  <rect width="600" height="300" fill="#fff"/>
+  <!-- sun -->
+  <g transform="translate(40 110)"><circle r="22" fill="#ffc83d"/><g stroke="#ffc83d" stroke-width="4"><path d="M0 -34v-10M0 34v10M-34 0h-10M34 0h10M24 24l7 7M-24 -24l-7 -7M24 -24l7 -7M-24 24l-7 7"/></g></g>
+  <g stroke="#ffc83d" stroke-width="3" stroke-dasharray="6 5"><path d="M74 104 L118 112M74 118 L118 122"/></g>
+  <!-- box -->
+  <rect x="118" y="40" width="190" height="210" fill="#d7b98a" stroke="#8a6a3a" stroke-width="4"/>
+  <rect x="112" y="98" width="14" height="34" fill="#fff8d6" stroke="#8a6a3a" stroke-width="2"/>
+  <rect x="135" y="58" width="156" height="175" fill="#efe2c8"/>
+  <!-- plant in box, bending left -->
+  <path d="M232 215 q-6 -40 -30 -66 q-20 -20 -52 -32" stroke="#2e9c6a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M175 128 q-14 -16 -30 -8 q12 14 30 8z" fill="#4cc48e"/><path d="M205 155 q-20 -6 -26 10 q16 6 26 -10z" fill="#4cc48e"/><path d="M150 117 q-6 -18 -22 -16 q4 16 22 16z" fill="#4cc48e"/>
+  <path d="M206 214 h52 l-8 28 h-36z" fill="#c76b3b"/>
+  <!-- open plant -->
+  <path d="M470 215 v-150" stroke="#2e9c6a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M470 150 q-30 -10 -36 -30 q24 2 36 30z M470 120 q30 -8 36 -28 q-24 2 -36 28z M470 90 q-22 -8 -24 -26 q18 4 24 26z" fill="#4cc48e"/>
+  <path d="M444 214 h52 l-8 28 h-36z" fill="#c76b3b"/>
+  <g font-size="15" text-anchor="middle" fill="#222">
+    <text x="213" y="276">Plant inside a box</text><text x="213" y="294">with a hole on one side</text>
+    <text x="470" y="276">Plant in the open</text><text x="470" y="294">(light all around)</text>
+    <text x="64" y="160" font-size="13">light</text>
+  </g>
+</svg>

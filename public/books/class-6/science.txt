@@ -1,223 +1,637 @@
 @@ 1
 SCENE: 🔬 🧪 🔭 | Welcome to the world of science!
 
-## 🎬 Let's begin
-Why does the Moon change shape? Why do ice cubes melt? Why do some seeds sprout faster than others? If you have ever asked "**why?**" or "**how?**", congratulations – you already think like a scientist! 🔬
+## 1.1 Introduction
+Look around you. Why does a ball thrown up always come back down? Why does milk turn into curd overnight? Why does the Moon look like a thin silver line on some nights and a full round plate on others? Why do the leaves of a touch-me-not plant fold up when you touch them?
 
-SAY: riya-think | Is science only done in labs?
-SAY: buddy-happy | No! Science is about asking questions and finding answers – anywhere.
+You ask questions like these every day. Each time you wonder "**why?**", "**how?**" or "**what if?**", you are thinking like a scientist. Science begins with **curiosity** – the wish to know and understand.
 
-## 🤔 What is science?
-> 📌 **Science** is a way of understanding the world around us by **observing**, **asking questions**, **testing ideas** and **finding answers** based on evidence.
-Science is not just facts in a book. It is a **process** of discovery that anyone can follow – in a lab, a kitchen, a garden or a playground.
+SAY: riya-think | Is science only done by people in white coats, inside big laboratories?
+SAY: buddy | Not at all, Riya! Science happens in kitchens, gardens, playgrounds and fields – anywhere someone asks a question and looks carefully for the answer.
 
-SAY: aarav-happy | Observe, ask, guess, test and conclude – that's the scientific method!
+Science is not just a collection of facts written in books. It is a **way of finding out** about the world – by looking closely, asking questions, making careful guesses, testing them, and accepting only what the evidence shows. Anybody can do it, and everybody uses its results: the light bulb in your room, the medicine that cures a fever, the phone in your family's hands and the bus that brings you to school all exist because of science.
 
-## ⚙️ How scientists work – the scientific method
-1. **Observe:** notice something carefully. My plant on the window grows bent towards the light.
-2. **Ask a question:** Why does it bend?
-3. **Make a guess (hypothesis):** Maybe plants grow towards light.
-4. **Test it (experiment):** place one plant in a box with a hole on one side and another in full light. Keep everything else the same – water, soil, pot.
-5. **Observe and record results:** the plant in the box bends towards the hole.
-6. **Conclude:** plants do grow towards light. ✅
-7. **Share and ask more questions:** Does it happen with all plants? With coloured light?
-> 💡 In a fair test, change **only one thing** at a time so you know what caused the result.
+> **Definition: Science**
+> **Science** is a way of learning about the natural world by **observing**, **asking questions**, **testing ideas** through experiments, and drawing conclusions based on **evidence**.
 
-## 🧩 Branches of science
-- **Biology** – study of living things (plants, animals, our body).
-- **Physics** – study of forces, motion, energy, light, sound and electricity.
-- **Chemistry** – study of materials and how they change.
-- **Earth and space science** – rocks, weather, oceans, stars and planets.
+In this chapter, you will learn how scientists work, what the main branches of science are, which tools help us observe, and how scientists – including many from India – have changed the way we live.
 
-## 🌍 Science all around us
-- Cooking dal involves heating, dissolving and changes in materials.
-- Riding a bicycle uses balance, force and motion.
-- A rainbow is light splitting into colours.
-- Vaccines, mobile phones and satellites all come from science.
+## 1.2 Science Begins with Observation
+To **observe** means to notice things carefully using our **senses** – sight, hearing, touch, smell and taste. A scientist observes not just once, but again and again, and writes down what is seen.
 
-SAY: riya-wow | C.V. Raman won the Nobel Prize for discovering how light scatters!
+> **Activity 1.1: Be a careful observer**
+> **You need:** a leaf, a stone, a hand lens (magnifying glass) and your notebook.
+> **What to do:** Look at the leaf with your eyes first and write down three things you notice. Then look at it through the hand lens. Do the same with the stone.
+> **Think:** Did you notice new things through the lens – tiny veins, hairs or shiny grains? How many more observations could you write?
 
-## 🇮🇳 Great Indian scientists
-- **C.V. Raman** – discovered the Raman effect about light; Nobel Prize 1930. 28 February is **National Science Day**.
-- **Jagadish Chandra Bose** – showed that plants respond to their surroundings.
-- **Kalpana Chawla** – the first woman of Indian origin in space.
-- **A.P.J. Abdul Kalam** – rocket scientist and President of India.
+Good observations are **careful**, **honest** and **recorded**. Writing them down helps us compare and remember. Sometimes we need **tools** to observe things our senses cannot catch – things that are too small, too far, too hot or too cold.
 
-## ✋ Try it yourself
-Keep a "wonder journal". Every day, write one question about something you noticed. Pick one and design a fair test to answer it!
+### Tools that help us observe
+| Tool | What it helps us do |
+| Hand lens (magnifying glass) | See small things in more detail |
+| Microscope | See very tiny things, such as cells, that we cannot see with our eyes alone |
+| Telescope | See faraway objects like the Moon, planets and stars |
+| Thermometer | Measure how hot or cold something is |
+| Measuring scale and tape | Measure length |
+| Weighing balance | Measure mass |
+| Measuring cylinder | Measure the volume of a liquid |
+| Stopwatch | Measure time |
 
-## ⚠️ Common mistakes
-- Believing something just because many people say it. Scientists look for **evidence**.
-- Changing two things at once in an experiment – you won't know which one mattered.
+FIG: c6-sci-1-tools.svg | Fig. 1.1: Some tools that help us observe and measure – (a) hand lens, (b) thermometer, (c) measuring cylinder, (d) scale and (e) stopwatch
 
-## 🧠 Quick recap
-- Science = observing, questioning, testing and concluding.
-- A fair test changes only one thing.
-- Science is everywhere in daily life.
+> **Did you know?**
+> Our senses can sometimes be fooled! Put one hand in cold water and the other in warm water for a minute. Then dip both hands in the same bowl of normal water. One hand feels it is warm and the other feels it is cold! That is why scientists use measuring tools such as thermometers instead of relying only on feelings.
 
-## 📖 New words
-- **Hypothesis** – a sensible guess that can be tested
-- **Experiment** – a test to check an idea
-- **Evidence** – facts that show whether an idea is right
+## 1.3 How Scientists Work: The Scientific Method
+Scientists follow a set of steps to find reliable answers. These steps are together called the **scientific method**. Let us follow Aarav as he uses it.
 
-## 🎮 Quiz time!
-MCQ: What is the first step of the scientific method? | Conclude | *Observe | Experiment | Share || Science begins with careful observation.
-TF: In a fair test, we change many things at once. | false || Change only one thing at a time.
-MCQ: National Science Day (28 February) honours | Kalpana Chawla | *C.V. Raman | J.C. Bose | Homi Bhabha || It marks the discovery of the Raman effect.
-FILL: A sensible guess that can be tested is called a ___. | hypothesis ||
-MCQ: The study of living things is | Physics | Chemistry | *Biology | Astronomy ||
+SAY: aarav-think | The money plant on our window always bends towards the glass. Is it trying to look outside?
+SAY: buddy | That's a perfect observation to start with, Aarav! Let's use the scientific method to find out why.
+
+**Step 1 – Observe:** Aarav notices that the plant near the window grows bent towards the window.
+**Step 2 – Ask a question:** Why does the plant bend towards the window?
+**Step 3 – Make a hypothesis:** A **hypothesis** is a sensible guess that can be tested. Aarav guesses: "Plants grow towards light."
+**Step 4 – Test it with an experiment:** He takes two similar potted plants. He places one inside a cardboard box with a hole cut in one side. The other is kept in the open, with light all around it. Both get the same soil, the same water and the same pot.
+**Step 5 – Observe and record the results:** After a week, the plant in the box has bent towards the hole. The plant in the open has grown straight up.
+**Step 6 – Conclude:** The evidence supports his hypothesis – plants grow towards light.
+**Step 7 – Share and ask more questions:** Aarav tells his class. Riya asks: "Will it happen with every plant? With coloured light?" New questions start the method all over again!
+
+FIG: c6-sci-1-method.svg | Fig. 1.2: The steps of the scientific method form a cycle – every answer leads to new questions
+
+FIG: c6-sci-1-plant-test.svg | Fig. 1.3: Aarav's experiment – the plant in the box with a hole bends towards the light
+
+### A fair test
+In Aarav's experiment, only **one** thing was different between the two plants – the light. Everything else was kept the same. This is called a **fair test**.
+
+> **Definition: Fair test and variable**
+> Anything that can change in an experiment is called a **variable**. In a **fair test**, we change **only one variable** at a time and keep all the others the same, so that we know exactly what caused the result.
+
+> **Example 1.1**
+> Riya wants to find out whether seeds sprout faster in warm or in cold places. She keeps 10 moong seeds on wet cotton near the warm kitchen window and 10 bean seeds on dry cotton in the cold storeroom. Is this a fair test?
+> **Solution:** No. She has changed three things – the place (warm/cold), the kind of seed (moong/bean) and the water (wet/dry). She should use the **same kind of seed** and the **same wet cotton** in both, and change **only the temperature**.
+
+SAY: riya-wow | So if I change too many things together, I can never know which one made the difference!
+
+### Why scientists repeat experiments
+A single result can happen by chance. Scientists **repeat** their experiments many times, and other scientists repeat them too. If everyone gets the same result, we can trust it. If new evidence shows an idea is wrong, scientists change their idea. This honesty is what makes science powerful.
+
+> **Remember:** In science, we believe an idea because of **evidence**, not because many people say it or because it is written somewhere.
+
+## 1.4 Branches of Science
+The world is so vast that science is divided into different **branches**, each studying one part of it.
+
+| Branch | What it studies | Example of a question it asks |
+| Biology | Living things – plants, animals, the human body | How does food give us energy? |
+| Physics | Matter, motion, force, energy, light, sound, electricity | Why does a ball roll down a slope? |
+| Chemistry | Materials, what they are made of and how they change | Why does iron rust? |
+| Earth science | Rocks, soil, water, weather and the Earth itself | What causes earthquakes? |
+| Astronomy | Stars, planets, the Moon and outer space | Why does the Moon change shape? |
+
+FIG: c6-sci-1-branches.svg | Fig. 1.4: The main branches of science and some things they study
+
+The branches are connected. For example, a doctor uses biology (the body), chemistry (medicines) and physics (X-ray machines) to treat a patient. Many of today's most exciting discoveries happen where two branches meet.
+
+> **Think:** Which branches of science does a farmer use? (Hint: soil, weather, seeds, fertilisers and machines.)
+
+## 1.5 Science All Around Us
+Science is part of everything we do, even when we do not notice it.
+- **In the kitchen:** cooking changes raw food; sugar dissolves in tea; a pressure cooker cooks food faster by trapping steam.
+- **On the playground:** a swing moves back and forth; a ball bounces; a bicycle stays balanced while moving.
+- **In nature:** a rainbow forms when sunlight splits into colours; seeds sprout after rain; birds fly south in winter.
+- **In our health:** vaccines protect us from diseases; clean water and soap keep germs away.
+- **In technology:** mobile phones, computers, electricity and satellites that bring us weather reports and maps.
+
+SAY: aarav-wow | Even my bicycle is full of science? Gears, brakes, balance…
+SAY: buddy | Yes! The brakes use friction, the gears use simple machines, and staying balanced is all about forces.
+
+### Science and our responsibility
+Science gives us great power, and we must use it wisely. Plastics made life easier, but they also pollute rivers and oceans. Fuels run our vehicles, but their smoke dirties the air. A good scientist – and a good citizen – thinks about how discoveries affect people, animals and the planet.
+
+## 1.6 Great Indian Scientists
+India has a long tradition of science. Ancient Indian thinkers made important contributions to mathematics, astronomy and medicine – the use of **zero** and the **decimal place-value system**, careful study of the motion of the Sun and the Moon, and books on health and surgery such as those of **Charaka** and **Sushruta**. Here are some scientists of modern India:
+
+| Scientist | Contribution |
+| C.V. Raman | Discovered how light scatters (the **Raman effect**); won the Nobel Prize in Physics in 1930. **National Science Day** is celebrated on **28 February** to mark this discovery. |
+| Jagadish Chandra Bose | Showed that plants respond to heat, light and touch; invented the **crescograph** to measure plant growth. |
+| Srinivasa Ramanujan | Self-taught mathematical genius who discovered thousands of results about numbers. |
+| Homi J. Bhabha | Founded India's atomic energy programme. |
+| Vikram Sarabhai | Father of India's space programme; helped set up **ISRO**. |
+| A.P.J. Abdul Kalam | Rocket scientist, the "Missile Man of India", and President of India. |
+| Kalpana Chawla | First woman of Indian origin to go into space. |
+| Janaki Ammal | Plant scientist who developed sweeter varieties of sugarcane. |
+
+SAY: riya-happy | I want to be like Janaki Ammal and study plants!
+SAY: buddy | You can, Riya! Every great scientist started as a curious child asking questions.
+
+## Summary
+- **Science** is a way of understanding the world by observing, asking questions, testing ideas and drawing conclusions from evidence.
+- Careful **observation** is the first step. **Tools** such as hand lenses, microscopes, telescopes and thermometers help us observe what our senses alone cannot.
+- The **scientific method**: observe → ask a question → make a hypothesis → experiment → record results → conclude → share and ask new questions.
+- A **hypothesis** is a sensible guess that can be tested.
+- In a **fair test**, only **one variable** is changed at a time.
+- Experiments are **repeated** to make sure results are reliable.
+- The main **branches** of science are biology, physics, chemistry, earth science and astronomy.
+- Science is everywhere – at home, in nature, in health and in technology – and must be used responsibly.
+- India has a rich tradition of science, from ancient mathematics to modern space missions.
+
+SAY: buddy | Great start, young scientists! Try the exercises below. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Science | A way of learning about the world through observation, experiments and evidence |
+| Observation | Noticing something carefully using our senses or tools |
+| Hypothesis | A sensible guess that can be tested |
+| Experiment | A test done to check a hypothesis |
+| Variable | Anything that can change in an experiment |
+| Fair test | An experiment in which only one variable is changed |
+| Evidence | Facts and observations that show whether an idea is right |
+| Conclusion | What we decide after studying the results |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: The first step of the scientific method is to | conclude | *observe | experiment | share results || Science begins with careful observation.
+MCQ: A sensible guess that can be tested is called | a conclusion | an observation | *a hypothesis | a result ||
+MCQ: Which tool helps us see very tiny things such as cells? | Telescope | *Microscope | Thermometer | Stopwatch ||
+MCQ: The study of materials and how they change is | biology | astronomy | *chemistry | earth science ||
+MCQ: National Science Day (28 February) marks the discovery made by | J.C. Bose | *C.V. Raman | Homi Bhabha | Vikram Sarabhai ||
+
+### B. Fill in the blanks
+FILL: In a fair test, we change only ___ variable at a time. | one;1 ||
+FILL: Anything that can change in an experiment is called a ___. | variable ||
+FILL: The study of stars and planets is called ___. | astronomy ||
+FILL: Vikram Sarabhai is called the father of India's ___ programme. | space ||
+
+### C. True or False
+TF: Science can only be done in a laboratory. | false || Science can be done anywhere we observe and test.
+TF: Our senses can sometimes give us wrong information. | true || That is why we use measuring tools.
+TF: If an experiment gives a result once, we never need to repeat it. | false || Experiments are repeated to make sure results are reliable.
+TF: J.C. Bose showed that plants respond to their surroundings. | true ||
+
+### D. Short answer questions
+Q: What is a fair test? Why is it important?
+A: A fair test is an experiment in which only one variable is changed and all others are kept the same. It is important because then we know exactly which change caused the result.
+Q: Name any four tools that help us observe or measure, and say what each one does.
+A: Hand lens – see small things; thermometer – measure temperature; measuring cylinder – measure liquid volume; telescope – see faraway objects (also microscope, scale, balance, stopwatch).
+Q: Why do scientists repeat experiments?
+A: A single result can happen by chance. Repeating experiments, and others repeating them, shows whether the result is reliable.
+Q: Give two examples of science in your kitchen.
+A: Sugar dissolving in tea; a pressure cooker cooking food faster using steam (also cooking changing raw food).
+
+### E. Long answer questions
+Q: Explain the steps of the scientific method using an example.
+A: Observe: a plant near a window bends towards it. Ask a question: why does it bend? Make a hypothesis: plants grow towards light. Experiment: keep one plant in a box with a hole on one side and another in the open, keeping soil, water and pot the same. Record results: the plant in the box bends towards the hole. Conclude: plants grow towards light. Share the result and ask new questions, such as whether coloured light has the same effect.
+Q: Riya wants to test whether salt water or plain water is better for growing plants. Plan a fair test for her.
+A: Take two identical plants of the same kind and size in the same type of pot and soil. Keep both in the same place with the same light. Water one with plain water and the other with the same amount of salt water every day. Only the type of water changes. Observe and record their growth for two weeks, then compare.
+Q: "Science gives us power, and we must use it responsibly." Explain with two examples.
+A: Plastics made packing and carrying easy, but they pollute rivers and harm animals, so we must reduce and recycle them. Fuels run vehicles, but their smoke pollutes the air, so we should use public transport and cleaner energy. Scientists and citizens must think about how discoveries affect people and the planet.
+
+### F. Projects and activities
+> **Activity: Wonder journal**
+> Keep a notebook for one week. Every day, write one question about something you noticed – at home, on the road or in the sky. At the end of the week, choose one question and plan a fair test to answer it.
+> **Activity: Scientist poster**
+> Choose one Indian scientist from Section 1.6. Make a poster showing their life, their discovery and how it helps us today.
 
 @@ 2
 SCENE: 🌿 🐾 🌸 | So many living things!
 
-## 🎬 Let's begin
-Go on a walk around your school. You'll see tall neem trees, tiny grass, a rose bush, a money plant climbing a wall, ants, crows, dogs and butterflies. So many different living things! This variety is called **biodiversity**. 🌳🐞
+## 2.1 Introduction
+Take a slow walk around your school or your neighbourhood. You may see a tall neem tree, a rose bush in a pot, soft green grass, a money plant climbing up a wall and a pumpkin plant spreading over the ground. You may spot ants marching in a line, a crow on a wire, a squirrel running up a tree, a butterfly on a flower and an earthworm in wet soil. How many different kinds of living things can you count?
 
-SAY: aarav-wow | There are millions of different kinds of plants and animals!
-SAY: buddy-happy | That variety is called biodiversity.
+SAY: aarav-wow | I counted 23 different plants and animals just in our school garden!
+SAY: buddy | Amazing, Aarav! And scientists think there are millions of kinds of living things on Earth. This huge variety has a special name – biodiversity.
 
-## 🤔 What is diversity in living things?
-> 📌 **Diversity** means **variety**. **Biodiversity** is the variety of all plants, animals and other living things in an area.
-Scientists group living things by their **similarities and differences** to study them easily.
+Living things differ from one another in size, shape, colour, the places where they live and the food they eat. Yet they are also similar in many ways. Studying these **similarities and differences** helps us group living things and understand them better.
 
-## 🌿 Grouping plants by their stems
-- **Herbs:** small plants with soft, green stems – tulsi, mint, wheat, grass.
-- **Shrubs:** medium-sized, with hard woody stems branching near the base – rose, hibiscus, lemon.
-- **Trees:** tall, with a thick hard **trunk** that branches high above the ground – mango, neem, banyan.
-- **Climbers:** weak stems that climb up a support – money plant, grapevine, pea.
-- **Creepers:** weak stems that spread on the ground – pumpkin, watermelon.
+> **Definition: Diversity and biodiversity**
+> **Diversity** means **variety**. **Biodiversity** is the variety of all the different kinds of plants, animals and other living things found in an area.
 
-SAY: riya-think | Leaves with net-like veins usually have taproots!
-SAY: buddy-happy | Yes! And parallel veins usually go with fibrous roots.
+In this chapter, we will learn how plants can be grouped by their stems, leaves, roots and seeds, how animals are suited to the places where they live, and why biodiversity is precious.
 
-## 🍃 Leaves and roots – a secret link
-**Leaf venation** (the pattern of veins on a leaf):
-- **Reticulate** – a net-like pattern (mango, rose, hibiscus).
-- **Parallel** – veins run side by side (grass, banana, maize).
-**Root systems:**
-- **Taproot** – one main thick root with smaller side roots (mustard, carrot, mango).
-- **Fibrous roots** – many thin roots of similar size (wheat, maize, grass).
-> 💡 Plants with **reticulate** venation usually have **taproots**. Plants with **parallel** venation usually have **fibrous roots**!
+## 2.2 Grouping Living Things
+Imagine a library where the books are placed on shelves at random. Finding one book would take hours! Libraries **group** books – stories on one shelf, science on another. In the same way, scientists group living things based on their features. Grouping makes it easier to study, compare and remember them.
 
-## 🌱 Seeds
-- **Dicots:** seeds with **two** parts (cotyledons) – gram, peas, beans.
-- **Monocots:** seeds with **one** part – maize, wheat, rice.
+> **Activity 2.1: Sort and group**
+> **You need:** pictures or real samples of 12 plants and animals (for example, mango, grass, rose, money plant, pumpkin, sparrow, fish, cow, butterfly, frog, earthworm, snake).
+> **What to do:** Sort them into groups. You can choose any feature – where they live, how they move, what they eat, whether they have legs.
+> **Think:** Did your friends make the same groups? Is there more than one correct way to group living things?
 
-## 🐾 Diversity in animals and their habitats
-> 📌 A **habitat** is the natural home of a living thing, where it gets food, water and shelter. Special features that help an organism live in its habitat are called **adaptations**.
-- **Mountains (cold):** yaks and snow leopards have thick fur; mountain trees like pine are cone-shaped so snow slides off.
-- **Deserts (hot, dry):** camels have long legs, humps that store fat, and can go long without water; cacti have spines instead of leaves to save water.
-- **Water:** fish have gills to breathe and fins to swim; lotus leaves have a waxy coat and float.
-- **Grasslands:** deer have strong legs to run fast and eyes on the sides to watch for danger.
+You will find that there are many ways to group. Scientists choose features that are clear and easy to check.
 
-## 🌍 Why biodiversity matters
-Every living thing has a role – bees pollinate flowers, earthworms make soil rich, trees give oxygen. Losing even one kind can disturb the balance of nature. We protect biodiversity through **national parks**, **wildlife sanctuaries** and by not wasting resources.
+## 2.3 Grouping Plants by their Stems
+Look at the **stem** of a plant. Is it soft and green, or hard and woody? Is it thin and weak, or thick and strong? Based on their stems and height, plants are grouped as herbs, shrubs and trees. Plants with weak stems are called climbers or creepers.
 
-## ✋ Try it yourself
-Collect 5 fallen leaves. Sort them by venation. Gently pull out a weed and a grass plant – check if your venation-root rule works!
+| Group | Height | Stem | Examples |
+| Herbs | Short, usually less than 1 metre | Soft, green, tender | Tulsi, mint, coriander, wheat, grass |
+| Shrubs | Medium height | Hard and woody; many branches start near the base | Rose, hibiscus, lemon, jasmine |
+| Trees | Tall | Thick, hard, woody **trunk**; branches start high above the ground | Mango, neem, banyan, peepal |
+| Climbers | Grow upwards with support | Weak stem that climbs using tendrils or by twining | Money plant, grapevine, pea, bitter gourd |
+| Creepers | Spread on the ground | Weak stem that cannot stand upright | Pumpkin, watermelon, sweet potato |
 
-## 😮 Fun facts
-> 😮 India is one of the world's 17 "mega-diverse" countries, with about 8% of all recorded plant and animal species!
+FIG: c6-sci-2-plant-types.svg | Fig. 2.1: Plants grouped by their stems – (a) herb, (b) shrub, (c) tree, (d) climber and (e) creeper
 
-## ⚠️ Common mistakes
-- Thinking climbers and creepers are the same – climbers go **up**, creepers spread on the **ground**.
-- Calling all small plants "shrubs" – soft green stems mean **herbs**.
+SAY: riya-think | Climbers and creepers both have weak stems. How do I tell them apart?
+SAY: buddy | Easy! Climbers go **up** a support like a wall or a stick. Creepers spread **along the ground**.
 
-## 🧠 Quick recap
-- Plants: herbs, shrubs, trees, climbers, creepers.
-- Reticulate venation ↔ taproot; parallel venation ↔ fibrous roots.
-- Habitats and adaptations help living things survive.
+> **Did you know?**
+> A climber such as the pea plant has thin, spring-like **tendrils** that wrap around a support to pull the plant upwards towards sunlight.
 
-## 📖 New words
-- **Biodiversity** – variety of living things
-- **Venation** – pattern of veins in a leaf
-- **Adaptation** – a feature that helps survival in a habitat
+## 2.4 Leaves and Roots: A Secret Link
+### Leaf venation
+Hold a leaf up against the light. You will see thin lines running across it. These are **veins**. They carry water to all parts of the leaf and food away from it. The pattern formed by the veins is called **venation**.
 
-## 🎮 Quiz time!
-MCQ: A rose plant is a | Herb | *Shrub | Tree | Creeper || It has a hard, woody stem branching near the base.
-MCQ: Grass leaves have | Reticulate venation | *Parallel venation | No veins | Net veins ||
-TF: Plants with reticulate venation usually have taproots. | true ||
-FILL: The natural home of a living thing is its ___. | habitat ||
-MCQ: Why are mountain trees cone-shaped? | To look nice | *So snow slides off | To catch more rain | To grow fast ||
-TF: Pumpkin is a climber. | false || Pumpkin spreads on the ground – it is a creeper.
+> **Definition: Venation**
+> The arrangement of veins in a leaf is called **venation**.
+> - In **reticulate venation**, the veins form a **net-like** pattern on both sides of a thick central vein (the midrib). Examples: mango, rose, hibiscus, peepal.
+> - In **parallel venation**, the veins run **side by side**, parallel to one another. Examples: grass, wheat, maize, banana.
+
+> **Activity 2.2: Leaf prints**
+> Place a leaf under a sheet of thin paper, with the veined side up. Rub a crayon gently over the paper. The pattern of veins appears! Do this for leaves of grass, mango, banana and tulsi. Label each print as reticulate or parallel.
+
+### Root systems
+Gently pull out a small weed and a grass plant from moist soil (after asking your teacher). Wash the soil off the roots and compare them.
+- A **taproot** system has one **main, thick root** growing downwards, with smaller **lateral roots** branching from it. Examples: mustard, carrot, radish, mango, rose.
+- A **fibrous root** system has **many thin roots** of about the same size, growing from the base of the stem. Examples: wheat, maize, rice, grass, onion.
+
+FIG: c6-sci-2-leaves-roots.svg | Fig. 2.2: (a) Reticulate venation with a taproot and (b) parallel venation with fibrous roots
+
+### The link
+Now compare your leaf prints and roots. Do you notice a pattern?
+
+| Leaf venation | Type of root | Examples |
+| Reticulate | Taproot | Mustard, rose, hibiscus, mango |
+| Parallel | Fibrous roots | Wheat, maize, grass, onion |
+
+> **Remember:** Plants with **reticulate** venation usually have **taproots**. Plants with **parallel** venation usually have **fibrous roots**. So by looking at a leaf, we can often guess what the roots look like without pulling the plant out!
+
+SAY: aarav-wow | So the leaf can tell me what is hiding under the ground? That's like a secret code!
+
+## 2.5 Seeds: Monocots and Dicots
+Soak a few gram (chana) seeds and a few maize seeds in water overnight. The next day, gently press a soaked gram seed. It splits into **two** equal halves. Try the same with a maize grain – it does **not** split into two.
+
+Each half of the gram seed is called a **cotyledon** (seed leaf). It stores food for the baby plant.
+
+> **Definition: Monocots and dicots**
+> - Plants whose seeds have **two cotyledons** are called **dicotyledons** or **dicots**. Examples: gram, pea, bean, groundnut, mango.
+> - Plants whose seeds have only **one cotyledon** are called **monocotyledons** or **monocots**. Examples: maize, wheat, rice, onion.
+
+FIG: c6-sci-2-seeds.svg | Fig. 2.3: (a) A gram seed (dicot) splits into two cotyledons; (b) a maize grain (monocot) has only one
+
+Here is the full picture, putting together what we have learnt:
+
+| Feature | Dicots | Monocots |
+| Number of cotyledons in the seed | Two | One |
+| Leaf venation | Reticulate | Parallel |
+| Root system | Taproot | Fibrous roots |
+| Examples | Gram, pea, mustard, mango | Wheat, maize, rice, grass |
+
+> **Example 2.1**
+> Riya found a plant whose leaves showed parallel venation. What kind of roots and seeds is it likely to have?
+> **Solution:** Plants with parallel venation are usually monocots. So it is likely to have **fibrous roots** and seeds with **one cotyledon**.
+
+## 2.6 Diversity in Animals and their Habitats
+Animals are found almost everywhere – in snowy mountains, burning deserts, deep oceans, ponds, forests, grasslands and even inside our homes.
+
+> **Definition: Habitat and adaptation**
+> The natural home of a living thing, where it gets **food, water, shelter** and a place to raise its young, is called its **habitat**.
+> Special **features** or **habits** that help a living thing survive in its habitat are called **adaptations**.
+
+Habitats on land are called **terrestrial habitats** (forests, deserts, mountains, grasslands). Habitats in water are called **aquatic habitats** (ponds, lakes, rivers, oceans).
+
+| Habitat | Conditions | Animal and its adaptations |
+| Desert | Very hot days, cold nights, very little water | **Camel:** long legs keep its body away from hot sand; it can go for many days without water; it passes little urine and its dung is dry; thick eyelashes protect its eyes from sand. |
+| Mountains | Very cold, snow, strong winds | **Yak** and **snow leopard:** thick fur keeps them warm. Mountain goats have strong hooves for climbing rocky slopes. |
+| Ocean, pond | Water all around | **Fish:** a streamlined body for swimming, **gills** to breathe oxygen dissolved in water, **fins** to move and steer. |
+| Grassland | Open land, few places to hide | **Deer:** long legs and strong muscles to run fast; eyes on the sides of the head to watch for danger; sharp ears. |
+| Polar regions | Extremely cold, ice everywhere | **Polar bear:** white fur blends with snow; a thick layer of fat keeps it warm. |
+
+FIG: c6-sci-2-habitats.svg | Fig. 2.4: Animals adapted to their habitats – (a) camel in the desert, (b) fish in water and (c) yak in the mountains
+
+Plants are adapted too. Desert plants like the **cactus** have **spines** instead of leaves, and a thick, fleshy stem that stores water. Mountain trees like **pine** and **deodar** are cone-shaped with sloping branches, so that snow slides off easily. The **lotus** in a pond has large, flat, waxy leaves that float on water.
+
+SAY: riya-think | Could a camel live happily in the mountains instead?
+SAY: buddy-think | Not really, Riya! Its adaptations suit the hot desert. A habitat suits only the living things adapted to it – that's why each habitat has its own animals and plants.
+
+> **Activity 2.3: Habitat detective**
+> Visit a park or a pond near your school. Note down five living things you see. For each one, write: Where does it live? What does it eat? What is one feature that helps it live there?
+
+## 2.7 Why Biodiversity Matters
+Every living thing has a role in nature:
+- **Bees** and **butterflies** carry pollen from flower to flower, helping plants make fruits and seeds.
+- **Earthworms** loosen the soil and make it rich.
+- **Trees** give us oxygen, food, wood and shade, and are homes for birds and insects.
+- **Frogs** and **birds** eat insects and keep their numbers in check.
+- **Vultures** clean up the bodies of dead animals.
+
+If even one kind of living thing disappears, others that depend on it are affected. For example, when vulture numbers fell sharply in India, dead animals were left lying around longer, and diseases spread more easily.
+
+> **Did you know?**
+> India is one of the world's **mega-diverse** countries. With only about 2.4% of the world's land, it has about **7–8%** of all the recorded kinds of plants and animals!
+
+### How we can protect biodiversity
+- Protect forests, wetlands and grasslands – the homes of living things.
+- Support **national parks** and **wildlife sanctuaries**, where animals and plants are protected by law.
+- Plant native trees, and do not pluck flowers or disturb birds' nests.
+- Avoid plastic and do not throw waste into rivers and ponds.
+
+SAY: aarav-happy | I'll put a bowl of water out for the birds this summer!
+SAY: buddy | Wonderful, Aarav! Small acts by many people protect biodiversity.
+
+## Summary
+- **Biodiversity** is the variety of living things in an area. Scientists **group** living things based on their similarities and differences.
+- Based on their stems, plants are **herbs**, **shrubs** and **trees**. Plants with weak stems are **climbers** (grow up a support) or **creepers** (spread on the ground).
+- **Venation** is the pattern of veins in a leaf: **reticulate** (net-like) or **parallel**.
+- Roots are of two types: **taproot** and **fibrous roots**.
+- Plants with reticulate venation usually have taproots; plants with parallel venation usually have fibrous roots.
+- **Dicots** have two cotyledons in their seeds; **monocots** have one.
+- A **habitat** is the natural home of a living thing. Features that help it survive there are **adaptations**.
+- Every living thing has a role in nature, so we must protect biodiversity.
+
+SAY: buddy | Well done, nature explorers! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Biodiversity | The variety of living things in an area |
+| Herb | A small plant with a soft, green stem |
+| Shrub | A medium-sized plant with a hard stem branching near the base |
+| Tree | A tall plant with a thick, woody trunk |
+| Climber / Creeper | A weak-stemmed plant that climbs a support / spreads on the ground |
+| Venation | The pattern of veins in a leaf |
+| Taproot | One main root with smaller side roots |
+| Fibrous roots | Many thin roots of similar size |
+| Cotyledon | A seed leaf that stores food for the baby plant |
+| Habitat | The natural home of a living thing |
+| Adaptation | A feature that helps a living thing survive in its habitat |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: A rose plant is a | herb | *shrub | tree | creeper || It has a hard stem with branches near the base.
+MCQ: A plant with parallel venation is likely to have | a taproot | *fibrous roots | no roots | two cotyledons ||
+MCQ: Which of these is a monocot? | Gram | Pea | *Maize | Mustard ||
+MCQ: Fish breathe in water using | lungs | *gills | fins | skin only ||
+MCQ: The pumpkin plant is a | climber | *creeper | shrub | tree ||
+
+### B. Fill in the blanks
+FILL: The natural home of a living thing is called its ___. | habitat ||
+FILL: Seeds of dicots have ___ cotyledons. | two;2 ||
+FILL: The pattern of veins in a leaf is called ___. | venation ||
+FILL: A cactus has ___ instead of leaves to save water. | spines;thorns ||
+
+### C. True or False
+TF: Climbers grow up a support, while creepers spread on the ground. | true ||
+TF: A mango leaf has parallel venation. | false || It has reticulate (net-like) venation.
+TF: Wheat has a taproot. | false || Wheat has fibrous roots.
+TF: Every living thing has a role in nature. | true ||
+
+### D. Short answer questions
+Q: What is the difference between a herb and a shrub? Give one example of each.
+A: A herb is short with a soft, green stem (tulsi). A shrub is medium-sized with a hard, woody stem that branches near the base (rose).
+Q: Name the two types of root systems. Give two examples of each.
+A: Taproot – mustard, carrot (also mango, radish). Fibrous roots – wheat, maize (also grass, rice).
+Q: How is a camel adapted to live in the desert? Give three points.
+A: Long legs keep its body away from hot sand; it can go many days without water; thick eyelashes protect its eyes from sand (also passes little urine and dry dung).
+Q: Why are pine and deodar trees cone-shaped?
+A: Their cone shape and sloping branches let snow slide off easily, so the branches do not break.
+
+### E. Long answer questions
+Q: Explain the link between leaf venation and the type of roots. How can it help us?
+A: Plants with reticulate (net-like) venation usually have a taproot, like mustard and mango. Plants with parallel venation usually have fibrous roots, like wheat and grass. This helps us guess the root system of a plant just by looking at its leaves, without pulling it out of the soil.
+Q: Compare monocots and dicots on the basis of seeds, leaves and roots.
+A: Dicots have two cotyledons in their seeds, reticulate venation and taproots (gram, pea, mango). Monocots have one cotyledon, parallel venation and fibrous roots (wheat, maize, rice).
+Q: What is biodiversity? Why is it important, and how can we protect it?
+A: Biodiversity is the variety of living things in an area. It is important because every living thing has a role – bees pollinate flowers, earthworms enrich soil, trees give oxygen, vultures clean up dead animals – and losing one kind affects others. We can protect it by saving forests and wetlands, supporting national parks and sanctuaries, planting native trees and not polluting.
+
+### F. Projects and activities
+> **Activity: Leaf album**
+> Collect 10 fallen leaves from different plants. Press them between newspaper sheets under heavy books for a week. Stick them in a scrapbook and label each with the plant's name, its type (herb, shrub, tree, climber or creeper) and its venation.
+> **Activity: Sprouting seeds**
+> Soak gram and maize seeds and keep them on wet cotton. Observe them for a week. Draw how the roots of each grow. Which one has a taproot and which has fibrous roots?
 
 @@ 3
-SCENE: 🥗 🥛 🍎 | Mindful eating!
+SCENE: 🥗 🥛 🍎 | Let's eat well and stay healthy!
 
-## 🎬 Let's begin
-In Punjab it's makki di roti and sarson ka saag; in Tamil Nadu it's idli and sambar; in Bengal, rice and fish curry; in Gujarat, dhokla and thepla! India eats in a thousand delicious ways. But what does food actually **do** inside us? 🍛
+## 3.1 Introduction
+What did you eat yesterday? Perhaps rice and dal, roti and sabzi, idli and sambar, poha, fish curry, a glass of milk, a banana, or a packet of chips? India is a land of amazing food. What people eat changes from region to region – depending on what grows there, the weather, and family traditions.
 
-SAY: riya-think | What are nutrients?
-SAY: buddy-happy | Substances in food that help us grow, give energy and protect us.
+SAY: riya-think | In Kerala my cousins eat rice and coconut almost every day, but in Punjab my friend eats roti and sarson ka saag. Are both healthy?
+SAY: buddy | Both can be very healthy, Riya! Different foods can give our body the same important things. Let's find out what those are.
 
-## 🤔 What are nutrients?
-> 📌 **Nutrients** are the substances in food that our body needs to **get energy**, **grow**, **repair itself** and **stay healthy**.
-There are **five main nutrients**, plus **dietary fibre** and **water**.
+Food gives us **energy** to work and play, helps us **grow**, **repairs** our body when we get hurt, and **protects** us from diseases. But not all foods do all these jobs. To stay healthy, we need to know what our food contains and eat it thoughtfully.
 
-## 🧩 Types of nutrients
-- **Carbohydrates** – give **energy**. Rice, wheat, millets, potatoes, sugar.
-- **Fats** – give **more energy** than carbohydrates and keep us warm. Ghee, oil, butter, nuts.
-- **Proteins** – **body-building** foods; help us grow and repair. Dal, milk, paneer, eggs, fish, soybean.
-- **Vitamins** – **protect** us from diseases. Fruits, vegetables, milk. (Vitamins A, B, C, D, E, K.)
-- **Minerals** – iron for blood, calcium for bones and teeth, iodine for growth. Green leafy vegetables, milk, iodised salt.
-- **Dietary fibre (roughage)** – doesn't give nutrients but helps food move and keeps the stomach healthy. Whole grains, fruits, vegetables.
-- **Water** – helps digest food and removes waste through sweat and urine.
+In this chapter, we will learn about the **nutrients** in food, how to test foods for some of them, what a **balanced diet** is, what happens when nutrients are missing, and how to eat **mindfully**.
 
-SAY: aarav-wow | Iodine turns blue-black when there's starch in food!
+## 3.2 What are Nutrients?
+> **Definition: Nutrients**
+> The substances in food that our body needs for energy, growth, repair and protection are called **nutrients**.
 
-## 🔬 Testing food for nutrients
-- **Starch (carbohydrate):** add 2 drops of dilute **iodine** → turns **blue-black**.
-- **Protein:** add copper sulphate and caustic soda solution → turns **violet**.
-- **Fat:** rub food on paper → leaves an **oily patch** that light shines through.
-⚠️ Do these tests only with your teacher.
+The main nutrients are **carbohydrates**, **proteins**, **fats**, **vitamins** and **minerals**. Besides these, our body also needs **dietary fibre** and **water**, though they are not counted as nutrients.
 
-## 🥗 A balanced diet
-> 📌 A **balanced diet** has all the nutrients, fibre and water in the **right amounts**.
-Fill half your plate with vegetables and fruits, a quarter with grains (roti/rice/millets), and a quarter with protein (dal, curd, paneer, egg).
-> 💡 **Millets** like ragi, jowar and bajra – called **Shree Anna** – are rich in fibre, iron and calcium. 2023 was the International Year of Millets!
+Most foods contain more than one nutrient, but usually one of them is present in a larger amount. For example, rice is rich in carbohydrates, while dal is rich in proteins.
 
-## ⚠️ Deficiency diseases
-Lack of a nutrient for a long time causes **deficiency diseases**:
-- Vitamin A → **night blindness**
-- Vitamin C → **scurvy** (bleeding gums)
-- Vitamin D → **rickets** (soft, bent bones)
-- Iron → **anaemia** (tiredness, pale skin)
-- Iodine → **goitre** (swelling in the neck)
-- Too little protein → **kwashiorkor** (swollen belly, poor growth)
+## 3.3 Types of Nutrients and their Work
+### Carbohydrates – energy-giving foods
+Carbohydrates give us **energy**. The main carbohydrates in our food are **starch** and **sugars**.
+**Sources:** rice, wheat, maize, millets (ragi, jowar, bajra), potato, sweet potato, sugarcane, jaggery, fruits like banana and mango.
 
-SAY: riya-happy | I eat slowly and enjoy every bite – that's mindful eating!
+### Fats – stored energy
+Fats also give **energy** – in fact, much more energy than the same amount of carbohydrates. Extra fat is stored in the body and used when needed. Fats also keep us warm.
+**Sources:** ghee, butter, oil, cream, nuts, groundnuts, cheese, egg yolk.
 
-## 🧘 Mindful eating
-- Eat slowly and chew well.
-- Stop when you feel full; don't overeat.
-- Choose fresh, home-cooked food over **junk food** (chips, colas, too much sugar and salt), which can cause obesity and other problems.
-- Don't waste food. 🙏
+SAY: aarav-think | If fat gives so much energy, should I eat lots of ghee and fried food to have more energy for football?
+SAY: buddy-think | Careful, Aarav! Too much fat is stored in the body and can cause health problems. We need fats, but only in small amounts.
 
-## ✋ Try it yourself
-Note everything you eat for one day. Mark each item as energy, body-building or protective. Is your day balanced?
+### Proteins – body-building foods
+Proteins help our body **grow** and **repair** damaged parts. Muscles, skin, hair and nails are all built from proteins. Growing children need plenty of proteins.
+**Sources from plants:** pulses (dals), beans, peas, soybean, groundnuts.
+**Sources from animals:** milk, paneer, curd, eggs, fish, meat.
 
-## ⚠️ Common mistakes
-- Thinking fat is always bad. We need some fat – just not too much.
-- Thinking vitamins are only in tablets. Fruits and vegetables are full of them!
+### Vitamins – protective foods
+Vitamins are needed only in **small amounts**, but they are very important. They **protect** us from diseases and keep our eyes, bones, teeth, gums and skin healthy. Vitamins are named by letters: **A**, **B**, **C**, **D**, **E** and **K**.
 
-## 🧠 Quick recap
-- Nutrients: carbohydrates, fats, proteins, vitamins, minerals (+ fibre, water).
-- Iodine test → starch turns blue-black.
-- Balanced diet = all nutrients in the right amounts.
-- Deficiency diseases come from lacking a nutrient.
+| Vitamin | Needed for | Some sources |
+| Vitamin A | Healthy eyes and skin | Carrot, papaya, mango, green leafy vegetables, milk |
+| Vitamin B (a group) | Using energy from food; healthy nerves | Whole grains, pulses, milk, eggs |
+| Vitamin C | Healthy gums; helps fight infections and heal wounds | Amla, orange, lemon, guava, tomato |
+| Vitamin D | Strong bones and teeth | Sunlight on our skin, milk, eggs, fish |
 
-## 📖 New words
-- **Nutrient** – useful substance in food
-- **Deficiency** – shortage of something needed
-- **Roughage** – fibre in food
+> **Did you know?**
+> Our skin makes **vitamin D** when it is exposed to sunlight. So playing outdoors in the morning sun is good for your bones!
 
-## 🎮 Quiz time!
-MCQ: Which nutrient is called body-building? | Carbohydrates | Fats | *Proteins | Vitamins ||
-MCQ: Iodine turns starch | Red | *Blue-black | Violet | Yellow ||
-FILL: Lack of vitamin C causes ___. | scurvy ||
-TF: Millets are rich in fibre, iron and calcium. | true ||
-MCQ: Which disease is caused by lack of iodine? | Rickets | Anaemia | *Goitre | Scurvy ||
-TF: Junk food is a good part of a balanced diet. | false || It has too much fat, salt and sugar and few nutrients.
+### Minerals – protective foods
+Minerals are also needed in small amounts for good health.
+
+| Mineral | Needed for | Some sources |
+| Calcium | Strong bones and teeth | Milk, curd, ragi, green leafy vegetables, sesame |
+| Iron | Making blood (haemoglobin) | Green leafy vegetables, jaggery, dates, pulses, meat |
+| Iodine | Proper working of the thyroid gland | Iodised salt, seafood |
+| Phosphorus | Bones and teeth | Milk, pulses, nuts |
+
+### Dietary fibre and water
+**Dietary fibre** (also called **roughage**) does not give nutrients, but it helps food move smoothly through our body and prevents **constipation**. Sources: whole grains, fruits, vegetables, pulses and salad.
+
+**Water** helps the body take in nutrients, removes wastes through urine and sweat, and keeps our body temperature right. We should drink plenty of clean water every day.
+
+FIG: c6-sci-3-nutrients.svg | Fig. 3.1: Foods grouped by their main nutrients – energy-giving, body-building and protective foods
+
+## 3.4 Testing Food for Nutrients
+How can we find out which nutrients a food contains? Simple tests can help. Do these with your teacher.
+
+> **Activity 3.1: Test for starch**
+> **You need:** small pieces of potato, a slice of bread, a little cooked rice, a piece of cucumber, a dropper and **dilute iodine solution**.
+> **What to do:** Put each food on a separate plate. Add two or three drops of iodine solution to each.
+> **Observation:** Potato, bread and rice turn **blue-black**. Cucumber does not.
+> **Conclusion:** A **blue-black** colour shows that the food contains **starch**.
+
+FIG: c6-sci-3-starch-test.svg | Fig. 3.2: Testing for starch – iodine turns a potato slice blue-black
+
+> **Activity 3.2: Test for fat**
+> **You need:** a few groundnuts, a little ghee or butter, a piece of boiled potato and some sheets of plain paper.
+> **What to do:** Rub each food on a separate piece of paper. Let the paper dry. Hold each paper up against the light.
+> **Observation:** The paper with groundnut and ghee shows an **oily, see-through patch**. The potato does not.
+> **Conclusion:** A **translucent (oily) patch** on paper shows that the food contains **fat**.
+
+> **Activity 3.3: Test for protein**
+> **You need:** a little milk or a paste of boiled pulses, a test tube, dilute **copper sulphate solution**, **caustic soda (sodium hydroxide) solution** and a dropper. *Your teacher will handle the chemicals.*
+> **What to do:** Put a little of the food in the test tube with some water. Add two drops of copper sulphate solution and ten drops of caustic soda solution. Shake gently.
+> **Observation:** The mixture turns **violet** (purple).
+> **Conclusion:** A **violet** colour shows that the food contains **protein**.
+
+FIG: c6-sci-3-fat-protein.svg | Fig. 3.3: (a) An oily, see-through patch on paper shows fat; (b) a violet colour shows protein
+
+| Test for | Chemical or method | Result if present |
+| Starch | A few drops of dilute iodine solution | Blue-black colour |
+| Fat | Rub on paper and hold against light | Oily, translucent patch |
+| Protein | Copper sulphate + caustic soda solution | Violet colour |
+
+SAY: riya-wow | The potato turned blue-black! So potatoes are full of starch!
+
+## 3.5 A Balanced Diet
+No single food has all the nutrients in the right amounts. That is why we must eat a **variety** of foods.
+
+> **Definition: Balanced diet**
+> A diet that contains **all the nutrients**, along with enough **roughage** and **water**, in the **right amounts** for the needs of our body, is called a **balanced diet**.
+
+A useful way to plan a balanced meal is to think of your plate:
+- About **half** the plate: **vegetables and fruits** (vitamins, minerals and fibre).
+- About **a quarter**: **cereals and millets** – rice, roti, ragi, jowar (carbohydrates).
+- About **a quarter**: **pulses, milk, paneer, eggs, fish or meat** (proteins).
+- A little **oil, ghee or nuts** (fats), and a glass of **water**.
+
+FIG: c6-sci-3-plate.svg | Fig. 3.4: A balanced plate – half vegetables and fruits, a quarter cereals and millets, a quarter protein foods
+
+The amount of food we need depends on our **age**, **body size**, **work** and whether we are healthy or ill. A growing child, a farmer working in the fields and an athlete need more energy than a person who sits at a desk all day.
+
+> **Example 3.1**
+> Aarav's lunch is a large plate of white rice with a little pickle and a fried papad. Is it a balanced meal? How can it be improved?
+> **Solution:** No. It is mostly carbohydrate, with very little protein, vitamins, minerals or fibre. He can add **dal or curd** (protein), a **vegetable sabzi or salad** (vitamins, minerals, fibre) and a **fruit**, and eat a smaller amount of rice.
+
+> **Did you know?**
+> **Millets** such as ragi, jowar, bajra and foxtail millet have been grown in India for thousands of years. They are rich in fibre and minerals, need little water to grow and are being brought back to our plates as "**Shree Anna**". The year **2023** was celebrated as the **International Year of Millets**, on India's proposal.
+
+## 3.6 Deficiency Diseases
+If a person does not get enough of a particular nutrient for a long time, they may develop a **deficiency disease**.
+
+> **Definition: Deficiency disease**
+> A disease caused by the lack of a nutrient in the diet over a long time is called a **deficiency disease**.
+
+| Nutrient lacking | Disease | Symptoms | Foods that help |
+| Vitamin A | Night blindness | Poor vision in dim light and at night | Carrot, papaya, mango, green leafy vegetables, milk |
+| Vitamin B1 | Beriberi | Weak muscles, very little energy | Whole grains, pulses, unpolished rice |
+| Vitamin C | Scurvy | Bleeding gums, wounds take long to heal | Amla, citrus fruits, guava, tomato |
+| Vitamin D | Rickets | Soft, bent bones | Sunlight, milk, eggs, fish |
+| Calcium | Weak bones and teeth | Bones break easily, tooth decay | Milk, curd, ragi, green leafy vegetables |
+| Iodine | Goitre | Swelling of the thyroid gland in the neck | Iodised salt, seafood |
+| Iron | Anaemia | Tiredness, pale skin, breathlessness | Green leafy vegetables, jaggery, dates, pulses |
+
+Lack of proteins and energy-giving foods in young children can cause severe weakness and stop them from growing properly. Deficiency diseases can be **prevented** by eating a balanced diet.
+
+SAY: aarav-wow | Bleeding gums just from missing vitamin C? Long ago, sailors on long voyages used to get that!
+SAY: buddy | Right, Aarav! It was called scurvy. Once they started carrying lemons and other citrus fruits, it stopped. Food really is medicine!
+
+> **Remember:** Eating too **much** can also harm us. Too much oily, salty or sugary food can lead to **obesity** (too much body fat), tooth decay, diabetes and heart problems.
+
+## 3.7 Mindful Eating
+**Mindful eating** means paying attention to **what**, **how** and **how much** we eat.
+- **Eat a variety:** include grains or millets, pulses, vegetables, fruits and milk products every day.
+- **Prefer fresh, local and seasonal foods:** they are tasty, nutritious and cheaper – like amla and carrots in winter, mangoes in summer.
+- **Limit junk food:** chips, sugary drinks, instant noodles and deep-fried snacks have a lot of salt, sugar and fat but few nutrients.
+- **Read food labels** on packets to check sugar, salt and fat.
+- **Eat slowly and chew well.** Enjoy the taste, colour and smell. Stop when you feel full.
+- **Don't skip breakfast.** It gives energy for the school day.
+- **Don't waste food.** Take only as much as you can eat.
+- **Keep food clean:** wash hands before eating, wash fruits and vegetables, and keep food covered.
+- **Cook wisely:** washing vegetables after cutting them, or overcooking them, destroys some vitamins.
+
+SAY: riya-happy | From today, I'll eat slowly and notice every flavour – that's mindful eating!
+
+> **Activity 3.4: My food diary**
+> For one week, write down everything you eat and drink. At the end of the week, mark each item as an energy-giving, body-building or protective food. Did you eat a balanced diet every day? What will you add or reduce?
+
+## Summary
+- Food gives us **energy**, helps us **grow** and **repair** the body, and **protects** us from diseases.
+- The main **nutrients** are **carbohydrates**, **fats**, **proteins**, **vitamins** and **minerals**. We also need **dietary fibre** and **water**.
+- Carbohydrates and fats give **energy**; proteins help in **growth and repair**; vitamins and minerals **protect** us.
+- **Starch** turns blue-black with iodine; **fat** leaves an oily patch on paper; **protein** turns violet with copper sulphate and caustic soda.
+- A **balanced diet** has all the nutrients, roughage and water in the right amounts.
+- Lack of a nutrient over a long time causes a **deficiency disease**, such as night blindness, scurvy, rickets, goitre or anaemia.
+- **Mindful eating** means choosing a variety of fresh, local foods, limiting junk food, eating slowly and not wasting food.
+
+SAY: buddy | Well done, healthy eaters! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Nutrients | Substances in food that the body needs for energy, growth, repair and protection |
+| Carbohydrates | Energy-giving nutrients such as starch and sugars |
+| Proteins | Body-building nutrients needed for growth and repair |
+| Fats | Nutrients that give a lot of energy |
+| Vitamins and minerals | Protective nutrients needed in small amounts |
+| Roughage | Dietary fibre that helps food move through the body |
+| Balanced diet | A diet with all the nutrients, roughage and water in the right amounts |
+| Deficiency disease | A disease caused by lack of a nutrient over a long time |
+| Mindful eating | Paying attention to what, how and how much we eat |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: Which nutrient helps our body grow and repair itself? | Carbohydrates | Fats | *Proteins | Water ||
+MCQ: Iodine solution turns a food blue-black if it contains | protein | fat | *starch | vitamin C ||
+MCQ: Scurvy is caused by lack of | vitamin A | *vitamin C | vitamin D | iron ||
+MCQ: Which of these is a good source of calcium? | Sugar | *Ragi | Oil | Rice ||
+MCQ: Goitre is caused by lack of | calcium | iron | *iodine | vitamin B1 ||
+
+### B. Fill in the blanks
+FILL: Dietary fibre is also called ___. | roughage ||
+FILL: Our skin makes vitamin ___ in sunlight. | D ||
+FILL: Lack of iron in the diet causes ___. | anaemia;anemia ||
+FILL: A food containing fat leaves an oily, ___ patch on paper. | translucent;see-through;oily ||
+
+### C. True or False
+TF: Vitamins are needed by the body in very large amounts. | false || They are needed in small amounts.
+TF: Fats give more energy than the same amount of carbohydrates. | true ||
+TF: Eating too much food can also harm the body. | true || It can cause obesity and other problems.
+TF: Junk food is rich in all nutrients. | false || It has a lot of salt, sugar and fat but few nutrients.
+
+### D. Short answer questions
+Q: Name the main nutrients in our food and one source of each.
+A: Carbohydrates – rice; fats – ghee; proteins – dal; vitamins – carrot (vitamin A); minerals – milk (calcium).
+Q: What is a balanced diet?
+A: A diet that contains all the nutrients, along with enough roughage and water, in the right amounts for the body's needs.
+Q: Why should we include roughage in our diet?
+A: Roughage helps food move smoothly through the body and prevents constipation.
+Q: Name the deficiency disease and one symptom for (a) vitamin D (b) vitamin A.
+A: (a) Rickets – soft, bent bones. (b) Night blindness – poor vision in dim light.
+
+### E. Long answer questions
+Q: Describe how you would test a food sample for (a) starch and (b) protein.
+A: (a) Put the food on a plate and add two or three drops of dilute iodine solution. A blue-black colour shows starch. (b) Put a little of the food with water in a test tube, add two drops of copper sulphate solution and ten drops of caustic soda solution, and shake. A violet colour shows protein.
+Q: Aarav eats chips and a cold drink for breakfast every day. Explain why this is unhealthy and suggest a better breakfast.
+A: Chips and cold drinks have a lot of salt, sugar and fat but very few proteins, vitamins, minerals or fibre. Eating them daily can cause obesity, tooth decay and weakness. A better breakfast is idli with sambar, poha with peanuts and a fruit, or a roti with dal and a glass of milk.
+Q: What is mindful eating? Write any four habits of mindful eating.
+A: Mindful eating means paying attention to what, how and how much we eat. Habits: eat a variety of foods; prefer fresh, local and seasonal foods; eat slowly and chew well; stop when full and do not waste food (also limit junk food, read food labels, wash hands before eating).
+
+### F. Projects and activities
+> **Activity: Regional food map**
+> Collect information about one traditional meal from five different states of India. Draw a map and show each meal. Find out which nutrients each meal provides.
+> **Activity: Label reader**
+> Collect wrappers of five packaged foods. Read the labels and make a table showing the sugar, salt (sodium) and fat in each. Which is the healthiest choice?
 
 @@ 4
 COVER: cover-c6-sci-4.svg | Riya, Aarav and Buddy exploring magnets

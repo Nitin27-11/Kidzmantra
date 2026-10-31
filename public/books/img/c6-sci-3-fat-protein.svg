@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 280" width="560" height="280" font-family="Arial, sans-serif">
+  <rect width="560" height="280" fill="#fff"/>
+  <!-- (a) paper against light -->
+  <g transform="translate(150 130)">
+    <circle cx="-70" cy="-80" r="20" fill="#ffd34d"/><g stroke="#ffd34d" stroke-width="3"><path d="M-70 -110v-8M-100 -80h-8M-49 -101l6 -6M-91 -101l-6 -6"/></g>
+    <rect x="-80" y="-60" width="160" height="150" fill="#f5f2ea" stroke="#999" stroke-width="2"/>
+    <path d="M-30 0 q20 -40 60 -16 q30 30 -6 50 q-50 20 -54 -34z" fill="#fff8d0" stroke="#e0c76a" stroke-width="2" opacity=".95"/>
+    <text x="0" y="12" font-size="12" text-anchor="middle" fill="#8a7020">oily patch</text>
+    <text x="0" y="72" font-size="12" text-anchor="middle" fill="#666">groundnut rubbed here</text>
+  </g>
+  <!-- (b) test tube -->
+  <g transform="translate(420 30)">
+    <path d="M-22 0 v170 a22 22 0 0 0 44 0 v-170" fill="none" stroke="#555" stroke-width="3"/>
+    <path d="M-20 90 v80 a20 20 0 0 0 40 0 v-80z" fill="#8a4fd0"/>
+    <rect x="-30" y="-6" width="60" height="8" rx="4" fill="#555"/>
+    <text x="40" y="120" font-size="12" fill="#5a2a9a">violet</text>
+  </g>
+  <g font-size="15" text-anchor="middle" fill="#222"><text x="150" y="264">(a) Fat test</text><text x="420" y="264">(b) Protein test</text></g>
+</svg>
