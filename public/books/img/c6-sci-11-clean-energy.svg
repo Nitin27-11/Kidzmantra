@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300" font-family="Arial, sans-serif">
+  <rect width="680" height="300" fill="#eaf5ff"/>
+  <rect y="250" width="680" height="50" fill="#a8d08d"/>
+  <circle cx="60" cy="50" r="26" fill="#ffc83d"/>
+  <rect x="80" y="170" width="180" height="80" fill="#f3d9b1" stroke="#b08850" stroke-width="2"/>
+  <path d="M60 172 L170 100 L280 172z" fill="#c4683a"/>
+  <g transform="translate(110 150) rotate(-33)" fill="#244c9e" stroke="#9fc6e8" stroke-width="2">
+    <rect x="0" y="0" width="40" height="22"/><rect x="42" y="0" width="40" height="22"/>
+  </g>
+  <rect x="150" y="200" width="36" height="50" fill="#8b5a2b"/>
+  <g stroke="#ffc83d" stroke-width="2" stroke-dasharray="4 4"><path d="M80 66 L120 120 M92 58 L150 104"/></g>
+  <g transform="translate(460 90)">
+    <path d="M-4 0 L-8 160 H8 L4 0z" fill="#fff" stroke="#bbb"/>
+    <g fill="#fff" stroke="#999" stroke-width="1.5"><path d="M0 0 L-6 -70 L4 -70z"/><path d="M0 0 L62 30 L56 38z"/><path d="M0 0 L-58 40 L-62 32z"/></g>
+    <circle r="6" fill="#999"/>
+  </g>
+  <g transform="translate(590 120) scale(.75)">
+    <path d="M-4 0 L-8 173 H8 L4 0z" fill="#fff" stroke="#bbb"/>
+    <g fill="#fff" stroke="#999" stroke-width="1.5"><path d="M0 0 L-6 -70 L4 -70z"/><path d="M0 0 L62 30 L56 38z"/><path d="M0 0 L-58 40 L-62 32z"/></g>
+    <circle r="6" fill="#999"/>
+  </g>
+  <g stroke="#7aa8c8" stroke-width="3" fill="none" stroke-linecap="round"><path d="M330 70 q20 -8 40 0 t40 0 M340 110 q20 -8 40 0"/></g>
+  <g font-size="15" text-anchor="middle" fill="#1e2a3a" font-weight="bold"><text x="170" y="285">(a) Solar panels on a roof</text><text x="520" y="285">(b) Wind turbines</text></g>
+</svg>

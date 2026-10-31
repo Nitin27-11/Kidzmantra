@@ -1994,140 +1994,361 @@ A: The butterfly lays eggs on a leaf. A caterpillar hatches, eats and grows fast
 @@ 11
 SCENE: 🌳 💧 ☀️ | Nature's treasures!
 
-## 🎬 Let's begin
-Every breath of air, every glass of water, the sunshine on your face, the soil that grows your food, the wood of your desk – all are **gifts from nature**. They are our **treasures**, and we must use them wisely. 🌍💎
+## 11.1 Introduction
+Think about your day so far. You breathed air from the moment you woke up. You drank water and brushed your teeth with it. Sunlight lit up your room. You ate food that grew in soil. Your notebook is made of paper from trees, your pencil from wood and graphite, and the bus that brought you to school ran on diesel made from petroleum.
 
-SAY: aarav-think | What are natural resources?
-SAY: buddy-happy | Things from nature that we use – air, water, sunlight, soil and forests.
+SAY: riya-wow | Almost everything I used today came from nature!
+SAY: buddy | That's right, Riya! Air, water, sunlight, soil, plants, minerals and fuels are nature's treasures. We call them natural resources.
 
-## 🤔 What are natural resources?
-> 📌 **Natural resources** are materials and energy we get from **nature** that are useful to us – air, water, sunlight, soil, plants, animals, minerals, coal and petroleum.
+In this chapter, we will learn what natural resources are, how they are grouped, why air, water, sunlight, wind, soil and forests are so important, and how we can use these treasures wisely so that they last for the future.
 
-## 🧩 Types of natural resources
-**1. Renewable resources** – are replaced naturally in a short time, if used wisely.
-- **Air, water, sunlight, wind, forests.**
-**2. Non-renewable resources** – are limited; they take **millions of years** to form and will run out.
-- **Coal, petroleum, natural gas, minerals** (iron, copper).
-> 💡 Coal and petroleum are called **fossil fuels** because they formed from remains of plants and animals buried long ago.
+## 11.2 What are Natural Resources?
+> **Definition: Natural resources**
+> Materials and energy that we get from **nature** and that are useful to us are called **natural resources**. Examples: air, water, sunlight, wind, soil, plants, animals, minerals, coal, petroleum and natural gas.
 
-## 🌬️ Air
-A mixture of gases – mainly **nitrogen (about 78%)** and **oxygen (about 21%)**, plus carbon dioxide and others. We need oxygen to breathe; plants need carbon dioxide to make food.
+Things that people make from natural resources – such as cloth, paper, plastic, glass and cement – are called **human-made** materials.
 
-## 💧 Water
-Needed by all living things. Only a tiny part of Earth's water is fresh and usable. Save it!
+> **Activity 11.1: Trace it back**
+> Choose five objects in your classroom – a desk, a notebook, a window pane, an iron gate and a cotton bag. For each, find out which natural resource it was made from. (Hint: glass is made mainly from sand; paper from wood.)
 
-SAY: riya-happy | Sun and wind give clean energy that never runs out!
+## 11.3 Types of Natural Resources
+Natural resources are grouped into two types, depending on whether nature can replace them quickly.
 
-## ☀️ Sunlight and wind – clean energy
-- **Solar energy:** solar panels turn sunlight into electricity; solar cookers cook food.
-- **Wind energy:** windmills and wind turbines turn moving air into electricity. Tamil Nadu and Gujarat have many wind farms.
-These don't pollute and won't run out!
+> **Definition: Renewable and non-renewable resources**
+> - **Renewable resources** are those that are replaced by nature in a fairly short time, or that never run out. Examples: **sunlight, wind, air, water, forests**.
+> - **Non-renewable resources** are present in **limited amounts** and take **millions of years** to form. Once used up, they cannot be replaced in our lifetime. Examples: **coal, petroleum, natural gas** and **minerals** such as iron and copper ores.
 
-## 🪨 Soil and forests
-Soil grows our food and takes hundreds of years to form just a few centimetres. Forests give oxygen, wood, fruits, medicines and homes to animals, and bring rain.
+FIG: c6-sci-11-resources.svg | Fig. 11.1: Renewable and non-renewable resources
 
-## ♻️ Using resources wisely
-- **Reduce, Reuse, Recycle.**
-- Switch off lights and fans when not needed.
-- Walk, cycle or use public transport.
-- Plant trees; don't waste paper, food or water.
-> 😮 Gandhiji said: "The Earth provides enough to satisfy every man's need, but not every man's greed."
+### Fossil fuels
+**Coal**, **petroleum** and **natural gas** formed from the remains of plants and animals that were buried deep under the earth millions of years ago. Heat and pressure slowly changed them into fuels. Because they come from ancient living things, they are called **fossil fuels**. We use them to run vehicles, cook food and produce electricity. But they will run out one day, and burning them pollutes the air.
 
-## ✋ Try it yourself
-Do a "resource audit" at home for one day: count how many times a tap, a light or a fan was left on unnecessarily.
+> **Remember:** Even renewable resources can become scarce if we misuse them. Forests regrow only if we replant and protect them, and fresh water stays usable only if we do not waste or pollute it.
 
-## ⚠️ Common mistakes
-- Thinking water is non-renewable – it is renewable through the water cycle, but clean fresh water is limited and must be saved.
-- Thinking forests can be cut without limit because they are "renewable". They regrow only if we replant and protect them.
+SAY: aarav-think | If petroleum took millions of years to form, and we use so much every day… will it run out in my lifetime?
+SAY: buddy-think | It might run short, Aarav. That is why scientists are working on clean energy – like sunlight and wind – that will never run out.
 
-## 🧠 Quick recap
-- Natural resources come from nature.
-- Renewable: air, water, sunlight, wind, forests. Non-renewable: coal, petroleum, natural gas, minerals.
-- Solar and wind energy are clean.
-- Use resources wisely: reduce, reuse, recycle.
+## 11.4 Air
+Air is all around us. It is a **mixture of gases**:
+- **Nitrogen** – about **78%**
+- **Oxygen** – about **21%**
+- **Carbon dioxide**, **argon**, **water vapour** and other gases – about **1%**
+Air also contains dust and smoke.
 
-## 📖 New words
-- **Renewable** – can be replaced naturally
-- **Fossil fuel** – fuel formed from ancient remains (coal, petroleum)
-- **Conservation** – careful use and protection
+FIG: c6-sci-11-air.svg | Fig. 11.2: Air is a mixture of gases – mostly nitrogen and oxygen
 
-## 🎮 Quiz time!
-MCQ: Which is a non-renewable resource? | Sunlight | Wind | *Coal | Water ||
-TF: Solar energy pollutes the air. | false || It is clean energy.
-FILL: The gas that makes up most of the air is ___. | nitrogen ||
-MCQ: Coal and petroleum are called | Minerals | *Fossil fuels | Renewable resources | Gases ||
-TF: Switching off fans when not needed helps save resources. | true ||
-MCQ: Which turns wind into electricity? | Solar panel | *Wind turbine | Dam | Thermometer ||
+- All living things need **oxygen** to respire.
+- Green plants use **carbon dioxide** from the air to make their food, and give out oxygen.
+- Moving air (wind) turns windmills and helps birds fly, seeds spread and clouds move.
+- Air keeps the Earth warm enough for life and protects us from harmful rays of the Sun.
+
+Smoke from vehicles, factories and burning garbage **pollutes** the air and causes breathing problems. Clean air is precious.
+
+## 11.5 Water
+Water covers about **71%** of the Earth's surface, yet most of it is **salty** sea water that we cannot drink or use for farming. Most of the fresh water is frozen as ice in glaciers and at the poles. Only a **very small part** of all the water on Earth is fresh water available in rivers, lakes and underground.
+
+FIG: c6-sci-11-water.svg | Fig. 11.3: Out of all the water on Earth, only a tiny part is fresh water we can use
+
+We need water for drinking, cooking, cleaning, farming, factories and producing electricity. Water is renewed by the **water cycle**, but rising demand, waste and pollution mean many places in India face water shortage, especially in summer.
+
+> **Did you know?**
+> A dripping tap can waste many litres of water in a single day. Closing the tap while brushing your teeth can save several litres every time!
+
+## 11.6 Sunlight and Wind: Clean Energy
+### Sunlight
+The **Sun** is the main source of energy on Earth. Plants use sunlight to make food; all animals depend on plants. Sunlight also drives the water cycle and the winds.
+We can use sunlight directly:
+- **Solar cells** (solar panels) change sunlight into **electricity**. They are used on rooftops, street lights, water pumps and even satellites.
+- **Solar cookers** and **solar water heaters** use the Sun's heat.
+
+### Wind
+Moving air has energy. Long ago, windmills were used to grind grain and pump water. Today, tall **wind turbines** turn the energy of the wind into **electricity**. India has many wind farms, especially in **Tamil Nadu** and **Gujarat**.
+
+FIG: c6-sci-11-clean-energy.svg | Fig. 11.4: Clean energy – (a) solar panels on a roof and (b) wind turbines
+
+Solar and wind energy are **renewable** and **clean** – they do not produce smoke and will never run out.
+
+> **Example 11.1**
+> A village has no electricity line, but it gets bright sunshine almost all year. Suggest a way to give the school light and fans.
+> **Solution:** Fit **solar panels** on the school roof. They can produce electricity during the day and store some in batteries for use in the evening.
+
+## 11.7 Soil and Forests
+### Soil
+**Soil** is the top layer of the Earth in which plants grow. It is formed very slowly, as rocks are broken down by heat, water and wind, and mixed with the remains of dead plants and animals (**humus**). It can take hundreds of years to form just a few centimetres of fertile soil! Soil gives plants water and nutrients and is home to earthworms, insects and tiny living things.
+Wind and flowing water can carry away the top layer of soil – this is called **soil erosion**. Roots of plants hold the soil together and help prevent it.
+
+### Forests
+Forests are a treasure house. They give us:
+- **oxygen** and clean air;
+- **wood**, **fruits**, **honey**, **gum**, **medicinal plants** and **fodder**;
+- **homes** for thousands of kinds of plants and animals;
+- protection for soil from erosion, and help in bringing **rain** and keeping the place cool.
+
+Many communities in India, especially tribal communities, live in and around forests and depend on them. When forests are cut down without care (**deforestation**), animals lose their homes, soil is washed away and rainfall may decrease.
+
+> **Did you know?**
+> In the 1970s, women in the villages of the Garhwal Himalayas hugged trees to stop them from being cut down. This was the famous **Chipko movement** ("chipko" means "to hug" or "to stick").
+
+## 11.8 Using Resources Wisely
+Natural resources are shared by all living things and by future generations. Using them carefully so that they last is called **conservation**. We can all help with the **3 Rs**:
+- **Reduce:** use less – switch off lights and fans when not needed, close dripping taps, walk or cycle for short distances, take only as much food as you can eat.
+- **Reuse:** use things again – write on both sides of paper, carry a cloth bag, reuse glass jars and boxes.
+- **Recycle:** turn waste into new things – separate dry and wet waste so that paper, plastic and metal can be recycled, and turn kitchen waste into compost.
+
+FIG: c6-sci-11-three-rs.svg | Fig. 11.5: The 3 Rs – reduce, reuse and recycle
+
+We can also plant trees, harvest rainwater from rooftops, use public transport and use solar energy wherever possible.
+
+SAY: aarav-happy | I'm going to carry a cloth bag and a steel bottle every day – no more plastic!
+SAY: buddy | Fantastic, Aarav! Mahatma Gandhi said, "The Earth provides enough to satisfy every man's need, but not every man's greed."
+
+## Summary
+- **Natural resources** are materials and energy from nature that are useful to us.
+- **Renewable resources** (sunlight, wind, air, water, forests) are replaced naturally; **non-renewable resources** (coal, petroleum, natural gas, minerals) are limited and take millions of years to form.
+- Coal, petroleum and natural gas are **fossil fuels**.
+- Air is a mixture of gases, mainly **nitrogen (about 78%)** and **oxygen (about 21%)**.
+- Most of Earth's water is salty; only a very small part is usable fresh water.
+- **Solar** and **wind** energy are clean and renewable.
+- **Soil** forms very slowly; **forests** give us many useful things and protect soil and rainfall.
+- We must **conserve** resources using the **3 Rs** – reduce, reuse and recycle.
+
+SAY: buddy | Well done, nature's guardians! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Natural resource | Material or energy from nature that is useful to us |
+| Renewable resource | A resource replaced naturally in a short time, or that never runs out |
+| Non-renewable resource | A resource present in limited amounts that takes millions of years to form |
+| Fossil fuels | Coal, petroleum and natural gas, formed from remains of ancient living things |
+| Solar energy | Energy from the Sun |
+| Humus | Rotted remains of plants and animals in soil |
+| Soil erosion | Removal of the top layer of soil by wind or water |
+| Deforestation | Cutting down of forests |
+| Conservation | Careful use of resources so that they last |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: Which of these is a non-renewable resource? | Sunlight | Wind | *Coal | Water ||
+MCQ: The gas present in the largest amount in air is | oxygen | *nitrogen | carbon dioxide | argon ||
+MCQ: Solar panels change sunlight into | heat only | *electricity | wind | water ||
+MCQ: Which is NOT a fossil fuel? | Coal | Petroleum | Natural gas | *Wood ||
+MCQ: Writing on both sides of paper is an example of | recycling | *reducing waste and reusing | deforestation | erosion ||
+
+### B. Fill in the blanks
+FILL: Air contains about ___% oxygen. | 21 ||
+FILL: Coal, petroleum and natural gas are called ___ fuels. | fossil ||
+FILL: The removal of the top layer of soil by wind or water is called soil ___. | erosion ||
+FILL: Careful use of resources so that they last is called ___. | conservation ||
+
+### C. True or False
+TF: Most of the water on Earth is fresh water. | false || Most of it is salty sea water.
+TF: Forests can never run out, so we can cut them freely. | false || They regrow only if replanted and protected.
+TF: Wind energy does not pollute the air. | true ||
+TF: Soil forms very quickly, in a few days. | false || It takes hundreds of years to form a few centimetres.
+
+### D. Short answer questions
+Q: What are natural resources? Give four examples.
+A: Materials and energy from nature that are useful to us – air, water, sunlight, soil (also forests, coal, minerals).
+Q: Differentiate between renewable and non-renewable resources with two examples each.
+A: Renewable resources are replaced naturally or never run out – sunlight, wind. Non-renewable resources are limited and take millions of years to form – coal, petroleum.
+Q: Why are coal and petroleum called fossil fuels?
+A: They formed from the remains of plants and animals buried millions of years ago.
+Q: Name four things we get from forests.
+A: Oxygen, wood, fruits, medicinal plants (also honey, gum, fodder).
+
+### E. Long answer questions
+Q: Why are solar and wind energy called clean energy? Where are they used in India?
+A: They do not produce smoke or pollute the air, and they never run out. Solar panels are used on rooftops, street lights, water pumps and satellites; wind turbines on wind farms in Tamil Nadu and Gujarat produce electricity.
+Q: Explain why we must save water even though it is renewed by the water cycle.
+A: Most water on Earth is salty, and most fresh water is frozen as ice. Only a tiny part is usable fresh water. The demand for water is rising, and waste and pollution reduce usable water, so many places face shortages. Saving water keeps enough for everyone.
+Q: What are the 3 Rs? Give two examples of each.
+A: Reduce – switch off lights and fans when not needed; close dripping taps. Reuse – write on both sides of paper; carry a cloth bag. Recycle – separate dry and wet waste for recycling; turn kitchen waste into compost.
+
+### F. Projects and activities
+> **Activity: Resource audit**
+> For one day, keep a record at home: how many times was a tap, light or fan left on when no one needed it? Make a family plan to reduce this waste and check again after a week.
+> **Activity: Clean energy model**
+> Make a paper windmill (pinwheel). Hold it in front of a fan or in the breeze. Find out how real wind turbines use this movement to produce electricity, and make a poster.
 
 @@ 12
-SCENE: 🌙 🪐 ⭐ | Beyond Earth!
+SCENE: 🌙 🪐 ⭐ | Let's journey beyond Earth!
 
-## 🎬 Let's begin
-On a clear night far from city lights, look up. Thousands of twinkling stars! The Moon glowing, a bright "star" that doesn't twinkle (a planet!), and maybe a shooting star. What lies **beyond Earth**? Let's go on a space journey! 🚀✨
+## 12.1 Introduction
+On a clear, dark night, far away from city lights, look up at the sky. You will see hundreds of twinkling stars, the glowing Moon, and perhaps a bright "star" that does not twinkle at all. If you are lucky, you may see a streak of light flash across the sky – a "shooting star".
 
-SAY: riya-wow | The Sun is a star too!
-SAY: buddy-happy | Yes! It's the closest star to Earth. Other stars look tiny because they're so far away.
+SAY: aarav-wow | Last night I saw a really bright star near the Moon. It didn't twinkle like the others!
+SAY: buddy | Sharp eyes, Aarav! That was probably a planet – Venus or Jupiter. Planets shine steadily, while stars twinkle. Let's find out why.
 
-## 🤔 Stars
-> 📌 A **star** is a huge, very hot ball of glowing gases that gives out its **own light and heat**.
-- The **Sun** is our nearest star. Other stars look tiny because they are very, very far away.
-- Stars seem to **twinkle** because their light passes through moving layers of air.
-- Stars appear to move across the night sky from east to west because the **Earth rotates**.
+People have watched the night sky for thousands of years. Ancient Indian astronomers such as **Aryabhata** and **Varahamihira** studied the movements of the Sun, the Moon and the planets very carefully. In this chapter, we will learn about stars, constellations, our solar system, other objects in space, and India's space missions.
 
-## ✨ Constellations
-> 📌 A **constellation** is a group of stars that forms a recognisable pattern in the sky.
-- **Saptarishi (Ursa Major / Big Dipper):** seven bright stars shaped like a ladle or a question mark.
-- **Orion (Hunter / Mriga):** three bright stars in a row make the hunter's **belt**.
-- **Cassiopeia:** looks like a W or M.
-- The **Pole Star (Dhruva Tara)** stays almost fixed above the north. The pointer stars of Saptarishi point to it – it helps us find **north**!
+## 12.2 Stars
+> **Definition: Star**
+> A **star** is a huge, extremely hot ball of glowing gases that gives out its **own light and heat**.
 
-## 🪐 Our solar system
-> 📌 The **solar system** is the Sun and all the objects that move around it.
-- **Eight planets**, in order from the Sun: **Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.**
-- Trick: "**M**y **V**ery **E**ager **M**other **J**ust **S**erved **U**s **N**oodles."
-- **Planets** don't make their own light; they reflect sunlight and don't twinkle.
-- Inner planets (Mercury–Mars) are **rocky**; outer planets (Jupiter–Neptune) are **giant** and mostly gas or ice.
-- **Venus** is the brightest planet in our sky; **Jupiter** is the largest; **Saturn** has beautiful rings; **Mars** is red.
-- **Pluto** is now called a **dwarf planet**.
+The **Sun** is a star – the star nearest to the Earth. It is about **15 crore kilometres** (150 million km) away. Other stars are so much farther away that their light takes years to reach us. That is why they look like tiny points of light, even though many of them are as big as the Sun or even bigger.
 
-## 🌙 Other members
-- **Moons (satellites):** objects that go around planets. Earth has **one** Moon; it reflects sunlight.
-- **Asteroids:** rocky pieces, mostly in the **asteroid belt** between Mars and Jupiter.
-- **Comets:** balls of ice and dust with glowing **tails** when near the Sun – Halley's Comet returns about every 76 years.
-- **Meteors:** small rocks burning up in our atmosphere – "shooting stars".
+### Why can't we see stars in the daytime?
+Stars are in the sky during the day too! But the Sun's light is so bright that we cannot see their faint light. At night, when the Sun's light is absent, the stars become visible.
 
-SAY: aarav-happy | Chandrayaan-3 landed near the Moon's south pole!
+### Why do stars twinkle?
+Light from a star travels a very long way and then passes through the Earth's **air**, which is always moving and changing. This makes the starlight flicker, so the star seems to **twinkle**. Planets are much closer and look like tiny discs rather than points, so they shine more steadily.
 
-## 🇮🇳 India in space
+### Do stars move?
+If you watch the sky for a few hours, the stars seem to move slowly from **east to west**, like the Sun does. Actually, it is the **Earth** that spins (rotates) from west to east on its axis, which makes the stars appear to move the other way.
+
+## 12.3 Constellations
+Long ago, people noticed that some stars form shapes in the sky. They joined them with imaginary lines and gave them names.
+
+> **Definition: Constellation**
+> A **group of stars** that forms a recognisable shape or pattern in the sky is called a **constellation**.
+
+Some well-known constellations:
+- **Saptarishi (Ursa Major or the Great Bear):** seven bright stars shaped like a big ladle or a question mark. It is seen in the northern sky, especially in summer evenings.
+- **Orion (the Hunter; in India, Mriga):** has three bright stars in a row forming the hunter's **belt**. It is seen in winter evenings.
+- **Cassiopeia:** five bright stars forming the shape of a **W** or an **M**.
+
+FIG: c6-sci-12-constellations.svg | Fig. 12.1: (a) Saptarishi, with its pointer stars leading to the Pole Star; (b) Orion and (c) Cassiopeia
+
+### The Pole Star
+One star in the northern sky hardly seems to move at all, because it lies almost directly above the Earth's North Pole. It is called the **Pole Star** (**Dhruva Tara**). Travellers and sailors used it to find the **north** direction at night. To find it, follow the two **pointer stars** at the end of Saptarishi's "ladle".
+
+> **Activity 12.1: Find the Pole Star**
+> On a clear night, face north and find Saptarishi. Imagine a line through its two pointer stars and extend it about five times the distance between them. The fairly bright star you reach is the Pole Star.
+
+SAY: riya-happy | The Pole Star is like a compass in the sky!
+
+## 12.4 Our Solar System
+> **Definition: Solar system**
+> The **Sun** and all the objects that move around it – planets, their moons, asteroids, comets and meteoroids – together form the **solar system**.
+
+The Sun is at the centre. It holds all the members of the solar system in their paths by its pull (gravity).
+
+### The planets
+A **planet** is a large, round body that moves around the Sun in a fixed path called an **orbit**. Planets do **not** make their own light – they shine because they **reflect sunlight**.
+
+There are **eight** planets. In order from the Sun, they are: **Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus** and **Neptune**.
+A sentence to remember the order: "**M**y **V**ery **E**ager **M**other **J**ust **S**erved **U**s **N**oodles."
+
+FIG: c6-sci-12-solar-system.svg | Fig. 12.2: The eight planets of the solar system, in order from the Sun (sizes and distances are not to scale)
+
+| Planet | Some facts |
+| Mercury | Nearest to the Sun; smallest planet; no moon |
+| Venus | Hottest and brightest planet in our sky; often called the morning or evening "star"; no moon |
+| Earth | The only planet known to have life; has liquid water and air; one moon |
+| Mars | Called the **red planet** because of its reddish soil; two small moons |
+| Jupiter | The **largest** planet; a giant made mostly of gases; many moons |
+| Saturn | Famous for its beautiful **rings** made of ice and rock; many moons |
+| Uranus | An icy giant that spins tipped on its side |
+| Neptune | Farthest from the Sun; very cold and windy |
+
+- The four inner planets – Mercury, Venus, Earth and Mars – are small and **rocky**.
+- The four outer planets – Jupiter, Saturn, Uranus and Neptune – are **giant** planets, made mostly of gases and ice.
+- **Pluto**, once called the ninth planet, is now called a **dwarf planet**.
+
+> **Remember:** Stars give out their own light. Planets only reflect light from the Sun.
+
+## 12.5 Other Members of the Solar System
+### Moons
+A body that moves around a planet is called its **satellite**. The **Moon** is the Earth's natural satellite. It has no light of its own – it reflects sunlight. The Moon has no air or water, and its surface has many **craters** (bowl-shaped pits) made by rocks crashing into it.
+The Moon seems to change its shape every night, from a thin crescent to a full Moon and back. These shapes are called the **phases of the Moon**. They happen because we see different amounts of the Moon's sunlit half as it moves around the Earth.
+
+FIG: c6-sci-12-moon-phases.svg | Fig. 12.3: Some phases of the Moon, from new moon to full moon
+
+### Asteroids
+**Asteroids** are rocky bodies, much smaller than planets, that move around the Sun. Most of them are found in a wide band between Mars and Jupiter, called the **asteroid belt**.
+
+### Comets
+**Comets** are made of ice, dust and rock. They move around the Sun in long, stretched orbits. When a comet comes near the Sun, its ice turns into gas and it develops a long, glowing **tail** that always points **away from the Sun**. **Halley's Comet** returns to our sky about every 76 years.
+
+### Meteors and meteorites
+Small pieces of rock moving in space are called **meteoroids**. When one enters the Earth's atmosphere at great speed, it gets so hot that it burns up, making a bright streak of light. This is a **meteor**, often called a "shooting star". If a piece survives and reaches the ground, it is called a **meteorite**. The **Lonar lake** in Maharashtra was formed when a meteorite struck the Earth thousands of years ago.
+
+SAY: aarav-think | So a shooting star is not a star at all?
+SAY: buddy | Right, Aarav! It is just a small rock burning up in our air. Real stars are huge and very far away.
+
+## 12.6 Artificial Satellites and India in Space
+Human-made objects that go around the Earth are called **artificial satellites**. They are used for weather forecasting, TV and phone communication, navigation (maps) and studying the Earth and space.
+
+India's space agency, the **Indian Space Research Organisation (ISRO)**, has achieved a great deal:
 - **Aryabhata** (1975) – India's first satellite, named after the great astronomer.
-- **Chandrayaan-3** (2023) – landed near the Moon's south pole; India celebrates **23 August as National Space Day**.
-- **Aditya-L1** – India's mission to study the Sun.
+- **Chandrayaan-1** (2008) – India's first mission to the Moon; it helped discover signs of water on the Moon.
+- **Mangalyaan** (Mars Orbiter Mission, 2013–14) – reached Mars on India's very first attempt.
+- **Chandrayaan-3** (2023) – landed near the Moon's **south pole**, making India the first country to land there. **23 August** is celebrated as **National Space Day**.
+- **Aditya-L1** (2023) – India's first mission to study the Sun.
 
-## 🌃 Light pollution
-Too many bright city lights hide the stars. Using lights wisely helps us – and birds and insects – see the night sky.
+> **Did you know?**
+> **Rakesh Sharma** became the first Indian to travel into space in 1984. When asked how India looked from space, he replied, "**Saare jahan se achha**" – better than the whole world!
 
-## ✋ Try it yourself
-On a clear night, find Saptarishi. Follow the two "pointer" stars to locate the Pole Star.
+## 12.7 Light Pollution
+In big cities, it is hard to see many stars at night. Bright street lights, signboards and buildings light up the sky so much that the faint light of stars is hidden. This is called **light pollution**. It also confuses birds that fly at night and insects, and wastes electricity.
+We can reduce it by switching off unnecessary lights, pointing outdoor lights downwards and using covered lamps.
 
-## ⚠️ Common mistakes
-- Calling the Moon a star or a planet. It's Earth's natural satellite.
-- Thinking a "shooting star" is a falling star – it's a small rock burning in our atmosphere.
+## Summary
+- A **star** is a huge, hot ball of glowing gases that gives out its own light and heat. The **Sun** is our nearest star.
+- Stars **twinkle** because their light passes through moving air. They seem to move from east to west because the Earth rotates.
+- A **constellation** is a group of stars forming a pattern – Saptarishi, Orion and Cassiopeia. The **Pole Star** helps us find north.
+- The **solar system** is the Sun and all the objects that move around it.
+- The **eight planets** in order are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Planets reflect sunlight and do not twinkle.
+- **Moons**, **asteroids**, **comets** and **meteoroids** are also members of the solar system. A **meteor** is a "shooting star".
+- **Artificial satellites** help us in many ways. ISRO's missions include Aryabhata, Chandrayaan, Mangalyaan and Aditya-L1.
+- **Light pollution** hides the stars and harms wildlife.
 
-## 🧠 Quick recap
-- Stars make their own light; planets reflect it.
-- Constellations are star patterns; the Pole Star shows north.
-- Eight planets go around the Sun; Earth has one Moon.
-- India's space missions: Aryabhata, Chandrayaan, Aditya-L1.
+SAY: buddy | Well done, space explorers! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
 
-## 📖 New words
-- **Constellation** – a pattern of stars
-- **Satellite** – an object that goes around a planet
-- **Orbit** – the path of an object around another
+## Keywords
+| Word | Meaning |
+| Star | A huge, hot ball of glowing gases that gives out its own light |
+| Constellation | A group of stars that forms a pattern in the sky |
+| Pole Star | A star almost directly above the North Pole, used to find north |
+| Solar system | The Sun and all the objects that move around it |
+| Planet | A large body that moves around the Sun and reflects its light |
+| Orbit | The path of a planet or satellite |
+| Satellite | A body that moves around a planet |
+| Asteroid | A small rocky body moving around the Sun |
+| Comet | A body of ice and dust that grows a glowing tail near the Sun |
+| Meteor | A rock burning up in our atmosphere, seen as a "shooting star" |
+| Light pollution | Too much artificial light that hides the stars |
 
-## 🎮 Quiz time!
-MCQ: Which is the largest planet? | Earth | Saturn | *Jupiter | Neptune ||
-TF: Planets make their own light. | false || They reflect sunlight.
-FILL: The star that helps us find north is the ___ Star. | Pole;Dhruva ||
-MCQ: Saptarishi is also called | Orion | *Ursa Major | Cassiopeia | Milky Way ||
-MCQ: The asteroid belt lies between | Earth and Mars | *Mars and Jupiter | Jupiter and Saturn | Venus and Earth ||
-TF: Chandrayaan-3 landed near the Moon's south pole. | true ||
+## Exercises
+### A. Choose the correct answer
+MCQ: The star nearest to the Earth is | the Pole Star | *the Sun | Sirius | Venus ||
+MCQ: The largest planet in the solar system is | Saturn | Earth | *Jupiter | Neptune ||
+MCQ: The planet known as the red planet is | Venus | *Mars | Mercury | Uranus ||
+MCQ: The Pole Star helps us find the direction | south | east | *north | west ||
+MCQ: A "shooting star" is actually | a falling star | *a meteor burning in the atmosphere | a comet | a planet ||
+
+### B. Fill in the blanks
+FILL: A group of stars forming a pattern in the sky is called a ___. | constellation ||
+FILL: There are ___ planets in our solar system. | eight;8 ||
+FILL: The asteroid belt lies between Mars and ___. | Jupiter ||
+FILL: India's first satellite was named ___. | Aryabhata ||
+
+### C. True or False
+TF: Planets give out their own light. | false || They reflect sunlight.
+TF: Stars are present in the sky during the day too. | true || The Sun's bright light hides them.
+TF: The tail of a comet always points away from the Sun. | true ||
+TF: Pluto is called a dwarf planet today. | true ||
+
+### D. Short answer questions
+Q: Why do stars twinkle but planets do not?
+A: Starlight comes from very far and flickers as it passes through moving air. Planets are much closer and look like tiny discs, so they shine steadily.
+Q: Why can't we see stars during the day?
+A: The bright light of the Sun hides the faint light of the stars.
+Q: Name the eight planets in order from the Sun.
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the difference between a meteor and a meteorite?
+A: A meteor is a rock that burns up in the atmosphere, seen as a streak of light. A meteorite is a piece that survives and reaches the ground.
+
+### E. Long answer questions
+Q: How can you find the Pole Star in the night sky? Why was it important for travellers?
+A: Face north and find Saptarishi. Draw an imaginary line through its two pointer stars and extend it about five times their distance – it reaches the Pole Star. The Pole Star stays almost fixed above the North Pole, so travellers and sailors used it to find the north direction at night.
+Q: Compare stars and planets in any four ways.
+A: Stars give out their own light and heat; planets reflect sunlight. Stars twinkle; planets shine steadily. Stars are huge balls of hot gases; planets are smaller bodies of rock or gas. Stars are very far away; planets of our solar system are much closer and move around the Sun.
+Q: Describe any three achievements of India in space.
+A: Aryabhata (1975) was India's first satellite. Mangalyaan reached Mars on the first attempt in 2014. Chandrayaan-3 landed near the Moon's south pole in 2023, the first country to do so; 23 August is National Space Day (also Chandrayaan-1 and Aditya-L1).
+
+### F. Projects and activities
+> **Activity: Moon diary**
+> Observe the Moon every night for a month at about the same time. Draw its shape each night. Can you see the pattern of the phases?
+> **Activity: Solar system model**
+> Make a model of the solar system using balls of different sizes or clay. Arrange the planets in order from the Sun and label them with one fact each.

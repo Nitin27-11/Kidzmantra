@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 240" width="680" height="240" font-family="Arial, sans-serif">
+  <rect width="680" height="240" fill="#fff"/>
+  <g text-anchor="middle">
+    <rect x="15" y="15" width="200" height="210" rx="18" fill="#d8f5e7"/>
+    <text x="115" y="50" font-size="20" font-weight="bold" fill="#1d6b48">Reduce</text>
+    <text x="115" y="115" font-size="44">💡🚰</text>
+    <text x="115" y="160" font-size="13" fill="#333">switch off lights,</text><text x="115" y="178" font-size="13" fill="#333">close taps, walk</text><text x="115" y="196" font-size="13" fill="#333">or cycle</text>
+    <rect x="240" y="15" width="200" height="210" rx="18" fill="#cfe6ff"/>
+    <text x="340" y="50" font-size="20" font-weight="bold" fill="#244c9e">Reuse</text>
+    <text x="340" y="115" font-size="44">👜🫙</text>
+    <text x="340" y="160" font-size="13" fill="#333">cloth bags, glass jars,</text><text x="340" y="178" font-size="13" fill="#333">both sides of paper</text>
+    <rect x="465" y="15" width="200" height="210" rx="18" fill="#ffe6a6"/>
+    <text x="565" y="50" font-size="20" font-weight="bold" fill="#8a5a00">Recycle</text>
+    <text x="565" y="115" font-size="44">♻️🗑️</text>
+    <text x="565" y="160" font-size="13" fill="#333">separate dry and wet</text><text x="565" y="178" font-size="13" fill="#333">waste; make compost</text>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 280" width="680" height="280" font-family="Arial, sans-serif">
+  <rect width="680" height="280" fill="#fff"/>
+  <rect x="10" y="10" width="320" height="260" rx="18" fill="#d8f5e7"/>
+  <rect x="350" y="10" width="320" height="260" rx="18" fill="#ffe6d2"/>
+  <g text-anchor="middle">
+    <text x="170" y="44" font-size="19" font-weight="bold" fill="#1d6b48">Renewable</text>
+    <text x="170" y="64" font-size="13" fill="#555">replaced by nature / never run out</text>
+    <text x="90" y="125" font-size="40">☀️</text><text x="170" y="125" font-size="40">🌬️</text><text x="250" y="125" font-size="40">💧</text>
+    <text x="90" y="148" font-size="13">sunlight</text><text x="170" y="148" font-size="13">wind</text><text x="250" y="148" font-size="13">water</text>
+    <text x="125" y="215" font-size="40">🌳</text><text x="215" y="215" font-size="40">🌫️</text>
+    <text x="125" y="238" font-size="13">forests</text><text x="215" y="238" font-size="13">air</text>
+    <text x="510" y="44" font-size="19" font-weight="bold" fill="#a3511a">Non-renewable</text>
+    <text x="510" y="64" font-size="13" fill="#555">limited; take millions of years to form</text>
+    <text x="430" y="125" font-size="40">🪨</text><text x="510" y="125" font-size="40">🛢️</text><text x="590" y="125" font-size="40">🔥</text>
+    <text x="430" y="148" font-size="13">coal</text><text x="510" y="148" font-size="13">petroleum</text><text x="590" y="148" font-size="13">natural gas</text>
+    <text x="510" y="215" font-size="40">⛏️</text><text x="510" y="238" font-size="13">minerals (iron, copper ores)</text>
+  </g>
+</svg>

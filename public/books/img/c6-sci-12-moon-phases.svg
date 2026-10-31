@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="720" height="200" font-family="Arial, sans-serif">
+  <rect width="720" height="200" fill="#141a33"/>
+  <defs><clipPath id="c"><circle r="38"/></clipPath></defs>
+  <!-- new moon -->
+  <g transform="translate(80 90)"><circle r="38" fill="#2a3150" stroke="#4a5480"/></g>
+  <!-- crescent -->
+  <g transform="translate(220 90)"><circle r="38" fill="#2a3150"/><g clip-path="url(#c)"><circle r="38" fill="#f4eccc"/><circle cx="-20" r="38" fill="#2a3150"/></g></g>
+  <!-- half -->
+  <g transform="translate(360 90)"><circle r="38" fill="#2a3150"/><path d="M0 -38 A38 38 0 0 1 0 38 Z" fill="#f4eccc"/></g>
+  <!-- gibbous -->
+  <g transform="translate(500 90)"><circle r="38" fill="#f4eccc"/><g clip-path="url(#c)"><path d="M0 -38 A38 38 0 0 0 0 38 A22 38 0 0 1 0 -38Z" fill="#2a3150"/></g></g>
+  <!-- full -->
+  <g transform="translate(640 90)"><circle r="38" fill="#f4eccc"/><g fill="#ddd3ae"><circle cx="-10" cy="-8" r="7"/><circle cx="12" cy="10" r="5"/><circle cx="6" cy="-18" r="4"/></g></g>
+  <g font-size="14" text-anchor="middle" fill="#fff"><text x="80" y="160">New moon</text><text x="220" y="160">Crescent</text><text x="360" y="160">Half moon</text><text x="500" y="160">Gibbous</text><text x="640" y="160">Full moon</text></g>
+  <path d="M120 186 H600" stroke="#ffd166" stroke-width="2"/><path d="M600 186 l-10 -6 v12z" fill="#ffd166"/>
+  <text x="360" y="182" font-size="11" fill="#ffd166" text-anchor="middle">about 15 days</text>
+</svg>
