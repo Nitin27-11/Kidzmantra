@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" width="520" height="360" font-family="Arial, sans-serif">
+  <rect width="520" height="360" fill="#fff"/>
+  <rect x="140" y="20" width="24" height="300" rx="12" fill="#fff" stroke="#333" stroke-width="3"/>
+  <circle cx="152" cy="328" r="22" fill="#e04848" stroke="#333" stroke-width="3"/>
+  <rect x="146" y="211" width="12" height="117" fill="#e04848"/>
+  <g stroke="#333" stroke-width="2">
+    <path d="M164 300h14M164 270h8M164 240h14M164 210h8M164 180h14M164 150h8M164 120h14M164 90h8M164 60h14M164 40h8"/>
+  </g>
+  <!-- labels: 0 at y=300, 100 at y=60 => 2.4 px per degree -->
+  <g font-size="14" fill="#222">
+    <path d="M182 60 H230" stroke="#e04848" stroke-width="2"/><text x="236" y="65">100 °C – water boils</text>
+    <path d="M182 211 H230" stroke="#e04848" stroke-width="2"/><text x="236" y="216">37 °C – normal body temperature (average)</text>
+    <path d="M182 228 H230" stroke="#c98a12" stroke-width="2"/><text x="236" y="240">about 30 °C – a warm day</text>
+    <path d="M182 300 H230" stroke="#3a6fd8" stroke-width="2"/><text x="236" y="305">0 °C – water freezes</text>
+  </g>
+  <g font-size="12" fill="#555" text-anchor="end"><text x="134" y="64">100</text><text x="134" y="184">50</text><text x="134" y="304">0</text></g>
+  <text x="152" y="14" font-size="13" text-anchor="middle" fill="#555">°C</text>
+</svg>

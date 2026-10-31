@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300" font-family="Arial, sans-serif">
+  <rect width="680" height="300" fill="#fff"/>
+  <defs>
+    <g id="beaker"><path d="M-60 0 v130 q0 10 10 10 h100 q10 0 10 -10 v-130" fill="none" stroke="#7aa8c8" stroke-width="4"/><path d="M-58 40 v90 q0 8 8 8 h100 q8 0 8 -8 v-90z" fill="#b8e0fa"/></g>
+    <g id="thermo"><rect x="-6" y="0" width="12" height="190" rx="6" fill="#fff" stroke="#333" stroke-width="2"/><circle cy="196" r="9" fill="#e04848" stroke="#333" stroke-width="2"/><rect x="-2.5" y="110" width="5" height="86" fill="#e04848"/></g>
+  </defs>
+  <g transform="translate(110 120)"><use href="#beaker"/><use href="#thermo" y="-90"/></g>
+  <g transform="translate(340 120)"><use href="#beaker"/><use href="#thermo" y="-60"/></g>
+  <g transform="translate(570 120)"><use href="#beaker"/><use href="#thermo" transform="translate(0 -84) rotate(-24 0 196)"/></g>
+  <g font-size="22" text-anchor="middle" font-weight="bold"><text x="150" y="40" fill="#2e9c6a">✓</text><text x="380" y="40" fill="#e04848">✗</text><text x="610" y="40" fill="#e04848">✗</text></g>
+  <g font-size="14" text-anchor="middle" fill="#222"><text x="110" y="284">(a) Upright, bulb in the water</text><text x="340" y="284">(b) Bulb touching the bottom</text><text x="570" y="284">(c) Tilted</text></g>
+</svg>

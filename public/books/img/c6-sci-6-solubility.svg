@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 310" width="560" height="310" font-family="Arial, sans-serif">
+  <rect width="560" height="310" fill="#fff"/>
+  <g transform="translate(150 40)">
+    <path d="M-60 0 l10 190 h100 l10 -190" fill="#dff2ff" stroke="#7aa8c8" stroke-width="4"/>
+    <path d="M-57 40 l7 150 h100 l7 -150z" fill="#b8e0fa"/>
+    <path d="M10 -30 v140" stroke="#999" stroke-width="5" stroke-linecap="round"/>
+    <text x="0" y="230" font-size="15" text-anchor="middle" fill="#222">Sugar in water: dissolves</text>
+    <text x="0" y="250" font-size="13" text-anchor="middle" fill="#555">(clear – sugar cannot be seen)</text>
+  </g>
+  <g transform="translate(410 40)">
+    <path d="M-60 0 l10 190 h100 l10 -190" fill="#dff2ff" stroke="#7aa8c8" stroke-width="4"/>
+    <path d="M-57 40 l7 150 h100 l7 -150z" fill="#b8e0fa"/>
+    <path d="M-50 190 q50 -26 100 0z" fill="#d9b46a"/>
+    <g fill="#b8903e"><circle cx="-30" cy="180" r="3"/><circle cx="-10" cy="176" r="3"/><circle cx="12" cy="178" r="3"/><circle cx="30" cy="182" r="3"/><circle cx="0" cy="184" r="3"/></g>
+    <text x="0" y="230" font-size="15" text-anchor="middle" fill="#222">Sand in water: does not dissolve</text>
+    <text x="0" y="250" font-size="13" text-anchor="middle" fill="#555">(settles at the bottom)</text>
+  </g>
+</svg>

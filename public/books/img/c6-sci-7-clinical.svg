@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" width="680" height="200" font-family="Arial, sans-serif">
+  <rect width="680" height="200" fill="#fff"/>
+  <rect x="80" y="70" width="560" height="44" rx="22" fill="#f4fbff" stroke="#333" stroke-width="3"/>
+  <ellipse cx="72" cy="92" rx="30" ry="16" fill="#c0c7cf" stroke="#333" stroke-width="3"/>
+  <path d="M102 92 H118 q6 -8 12 0 H420" stroke="#9aa3ad" stroke-width="5" fill="none"/>
+  <g stroke="#333" stroke-width="1.5"><path d="M160 70v12M180 70v7M200 70v7M220 70v7M240 70v7M260 70v12M280 70v7M300 70v7M320 70v7M340 70v7M360 70v12M380 70v7M400 70v7M420 70v7M440 70v7M460 70v12M480 70v7M500 70v7M520 70v7M540 70v7M560 70v12M580 70v7M600 70v7"/></g>
+  <g font-size="13" text-anchor="middle" fill="#222"><text x="160" y="106">35</text><text x="260" y="106">36</text><text x="360" y="106">37</text><text x="460" y="106">38</text><text x="560" y="106">39</text></g>
+  <path d="M362 70 v-8" stroke="#e04848" stroke-width="3"/><path d="M356 58 l6 6 l6 -6" stroke="#e04848" stroke-width="2" fill="none"/>
+  <g font-size="14" fill="#222">
+    <path d="M72 120 V160" stroke="#888"/><text x="40" y="178">bulb</text>
+    <path d="M124 90 L150 30" stroke="#888"/><text x="140" y="24">kink</text>
+    <text x="300" y="40" fill="#e04848">37 °C (average normal)</text>
+    <text x="440" y="160">each small division = 0.1 °C</text>
+  </g>
+</svg>

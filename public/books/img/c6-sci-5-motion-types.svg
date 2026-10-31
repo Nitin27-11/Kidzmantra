@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="720" height="280" font-family="Arial, sans-serif">
+  <rect width="720" height="280" fill="#fff"/>
+  <defs><marker id="h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e04848"/></marker></defs>
+  <!-- (a) train on straight track -->
+  <g transform="translate(20 0)">
+    <path d="M0 190 H200" stroke="#555" stroke-width="4"/><g stroke="#8b5a2b" stroke-width="4"><path d="M10 186v10M40 186v10M70 186v10M100 186v10M130 186v10M160 186v10M190 186v10"/></g>
+    <rect x="30" y="130" width="110" height="50" rx="8" fill="#3a6fd8"/><rect x="140" y="146" width="34" height="34" rx="6" fill="#244c9e"/>
+    <rect x="44" y="140" width="22" height="18" rx="3" fill="#cfe6ff"/><rect x="76" y="140" width="22" height="18" rx="3" fill="#cfe6ff"/><rect x="108" y="140" width="22" height="18" rx="3" fill="#cfe6ff"/>
+    <circle cx="55" cy="184" r="8" fill="#333"/><circle cx="115" cy="184" r="8" fill="#333"/><circle cx="158" cy="184" r="8" fill="#333"/>
+    <path d="M30 100 H190" stroke="#e04848" stroke-width="3" marker-end="url(#h)"/>
+  </g>
+  <!-- (b) giant wheel -->
+  <g transform="translate(360 140)">
+    <circle r="80" fill="none" stroke="#2bb3a3" stroke-width="5"/>
+    <g stroke="#2bb3a3" stroke-width="2"><path d="M-80 0H80M0 -80V80M-57 -57L57 57M-57 57L57 -57"/></g>
+    <g fill="#ffd166" stroke="#c99a12" stroke-width="2"><rect x="-10" y="-92" width="20" height="16" rx="3"/><rect x="70" y="-8" width="20" height="16" rx="3"/><rect x="-10" y="76" width="20" height="16" rx="3"/><rect x="-90" y="-8" width="20" height="16" rx="3"/></g>
+    <circle r="8" fill="#333"/><path d="M0 0 L-34 96 M0 0 L34 96" stroke="#888" stroke-width="5"/>
+    <path d="M60 -90 A108 108 0 0 1 108 -10" stroke="#e04848" stroke-width="3" fill="none" marker-end="url(#h)"/>
+  </g>
+  <!-- (c) swing -->
+  <g transform="translate(600 40)">
+    <path d="M-70 0 H70" stroke="#8b5a2b" stroke-width="8"/>
+    <g opacity=".3" stroke="#555" stroke-width="2"><path d="M-14 0 L-74 140 M14 0 L-46 140"/></g>
+    <g stroke="#555" stroke-width="2"><path d="M-14 0 V150 M14 0 V150"/></g>
+    <rect x="-24" y="148" width="48" height="10" rx="3" fill="#e04848"/><rect x="-84" y="138" width="48" height="10" rx="3" fill="#e04848" opacity=".3" transform="rotate(23 -60 143)"/>
+    <path d="M-80 190 Q0 220 80 190" stroke="#e04848" stroke-width="3" fill="none" marker-start="url(#h)" marker-end="url(#h)"/>
+  </g>
+  <g font-size="15" text-anchor="middle" fill="#222"><text x="120" y="262">(a) Linear – train on a straight track</text><text x="360" y="262">(b) Circular – giant wheel</text><text x="600" y="262">(c) Oscillatory – swing</text></g>
+</svg>

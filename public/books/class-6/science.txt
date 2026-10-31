@@ -866,194 +866,564 @@ A: A compass has a magnetised needle that turns freely and always comes to rest 
 > List all the objects at home that use magnets. Group them by use – holding, sound, motion, direction.
 
 @@ 5
-SCENE: 📏 🚗 🎡 | Measurement and motion!
+SCENE: 📏 🚗 🎡 | How long? How fast? Let's measure!
 
-## 🎬 Let's begin
-Long ago, people measured length using their **hand span**, **foot**, **cubit** (elbow to fingertip) or **angul** (finger width). But whose hand? A tall farmer's span and a small child's span are different! Imagine buying cloth that way… 😅 That's why we needed **standard units**.
+## 5.1 Introduction
+How tall are you? How far is your school from your home? How long is your classroom? To answer such questions, we need to **measure**.
 
-SAY: aarav-think | Why can't we just use hand spans to measure?
-SAY: buddy-happy | Hand spans differ from person to person. Standard units like the metre are the same everywhere.
+Long ago, people in different parts of the world measured length using parts of their own body. In India, people used the **angul** (the width of a finger), the **mutthi** (a fist), the **balisht** or **hand span** (from the tip of the thumb to the tip of the little finger of a stretched hand), and the **hasta** or **cubit** (from the elbow to the tip of the middle finger). Distances were measured in **paces** (steps).
 
-## 🤔 What is measurement?
-> 📌 **Measurement** is comparing an unknown quantity with a known fixed quantity called a **unit**. Every measurement has a **number** and a **unit**: 3 **metres**.
-**Standard units** are the same everywhere. Scientists worldwide use the **SI system** (International System of Units).
-- The SI unit of length is the **metre (m)**.
-- 1 m = 100 cm; 1 cm = 10 mm; 1 km = 1,000 m.
+SAY: aarav-think | Riya and I both measured our classroom door in hand spans. I got 11 and she got 12! Who is right?
+SAY: buddy | You both measured carefully, Aarav! The answers differ because your hands are different sizes. That is exactly why people needed standard units.
 
-## 📏 Measuring correctly with a ruler
-1. Place the ruler **along** the object, touching it.
-2. Start at **0** (or at a clear mark like 1 cm if the edge is broken, and subtract it).
-3. Keep your eye **directly above** the reading – looking from the side gives a wrong reading.
-4. To measure a **curved line**, lay a thread along it, mark the ends, and measure the straightened thread.
+In this chapter, we will learn why standard units are needed, how to measure length correctly, and how to describe **motion** – the movement of objects around us.
 
-## 🚗 What is motion?
-> 📌 An object is in **motion** if its **position changes with time**. If it doesn't change, it is **at rest**.
-Motion is described with respect to something else (a **reference point**). A passenger is at rest compared to the bus seat but in motion compared to a tree outside!
+## 5.2 What is Measurement?
+> **Definition: Measurement**
+> **Measurement** is the comparison of an unknown quantity with a known, fixed quantity. The known fixed quantity is called a **unit**.
 
-SAY: riya-wow | A merry-go-round shows circular motion!
+The result of a measurement has two parts – a **number** and a **unit**. If the length of a table is 2 metres, then "2" is the number and "metre" is the unit. Writing just "2" tells us nothing – 2 what? 2 centimetres, 2 metres or 2 kilometres?
 
-## 🧩 Types of motion
-- **Linear (rectilinear) motion:** along a straight line – a train on a straight track, a falling apple, a march-past.
-- **Circular motion:** along a circular path – a merry-go-round, the tip of a fan blade, a stone whirled on a string.
-- **Oscillatory (periodic) motion:** to-and-fro about a fixed point, repeating – a swing, a pendulum, a plucked sitar string.
-> 💡 Many objects show more than one motion. A bicycle wheel spins (circular) while the bicycle moves forward (linear).
+> **Activity 5.1: Measure with your hand span**
+> Measure the length of your desk using your hand span. Ask three friends to measure the same desk with their hand spans. Record the results in a table.
 
-## 🌍 In real life
-Tailors use measuring tapes, doctors measure height, athletes time their races, and GPS measures distances on maps.
+| Name | Length of desk (in hand spans) |
+| Riya | 6 |
+| Aarav | 5 and a half |
+| Meena | 6 and a half |
+| Joseph | 5 |
 
-## ✋ Try it yourself
-Measure your desk with your hand span, then with a ruler. Ask a friend to do the same. Whose hand-span answer is different? Whose ruler answer?
+The desk is the same, but the measurements differ because the hand spans are different. Body parts are not reliable units, because they change from person to person.
 
-## ⚠️ Common mistakes
-- Starting from the edge of the ruler instead of the 0 mark.
-- Forgetting to write the unit – "5" means nothing; "5 cm" does!
+FIG: c6-sci-5-body-units.svg | Fig. 5.1: Some old units of length based on the body – (a) angul, (b) hand span, (c) cubit and (d) pace
 
-## 🧠 Quick recap
-- Standard units make measurement fair; SI unit of length = metre.
-- Measure carefully: start at 0, eye directly above.
-- Motion types: linear, circular, oscillatory.
+## 5.3 Standard Units
+To make measurements the same everywhere, people agreed on **standard units**. A standard unit does not change with the person or the place.
 
-## 📖 New words
-- **SI unit** – internationally agreed standard unit
-- **Reference point** – what we compare position with
-- **Oscillatory** – moving to and fro repeatedly
+In 1790s France, scientists created the **metric system**. Today, scientists all over the world use the **International System of Units**, called **SI units**.
 
-## 🎮 Quiz time!
-MCQ: The SI unit of length is the | Centimetre | *Metre | Kilometre | Foot ||
-FILL: 1 km = ___ m | 1000;1,000 ||
-MCQ: A swinging pendulum shows | Linear motion | Circular motion | *Oscillatory motion | No motion ||
-TF: Hand span is a standard unit. | false || It changes from person to person.
-MCQ: The tip of a moving fan blade shows | *Circular motion | Linear motion | Oscillatory motion | Rest ||
+> **Definition: SI unit of length**
+> The SI unit of length is the **metre**, written as **m**.
+
+For measuring small lengths, we use **centimetres (cm)** and **millimetres (mm)**. For long distances, we use **kilometres (km)**.
+
+| Unit | Relation | Used to measure |
+| Millimetre (mm) | 10 mm = 1 cm | Thickness of a coin, length of an ant |
+| Centimetre (cm) | 100 cm = 1 m | Length of a pencil, width of a book |
+| Metre (m) | 1 m = 100 cm | Length of a room, height of a tree |
+| Kilometre (km) | 1 km = 1000 m | Distance between towns |
+
+> **Example 5.1**
+> (a) Convert 3.5 m into centimetres. (b) Convert 2500 m into kilometres.
+> **Solution:** (a) 1 m = 100 cm, so 3.5 m = 3.5 × 100 cm = **350 cm**.
+> (b) 1000 m = 1 km, so 2500 m = 2500 ÷ 1000 km = **2.5 km**.
+
+SAY: riya-happy | So the metre is like a hand span that everyone in the world has agreed to share!
+
+## 5.4 Measuring Length Correctly
+We use different tools for different lengths – a **ruler** (scale) for short lengths, a **measuring tape** for cloth or the size of a room, and a **metre scale** for longer objects.
+
+Follow these rules to measure correctly with a ruler:
+1. Place the ruler **along** the length of the object, touching it.
+2. Line up one end of the object with the **zero mark** of the ruler.
+3. If the ruler's edge is broken or worn, start at a clear full mark, such as 1 cm, and **subtract** it from the final reading.
+4. Keep your eye **directly above** the point where you take the reading. Looking from the side gives a wrong reading.
+
+FIG: c6-sci-5-ruler.svg | Fig. 5.2: Reading a ruler – keep your eye directly above the mark (position B), not to one side (A or C)
+
+> **Example 5.2**
+> Aarav's ruler is broken, so he places one end of his pencil at the 2.0 cm mark. The other end is at the 12.5 cm mark. What is the length of the pencil?
+> **Solution:** Length = 12.5 cm − 2.0 cm = **10.5 cm**.
+
+### Measuring a curved line
+A ruler cannot bend. To measure a curved line, such as a curved road on a map:
+
+> **Activity 5.2: Measure a curved line**
+> Place a thread along the curved line, starting at one end. Hold it down with your fingers as you follow the curve to the other end. Mark the end point on the thread. Now stretch the thread straight along a ruler and measure it. That is the length of the curved line!
+
+FIG: c6-sci-5-curve.svg | Fig. 5.3: Measuring a curved line with a thread
+
+> **Remember:** Always write the **unit** with your answer: "15 cm", not just "15".
+
+## 5.5 Motion and Rest
+Look around you. A bus moves on the road, a bird flies across the sky, a ceiling fan turns and a child swings in the park. A tree, a house and an electric pole stay where they are.
+
+> **Definition: Motion and rest**
+> An object is said to be in **motion** if its **position changes with time**. An object is at **rest** if its position does not change with time.
+
+How do we know an object has moved? We compare its position with something that stays fixed, such as a tree or a building. This is called a **reference point**.
+
+SAY: aarav-wow | When I sit in a moving bus, am I moving or at rest?
+SAY: buddy-think | Both! Compared with your seat, you are at rest. Compared with a tree outside, you are moving. Motion depends on the reference point you choose.
+
+> **Did you know?**
+> Even when you are sitting still in your classroom, you are moving very fast! The Earth spins on its axis and travels around the Sun, carrying you with it.
+
+## 5.6 Types of Motion
+Objects move in different ways. We can group motion into three main types.
+
+### Linear (rectilinear) motion
+When an object moves along a **straight line**, its motion is called **linear** or **rectilinear motion**.
+**Examples:** a train on a straight track, soldiers in a march-past, an apple falling from a tree, a ball rolling straight along the floor.
+
+### Circular motion
+When an object moves along a **circular path**, its motion is called **circular motion**. The object stays at the same distance from a fixed centre.
+**Examples:** the tip of a moving fan blade, a giant wheel, a merry-go-round, a stone tied to a thread and whirled around.
+
+### Oscillatory (periodic) motion
+When an object moves **to and fro** (back and forth) about a fixed point, again and again, its motion is called **oscillatory motion**.
+**Examples:** a swing, a pendulum of a clock, a plucked sitar string, the branch of a tree swaying in the wind.
+
+FIG: c6-sci-5-motion-types.svg | Fig. 5.4: Types of motion – (a) linear, (b) circular and (c) oscillatory
+
+> **Activity 5.3: Make a pendulum**
+> Tie a small stone or a bob to one end of a thread about 50 cm long. Hold the other end firmly (or tie it to a stand). Pull the stone a little to one side and let it go. Watch how it moves to and fro about its central position.
+> **Think:** Is this linear, circular or oscillatory motion?
+
+### More than one type of motion
+Some objects show more than one type of motion at the same time. A **bicycle wheel** turns round and round (circular motion) while the bicycle moves forward along the road (linear motion). The **needle of a sewing machine** moves up and down while the wheel of the machine turns.
+
+| Object | Type of motion |
+| A car on a straight road | Linear |
+| Hands of a clock | Circular |
+| A swing | Oscillatory |
+| A ball rolling down a slope | Linear (the ball also rotates) |
+| A plucked guitar string | Oscillatory |
+| A spinning top | Circular (spinning) |
+
+SAY: riya-happy | My swing goes back and forth – oscillatory! And the giant wheel at the mela goes round – circular!
+
+## Summary
+- **Measurement** is comparing an unknown quantity with a known fixed quantity called a **unit**. Every measurement has a number and a unit.
+- Body parts such as hand span and cubit are not reliable units because they differ from person to person.
+- **Standard units** are the same everywhere. The **SI unit of length** is the **metre (m)**.
+- 1 km = 1000 m; 1 m = 100 cm; 1 cm = 10 mm.
+- To measure correctly, start from the zero mark (or subtract the starting mark), keep the ruler along the object and keep your eye directly above the reading.
+- Curved lines can be measured with a thread.
+- An object is in **motion** if its position changes with time; otherwise it is at **rest**. Motion is described with respect to a **reference point**.
+- Types of motion: **linear** (straight line), **circular** (around a circle) and **oscillatory** (to and fro).
+
+SAY: buddy | Well measured, young scientists! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Measurement | Comparing an unknown quantity with a known fixed quantity |
+| Unit | The fixed quantity used for comparison in measurement |
+| Standard unit | A unit that is the same everywhere |
+| SI units | The International System of Units used by scientists worldwide |
+| Metre | The SI unit of length |
+| Motion | Change in position of an object with time |
+| Reference point | A fixed object used to decide whether something has moved |
+| Linear motion | Motion along a straight line |
+| Circular motion | Motion along a circular path |
+| Oscillatory motion | To-and-fro motion about a fixed point |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: The SI unit of length is the | centimetre | *metre | kilometre | foot ||
+MCQ: A swinging pendulum shows | linear motion | circular motion | *oscillatory motion | no motion ||
+MCQ: The tip of a moving fan blade shows | *circular motion | linear motion | oscillatory motion | rest ||
+MCQ: Which is the best tool to measure the length of a curved line? | A ruler | A metre scale | *A thread and a ruler | A hand span ||
+MCQ: 1 km is equal to | 100 m | *1000 m | 10 m | 10000 m ||
+
+### B. Fill in the blanks
+FILL: 1 m = ___ cm | 100 ||
 FILL: 250 cm = ___ m | 2.5 ||
+FILL: An object is in motion if its ___ changes with time. | position ||
+FILL: Motion along a straight line is called ___ motion. | linear;rectilinear ||
+
+### C. True or False
+TF: Hand span is a standard unit of length. | false || It changes from person to person.
+TF: An object can be at rest with respect to one object and in motion with respect to another. | true ||
+TF: A bicycle wheel shows only linear motion. | false || The wheel turns (circular) while the bicycle moves forward (linear).
+TF: We should keep our eye directly above the mark while reading a ruler. | true ||
+
+### D. Short answer questions
+Q: Why are body parts not reliable units for measuring length?
+A: The size of body parts, such as the hand span, differs from person to person, so different people get different measurements of the same object.
+Q: Convert (a) 4.2 km into metres (b) 75 mm into centimetres.
+A: (a) 4.2 × 1000 = 4200 m. (b) 75 ÷ 10 = 7.5 cm.
+Q: A pencil is placed between the 3.0 cm and 14.5 cm marks of a ruler. What is its length?
+A: 14.5 cm − 3.0 cm = 11.5 cm.
+Q: Give two examples each of circular and oscillatory motion.
+A: Circular: fan blade, giant wheel (also merry-go-round, clock hands). Oscillatory: swing, pendulum (also plucked string).
+
+### E. Long answer questions
+Q: List the steps to measure the length of an object correctly using a ruler.
+A: Place the ruler along the length of the object, touching it. Line up one end with the zero mark, or with a clear full mark if the ruler is broken, and subtract that value later. Read the mark at the other end, keeping the eye directly above it. Write the answer with the correct unit.
+Q: "Motion is relative." Explain with an example.
+A: Whether an object is moving depends on the reference point. A passenger sitting in a moving bus is at rest with respect to the seat and the other passengers, but in motion with respect to trees and buildings outside, because their position compared with those objects keeps changing.
+Q: Describe the three types of motion with two examples each.
+A: Linear motion is along a straight line – a train on a straight track, a falling apple. Circular motion is along a circular path – a giant wheel, the tip of a fan blade. Oscillatory motion is to-and-fro about a fixed point – a swing, a clock pendulum.
+
+### F. Projects and activities
+> **Activity: Make your own measuring tape**
+> Take a long strip of chart paper. Using a ruler, mark centimetres along it up to 100 cm. Use your tape to measure the height of your family members and the length of things at home.
+> **Activity: Motion hunt**
+> Walk around your home and school. List ten moving things and write whether each shows linear, circular or oscillatory motion – or more than one!
 
 @@ 6
-SCENE: 🧱 🪵 🥛 | Materials around us!
+SCENE: 🧱 🪵 🥛 | What is it made of?
 
-## 🎬 Let's begin
-Your water bottle, school bag, pencil and shoes – what are they made of? Plastic, cloth, wood, rubber, metal… These are **materials**. Choosing the right material matters: imagine a paper umbrella or a glass football! ☂️
+## 6.1 Introduction
+Look at the things in your school bag – a steel water bottle, a plastic lunch box, a wooden pencil, a paper notebook, a rubber eraser and a cloth bag. Each object is made of something. Why is your notebook made of paper and not of steel? Why is your water bottle not made of paper?
 
-SAY: riya-happy | A chair can be made of wood, plastic or metal!
+SAY: aarav-wow | Imagine a paper umbrella or a glass football!
+SAY: buddy | Ha ha! Neither would work, Aarav. Every object is made of a material that suits its use. Let's find out how we choose the right material.
 
-## 🤔 What are materials?
-> 📌 **Objects** are things we use. **Materials** are what objects are **made of**.
-- One object can be made of many materials (a pencil: wood + graphite + paint).
-- One material can make many objects (wood: chair, door, table, pencil).
+In this chapter, we will learn what materials are, how they differ from one another in their **properties**, and why grouping materials by their properties is so useful.
 
-SAY: buddy-happy | Materials have properties: hard or soft, shiny or dull, see-through or not.
+## 6.2 Objects and Materials
+> **Definition: Object and material**
+> The things we use are called **objects**. The substances that objects are made of are called **materials**.
 
-## 🧩 Properties of materials
-We sort materials by their **properties** (features):
-- **Appearance – lustre:** metals like gold, copper and steel are **shiny (lustrous)**. Wood, paper and cloth are dull.
-- **Hardness:** **hard** materials are difficult to scratch or press (iron, stone); **soft** ones can be pressed or scratched easily (cotton, sponge).
-- **Solubility in water:** sugar, salt and lemon juice **dissolve** (soluble); sand, chalk and sawdust do not (insoluble).
-- **Floating or sinking:** wood, cork, dry leaves and plastic balls **float**; stones, coins and iron nails **sink**.
-- **Transparency:**
-  - **Transparent:** we can see clearly through them – clear glass, clean water.
-  - **Translucent:** we can see through them partly – butter paper, frosted glass, oiled paper.
-  - **Opaque:** we cannot see through them – wood, metal, cardboard, a brick wall.
+A chair is an object; wood, plastic or metal is the material it is made of.
 
-SAY: aarav-think | Sugar dissolves in water but sand doesn't!
+- **One object can be made of different materials.** A tumbler can be made of glass, steel, plastic or copper. A chair can be made of wood, plastic or iron.
+- **One object can contain many materials.** A pencil has wood outside, graphite inside, paint on its surface and perhaps a rubber eraser at one end.
+- **One material can be used to make many objects.** Wood is used to make chairs, tables, doors, boats, pencils and toys.
 
-## 🧪 Liquids and gases in water
-- Some liquids mix completely with water (vinegar, milk); some don't and form a separate layer (oil, kerosene).
-- Some gases dissolve in water – oxygen dissolved in water lets fish breathe!
+| Material | Objects made from it |
+| Wood | Chair, table, door, pencil, cricket bat |
+| Glass | Window pane, bottle, mirror, spectacles |
+| Plastic | Bucket, lunch box, pen, toy |
+| Metal (iron, steel, copper) | Utensils, nails, wires, bicycle |
+| Cotton cloth | Shirt, bedsheet, towel, bag |
+| Paper | Notebook, newspaper, envelope |
 
-## ⚙️ Why grouping helps
-Sorting materials by properties makes it easy to choose the right one:
-- Cooking pots → **metal** (good at conducting heat), handles → **plastic/wood** (poor conductors).
-- Windows → **transparent glass**.
-- Raincoats → **waterproof plastic**.
+> **Activity 6.1: Objects and their materials**
+> List ten objects in your classroom. Next to each, write the material or materials it is made of. Then group together the objects that are made of the same material.
 
-## ✋ Try it yourself
-Collect 10 small objects. Test each: does it float or sink? Can you see through it? Is it shiny? Make a table.
+## 6.3 Properties of Materials
+Materials differ from one another in many ways. These features are called their **properties**. Let us study some important properties.
 
-## ⚠️ Common mistakes
-- Mixing up "object" and "material": a chair is an object; wood is a material.
-- Thinking heavy things always sink – a huge wooden log floats!
+### Appearance: lustre
+Freshly cut or polished metals like gold, silver, copper and iron **shine**. This shine is called **lustre**, and such materials are called **lustrous**. Wood, paper, cloth and clay do not shine – they are **non-lustrous** (dull).
+Metals often lose their shine over time because air and moisture form a dull layer on them. Rubbing them with sandpaper shows the shine again.
 
-## 🧠 Quick recap
-- Objects are made of materials.
-- Properties: lustre, hardness, solubility, floating/sinking, transparency.
-- Transparent, translucent, opaque.
+> **Activity 6.2: Find the shine**
+> Take an old iron nail, a copper coin and a piece of wood. Rub each with sandpaper. What do you see? The metals become shiny where they are rubbed; the wood does not.
 
-## 📖 New words
-- **Lustre** – shine
-- **Soluble** – can dissolve in a liquid
-- **Translucent** – lets some light through
+### Hardness
+Some materials are difficult to press or scratch – they are **hard**, like iron, stone and diamond. Others can be pressed, scratched or bent easily – they are **soft**, like cotton, sponge, rubber and wax.
 
-## 🎮 Quiz time!
-MCQ: Butter paper is | Transparent | *Translucent | Opaque | Lustrous ||
-TF: Sand is soluble in water. | false || Sand does not dissolve.
-MCQ: Which material is lustrous? | Wood | Cotton | *Copper | Paper ||
-FILL: Things we cannot see through at all are called ___. | opaque ||
-TF: A big wooden log can float on water. | true ||
-MCQ: Which is a material, not an object? | Chair | *Glass | Bottle | Spoon ||
+> **Example 6.1**
+> Riya scratches a piece of chalk, a candle, a steel spoon and a piece of wood with an iron nail. Which is the hardest?
+> **Solution:** The steel spoon is the hardest – it is very difficult to scratch. Chalk and wax scratch very easily, so they are soft.
+
+### Solubility in water
+> **Activity 6.3: Does it dissolve?**
+> **You need:** six glasses of water, and a spoonful each of sugar, salt, sand, chalk powder, sawdust and lemon juice.
+> **What to do:** Add one substance to each glass and stir well. Wait for a few minutes and observe.
+> **Observation:** Sugar, salt and lemon juice disappear in the water – they **dissolve**. Sand, chalk powder and sawdust do not dissolve; they settle down or float.
+
+FIG: c6-sci-6-solubility.svg | Fig. 6.1: Sugar dissolves in water and disappears; sand does not dissolve and settles at the bottom
+
+> **Definition: Soluble and insoluble**
+> Substances that dissolve completely in water are **soluble** in water. Substances that do not dissolve in water, even after stirring, are **insoluble** in water.
+
+Water dissolves so many substances that it is sometimes called a "universal solvent".
+
+**Liquids in water:** Some liquids, such as vinegar, lemon juice and milk, mix completely with water. Others, such as coconut oil, mustard oil and kerosene, do not mix – they form a separate layer on top.
+
+**Gases in water:** Some gases dissolve in water. **Oxygen** dissolved in water allows fish and other water animals to breathe.
+
+SAY: riya-think | So the oxygen that fish breathe is hidden inside the water? I can't see it at all!
+SAY: buddy | That's right, Riya! A small amount of oxygen from the air dissolves in water. Fish take it in through their gills.
+
+### Floating and sinking
+Objects such as dry leaves, cork, a plastic ball and a piece of wood **float** on water. Objects such as a stone, a coin and an iron nail **sink**.
+
+> **Remember:** Whether an object floats does not depend only on how heavy it is. A huge wooden log floats on a river, but a tiny iron pin sinks! It depends on the material and the shape of the object.
+
+### Transparency
+Can you see through a material? Based on this, materials are of three types.
+
+> **Definition: Transparent, translucent and opaque**
+> - **Transparent** materials let light pass through them completely, so we can see clearly through them. Examples: clear glass, clean water, air, some plastics.
+> - **Translucent** materials let only some light pass through, so we can see through them only partly, not clearly. Examples: butter paper, frosted glass, oiled paper, a thin cloth.
+> - **Opaque** materials do not let light pass through them at all, so we cannot see through them. Examples: wood, metal, cardboard, a brick wall.
+
+FIG: c6-sci-6-transparency.svg | Fig. 6.2: Looking at a torch through (a) clear glass – transparent, (b) butter paper – translucent and (c) cardboard – opaque
+
+> **Activity 6.4: See-through test**
+> Hold a lit torch behind a sheet of clear plastic, a sheet of butter paper and a piece of cardboard, one at a time. Look at the torch from the other side. Through which can you see the torch clearly, partly, or not at all?
+
+### Heat: conductors and insulators
+If you touch a steel spoon kept in hot tea, the handle soon feels hot. A wooden or plastic spoon does not get hot so quickly. Materials that let heat pass through them easily, like metals, are called **good conductors of heat**. Materials that do not let heat pass easily, like wood, plastic and cloth, are **poor conductors** (insulators) of heat.
+
+FIG: c6-sci-6-conductor.svg | Fig. 6.3: Cooking pans are made of metal (a good conductor of heat), while their handles are made of plastic or wood (poor conductors)
+
+## 6.4 Grouping Materials
+We can group materials on the basis of their properties:
+
+| Property | Group 1 | Group 2 |
+| Lustre | Lustrous: gold, copper, steel | Non-lustrous: wood, paper, cloth |
+| Hardness | Hard: iron, stone | Soft: cotton, sponge, wax |
+| In water | Soluble: sugar, salt | Insoluble: sand, chalk |
+| On water | Float: cork, wood, leaf | Sink: stone, coin, nail |
+| Light | Transparent: glass, water; Translucent: butter paper | Opaque: wood, metal, cardboard |
+| Heat | Good conductors: metals | Poor conductors: wood, plastic |
+
+### Why grouping helps
+Grouping materials by their properties makes it easy to:
+- **Choose the right material for a job.** Cooking pots are made of metal because metals conduct heat well; their handles are made of plastic or wood so that we can hold them safely. Windows are made of transparent glass to let light in. Raincoats are made of waterproof plastic.
+- **Find things quickly.** Shopkeepers keep grains, pulses, oils and soaps in separate groups.
+- **Study materials** in an organised way.
+
+SAY: aarav-happy | That's why the pressure cooker is steel but its handle is black plastic!
+
+> **Example 6.2**
+> Which material would you choose for (a) the outside of a school bag (b) the frame of spectacles' lenses (c) a lamp shade? Give reasons.
+> **Solution:** (a) Strong, waterproof cloth or plastic – it should be tough and protect books from rain. (b) Transparent glass or plastic – so we can see clearly. (c) A translucent material, such as thin paper or frosted plastic – it lets some light through and spreads it softly.
+
+## Summary
+- **Objects** are made of **materials**. One object can be made of different materials, and one material can make many objects.
+- Materials have different **properties**: appearance (lustre), hardness, solubility in water, floating or sinking, transparency, and how well they conduct heat.
+- Metals are **lustrous**; wood, paper and cloth are **non-lustrous**.
+- **Hard** materials are difficult to press or scratch; **soft** ones are easy to press or scratch.
+- **Soluble** substances dissolve in water; **insoluble** ones do not. Some liquids and gases also dissolve in water.
+- Materials can be **transparent**, **translucent** or **opaque**.
+- Metals are **good conductors** of heat; wood and plastic are **poor conductors**.
+- Grouping materials helps us choose the right material for a purpose.
+
+SAY: buddy | Well done, material detectives! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Object | A thing that we use |
+| Material | The substance an object is made of |
+| Property | A feature of a material, such as hardness or lustre |
+| Lustrous | Shiny, like polished metals |
+| Soluble | Dissolves completely in water |
+| Insoluble | Does not dissolve in water |
+| Transparent | Lets light pass completely; we can see clearly through it |
+| Translucent | Lets some light pass; we can see through it only partly |
+| Opaque | Does not let light pass; we cannot see through it |
+| Conductor of heat | A material that lets heat pass through it easily |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: Which of these is lustrous? | Wood | Paper | *Copper | Cloth ||
+MCQ: Which of these is soluble in water? | Sand | Sawdust | *Salt | Chalk powder ||
+MCQ: Butter paper is | transparent | *translucent | opaque | lustrous ||
+MCQ: A cooking pan is made of metal because metals are | soft | opaque | *good conductors of heat | soluble ||
+MCQ: Which of these floats on water? | A coin | A stone | *A cork | An iron nail ||
+
+### B. Fill in the blanks
+FILL: The substance an object is made of is called its ___. | material ||
+FILL: Materials through which we cannot see at all are called ___. | opaque ||
+FILL: Fish breathe the ___ dissolved in water. | oxygen ||
+FILL: Shiny materials are called ___. | lustrous ||
+
+### C. True or False
+TF: A chair can be made of only one material. | false || It can be made of wood, plastic or metal.
+TF: Oil mixes completely with water. | false || It forms a separate layer.
+TF: Heavy objects always sink and light objects always float. | false || A heavy log floats while a tiny pin sinks.
+TF: Wood is a poor conductor of heat. | true ||
+
+### D. Short answer questions
+Q: What is the difference between an object and a material? Give one example.
+A: An object is a thing we use; a material is what it is made of. A table is an object; wood is its material.
+Q: Name two transparent, two translucent and two opaque materials.
+A: Transparent – glass, water. Translucent – butter paper, frosted glass. Opaque – wood, cardboard.
+Q: Why are the handles of cooking pans made of plastic or wood?
+A: Plastic and wood are poor conductors of heat, so the handle stays cool enough to hold safely.
+Q: Name two liquids that mix with water and two that do not.
+A: Mix: vinegar, lemon juice (also milk). Do not mix: coconut oil, kerosene (also mustard oil).
+
+### E. Long answer questions
+Q: Describe an activity to find out which substances are soluble in water.
+A: Take glasses of water and add a spoonful of a different substance – sugar, salt, sand, chalk powder and sawdust – to each. Stir well and wait a few minutes. Sugar and salt disappear, so they are soluble. Sand and chalk settle at the bottom and sawdust floats, so they are insoluble.
+Q: Why do we group materials? Explain with examples.
+A: Grouping materials by their properties helps us choose the right material for a job – metal for cooking pots because it conducts heat, transparent glass for windows, waterproof plastic for raincoats. It also helps us find things quickly, as shopkeepers group similar items together, and helps us study materials in an orderly way.
+Q: Suggest a suitable material for each, with a reason: (a) a bucket (b) a window (c) the handle of a frying pan.
+A: (a) Plastic or metal – strong and waterproof. (b) Glass – transparent, so light comes in. (c) Wood or plastic – a poor conductor of heat, so it does not get hot.
+
+### F. Projects and activities
+> **Activity: Property table**
+> Collect ten small objects from home. Test each for lustre, hardness, floating or sinking, and transparency. Record your results in a table and share it with your class.
+> **Activity: Design challenge**
+> Design a lunch box that keeps food warm. Which materials would you use for the outside and the inside, and why? Draw your design and label the materials.
 
 @@ 7
 SCENE: 🌡️ 🤒 ❄️ | How hot? How cold?
 
-## 🎬 Let's begin
-Touch an ice cube and then a cup of warm milk. One is cold, the other is hot. But how cold? How hot? Our touch can fool us – after holding ice, normal water feels warm! To be exact, we measure **temperature**. 🌡️
+## 7.1 Introduction
+On a summer afternoon, the road feels burning hot under your feet. In winter, the water from the tap makes your fingers tingle with cold. When you have a fever, your mother touches your forehead and says, "You are warm." But exactly how hot or how cold is something? Our sense of touch can only give a rough idea – and sometimes it can even fool us.
 
-SAY: aarav-think | Can I tell how hot something is just by touching it?
-SAY: buddy-happy | Touch can fool us! A thermometer measures temperature correctly.
+SAY: riya-think | Mummy said I felt hot, but Papa said I felt fine. Who was right?
+SAY: buddy | Touch can't tell us exactly, Riya. To know for sure, we need to measure temperature with a thermometer.
 
-## 🤔 What is temperature?
-> 📌 **Temperature** tells us **how hot or cold** something is. It is measured with a **thermometer**. The common unit is the **degree Celsius (°C)**.
-- Water freezes at **0 °C** and boils at **100 °C** (at normal pressure).
-- The SI unit of temperature is the **kelvin (K)**; 0 °C ≈ 273 K.
+In this chapter, we will learn what temperature is, why we cannot trust our touch to judge it, how different thermometers work and how to use and read them correctly.
 
-SAY: riya-happy | Normal body temperature is about 37 °C!
+## 7.2 Hot and Cold: Can We Trust Our Touch?
+> **Activity 7.1: Fool your hands**
+> **You need:** three bowls – one with cold water (add a few ice cubes), one with lukewarm (slightly warm) water and one with water at room temperature.
+> **What to do:** Put your left hand in the cold water and your right hand in the lukewarm water. Keep them there for about one minute. Then put **both** hands together into the bowl of room-temperature water.
+> **Observation:** Your left hand feels that the water is **warm**, but your right hand feels that the **same** water is **cool**!
+> **Conclusion:** Our sense of touch is not a reliable way to judge how hot or cold something is.
 
-## 🧩 Types of thermometers
-**1. Clinical thermometer** – measures **body temperature**.
-- Range: about **35 °C to 42 °C** (our body never goes far outside this).
-- Average normal body temperature is about **37 °C** (it can vary a little from person to person and during the day).
-- It has a **kink** (a bend) that stops the mercury level from falling back, so you can read it after taking it out.
-- Shake it gently before use to bring the level below 35 °C.
+FIG: c6-sci-7-three-bowls.svg | Fig. 7.1: The same water feels warm to one hand and cool to the other
 
-**2. Laboratory thermometer** – measures temperatures of other things (water, liquids).
-- Range: about **–10 °C to 110 °C**.
-- No kink – read it **while it is still in** the liquid.
-- Hold it upright; the bulb should not touch the container.
+> **Caution:** Never test very hot water, a hot iron or a stove with your hand. Touching very hot things can burn you.
 
-**3. Digital thermometer** – shows the number on a screen. Safe and easy, now widely used. Infrared thermometers measure without touching.
+## 7.3 What is Temperature?
+> **Definition: Temperature**
+> **Temperature** is a measure of how **hot** or **cold** an object is. A hotter object has a higher temperature than a colder one.
 
-## ⚠️ Mercury safety
-Older thermometers contain **mercury**, which is poisonous. If one breaks, don't touch it – tell an adult. Many countries are replacing them with digital ones.
+Temperature is measured with an instrument called a **thermometer**. The unit of temperature commonly used in daily life is the **degree Celsius**, written as **°C**. It is named after the Swedish scientist Anders Celsius.
 
-## ⚙️ Reading a thermometer correctly
-1. Note the range and what each small division stands for.
-2. Keep your eye **level** with the top of the liquid.
-3. For a clinical thermometer, keep the bulb under the tongue or in the armpit for about 1 minute.
+On the Celsius scale:
+- Pure water **freezes** (turns into ice) at **0 °C**.
+- Pure water **boils** at **100 °C** (at normal air pressure).
+- The average normal temperature of the human body is about **37 °C**.
 
-## 🌍 In real life
-Weather reports, fridges and ovens, fever checks, and keeping vaccines and medicines at the right temperature.
+The SI unit of temperature is the **kelvin (K)**. To change degrees Celsius into kelvin, we add 273 (approximately). So 0 °C is about 273 K.
 
-## ✋ Try it yourself
-Put one hand in cold water and one in warm water for a minute, then both in normal water. Each hand "feels" a different temperature – proof that touch is unreliable!
+FIG: c6-sci-7-scale.svg | Fig. 7.2: Some temperatures on the Celsius scale
 
-## ⚠️ Common mistakes
-- Using a clinical thermometer to check hot water – it can break (range only up to 42 °C).
-- Taking a laboratory thermometer out of the liquid before reading.
+## 7.4 The Clinical Thermometer
+A thermometer used to measure the temperature of the **human body** is called a **clinical thermometer**. Doctors and nurses use it, and many families keep one at home.
 
-## 🧠 Quick recap
-- Temperature = how hot or cold; measured in °C with thermometers.
-- Clinical: 35–42 °C, has a kink. Lab: –10 to 110 °C, no kink.
-- Normal body temperature ≈ 37 °C.
+The traditional clinical thermometer is a long, narrow glass tube with a **bulb** at one end. The bulb contains a shiny liquid (mercury). When the bulb touches a warm body, the liquid expands and rises up a very thin tube inside. A **scale** marked on the glass shows the temperature.
 
-## 📖 New words
-- **Thermometer** – instrument to measure temperature
-- **Kink** – a bend in a clinical thermometer
-- **Celsius** – temperature scale with water freezing at 0°
+### Main features
+- **Range:** a clinical thermometer reads from **35 °C to 42 °C**. Our body temperature normally stays within this range, even when we are ill.
+- **Kink:** just above the bulb, the tube has a small bend called a **kink**. It stops the liquid from falling back into the bulb on its own when the thermometer is taken out of the mouth, so that we can read it calmly.
+- **Divisions:** each small division on the scale usually stands for **0.1 °C**.
 
-## 🎮 Quiz time!
-FILL: Water boils at ___ °C. | 100 ||
-MCQ: The range of a clinical thermometer is | 0–100 °C | *35–42 °C | –10–110 °C | 20–50 °C ||
-TF: A laboratory thermometer has a kink. | false || Only the clinical thermometer has a kink.
-MCQ: Average normal human body temperature is about | 30 °C | *37 °C | 42 °C | 98 °C ||
-TF: Our sense of touch always tells temperature correctly. | false ||
-MCQ: Which thermometer is safest to use at home? | Mercury | *Digital | Laboratory | None ||
+FIG: c6-sci-7-clinical.svg | Fig. 7.3: A clinical thermometer – the kink stops the liquid from falling back
+
+### How to use a clinical thermometer
+1. Wash the thermometer with an antiseptic solution or soap and water.
+2. Hold it firmly and give it a few gentle jerks so that the liquid falls **below 35 °C**.
+3. Place the bulb **under the tongue** (or in the armpit) for about **one minute**.
+4. Take it out and read it, holding it at eye level. Do not hold it by the bulb.
+5. Wash it again after use.
+
+> **Remember:** "Normal" body temperature is about 37 °C on average, but it can be slightly higher or lower in different healthy people and at different times of the day. A temperature well above normal is called a **fever**.
+
+SAY: aarav-wow | Wait – 37 °C is normal, but 39 °C means a fever? Just two degrees makes such a difference?
+SAY: buddy | Yes, Aarav! Our body works best in a very narrow range of temperatures. That's why even a small rise matters.
+
+### Digital thermometers
+Today, many homes and hospitals use **digital thermometers**. They have a small sensor at the tip and show the temperature as numbers on a screen, often with a beep when the reading is ready. They are easy to read and safer, because they contain no glass or mercury. **Infrared thermometers** can even measure body temperature from the forehead without touching.
+
+> **Mercury safety**
+> Mercury is a **poisonous** substance. If a mercury thermometer breaks, do not touch the shiny drops. Tell an adult at once. Because of this danger, many countries are replacing mercury thermometers with digital ones.
+
+## 7.5 The Laboratory Thermometer
+A clinical thermometer cannot be used to measure the temperature of boiling water or ice – it would read only 35 °C to 42 °C and could break if heated too much. For other objects, we use a **laboratory thermometer**.
+
+| Feature | Clinical thermometer | Laboratory thermometer |
+| Used for | Human body temperature | Temperature of water, liquids and other objects |
+| Range | 35 °C to 42 °C | About −10 °C to 110 °C |
+| Kink | Has a kink | No kink |
+| When to read | After taking it out | While it is still in the liquid |
+| Shaking before use | Yes | No |
+
+### How to use a laboratory thermometer
+1. Hold the thermometer **upright** (vertical), not tilted.
+2. The bulb should be **completely surrounded** by the substance – for example, dipped in the water.
+3. The bulb should **not touch** the bottom or the sides of the container.
+4. Wait until the liquid in the tube stops moving.
+5. Read the temperature **while the thermometer is still in** the water, because there is no kink – the level begins to change as soon as it is taken out.
+
+FIG: c6-sci-7-lab.svg | Fig. 7.4: Using a laboratory thermometer – (a) the right way, (b) bulb touching the bottom (wrong) and (c) tilted (wrong)
+
+## 7.6 Reading a Thermometer Correctly
+1. First find out the **range** of the thermometer and what each small division stands for.
+2. Keep your **eye level** with the top of the liquid column. Looking from above or below gives a wrong reading.
+3. Note the number, and do not forget the unit, °C.
+
+> **Example 7.1**
+> On a laboratory thermometer, there are 10 small divisions between the 20 °C and 30 °C marks. The liquid stands 4 small divisions above 20 °C. What is the temperature?
+> **Solution:** 10 divisions stand for 30 − 20 = 10 °C, so each division = 1 °C. The temperature is 20 °C + 4 × 1 °C = **24 °C**.
+
+> **Example 7.2**
+> A clinical thermometer has 10 small divisions between 37 °C and 38 °C. The reading is 6 divisions above 37 °C. Does the person have a fever?
+> **Solution:** Each division = 1 ÷ 10 = 0.1 °C. Temperature = 37 + 6 × 0.1 = **37.6 °C**. This is slightly above the average normal temperature, so the person may have a mild fever. A doctor should be consulted if it continues.
+
+SAY: riya-happy | I measured the water in my bath bucket – 38 °C. Just right!
+
+## 7.7 Temperature in Everyday Life
+We measure temperature in many places:
+- **Weather reports** tell us the highest (maximum) and lowest (minimum) temperatures of the day.
+- **Refrigerators and ovens** are kept at set temperatures to store or cook food.
+- **Medicines and vaccines** must be kept cool to stay effective.
+- **Doctors** check body temperature to find out if we have a fever.
+- **Factories** control temperatures when making steel, glass and many other things.
+
+> **Did you know?**
+> Some of the hottest places in India, such as Phalodi in Rajasthan, have recorded temperatures above **50 °C** in summer, while places like Dras in Ladakh can fall below **−40 °C** in winter!
+
+## Summary
+- Our **sense of touch** is not a reliable way to judge how hot or cold something is.
+- **Temperature** is a measure of how hot or cold an object is. It is measured with a **thermometer**.
+- The common unit of temperature is the **degree Celsius (°C)**; the SI unit is the **kelvin (K)**.
+- Water freezes at 0 °C and boils at 100 °C. The average normal human body temperature is about **37 °C**.
+- A **clinical thermometer** measures body temperature. Its range is 35 °C to 42 °C, and it has a **kink**.
+- A **laboratory thermometer** has a range of about −10 °C to 110 °C and no kink. It is read while still in the liquid, held upright, with the bulb not touching the container.
+- **Digital thermometers** are easy to use and safer. **Mercury** is poisonous, so mercury thermometers must be handled carefully.
+- Always read a thermometer with your **eye level** with the top of the liquid.
+
+SAY: buddy | Well done, temperature detectives! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Temperature | A measure of how hot or cold an object is |
+| Thermometer | An instrument used to measure temperature |
+| Degree Celsius (°C) | The common unit of temperature |
+| Kelvin (K) | The SI unit of temperature |
+| Clinical thermometer | A thermometer used to measure body temperature |
+| Laboratory thermometer | A thermometer used to measure the temperature of other objects |
+| Kink | A bend in a clinical thermometer that stops the liquid from falling back |
+| Fever | A body temperature well above normal |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: The range of a clinical thermometer is | 0 °C to 100 °C | *35 °C to 42 °C | −10 °C to 110 °C | 30 °C to 50 °C ||
+MCQ: The average normal temperature of the human body is about | 32 °C | *37 °C | 40 °C | 100 °C ||
+MCQ: Pure water boils at | 0 °C | 37 °C | *100 °C | 110 °C ||
+MCQ: A laboratory thermometer should be read | after taking it out | *while it is still in the liquid | after shaking it | with the bulb touching the bottom ||
+MCQ: The SI unit of temperature is the | degree Celsius | *kelvin | metre | gram ||
+
+### B. Fill in the blanks
+FILL: The bend near the bulb of a clinical thermometer is called a ___. | kink ||
+FILL: Pure water freezes at ___ °C. | 0;zero ||
+FILL: Temperature is measured with a ___. | thermometer ||
+FILL: The liquid used in old thermometers, ___, is poisonous. | mercury ||
+
+### C. True or False
+TF: Our sense of touch always tells us the exact temperature. | false || Touch can be fooled, as in the three-bowl activity.
+TF: A clinical thermometer can be used to measure the temperature of boiling water. | false || Its range is only 35 °C to 42 °C.
+TF: A laboratory thermometer has no kink. | true ||
+TF: We should keep our eye level with the top of the liquid when reading a thermometer. | true ||
+
+### D. Short answer questions
+Q: Why is our sense of touch not reliable for judging temperature?
+A: The same water can feel warm to a hand that was in cold water and cool to a hand that was in warm water, so touch gives different results.
+Q: What is the use of the kink in a clinical thermometer?
+A: It stops the liquid from falling back into the bulb on its own after the thermometer is taken out, so we can read it.
+Q: Why can't we use a clinical thermometer to measure the temperature of hot tea?
+A: Its range is only 35 °C to 42 °C. Hot tea is much hotter, so it cannot be measured, and the thermometer may break.
+Q: Give two advantages of a digital thermometer.
+A: It is easy to read (shows numbers on a screen) and safer because it has no glass or mercury.
+
+### E. Long answer questions
+Q: Describe the three-bowl activity and explain what it teaches us.
+A: Put one hand in cold water and the other in lukewarm water for a minute, then put both hands in room-temperature water. The first hand feels the water is warm and the second feels it is cool, even though it is the same water. This shows that our sense of touch is not a reliable way to judge temperature, so we need a thermometer.
+Q: List the precautions to be taken while using a laboratory thermometer.
+A: Hold it upright. Keep the bulb completely surrounded by the substance. The bulb should not touch the bottom or sides of the container. Wait until the liquid stops moving. Read it while it is still in the liquid, with the eye level with the top of the liquid column.
+Q: Compare a clinical thermometer and a laboratory thermometer in any four ways.
+A: A clinical thermometer measures body temperature; a laboratory thermometer measures the temperature of other things. The clinical one ranges from 35 °C to 42 °C; the laboratory one from about −10 °C to 110 °C. The clinical one has a kink; the laboratory one does not. The clinical one is read after taking it out; the laboratory one while it is still in the liquid.
+
+### F. Projects and activities
+> **Activity: Weather watcher**
+> For one week, write down the maximum and minimum temperatures of your town from a newspaper or a weather app. Draw a bar chart. Which day was the hottest? Which was the coldest?
+> **Activity: Cooling race**
+> With your teacher's help, pour equal amounts of hot water into a steel tumbler and a clay pot. Measure the temperature of each every five minutes using a laboratory thermometer. Which one cools faster?
 
 @@ 8
 SCENE: 💧 🧊 ☁️ | The journey of water!

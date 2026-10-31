@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" font-family="Arial, sans-serif">
+  <rect width="720" height="260" fill="#fff"/>
+  <defs><marker id="m" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e04848"/></marker></defs>
+  <g fill="#c68b59" stroke="#9a6a3e" stroke-width="2">
+    <!-- (a) angul: one finger -->
+    <rect x="70" y="60" width="26" height="120" rx="13"/>
+    <!-- (b) hand span -->
+    <g transform="translate(250 175)">
+      <path d="M-30 0 q-10 -40 10 -60 l50 0 q20 20 10 60z"/>
+      <rect x="-82" y="-62" width="60" height="16" rx="8" transform="rotate(-30 -52 -54)"/>
+      <rect x="-24" y="-150" width="15" height="92" rx="7" transform="rotate(-14 -16 -60)"/>
+      <rect x="-4" y="-156" width="15" height="98" rx="7"/>
+      <rect x="16" y="-150" width="15" height="92" rx="7" transform="rotate(12 22 -60)"/>
+      <rect x="32" y="-128" width="14" height="74" rx="7" transform="rotate(32 40 -60)"/>
+    </g>
+    <!-- (c) cubit: forearm -->
+    <g transform="translate(470 120)">
+      <rect x="-90" y="-16" width="150" height="32" rx="16"/>
+      <path d="M60 -16 h40 q14 0 14 16 q0 16 -14 16 h-40z"/>
+      <circle cx="-88" cy="0" r="18"/>
+    </g>
+  </g>
+  <!-- (d) pace: footprints -->
+  <g fill="#9a6a3e">
+    <ellipse cx="610" cy="190" rx="12" ry="22"/><ellipse cx="660" cy="110" rx="12" ry="22"/>
+  </g>
+  <g stroke="#e04848" stroke-width="3" fill="none" marker-start="url(#m)" marker-end="url(#m)">
+    <path d="M60 200 h46"/><path d="M178 205 h104"/><path d="M380 160 h204"/><path d="M616 172 L654 128"/>
+  </g>
+  <g font-size="15" text-anchor="middle" fill="#222"><text x="83" y="245">(a) Angul</text><text x="235" y="245">(b) Hand span</text><text x="480" y="245">(c) Cubit (hasta)</text><text x="640" y="245">(d) Pace</text></g>
+  <text x="480" y="190" font-size="12" text-anchor="middle" fill="#555">elbow to fingertip</text>
+</svg>
