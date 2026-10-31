@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" width="640" height="320" font-family="Arial, sans-serif">
+  <rect width="640" height="320" fill="#fff"/>
+  <defs><g id="gl"><path d="M-50 0 l8 160 h84 l8 -160" fill="none" stroke="#7aa8c8" stroke-width="4"/></g></defs>
+  <g transform="translate(150 70)">
+    <path d="M-47 30 l6 130 h82 l6 -130z" fill="#d6c9a6"/>
+    <path d="M-43 110 l3 50 h80 l3 -50z" fill="#8a6a3a"/>
+    <use href="#gl"/>
+    <text x="64" y="140" font-size="13" fill="#555">sediment</text><text x="64" y="70" font-size="13" fill="#555">clearer water</text>
+  </g>
+  <g transform="translate(480 66) rotate(-35)">
+    <path d="M-47 50 l5 110 h84 l6 -110z" fill="#e2dac2"/>
+    <path d="M-43 125 l3 35 h80 l3 -35z" fill="#8a6a3a"/>
+    <use href="#gl"/>
+  </g>
+  <path d="M439 95 q-20 40 -20 124" stroke="#d6c9a6" stroke-width="7" fill="none"/>
+  <g transform="translate(420 200)"><path d="M-44 0 l6 80 h76 l6 -80" fill="none" stroke="#7aa8c8" stroke-width="4"/><path d="M-41 40 l3 40 h76 l3 -40z" fill="#e2dac2"/></g>
+  <g font-size="15" text-anchor="middle" fill="#222"><text x="150" y="305">(a) Sedimentation</text><text x="470" y="305">(b) Decantation</text></g>
+</svg>

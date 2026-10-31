@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 290" width="680" height="290" font-family="Arial, sans-serif">
+  <rect width="680" height="290" fill="#eaf5ff"/>
+  <circle cx="600" cy="50" r="28" fill="#ffc83d"/><g stroke="#ffc83d" stroke-width="3"><path d="M600 10v-6M560 50h-8M630 22l5 -5M570 22l-5 -5"/></g>
+  <path d="M0 150 H120 V290 H0z" fill="#3a8fd8"/>
+  <g stroke="#fff" stroke-width="2" fill="none" opacity=".6"><path d="M10 180 q15 -6 30 0 t30 0 M20 220 q15 -6 30 0 t30 0"/></g>
+  <rect x="120" y="150" width="560" height="140" fill="#d9c49a"/>
+  <g stroke="#b5a070" stroke-width="6">
+    <rect x="140" y="165" width="160" height="80" fill="#9fcdee"/>
+    <rect x="320" y="165" width="160" height="80" fill="#cfe6f3"/>
+    <rect x="500" y="165" width="160" height="80" fill="#fbfbfb"/>
+  </g>
+  <g fill="#fff" stroke="#ddd"><path d="M540 245 l30 -40 l30 40z"/><path d="M590 245 l26 -34 l26 34z"/></g>
+  <g stroke="#9fb3c6" stroke-width="2" stroke-dasharray="3 5" fill="none"><path d="M180 160 v-50 M220 160 v-60 M260 160 v-50 M360 160 v-40 M400 160 v-50 M440 160 v-40"/></g>
+  <g font-size="14" text-anchor="middle" fill="#1e2a3a" font-weight="bold"><text x="60" y="140">sea water</text><text x="220" y="278">day 1</text><text x="400" y="278">a few days later</text><text x="580" y="278">salt left behind</text></g>
+</svg>

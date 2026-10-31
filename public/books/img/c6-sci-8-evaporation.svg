@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" font-family="Arial, sans-serif">
+  <rect width="720" height="260" fill="#fff"/>
+  <!-- surface area -->
+  <g transform="translate(120 0)">
+    <path d="M-90 150 q90 24 180 0 l-10 14 q-80 20 -160 0z" fill="#ddd" stroke="#999" stroke-width="2"/><path d="M-80 150 q80 18 160 0" stroke="#9fd3f5" stroke-width="6" fill="none"/>
+    <g stroke="#9fb3c6" stroke-width="2" stroke-dasharray="3 5" fill="none"><path d="M-60 140 v-40 M-30 140 v-50 M0 140 v-50 M30 140 v-50 M60 140 v-40"/></g>
+    <path d="M-30 210 q0 24 30 24 q30 0 30 -24z" fill="#9fd3f5" stroke="#999" stroke-width="2" transform="translate(0 -20)"/>
+    <text x="0" y="40" font-size="15" font-weight="bold" text-anchor="middle" fill="#222">1. Larger surface</text>
+  </g>
+  <!-- heat -->
+  <g transform="translate(360 0)">
+    <circle cx="-40" cy="90" r="22" fill="#ffc83d"/><g stroke="#ffc83d" stroke-width="3"><path d="M-40 58v-8M-72 90h-8M-18 68l6 -6M-62 68l-6 -6"/></g>
+    <g transform="translate(0 30)"><path d="M10 150 h60" stroke="#999" stroke-width="2"/><path d="M14 150 l8 -60 h36 l8 60" fill="#cfe9ff" stroke="#7aa8c8" stroke-width="2"/></g>
+    <text x="0" y="40" font-size="15" font-weight="bold" text-anchor="middle" fill="#222">2. More heat</text>
+  </g>
+  <!-- wind -->
+  <g transform="translate(600 0)">
+    <path d="M-80 70 H80" stroke="#555" stroke-width="3"/>
+    <g fill="#9fd3f5" stroke="#3a6fd8" stroke-width="2"><path d="M-40 70 h30 l4 60 l-38 4z" transform="rotate(10 -25 70)"/><path d="M10 70 h30 l4 60 l-38 4z" transform="rotate(10 25 70)"/></g>
+    <g stroke="#9aa7b4" stroke-width="3" fill="none" stroke-linecap="round"><path d="M-90 170 q20 -10 40 0 t40 0 M-80 195 q20 -10 40 0 t40 0 M-60 220 q20 -10 40 0"/></g>
+    <text x="0" y="40" font-size="15" font-weight="bold" text-anchor="middle" fill="#222">3. Wind</text>
+  </g>
+  <g font-size="13" text-anchor="middle" fill="#555">
+    <text x="120" y="232">same water in a plate dries</text><text x="120" y="248">before the water in a bowl</text>
+    <text x="360" y="232">water in the sun dries</text><text x="360" y="248">faster than in the shade</text>
+    <text x="600" y="246">windy day: clothes dry faster</text>
+  </g>
+</svg>

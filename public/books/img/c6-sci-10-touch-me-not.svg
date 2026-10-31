@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 260" width="620" height="260" font-family="Arial, sans-serif">
+  <rect width="620" height="260" fill="#fff"/>
+  <defs>
+    <g id="open"><path d="M0 0 V-150" stroke="#2e7d4f" stroke-width="4"/>
+      <g fill="#4cc48e"><path d="M0 -20 q-30 -10 -60 -6 q30 12 60 6z M0 -20 q30 -10 60 -6 q-30 12 -60 6z M0 -50 q-30 -10 -60 -6 q30 12 60 6z M0 -50 q30 -10 60 -6 q-30 12 -60 6z M0 -80 q-30 -10 -60 -6 q30 12 60 6z M0 -80 q30 -10 60 -6 q-30 12 -60 6z M0 -110 q-30 -10 -60 -6 q30 12 60 6z M0 -110 q30 -10 60 -6 q-30 12 -60 6z"/></g></g>
+    <g id="closed"><path d="M0 0 V-150" stroke="#2e7d4f" stroke-width="4"/>
+      <g fill="#4cc48e"><path d="M0 -20 q-8 -4 -10 -26 q12 10 10 26z M0 -20 q8 -4 10 -26 q-12 10 -10 26z M0 -50 q-8 -4 -10 -26 q12 10 10 26z M0 -50 q8 -4 10 -26 q-12 10 -10 26z M0 -80 q-8 -4 -10 -26 q12 10 10 26z M0 -80 q8 -4 10 -26 q-12 10 -10 26z M0 -110 q-8 -4 -10 -26 q12 10 10 26z M0 -110 q8 -4 10 -26 q-12 10 -10 26z"/></g></g>
+  </defs>
+  <use href="#open" x="150" y="200"/>
+  <use href="#closed" x="460" y="200"/>
+  <text x="520" y="80" font-size="30">👆</text>
+  <path d="M260 120 h90" stroke="#888" stroke-width="3"/><path d="M350 120 l-10 -7 v14z" fill="#888"/>
+  <text x="305" y="108" font-size="13" text-anchor="middle" fill="#555">touch</text>
+  <g font-size="15" text-anchor="middle" fill="#222"><text x="150" y="235">Leaves open</text><text x="460" y="235">Leaves fold up when touched</text></g>
+</svg>

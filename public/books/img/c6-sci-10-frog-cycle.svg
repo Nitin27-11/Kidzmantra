@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 460" width="560" height="460" font-family="Arial, sans-serif">
+  <rect width="560" height="460" fill="#eef8ff"/>
+  <defs><marker id="f" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#2e7d4f"/></marker></defs>
+  <g stroke="#2e7d4f" stroke-width="3" fill="none" marker-end="url(#f)">
+    <path d="M330 70 Q440 90 460 170"/><path d="M470 270 Q450 360 360 390"/><path d="M200 390 Q110 360 95 280"/><path d="M95 170 Q120 80 220 70"/>
+  </g>
+  <!-- eggs -->
+  <g transform="translate(275 75)"><g fill="#fff" stroke="#7aa8c8" stroke-width="2"><circle cx="-20" cy="0" r="10"/><circle cx="0" cy="-8" r="10"/><circle cx="20" cy="0" r="10"/><circle cx="-8" cy="14" r="10"/><circle cx="12" cy="14" r="10"/></g>
+    <g fill="#222"><circle cx="-20" cy="0" r="4"/><circle cx="0" cy="-8" r="4"/><circle cx="20" cy="0" r="4"/><circle cx="-8" cy="14" r="4"/><circle cx="12" cy="14" r="4"/></g></g>
+  <!-- tadpole -->
+  <g transform="translate(470 220)"><ellipse cx="0" cy="0" rx="16" ry="12" fill="#4a5a3a"/><path d="M14 0 q20 -10 40 4 q-20 4 -40 -4z" fill="#4a5a3a"/></g>
+  <!-- tadpole with legs / froglet -->
+  <g transform="translate(280 390)"><ellipse cx="0" cy="0" rx="20" ry="14" fill="#5a7a3a"/><path d="M18 0 q14 -4 26 2 q-14 4 -26 -2z" fill="#5a7a3a"/><path d="M-10 10 l-12 14 M8 10 l10 14 M-14 -4 l-14 -6" stroke="#5a7a3a" stroke-width="4" stroke-linecap="round"/><circle cx="-12" cy="-6" r="3" fill="#fff"/></g>
+  <!-- adult frog -->
+  <g transform="translate(90 220)"><ellipse cx="0" cy="0" rx="34" ry="24" fill="#4cc48e"/><circle cx="-14" cy="-22" r="9" fill="#4cc48e"/><circle cx="14" cy="-22" r="9" fill="#4cc48e"/><circle cx="-14" cy="-23" r="4" fill="#222"/><circle cx="14" cy="-23" r="4" fill="#222"/>
+    <path d="M-30 14 q-20 6 -14 20 M30 14 q20 6 14 20" stroke="#2e9c6a" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M-10 4 q10 6 20 0" stroke="#1d6b48" stroke-width="2" fill="none"/></g>
+  <g font-size="15" text-anchor="middle" font-weight="bold" fill="#1e2a3a">
+    <text x="275" y="130">1. Eggs (in water)</text><text x="470" y="262">2. Tadpole</text><text x="470" y="280" font-size="12" font-weight="normal">gills, tail</text>
+    <text x="280" y="430">3. Froglet</text><text x="280" y="446" font-size="12" font-weight="normal">legs appear, tail shrinks</text>
+    <text x="90" y="275">4. Adult frog</text><text x="90" y="292" font-size="12" font-weight="normal">lungs, lives on land and in water</text>
+  </g>
+</svg>

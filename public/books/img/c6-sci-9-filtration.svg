@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" width="520" height="330" font-family="Arial, sans-serif">
+  <rect width="520" height="330" fill="#fff"/>
+  <!-- stand -->
+  <rect x="60" y="300" width="160" height="10" fill="#555"/><rect x="70" y="40" width="10" height="262" fill="#555"/><rect x="80" y="120" width="70" height="8" fill="#555"/>
+  <!-- funnel -->
+  <path d="M130 70 h140 l-56 80 v50 h-28 v-50z" fill="#eef8ff" stroke="#7aa8c8" stroke-width="3"/>
+  <path d="M140 74 h120 l-60 74z" fill="#f4f0e6" stroke="#c9bf9a" stroke-width="2"/>
+  <path d="M158 90 h84 l-42 50z" fill="#8a6a3a" opacity=".85"/>
+  <!-- drops -->
+  <g fill="#9fd3f5"><circle cx="200" cy="212" r="4"/><circle cx="200" cy="230" r="4"/></g>
+  <!-- beaker -->
+  <path d="M150 220 v80 h100 v-80" fill="none" stroke="#7aa8c8" stroke-width="3"/><path d="M152 265 v35 h96 v-35z" fill="#cfe9ff"/>
+  <g font-size="14" fill="#222">
+    <path d="M250 96 H360" stroke="#888"/><text x="366" y="100">filter paper</text>
+    <path d="M220 118 H360" stroke="#888"/><text x="366" y="122">residue (mud)</text>
+    <path d="M232 160 H360" stroke="#888"/><text x="366" y="164">funnel</text>
+    <path d="M250 280 H360" stroke="#888"/><text x="366" y="284">filtrate (clear water)</text>
+  </g>
+</svg>

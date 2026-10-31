@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 260" width="680" height="260" font-family="Arial, sans-serif">
+  <rect width="680" height="260" fill="#fff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#e04848"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#3a6fd8"/></marker>
+  </defs>
+  <g text-anchor="middle" font-weight="bold">
+    <rect x="20" y="95" width="150" height="70" rx="16" fill="#e8f7ff" stroke="#7aa8c8" stroke-width="3"/><text x="95" y="128" font-size="17" fill="#244c9e">ICE</text><text x="95" y="150" font-size="13" fill="#555" font-weight="normal">solid</text>
+    <rect x="265" y="95" width="150" height="70" rx="16" fill="#cfe9ff" stroke="#3a6fd8" stroke-width="3"/><text x="340" y="128" font-size="17" fill="#244c9e">WATER</text><text x="340" y="150" font-size="13" fill="#555" font-weight="normal">liquid</text>
+    <rect x="510" y="95" width="150" height="70" rx="16" fill="#f4f6f8" stroke="#9aa7b4" stroke-width="3" stroke-dasharray="6 4"/><text x="585" y="128" font-size="17" fill="#5a6672">WATER VAPOUR</text><text x="585" y="150" font-size="13" fill="#555" font-weight="normal">gas</text>
+  </g>
+  <g stroke-width="3" fill="none">
+    <path d="M140 92 Q217 40 295 92" stroke="#e04848" marker-end="url(#r)"/>
+    <path d="M295 168 Q217 220 140 168" stroke="#3a6fd8" marker-end="url(#b)"/>
+    <path d="M385 92 Q462 40 540 92" stroke="#e04848" marker-end="url(#r)"/>
+    <path d="M540 168 Q462 220 385 168" stroke="#3a6fd8" marker-end="url(#b)"/>
+  </g>
+  <g font-size="14" text-anchor="middle" font-weight="bold">
+    <text x="217" y="44" fill="#e04848">Melting (heat)</text><text x="217" y="226" fill="#3a6fd8">Freezing (cool)</text>
+    <text x="462" y="44" fill="#e04848">Evaporation (heat)</text><text x="462" y="226" fill="#3a6fd8">Condensation (cool)</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" font-family="Arial, sans-serif">
+  <rect width="720" height="380" fill="#e8f4ff"/>
+  <defs><marker id="w" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#1e2a3a"/></marker></defs>
+  <circle cx="70" cy="70" r="36" fill="#ffc83d"/>
+  <!-- land and mountain -->
+  <path d="M330 300 L470 140 L560 230 L620 180 L720 280 V380 H330z" fill="#8bc48a"/>
+  <path d="M470 140 l26 30 l-50 0z" fill="#fff"/>
+  <path d="M0 290 H360 q20 0 30 10 V380 H0z" fill="#3a8fd8"/>
+  <path d="M390 380 q40 -60 120 -70 q60 -6 120 30" stroke="#3a8fd8" stroke-width="10" fill="none"/>
+  <!-- trees -->
+  <g fill="#2e7d4f"><circle cx="600" cy="250" r="16"/><circle cx="640" cy="262" r="14"/></g>
+  <!-- clouds -->
+  <g fill="#fff"><ellipse cx="300" cy="80" rx="70" ry="30"/><ellipse cx="260" cy="70" rx="40" ry="26"/><ellipse cx="340" cy="66" rx="40" ry="26"/>
+  <ellipse cx="520" cy="70" rx="64" ry="28" fill="#c9d3dd"/><ellipse cx="490" cy="60" rx="36" ry="24" fill="#c9d3dd"/></g>
+  <!-- rain -->
+  <g stroke="#3a6fd8" stroke-width="2"><path d="M480 105 l-6 16 M500 108 l-6 16 M520 104 l-6 16 M540 108 l-6 16 M490 130 l-6 16 M510 132 l-6 16 M530 128 l-6 16"/></g>
+  <!-- arrows -->
+  <g stroke="#1e2a3a" stroke-width="3" fill="none" marker-end="url(#w)">
+    <path d="M160 280 Q150 200 230 120"/><path d="M370 80 H440"/><path d="M590 130 Q620 180 560 230"/><path d="M440 330 Q380 320 330 300"/>
+  </g>
+  <g stroke="#9fb3c6" stroke-width="2" stroke-dasharray="3 5" fill="none"><path d="M100 280 v-60 M130 280 v-70 M70 280 v-50"/></g>
+  <g font-size="16" font-weight="bold" fill="#1e2a3a">
+    <text x="20" y="200">1. Evaporation</text><text x="300" y="40">2. Condensation</text><text x="586" y="120">3. Precipitation</text><text x="300" y="350" fill="#fff">4. Collection</text>
+  </g>
+  <g font-size="12" fill="#333"><text x="230" y="140">clouds form</text><text x="600" y="140">rain, snow</text><text x="20" y="218">from oceans, rivers</text><text x="520" y="318">transpiration from plants</text></g>
+</svg>

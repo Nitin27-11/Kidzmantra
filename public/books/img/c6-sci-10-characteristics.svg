@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420" font-family="Arial, sans-serif">
+  <rect width="640" height="420" fill="#fff"/>
+  <circle cx="320" cy="210" r="70" fill="#d8f5e7" stroke="#2e9c6a" stroke-width="3"/>
+  <text x="320" y="204" font-size="18" font-weight="bold" text-anchor="middle" fill="#1d6b48">Living</text>
+  <text x="320" y="226" font-size="18" font-weight="bold" text-anchor="middle" fill="#1d6b48">things</text>
+  <g stroke="#bbb" stroke-width="2">
+    <path d="M320 140 V80 M370 160 L440 105 M390 210 H470 M370 260 L440 315 M320 280 V340 M270 260 L200 315 M250 210 H170 M270 160 L200 105"/>
+  </g>
+  <g font-size="14" text-anchor="middle" font-weight="bold" fill="#1e2a3a">
+    <text x="320" y="48" font-size="28">🍎</text><text x="320" y="70">need food</text>
+    <text x="470" y="78" font-size="28">🫁</text><text x="470" y="100">respire</text>
+    <text x="530" y="200" font-size="28">🚽</text><text x="530" y="222">excrete</text>
+    <text x="470" y="320" font-size="28">🌱</text><text x="470" y="342">grow</text>
+    <text x="320" y="370" font-size="28">🐣</text><text x="320" y="392">reproduce</text>
+    <text x="170" y="320" font-size="28">✋</text><text x="170" y="342">respond to stimuli</text>
+    <text x="110" y="200" font-size="28">🏃</text><text x="110" y="222">move</text>
+    <text x="170" y="78" font-size="28">⏳</text><text x="170" y="100">have a life span</text>
+  </g>
+</svg>

@@ -1426,197 +1426,570 @@ A: A clinical thermometer measures body temperature; a laboratory thermometer me
 > With your teacher's help, pour equal amounts of hot water into a steel tumbler and a clay pot. Measure the temperature of each every five minutes using a laboratory thermometer. Which one cools faster?
 
 @@ 8
-SCENE: 💧 🧊 ☁️ | The journey of water!
+SCENE: 💧 🧊 ☁️ | Follow a drop of water on its journey!
 
-## 🎬 Let's begin
-A puddle on the road disappears after the sun comes out. Ice in your glass turns to water. Tiny drops appear outside a cold bottle. Where does the water go, and where does it come from? Let's follow water on its amazing **journey**! 💧
+## 8.1 Introduction
+Wet clothes hung on a line become dry by evening. A puddle on the road after the rain disappears in a few hours. Ice cubes in a glass of lemonade turn into water. Tiny drops of water appear on the outside of a cold glass of water on a hot day. On a winter morning, you can see your breath as a little cloud.
 
-SAY: riya-wow | Ice, water and steam are all water!
-SAY: buddy-happy | Yes! Solid, liquid and gas – the three states of water.
+SAY: aarav-think | Where does the water in the puddle go? Does it just vanish?
+SAY: buddy | Water never really vanishes, Aarav! It changes its form and travels. Let's follow it on its amazing journey.
 
-## 🤔 The three states of water
-> 📌 Matter exists in three main **states**: **solid**, **liquid** and **gas**. Water can be in all three!
-- **Solid – ice:** has a fixed shape and fixed volume.
-- **Liquid – water:** has a fixed volume but takes the shape of its container.
-- **Gas – water vapour:** has no fixed shape or volume; spreads out to fill any space. It is invisible!
-> 💡 The white "smoke" from a kettle is not vapour – it's tiny water droplets formed when vapour cools. Real vapour is invisible.
+Water is found in three forms – solid, liquid and gas. In this chapter, we will learn about these three states of water, how water changes from one state to another, what makes water dry up faster, why evaporation cools things, and how water travels around the Earth in the **water cycle**.
 
-## 🔄 Changes of state
-- **Melting:** solid → liquid (ice melts at **0 °C**).
-- **Freezing:** liquid → solid (water freezes at **0 °C**).
-- **Evaporation:** liquid → gas, slowly at any temperature, from the surface.
-- **Boiling:** liquid → gas, quickly, throughout the liquid (water boils at **100 °C**).
-- **Condensation:** gas → liquid on cooling (drops outside a cold glass, dew on grass).
+## 8.2 The Three States of Water
+Water exists in three **states**:
+- **Solid** – ice and snow. Solids have a fixed shape and a fixed volume.
+- **Liquid** – the water we drink. Liquids have a fixed volume but no fixed shape; they take the shape of their container and can flow.
+- **Gas** – water vapour. A gas has neither a fixed shape nor a fixed volume; it spreads out to fill all the space available. Water vapour is **invisible**.
 
-## ⚙️ What makes evaporation faster?
-1. **Higher temperature** – clothes dry faster on a sunny day.
-2. **More surface area** – spread clothes out; water in a plate dries faster than in a bottle.
-3. **Wind** – clothes dry faster on a windy day.
-4. **Less humidity** (less moisture in the air) – clothes dry slowly in the rainy season.
+FIG: c6-sci-8-states.svg | Fig. 8.1: The three states of water – (a) solid: ice, (b) liquid: water and (c) gas: water vapour (invisible) rising from boiling water
 
-SAY: aarav-think | That's why sweating cools us – evaporation causes cooling!
+> **Remember:** The white "steam" you see coming out of a kettle is not water vapour itself. Water vapour is invisible. When it meets the cooler air, it changes into tiny droplets of liquid water, which we can see as a white mist.
 
-## ❄️ Evaporation causes cooling
-When water evaporates, it takes heat from the surface. That's why:
-- We feel cool when sweat dries.
-- Water in an earthen **matka** stays cool – water seeps through tiny pores and evaporates.
-- Sprinkling water on a hot roof cools it.
+## 8.3 Changes of State
+Water can change from one state to another when it is **heated** or **cooled**.
 
-## 🌧️ The water cycle
-1. The sun heats water in seas, rivers and lakes → **evaporation**. Plants also give out water vapour (**transpiration**).
-2. Vapour rises, cools and **condenses** into tiny droplets → **clouds**.
-3. Droplets join and become heavy → **precipitation** (rain, snow, hail).
-4. Water flows into rivers and seas or soaks into the ground (**groundwater**) → and the cycle repeats!
+### Melting
+> **Activity 8.1: Ice to water**
+> Put a few ice cubes in a steel bowl and keep it in a sunny place. Observe after 15 minutes.
+> **Observation:** The ice changes into water.
 
-## ✋ Try it yourself
-Put equal water in a plate and a narrow glass. Keep both in the sun. Check after 2 hours. Which has less water left? Why?
+> **Definition: Melting**
+> The change of a **solid into a liquid** on heating is called **melting**. Ice melts at **0 °C**.
 
-## ⚠️ Common mistakes
-- Thinking evaporation happens only at 100 °C. It happens at all temperatures; boiling happens at 100 °C.
-- Calling the visible steam "water vapour".
+### Freezing
+When water is cooled in the freezer of a refrigerator, it turns into ice.
+> **Definition: Freezing**
+> The change of a **liquid into a solid** on cooling is called **freezing**. Water freezes at **0 °C**.
 
-## 🧠 Quick recap
-- Water: solid (ice), liquid (water), gas (vapour).
-- Melting, freezing, evaporation, boiling, condensation.
-- Evaporation is faster with heat, wind, more surface area, low humidity; it cools.
-- The water cycle keeps water moving.
+### Evaporation
+> **Definition: Evaporation**
+> The change of a **liquid into its vapour (gas)** is called **evaporation**. Water evaporates at all temperatures – even at room temperature – from its surface.
 
-## 📖 New words
-- **Evaporation** – liquid slowly turning into gas
-- **Condensation** – gas turning into liquid on cooling
-- **Humidity** – amount of water vapour in the air
+When water is heated strongly, it **boils** at 100 °C, changing into vapour very quickly from all through the liquid.
 
-## 🎮 Quiz time!
-MCQ: Drops on the outside of a cold glass are due to | Evaporation | *Condensation | Melting | Freezing ||
-FILL: Ice melts at ___ °C. | 0 ||
-TF: Clothes dry faster on a humid day. | false || High humidity slows evaporation.
-MCQ: Water in a matka stays cool because of | Boiling | *Evaporation | Freezing | Condensation ||
-MCQ: Which state of water has no fixed shape or volume? | Ice | Water | *Water vapour | All ||
-TF: Evaporation happens only when water boils. | false || It happens at all temperatures.
+### Condensation
+> **Activity 8.2: Water from the air**
+> Take a steel tumbler. Put some ice cubes and a little water in it. Wipe the outside dry and wait for a few minutes.
+> **Observation:** Tiny drops of water appear on the **outside** of the tumbler.
+> **Think:** Where did these drops come from? They did not leak out – the outside was dry! They came from the **water vapour in the air**, which cooled on touching the cold tumbler and changed into liquid water.
+
+> **Definition: Condensation**
+> The change of **water vapour (gas) into liquid water** on cooling is called **condensation**.
+
+FIG: c6-sci-8-changes.svg | Fig. 8.2: Changes of state of water – heating and cooling change ice, water and water vapour into one another
+
+SAY: riya-wow | So the drops on my cold bottle came from the air itself? There is water hiding in the air!
+SAY: buddy | Exactly, Riya! Air always has some water vapour in it. Dew on the grass on a winter morning forms in the same way.
+
+| Change | From → To | Needs | Example |
+| Melting | Solid → liquid | Heating | Ice cream melting in the sun |
+| Freezing | Liquid → solid | Cooling | Making ice in the freezer |
+| Evaporation | Liquid → gas | Heating (happens at all temperatures) | Wet clothes drying |
+| Condensation | Gas → liquid | Cooling | Drops on a cold glass, dew, clouds |
+
+> **Example 8.1**
+> Name the change of state in each case: (a) A mirror in the bathroom becomes misty after a hot bath. (b) A puddle dries up in the sun. (c) Kulfi is made by keeping milk in the freezer.
+> **Solution:** (a) **Condensation** – water vapour from the hot water cools on the mirror. (b) **Evaporation**. (c) **Freezing**.
+
+## 8.4 What Makes Evaporation Faster?
+Wet clothes dry faster on some days than on others. Let us find out why.
+
+> **Activity 8.3: Which dries first?**
+> **You need:** two equal spoonfuls of water, a small bowl and a large flat plate.
+> **What to do:** Pour one spoonful into the bowl and the other into the plate. Keep both side by side in the same place.
+> **Observation:** The water in the plate dries up first.
+> **Conclusion:** A larger open surface makes evaporation faster.
+
+FIG: c6-sci-8-evaporation.svg | Fig. 8.3: Factors that make evaporation faster – a larger surface, more heat and moving air (wind)
+
+The rate of evaporation increases with:
+1. **Larger surface area:** water spread out over a larger area evaporates faster. That is why we spread out clothes to dry instead of leaving them folded.
+2. **Higher temperature:** water evaporates faster in the hot sun than in the shade.
+3. **Wind (moving air):** clothes dry faster on a windy day, because moving air carries away the water vapour.
+4. **Less humidity:** the amount of water vapour already present in the air is called **humidity**. When the air is dry, water evaporates faster. On a humid, sticky day during the rainy season, clothes take a long time to dry.
+
+> **Example 8.2**
+> Aarav says, "My school uniform dries faster in Delhi's hot, windy summer than in Mumbai's rainy season." Explain why.
+> **Solution:** In Delhi's summer, the temperature is high, there is wind and the air is dry (low humidity), so evaporation is fast. In Mumbai's rainy season, the air is very humid, so evaporation is slow.
+
+## 8.5 Evaporation Causes Cooling
+> **Activity 8.4: Feel the cool**
+> Put a few drops of water (or, with your teacher's permission, a drop of hand sanitiser) on the back of your hand. Blow on it gently.
+> **Observation:** The spot feels **cool** as the liquid dries.
+
+When a liquid evaporates, it takes heat from its surroundings. So the surface it evaporates from becomes **cooler**. This is called the **cooling effect of evaporation**.
+
+Examples from daily life:
+- **Sweating:** on a hot day, our body sweats. As the sweat evaporates from our skin, it cools our body.
+- **The matka (clay pot):** a clay pot has tiny pores. Some water seeps out through them and evaporates from the outer surface, taking heat away. This keeps the water inside cool.
+- **Sprinkling water:** people sprinkle water on the floor or the courtyard on hot evenings to cool the place.
+- **Wet cloth:** wrapping a wet cloth around a water bottle keeps the water cooler.
+
+FIG: c6-sci-8-matka.svg | Fig. 8.4: Water seeps through the tiny pores of a matka and evaporates, keeping the water inside cool
+
+SAY: aarav-wow | So my grandmother's matka is a fridge that needs no electricity!
+SAY: buddy | Yes, Aarav! Clay pots have kept water cool in Indian homes for thousands of years, using the cooling effect of evaporation.
+
+## 8.6 The Water Cycle
+The water on Earth keeps moving – from the oceans to the air, from the air to the land, and back to the oceans again. This continuous movement is called the **water cycle**.
+
+1. **Evaporation:** the heat of the Sun evaporates water from oceans, rivers, lakes and the soil. Plants also give out water vapour through their leaves – this is called **transpiration**.
+2. **Condensation:** as the water vapour rises high into the sky, it cools and condenses into tiny droplets of water. These droplets gather together to form **clouds**.
+3. **Precipitation:** when the droplets join and grow too heavy, they fall to the Earth as **rain**. In very cold places they fall as **snow** or **hail**.
+4. **Collection:** rainwater flows into streams, rivers, lakes and oceans, and some of it soaks into the ground to become **groundwater**. Then the cycle starts all over again.
+
+FIG: c6-sci-8-water-cycle.svg | Fig. 8.5: The water cycle – evaporation, condensation, precipitation and collection
+
+> **Did you know?**
+> The water you drink today may once have been part of a glacier in the Himalayas, a cloud over the Bay of Bengal, or even a drink for a dinosaur! The same water has been going round and round in the water cycle for millions of years.
+
+The water cycle is very important. It brings fresh rainwater to fill our rivers, lakes and wells, and to water our crops. Cutting down forests and polluting water disturb this cycle, so we must use water wisely and keep it clean.
+
+## Summary
+- Water exists in three states: **solid** (ice), **liquid** (water) and **gas** (water vapour). Water vapour is invisible.
+- **Melting:** solid → liquid. **Freezing:** liquid → solid. Both happen at 0 °C for water.
+- **Evaporation:** liquid → vapour; it happens at all temperatures. **Boiling** is fast change into vapour at 100 °C.
+- **Condensation:** vapour → liquid on cooling, as in dew and drops on a cold glass.
+- Evaporation is faster with a **larger surface area**, **higher temperature**, **wind** and **low humidity**.
+- **Evaporation causes cooling** – as in sweating and the clay matka.
+- In the **water cycle**, water evaporates, condenses to form clouds, falls as rain or snow, and collects in water bodies and the ground.
+
+SAY: buddy | Well done, water explorers! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Melting | Change of a solid into a liquid on heating |
+| Freezing | Change of a liquid into a solid on cooling |
+| Evaporation | Change of a liquid into vapour |
+| Condensation | Change of vapour into a liquid on cooling |
+| Water vapour | Water in the form of an invisible gas |
+| Humidity | The amount of water vapour in the air |
+| Transpiration | Loss of water vapour from the leaves of plants |
+| Precipitation | Water falling from clouds as rain, snow or hail |
+| Water cycle | The continuous movement of water between the Earth and the air |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: The change of water vapour into water is called | evaporation | *condensation | melting | freezing ||
+MCQ: Wet clothes dry fastest on a | cool, humid day | *hot, windy day | rainy day | still, cloudy day ||
+MCQ: Water in a matka stays cool because of | condensation | freezing | *evaporation through its pores | melting ||
+MCQ: Ice melts at | 100 °C | 37 °C | *0 °C | −10 °C ||
+MCQ: Clouds are formed by | evaporation | *condensation of water vapour | melting of ice | transpiration only ||
+
+### B. Fill in the blanks
+FILL: The change of a solid into a liquid is called ___. | melting ||
+FILL: The amount of water vapour in the air is called ___. | humidity ||
+FILL: Plants give out water vapour through their leaves by ___. | transpiration ||
+FILL: Water falling from clouds as rain or snow is called ___. | precipitation ||
+
+### C. True or False
+TF: Water evaporates only when it boils. | false || It evaporates at all temperatures.
+TF: The white "steam" seen near a kettle is made of tiny droplets of liquid water. | true || Water vapour itself is invisible.
+TF: Sweating helps to cool our body. | true || Evaporation of sweat takes heat from the body.
+TF: Spreading out wet clothes makes them dry more slowly. | false || A larger surface makes evaporation faster.
+
+### D. Short answer questions
+Q: Name the three states of water with one example of each.
+A: Solid – ice; liquid – drinking water; gas – water vapour.
+Q: Why do drops of water appear on the outside of a glass of ice-cold water?
+A: Water vapour in the air cools on touching the cold glass and condenses into drops of water.
+Q: Name four factors that increase the rate of evaporation.
+A: A larger surface area, higher temperature, wind (moving air) and low humidity.
+Q: Why do we feel cool after sweating on a hot day?
+A: Sweat evaporates from the skin, taking heat from the body, so the body cools down.
+
+### E. Long answer questions
+Q: Describe an activity to show that a larger surface area makes evaporation faster.
+A: Pour equal amounts of water into a small bowl and a large flat plate and keep them side by side in the same place. After some time, the water in the plate dries up first, because it is spread over a larger surface.
+Q: Explain how a clay matka keeps water cool.
+A: The walls of a clay matka have tiny pores. Some water seeps out through them and evaporates from the outer surface. Evaporation takes heat from the pot and the water inside, so the water stays cool.
+Q: Explain the water cycle with a labelled description of its four steps.
+A: Evaporation: the Sun's heat evaporates water from oceans, rivers and soil, and plants release water vapour by transpiration. Condensation: the vapour rises, cools and forms clouds of tiny droplets. Precipitation: the droplets join, become heavy and fall as rain, snow or hail. Collection: the water collects in rivers, lakes, oceans and underground, and the cycle repeats.
+
+### F. Projects and activities
+> **Activity: Mini water cycle**
+> Put a little warm water in a large glass bowl and cover it tightly with cling film. Place a few ice cubes on top of the film and keep the bowl in the sun. Watch drops form under the film and "rain" back down. Which steps of the water cycle can you see?
+> **Activity: Drying race**
+> Hang three wet handkerchiefs – one in the sun, one in the shade and one folded in the sun. Note the time each takes to dry. Explain your results.
 
 @@ 9
-SCENE: 🫖 🧲 🌾 | Separating mixtures!
+SCENE: 🫖 🌾 🧲 | Let's separate mixtures!
 
-## 🎬 Let's begin
-At home, your grandmother picks tiny stones out of rice, your mother strains tea, and in the village, farmers toss grain in the air on a windy day. They are all **separating** mixtures! Let's learn the smart ways people separate things. 🍵
+## 9.1 Introduction
+Watch the people around you at work. Your grandmother spreads rice on a plate and picks out tiny stones. Your father pours tea through a strainer to remove the tea leaves. In the village, a farmer stands on a raised platform and lets grain fall slowly in the wind, while the light husk flies away. A shopkeeper sieves flour to remove bran.
 
-SAY: aarav-think | Why do we need to separate things?
-SAY: buddy-happy | To remove unwanted things or to get useful things, like tea leaves from tea!
+SAY: riya-think | Why do we need to take things apart? Why not just eat the rice with the stones?
+SAY: buddy | Ouch, Riya – that would hurt your teeth! Stones are unwanted and harmful. Let's learn the clever ways people separate things.
 
-## 🤔 What is separation and why do we need it?
-> 📌 A **mixture** has two or more substances mixed together. **Separation** means taking out the parts of a mixture.
-We separate to:
-- remove **unwanted** or **harmful** parts (stones from rice),
-- get **useful** parts (butter from curd),
-- get **pure** substances (salt from sea water).
+All these people are **separating** the parts of a **mixture**. In this chapter, we will learn what mixtures are, why we separate them, and the many methods we use in daily life, in farms and in factories.
 
-SAY: riya-happy | Winnowing uses wind to separate husk from grain!
+## 9.2 Mixtures and Why We Separate Them
+> **Definition: Mixture**
+> A **mixture** is made up of two or more substances mixed together, in which each substance keeps its own properties. Examples: rice and small stones, tea and tea leaves, sand and water, salt dissolved in water, the air around us.
 
-## 🧩 Methods of separation
-- **Hand-picking:** removing bigger, visible impurities by hand – stones from rice and dal.
-- **Threshing:** beating harvested stalks to separate **grain** from the stalks. Done by hand, by bullocks or by machines.
-- **Winnowing:** dropping grain from a height in the wind; the light **husk** blows away while heavy **grain** falls straight down.
-- **Sieving:** using a net or sieve to separate particles of **different sizes** – bran from flour, pebbles from sand.
-- **Sedimentation:** heavy, insoluble particles **settle at the bottom** of a liquid (mud in water).
-- **Decantation:** gently **pouring off** the clear liquid on top after sedimentation.
-- **Filtration:** passing a mixture through a **filter** (filter paper, cloth); the solid stays behind, the clear liquid (**filtrate**) passes through. Straining tea!
-- **Evaporation:** heating a solution so the water evaporates and the dissolved solid is left – salt from sea water.
-- **Churning:** fast stirring that separates **lighter** parts – butter from curd (makhan from dahi).
-- **Magnetic separation:** using a magnet to pull out **iron** pieces from a mixture.
+> **Definition: Separation**
+> Taking out one or more parts from a mixture is called **separation**.
 
-## ⚙️ Using more than one method
-To separate **sand + salt + water**:
-1. **Filter** – sand stays on the filter paper.
-2. **Evaporate** the filtrate – salt is left behind.
-> 💡 Choose the method based on the **property** that differs: size, weight, solubility, magnetism.
+We separate the parts of a mixture to:
+- **remove unwanted or harmful parts** – stones from rice, mud from water;
+- **obtain useful parts** – butter from curd, grain from stalks;
+- **obtain a pure substance** – salt from sea water.
 
-## 🌍 In real life
-Water purifiers use filters; dairies churn milk to make butter; salt pans on Gujarat's coast use evaporation; scrap yards use giant magnets.
+The method we choose depends on how the parts of the mixture **differ** – in size, shape, weight, colour, whether they dissolve in water, or whether a magnet attracts them.
 
-## ✋ Try it yourself
-Mix sand, salt and a few iron pins (careful!). Separate them using a magnet, water, filter paper and sunlight.
+## 9.3 Methods of Separating Solids from Solids
+### Hand-picking
+Small stones, husk or insects in rice, wheat and pulses can be seen easily and are **removed by hand**. This method is called **hand-picking**. It works only when the unwanted particles are bigger or have a different colour and there are only a few of them.
 
-## ⚠️ Common mistakes
-- Trying to filter out salt from salt water – dissolved salt passes through the filter! Use evaporation.
-- Mixing up winnowing (uses wind) and sieving (uses a net).
+### Threshing
+After harvesting, the stalks of wheat or paddy have the grain attached to them. **Beating** the stalks to free the grain is called **threshing**. Farmers beat bundles of stalks on a hard surface, let bullocks walk over them, or use **threshing machines**.
 
-## 🧠 Quick recap
-- Separation removes unwanted parts or gets useful ones.
-- Methods: hand-picking, threshing, winnowing, sieving, sedimentation, decantation, filtration, evaporation, churning, magnetic separation.
-- Often several methods are used one after another.
+### Winnowing
+After threshing, the grain is mixed with light **husk**. The farmer stands on a raised platform and lets the mixture fall slowly from a winnowing basket (soop). The **wind** blows the light husk away to form a separate heap, while the heavier grain falls straight down near the platform.
 
-## 📖 New words
-- **Mixture** – two or more substances mixed together
-- **Husk** – the light outer covering of grain
-- **Filtrate** – the clear liquid that passes through a filter
+> **Definition: Winnowing**
+> Separating the heavier and lighter parts of a mixture with the help of **wind** or blowing air is called **winnowing**.
 
-## 🎮 Quiz time!
-MCQ: Separating husk from grain using wind is | Sieving | Threshing | *Winnowing | Filtration ||
-MCQ: Salt is obtained from sea water by | Filtration | *Evaporation | Sieving | Churning ||
-TF: Filtration can remove dissolved salt from water. | false || Dissolved salt passes through the filter.
-FILL: Butter is separated from curd by ___. | churning ||
-MCQ: Which method separates iron pins from sand? | Winnowing | Decantation | *Magnetic separation | Evaporation ||
-FILL: Pouring off clear water after mud settles is called ___. | decantation ||
+FIG: c6-sci-9-winnowing.svg | Fig. 9.1: Winnowing – the wind blows the light husk away, while the heavy grain falls straight down
+
+SAY: aarav-wow | So the wind does half the farmer's work for free!
+
+### Sieving
+At home, flour is passed through a **sieve** (channi). The fine flour passes through the small holes, while the bigger bran and any small stones stay on the sieve. At building sites, workers sieve sand to remove pebbles.
+
+> **Definition: Sieving**
+> Separating particles of **different sizes** by passing a mixture through a sieve is called **sieving**.
+
+### Magnetic separation
+If a mixture contains iron pins, nails or iron filings, a **magnet** can pull them out. In scrap yards, huge magnets fitted to cranes separate iron from other waste.
+
+## 9.4 Methods of Separating Insoluble Solids from Liquids
+### Sedimentation and decantation
+> **Activity 9.1: Muddy water**
+> **You need:** a glass of water, a spoonful of soil and an empty glass.
+> **What to do:** Mix the soil into the water and stir. Leave the glass undisturbed for about 30 minutes.
+> **Observation:** The heavier soil particles slowly **settle at the bottom**. The water above becomes clearer.
+> Now gently tilt the glass and **pour** the clearer water into the empty glass, without disturbing the layer at the bottom.
+
+> **Definition: Sedimentation and decantation**
+> When the heavier insoluble particles in a liquid settle at the bottom, the process is called **sedimentation**. The settled layer is called the **sediment**.
+> Gently pouring off the clear liquid on top, without disturbing the sediment, is called **decantation**.
+
+We use sedimentation and decantation when we wash rice or dal: the dust and husk float or stay in the water, which is then poured off.
+
+FIG: c6-sci-9-sedimentation.svg | Fig. 9.2: (a) Sedimentation – soil settles at the bottom; (b) decantation – the clearer water is poured off gently
+
+### Filtration
+The water after decantation may still contain very fine particles. To remove them, we use a **filter** – something with very tiny holes, such as **filter paper**, a fine cloth or a layer of sand.
+
+> **Activity 9.2: Make a filter**
+> Fold a round filter paper into a cone and place it in a funnel. Put the funnel on a glass. Slowly pour the decanted muddy water into the funnel.
+> **Observation:** The clear water passes through the filter paper and collects in the glass. The fine mud stays on the filter paper.
+
+> **Definition: Filtration**
+> Separating an **insoluble solid** from a **liquid** by passing the mixture through a filter is called **filtration**. The clear liquid that passes through is called the **filtrate**; the solid left behind is called the **residue**.
+
+FIG: c6-sci-9-filtration.svg | Fig. 9.3: Filtration using a funnel and filter paper
+
+Straining tea is a kind of filtration – the strainer is the filter. Water purifiers at home also use filters.
+
+> **Remember:** Filtration removes **insoluble** particles only. Germs and **dissolved** substances such as salt may pass through a simple filter. Water should be boiled or properly purified before drinking.
+
+## 9.5 Separating a Dissolved Solid: Evaporation
+How can we get back salt that has dissolved in water? Filtration will not work, because the dissolved salt passes through the filter paper along with the water.
+
+> **Activity 9.3: Salt from salt water**
+> With your teacher's help, pour some salt water into a steel bowl. Heat it gently on a burner (or keep it in strong sunlight for a few days) until all the water has gone.
+> **Observation:** A white layer of **salt** is left behind in the bowl.
+
+> **Definition: Evaporation (for separation)**
+> Heating a solution so that the liquid changes into vapour and the dissolved solid is left behind is called separation by **evaporation**.
+
+This is how common salt is made. Sea water is let into shallow **salt pans** along the coast – for example, in Gujarat and Tamil Nadu. The Sun's heat evaporates the water over many days, and the salt is collected and purified.
+
+FIG: c6-sci-9-salt-pans.svg | Fig. 9.4: Salt pans – sea water evaporates in the sun, leaving salt behind
+
+## 9.6 Churning
+In many Indian homes, curd is churned with a wooden **mathani** to make butter. The fast, steady stirring separates the lighter **butter** (makhan), which floats on top, from the **buttermilk** (chhaachh). Dairies use machines to separate cream from milk in the same way.
+
+> **Definition: Churning**
+> Stirring a liquid fast so that its lighter parts separate from the heavier parts is called **churning**.
+
+## 9.7 Using More Than One Method
+Sometimes one method is not enough.
+
+> **Example 9.1**
+> How will you separate a mixture of sand, salt and water?
+> **Solution:**
+> 1. Let the sand settle, and **decant** most of the salt water. Then **filter** the rest. The sand stays on the filter paper as residue.
+> 2. **Evaporate** the filtrate (salt water). The salt is left behind.
+
+> **Example 9.2**
+> A mixture contains iron filings, sand and sawdust. Suggest a way to separate them.
+> **Solution:** Use a **magnet** to remove the iron filings. Then put the sand and sawdust in water – sawdust **floats** and can be skimmed off, while sand sinks. Decant the water and dry the sand.
+
+SAY: aarav-think | So I have to think about how the parts are different, and choose a method that uses that difference!
+SAY: buddy | Exactly, Aarav! Size → sieving. Weight → winnowing or sedimentation. Magnetism → magnet. Dissolving → evaporation.
+
+| Method | Separates | Property used | Example |
+| Hand-picking | Visible unwanted particles | Size, colour | Stones from rice |
+| Threshing | Grain from stalks | – (beating) | Wheat from its stalks |
+| Winnowing | Light and heavy parts | Weight | Husk from grain |
+| Sieving | Particles of different sizes | Size | Bran from flour |
+| Sedimentation and decantation | Heavy insoluble solids from liquids | Weight | Mud from water |
+| Filtration | Insoluble solids from liquids | Size | Tea leaves from tea |
+| Evaporation | Dissolved solids from liquids | Liquid evaporates | Salt from sea water |
+| Churning | Lighter parts from a liquid | Weight | Butter from curd |
+| Magnetic separation | Iron from other things | Magnetism | Iron pins from sand |
+
+## Summary
+- A **mixture** has two or more substances that keep their own properties. **Separation** means taking out parts of a mixture.
+- We separate mixtures to remove unwanted parts, to get useful parts, or to get pure substances.
+- **Hand-picking**, **threshing**, **winnowing**, **sieving** and **magnetic separation** separate solids from solids.
+- **Sedimentation**, **decantation** and **filtration** separate insoluble solids from liquids.
+- **Evaporation** separates a dissolved solid, like salt, from a liquid.
+- **Churning** separates butter from curd.
+- We choose a method based on how the parts differ, and sometimes we use more than one method.
+
+SAY: buddy | Well done, separation experts! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Mixture | Two or more substances mixed together, each keeping its own properties |
+| Threshing | Beating stalks to free the grain |
+| Winnowing | Separating light and heavy parts using wind |
+| Sieving | Separating particles of different sizes using a sieve |
+| Sedimentation | Settling of heavy insoluble particles at the bottom of a liquid |
+| Decantation | Pouring off the clear liquid without disturbing the sediment |
+| Filtration | Separating an insoluble solid from a liquid using a filter |
+| Filtrate | The clear liquid that passes through a filter |
+| Residue | The solid left behind on a filter |
+| Evaporation | Changing a liquid into vapour, leaving dissolved solids behind |
+| Churning | Fast stirring to separate lighter parts from a liquid |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: Husk is separated from grain by | sieving | *winnowing | filtration | evaporation ||
+MCQ: Salt is obtained from sea water by | filtration | decantation | *evaporation | sieving ||
+MCQ: Tea leaves are removed from tea by | winnowing | *filtration | churning | threshing ||
+MCQ: Butter is separated from curd by | sedimentation | *churning | sieving | hand-picking ||
+MCQ: Which method separates iron pins from sand? | Winnowing | Filtration | *Using a magnet | Evaporation ||
+
+### B. Fill in the blanks
+FILL: Beating stalks to free the grain is called ___. | threshing ||
+FILL: The clear liquid that passes through a filter is called the ___. | filtrate ||
+FILL: Settling of heavy particles at the bottom of a liquid is called ___. | sedimentation ||
+FILL: Pouring off the clear liquid without disturbing the sediment is called ___. | decantation ||
+
+### C. True or False
+TF: Salt dissolved in water can be separated by filtration. | false || Dissolved salt passes through the filter; use evaporation.
+TF: Sieving separates particles of different sizes. | true ||
+TF: Winnowing uses the wind to separate light and heavy parts. | true ||
+TF: Filtered water is always safe to drink. | false || Germs and dissolved substances may still be present.
+
+### D. Short answer questions
+Q: What is a mixture? Give two examples.
+A: A mixture has two or more substances mixed together, each keeping its own properties. Examples: rice with stones, sand and water (also tea with leaves, salt water).
+Q: Give three reasons why we separate mixtures.
+A: To remove unwanted or harmful parts, to obtain useful parts, and to obtain a pure substance.
+Q: When is hand-picking a suitable method?
+A: When the unwanted particles are big enough to see, have a different size or colour, and are few in number.
+Q: Why can't we separate salt from salt water by filtration?
+A: The salt is dissolved, so it passes through the filter paper along with the water.
+
+### E. Long answer questions
+Q: Describe winnowing. Which property of the parts of the mixture does it use?
+A: The farmer stands on a raised platform and lets the mixture of grain and husk fall slowly from a basket. The wind blows the light husk away to form a separate heap, while the heavy grain falls straight down. It uses the difference in weight of the parts.
+Q: Explain, step by step, how you would get clean water from muddy water.
+A: First let the muddy water stand undisturbed so that the heavy soil particles settle at the bottom (sedimentation). Then gently pour off the clearer water (decantation). Finally pass it through filter paper in a funnel to remove the fine particles (filtration). Boil it before drinking to kill germs.
+Q: How would you separate a mixture of sand, salt and iron filings?
+A: Move a magnet over the mixture to remove the iron filings. Add water to the rest and stir so that the salt dissolves. Filter the mixture – the sand stays on the filter paper. Evaporate the filtrate to get the salt back.
+
+### F. Projects and activities
+> **Activity: Separation at home**
+> Watch how separation is done in your kitchen for one week. List each method you see, the mixture separated and the method's name.
+> **Activity: Build a water filter**
+> Cut a plastic bottle in half. Put the top half upside down into the bottom half. Fill it with layers of cotton, fine sand, coarse sand and small pebbles. Pour muddy water through it and compare the water before and after. (Do not drink it!)
 
 @@ 10
-SCENE: 🐛 🦋 🌱 | What makes something living?
+SCENE: 🐛 🦋 🌱 | What makes something alive?
 
-## 🎬 Let's begin
-A stone, a dog, a mango tree and a toy car. Which are alive? The car moves… but is it living? The tree doesn't walk… but is it living? Let's discover what makes something **alive**! 🌱🐶
+## 10.1 Introduction
+Look at these: a stone, a dog, a mango tree, a toy car, a cloud and a hen. Which of them are living, and which are non-living? A toy car moves, but is it alive? A mango tree never walks anywhere, but is it alive? A cloud grows bigger and moves across the sky – is it alive?
 
-SAY: riya-think | How do we know something is alive?
-SAY: buddy-happy | Living things breathe, grow, need food, respond and reproduce.
+SAY: aarav-think | My battery car moves and makes sounds. Isn't that enough to be alive?
+SAY: buddy-think | Moving alone is not enough, Aarav. Living things do many special things together. Let's find out what they are.
 
-## 🤔 Characteristics of living things
-> 📌 Living things show certain **life processes**. Non-living things do not show all of them.
-1. **Nutrition:** need food for energy. Plants make their own food; animals eat plants or other animals.
-2. **Respiration:** take in air (oxygen) to release energy from food. Plants breathe through tiny pores in leaves.
-3. **Excretion:** remove waste from the body (urine, sweat; plants give out extra water and gases).
-4. **Growth:** become bigger from inside – a seed becomes a tree, a baby becomes an adult.
-5. **Movement:** animals move from place to place; plants move parts – leaves turn towards light, flowers open and close.
-6. **Reproduction:** produce young ones of their own kind – through eggs, babies or seeds.
-7. **Response to stimuli:** react to changes around them – we pull our hand back from a hot pan; the **touch-me-not** (chhui-mui) plant folds its leaves when touched.
-8. **Life span:** are born, live for some time and die.
-> 💡 A toy car moves, but it can't grow, eat, breathe or reproduce – so it's **non-living**.
+In this chapter, we will learn the **characteristics** that all living things share, how living things grow and change in their **life cycles**, and what seeds need to start growing.
 
-SAY: aarav-wow | A caterpillar becomes a butterfly – that's a life cycle!
+## 10.2 Characteristics of Living Things
+Scientists have found that all living things show certain features together. Non-living things may show one or two of them, but never all of them.
 
-## 🌱 Life cycles
-> 📌 A **life cycle** is the series of stages a living thing goes through from birth to adulthood.
-- **Plants:** seed → **germination** (sprouting) → seedling → adult plant → flowers → fruits and seeds → new plants.
-- **Frog:** eggs → **tadpole** (lives in water, breathes with gills) → froglet (legs appear) → adult frog.
-- **Butterfly:** egg → caterpillar (larva) → pupa → butterfly.
+### 1. Living things need food (nutrition)
+All living things need **food**. Food gives them **energy** and helps them grow. Green plants make their own food in their leaves, using sunlight, water and air. Animals cannot make their own food – they eat plants or other animals.
 
-## 🔬 What do seeds need to germinate?
-A fair test with moong seeds shows they need **water**, **air** and **suitable warmth**. Seeds kept dry, under water (no air) or in a fridge don't sprout well.
+### 2. Living things respire
+All living things take in air and use **oxygen** to release energy from food. This process is called **respiration**. We breathe through our nose and lungs. Fish use gills, earthworms breathe through their moist skin, and plants exchange gases through tiny pores in their leaves called **stomata**.
 
-## 🌍 In real life
-Farmers soak seeds before sowing; we see tadpoles in ponds in the rainy season; a sunflower turns to face the sun.
+### 3. Living things excrete
+Living things produce **wastes** while carrying out their life processes. Getting rid of these wastes is called **excretion**. Humans remove wastes as urine and sweat. Plants give out extra water and gases, and some store wastes in old leaves that fall off.
 
-## ✋ Try it yourself
-Put moong seeds in three cups: dry cotton, wet cotton, and fully under water. Which sprout in 2–3 days?
+### 4. Living things grow
+A puppy grows into a dog, a chick into a hen and a small seed into a big tree. Living things **grow** from inside, by making new material. A pile of sand grows only when more sand is added from outside – that is not growth in the living sense.
 
-## ⚠️ Common mistakes
-- Thinking plants are non-living because they don't walk. They grow, breathe, respond and reproduce!
-- Thinking movement alone proves life – the wind, a river and a car move too.
+### 5. Living things move
+Animals **move** from place to place to find food, water and shelter, and to escape danger. Plants are fixed in one place, but their parts move – leaves turn towards light, roots grow towards water, flowers of some plants open in the morning and close at night, and climbers' tendrils wrap around supports.
 
-## 🧠 Quick recap
-- Life processes: nutrition, respiration, excretion, growth, movement, reproduction, response, life span.
-- Life cycles: plant (seed → plant), frog (egg → tadpole → frog).
-- Seeds need water, air and warmth to germinate.
+### 6. Living things reproduce
+All living things produce **young ones of their own kind**. This is called **reproduction**. Some animals, like cows, dogs and humans, give birth to babies. Others, like hens, frogs, snakes and fish, lay eggs. Most plants reproduce through seeds; some, like potato and rose, can also grow from parts of the plant.
 
-## 📖 New words
-- **Stimulus** – a change that living things respond to
-- **Germination** – sprouting of a seed
-- **Tadpole** – young stage of a frog
+### 7. Living things respond to stimuli
+A change in the surroundings that makes a living thing react is called a **stimulus** (plural: **stimuli**). We pull our hand away quickly from a hot pan; our eyes blink when dust comes near; a cat runs when a dog barks. The leaves of the **touch-me-not** (chhui-mui) plant fold up when touched, and a sunflower turns to face the Sun.
 
-## 🎮 Quiz time!
-MCQ: Which is NOT a characteristic of living things? | Growth | Respiration | *Rusting | Reproduction ||
-TF: A touch-me-not plant responds to touch. | true ||
-MCQ: The young one of a frog that lives in water is a | Larva | *Tadpole | Pupa | Calf ||
-FILL: Sprouting of a seed is called ___. | germination ||
-TF: A moving car is living because it moves. | false || It doesn't grow, eat, breathe or reproduce.
-MCQ: Seeds need water, air and ___ to germinate. | Sunlight only | *Suitable warmth | Soil only | Fertiliser ||
+> **Activity 10.1: The shy plant**
+> Find a touch-me-not plant in your school garden. Gently touch one of its leaves with your finger. What happens? How long does the leaf take to open again?
+
+FIG: c6-sci-10-touch-me-not.svg | Fig. 10.1: The leaves of the touch-me-not plant fold up when touched – a response to a stimulus
+
+### 8. Living things have a life span
+Every living thing is **born**, lives for some time and then **dies**. This period is its **life span**. A housefly lives for a few weeks, a dog for about 10–15 years, a human for many decades, and some trees for hundreds of years.
+
+> **Definition: Characteristics of living things**
+> Living things need **food**, **respire**, **excrete**, **grow**, **move**, **reproduce**, **respond to stimuli** and have a definite **life span**.
+
+FIG: c6-sci-10-characteristics.svg | Fig. 10.2: The characteristics of living things
+
+SAY: riya-happy | So my battery car moves, but it doesn't eat, grow, breathe or have baby cars. It's non-living!
+SAY: buddy | Perfectly reasoned, Riya! A thing must show all these features together to be called living.
+
+> **Example 10.1**
+> A cloud moves across the sky and grows bigger. Is it living?
+> **Solution:** No. A cloud grows only because more water vapour is added from outside, and it is moved by the wind. It does not need food, respire, reproduce or respond to stimuli. So it is **non-living**.
+
+> **Did you know?**
+> A **seed** looks lifeless, but it is living! It is resting. Inside it is a tiny baby plant with a store of food, waiting for the right conditions to grow.
+
+## 10.3 Life Cycles
+Living things change as they grow. The series of stages that a living thing passes through, from its beginning to becoming an adult that can produce young ones, is called its **life cycle**.
+
+> **Definition: Life cycle**
+> The series of changes a living thing goes through, from birth to adulthood and reproduction, is called its **life cycle**.
+
+### Life cycle of a plant
+A seed **germinates** (sprouts) when it gets water, air and warmth. A tiny root grows downwards and a shoot grows upwards. The seedling grows into a young plant, then an adult plant. The adult plant makes flowers, the flowers form fruits with seeds inside, and the seeds grow into new plants.
+
+**seed → germination → seedling → adult plant → flowers → fruits with seeds → new seed**
+
+### Life cycle of a frog
+In the rainy season, frogs lay hundreds of eggs in ponds. A **tadpole** hatches from each egg. It lives in water, has a tail for swimming and breathes through gills, like a fish. Slowly its back legs grow, then its front legs. Its tail shrinks, and it becomes a **froglet**. Finally it becomes an adult **frog** that breathes with lungs and can live on land as well as in water.
+
+**eggs → tadpole → tadpole with legs → froglet → adult frog**
+
+FIG: c6-sci-10-frog-cycle.svg | Fig. 10.3: Life cycle of a frog
+
+### Life cycle of a butterfly
+A butterfly lays tiny **eggs** on a leaf. A **caterpillar** (larva) hatches and eats leaves all the time, growing quickly. Then it forms a hard case around itself and becomes a **pupa**. Inside the pupa, its body changes completely. Finally, an adult **butterfly** comes out.
+
+**egg → caterpillar (larva) → pupa → adult butterfly**
+
+FIG: c6-sci-10-butterfly-cycle.svg | Fig. 10.4: Life cycle of a butterfly
+
+SAY: aarav-wow | A crawling caterpillar turns into a flying butterfly? That's like magic!
+SAY: buddy | It's real science, Aarav! This big change in body form during the life cycle is called **metamorphosis**. Frogs go through it too.
+
+## 10.4 What Do Seeds Need to Germinate?
+Let us design a **fair test** to find out what a seed needs to sprout.
+
+> **Activity 10.2: Seed test**
+> **You need:** four small cups, cotton wool and 20 moong seeds.
+> **What to do:** Put five seeds in each cup and treat them as shown:
+> **Cup A:** dry cotton, kept in the room (no water).
+> **Cup B:** wet cotton, kept in the room (water, air and warmth).
+> **Cup C:** seeds fully under boiled and cooled water (no air).
+> **Cup D:** wet cotton, kept inside a refrigerator (too cold).
+> Observe for 3–4 days.
+> **Observation:** Only the seeds in **Cup B** sprout well.
+
+FIG: c6-sci-10-germination.svg | Fig. 10.5: Seeds sprout only when they get water, air and suitable warmth (Cup B)
+
+| Cup | Water | Air | Warmth | Do the seeds sprout? |
+| A | No | Yes | Yes | No |
+| B | Yes | Yes | Yes | Yes |
+| C | Yes | No (boiled water has little air) | Yes | No |
+| D | Yes | Yes | No (too cold) | No |
+
+> **Remember:** Seeds need **water**, **air** and **suitable warmth** to germinate. Most seeds do not need light to start sprouting, but the young plant needs sunlight to make food as it grows.
+
+Farmers use this knowledge. They sow seeds in the right season, keep the soil moist, plough it so that air can reach the seeds, and sometimes soak seeds before sowing so they sprout faster.
+
+## Summary
+- All living things **need food**, **respire**, **excrete**, **grow**, **move**, **reproduce**, **respond to stimuli** and have a **life span**.
+- Non-living things may show one or two of these features, but not all of them.
+- A **stimulus** is a change in the surroundings to which living things respond.
+- A **life cycle** is the series of changes a living thing goes through from its beginning to adulthood.
+- Plant: seed → seedling → adult plant → flowers → fruits and seeds.
+- Frog: eggs → tadpole → froglet → adult frog. Butterfly: egg → caterpillar → pupa → butterfly. These big changes are called **metamorphosis**.
+- Seeds need **water**, **air** and **suitable warmth** to germinate.
+
+SAY: buddy | Well done, life explorers! Now try the exercises. Stuck somewhere? Tap "Have a doubt? Ask Mantra Buddy" below the book.
+
+## Keywords
+| Word | Meaning |
+| Respiration | Using oxygen to release energy from food |
+| Excretion | Removing wastes from the body |
+| Reproduction | Producing young ones of one's own kind |
+| Stimulus | A change in the surroundings that living things respond to |
+| Life span | The period from birth to death |
+| Life cycle | The series of stages from birth to adulthood |
+| Germination | The sprouting of a seed |
+| Tadpole | The young one of a frog, which lives in water |
+| Pupa | The resting stage in the life cycle of a butterfly |
+| Metamorphosis | A big change in body form during a life cycle |
+
+## Exercises
+### A. Choose the correct answer
+MCQ: Which of these is a living thing? | A toy car | A cloud | *A seed | A stone ||
+MCQ: The young one of a frog is called a | caterpillar | *tadpole | pupa | larva ||
+MCQ: The folding of touch-me-not leaves when touched is an example of | growth | *response to a stimulus | excretion | reproduction ||
+MCQ: Which of these do seeds NOT need to start germinating? | Water | Air | Warmth | *Soil ||
+MCQ: The correct life cycle of a butterfly is | egg → pupa → caterpillar → butterfly | *egg → caterpillar → pupa → butterfly | caterpillar → egg → pupa → butterfly | egg → butterfly → pupa ||
+
+### B. Fill in the blanks
+FILL: Getting rid of wastes from the body is called ___. | excretion ||
+FILL: The sprouting of a seed is called ___. | germination ||
+FILL: A big change in body form during a life cycle is called ___. | metamorphosis ||
+FILL: Tiny pores on leaves through which plants exchange gases are called ___. | stomata ||
+
+### C. True or False
+TF: Plants cannot move any of their parts. | false || Leaves turn to light, flowers open and close, tendrils coil.
+TF: A tadpole breathes through gills. | true ||
+TF: Anything that moves is a living thing. | false || A car moves but is non-living.
+TF: Seeds kept on dry cotton sprout well. | false || They need water to germinate.
+
+### D. Short answer questions
+Q: List the characteristics of living things.
+A: They need food, respire, excrete, grow, move, reproduce, respond to stimuli and have a life span.
+Q: Why is a toy car not a living thing even though it moves?
+A: It cannot eat, breathe, grow, reproduce or respond to stimuli on its own, so it does not show all the characteristics of living things.
+Q: Give two examples of responses to stimuli in humans.
+A: We pull our hand away from a hot pan; our eyes blink when dust comes near (also shivering in cold).
+Q: Write the stages in the life cycle of a frog.
+A: Eggs → tadpole → tadpole with legs → froglet → adult frog.
+
+### E. Long answer questions
+Q: Describe an experiment to show that seeds need water, air and warmth to germinate.
+A: Take four cups with five moong seeds each. Cup A has dry cotton; Cup B has wet cotton in the room; Cup C has seeds under boiled and cooled water; Cup D has wet cotton in a refrigerator. After 3–4 days, only the seeds in Cup B sprout. Cup A had no water, Cup C had no air and Cup D was too cold. So seeds need water, air and suitable warmth.
+Q: "Plants are living things even though they cannot walk." Justify this statement.
+A: Plants make their own food, respire through stomata, excrete wastes, grow from seeds into big plants, reproduce through seeds, respond to stimuli (leaves turn to light, touch-me-not folds its leaves), move their parts, and have a life span. They show all the characteristics of living things.
+Q: Describe the life cycle of a butterfly. Why is it called metamorphosis?
+A: The butterfly lays eggs on a leaf. A caterpillar hatches, eats and grows fast. It then forms a hard case and becomes a pupa, inside which its body changes completely. Finally, an adult butterfly comes out. It is called metamorphosis because the body form changes completely between stages.
+
+### F. Projects and activities
+> **Activity: Seed diary**
+> Grow a bean plant in a pot. Measure and draw it every two days for three weeks. Record when the root, shoot, first leaves and new leaves appear.
+> **Activity: Living or non-living?**
+> Make a chart of 15 things around you. For each, tick the characteristics of living things it shows. Decide whether it is living or non-living.
 
 @@ 11
 SCENE: 🌳 💧 ☀️ | Nature's treasures!

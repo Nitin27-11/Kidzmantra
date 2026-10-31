@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 460" width="560" height="460" font-family="Arial, sans-serif">
+  <rect width="560" height="460" fill="#fffaf0"/>
+  <defs><marker id="u" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#a3511a"/></marker></defs>
+  <g stroke="#a3511a" stroke-width="3" fill="none" marker-end="url(#u)">
+    <path d="M330 70 Q440 90 460 170"/><path d="M470 270 Q450 360 360 390"/><path d="M200 390 Q110 360 95 280"/><path d="M95 170 Q120 80 220 70"/>
+  </g>
+  <!-- eggs on leaf -->
+  <g transform="translate(275 80)"><path d="M-50 0 q50 -40 100 0 q-50 30 -100 0z" fill="#7ad39d"/><g fill="#fff8d0" stroke="#c9b05a"><circle cx="-14" cy="-2" r="5"/><circle cx="0" cy="-6" r="5"/><circle cx="14" cy="-2" r="5"/></g></g>
+  <!-- caterpillar -->
+  <g transform="translate(470 220)"><g fill="#8bc34a" stroke="#5a8a2a" stroke-width="1.5"><circle cx="-30" cy="0" r="9"/><circle cx="-15" cy="-4" r="9"/><circle cx="0" cy="0" r="9"/><circle cx="15" cy="-4" r="9"/><circle cx="30" cy="0" r="10"/></g><circle cx="33" cy="-3" r="2.5" fill="#222"/></g>
+  <!-- pupa -->
+  <g transform="translate(280 380)"><path d="M0 -40 v10" stroke="#8b5a2b" stroke-width="3"/><path d="M0 -30 q20 10 14 40 q-6 20 -14 24 q-8 -4 -14 -24 q-6 -30 14 -40z" fill="#9ccc65" stroke="#5a8a2a" stroke-width="2"/></g>
+  <!-- butterfly -->
+  <g transform="translate(90 215)"><g fill="#ff9f43" stroke="#a3511a" stroke-width="2"><path d="M0 0 q-40 -50 -50 -10 q0 20 50 10z"/><path d="M0 0 q40 -50 50 -10 q0 20 -50 10z"/><path d="M0 4 q-30 10 -26 30 q14 6 26 -30z"/><path d="M0 4 q30 10 26 30 q-14 6 -26 -30z"/></g><rect x="-3" y="-20" width="6" height="40" rx="3" fill="#3a2a1a"/></g>
+  <g font-size="15" text-anchor="middle" font-weight="bold" fill="#1e2a3a">
+    <text x="275" y="125">1. Eggs on a leaf</text><text x="470" y="258">2. Caterpillar (larva)</text><text x="470" y="276" font-size="12" font-weight="normal">eats and grows</text>
+    <text x="280" y="436">3. Pupa</text><text x="280" y="452" font-size="12" font-weight="normal">body changes inside</text>
+    <text x="90" y="275">4. Butterfly</text>
+  </g>
+</svg>

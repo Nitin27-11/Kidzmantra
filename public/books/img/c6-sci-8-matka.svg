@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" width="520" height="300" font-family="Arial, sans-serif">
+  <rect width="520" height="300" fill="#fff"/>
+  <g transform="translate(200 150)">
+    <path d="M-34 -110 h68 v18 q70 30 70 100 q0 80 -104 92 q-104 -12 -104 -92 q0 -70 70 -100z" fill="#c4683a" stroke="#8a4320" stroke-width="3"/>
+    <path d="M-28 -110 h56" stroke="#8a4320" stroke-width="6"/>
+    <path d="M-88 10 q88 20 176 0 q-6 74 -88 84 q-82 -10 -88 -84z" fill="#9fd3f5"/>
+    <g fill="#5a2a12"><circle cx="-60" cy="-30" r="2"/><circle cx="-30" cy="-50" r="2"/><circle cx="20" cy="-40" r="2"/><circle cx="60" cy="-20" r="2"/><circle cx="-70" cy="30" r="2"/><circle cx="70" cy="40" r="2"/><circle cx="0" cy="70" r="2"/><circle cx="-40" cy="60" r="2"/></g>
+    <g fill="#9fd3f5"><circle cx="104" cy="10" r="4"/><circle cx="96" cy="50" r="4"/><circle cx="-104" cy="20" r="4"/></g>
+    <g stroke="#9fb3c6" stroke-width="2" stroke-dasharray="2 5" fill="none" stroke-linecap="round"><path d="M112 0 q16 -16 30 -10 M106 44 q18 -10 32 0 M-112 12 q-16 -16 -30 -10"/></g>
+  </g>
+  <g font-size="14" fill="#222"><text x="350" y="120">water seeps out through</text><text x="350" y="138">tiny pores and evaporates</text><text x="350" y="156">→ takes away heat</text><text x="140" y="290">water inside stays cool</text></g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" width="700" height="280" font-family="Arial, sans-serif">
+  <rect width="700" height="280" fill="#fff"/>
+  <defs>
+    <g id="cup"><path d="M-55 0 l10 110 h90 l10 -110" fill="none" stroke="#7aa8c8" stroke-width="4"/></g>
+    <g id="seeds"><g fill="#7cb342"><ellipse cx="-24" cy="0" rx="8" ry="5"/><ellipse cx="-6" cy="2" rx="8" ry="5"/><ellipse cx="12" cy="0" rx="8" ry="5"/><ellipse cx="28" cy="3" rx="8" ry="5"/></g></g>
+  </defs>
+  <!-- A dry -->
+  <g transform="translate(95 60)"><rect x="-44" y="80" width="88" height="22" fill="#f5f5f5" stroke="#ddd"/><use href="#seeds" y="76"/><use href="#cup"/></g>
+  <!-- B wet sprouting -->
+  <g transform="translate(270 60)"><rect x="-44" y="80" width="88" height="22" fill="#d6ecfa" stroke="#9fd3f5"/><use href="#seeds" y="76"/>
+    <g stroke="#e8e0c0" stroke-width="3" fill="none"><path d="M-24 74 q-4 -20 4 -34 M-6 76 q2 -24 -4 -40 M12 74 q-2 -20 6 -32 M28 76 q4 -18 -2 -30"/></g>
+    <g fill="#4cc48e"><ellipse cx="-20" cy="38" rx="6" ry="4"/><ellipse cx="-10" cy="34" rx="6" ry="4"/><ellipse cx="18" cy="40" rx="6" ry="4"/><ellipse cx="26" cy="44" rx="6" ry="4"/></g>
+    <use href="#cup"/></g>
+  <!-- C under water -->
+  <g transform="translate(445 60)"><path d="M-53 20 l8 90 h90 l8 -90z" fill="#9fd3f5"/><use href="#seeds" y="100"/><use href="#cup"/></g>
+  <!-- D fridge -->
+  <g transform="translate(620 60)"><rect x="-44" y="80" width="88" height="22" fill="#d6ecfa" stroke="#9fd3f5"/><use href="#seeds" y="76"/><use href="#cup"/><text x="0" y="40" font-size="28" text-anchor="middle">❄️</text></g>
+  <g font-size="15" text-anchor="middle" font-weight="bold" fill="#222">
+    <text x="95" y="200">A: dry cotton</text><text x="270" y="200">B: wet cotton</text><text x="445" y="200">C: under water</text><text x="620" y="200">D: in the fridge</text>
+  </g>
+  <g font-size="13" text-anchor="middle" fill="#555">
+    <text x="95" y="220">no water</text><text x="270" y="220">water + air + warmth</text><text x="445" y="220">no air</text><text x="620" y="220">too cold</text>
+  </g>
+  <g font-size="16" text-anchor="middle" font-weight="bold"><text x="95" y="250" fill="#e04848">✗ no sprouts</text><text x="270" y="250" fill="#2e9c6a">✓ sprouts</text><text x="445" y="250" fill="#e04848">✗ no sprouts</text><text x="620" y="250" fill="#e04848">✗ no sprouts</text></g>
+</svg>
